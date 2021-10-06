@@ -24,12 +24,13 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-267349?style=flat-square&logo=Pycharm)
 ![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
+
 **Service**
 
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-%232c3e50?style=flat-square&logo=DigitalOcean)
-![Guno](https://img.shields.io/badge/-Firebase-FCA121?style=flat-square&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-FCA121?style=flat-square&logo=firebase)
 ![AWS](https://img.shields.io/badge/-AWS-%232c3e50?style=flat-square&logo=amazon)
-
+![Heroku](https://img.shields.io/badge/-Heroku-8A2BE2?style=flat-square&logo=Heroku)
 
 
   <!-- #  Languages and Tools:
