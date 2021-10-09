@@ -25,7 +25,7 @@
 ![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
 
 
-**Service**
+**Infrastructure**
 
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-%232c3e50?style=flat-square&logo=DigitalOcean)
 ![Firebase](https://img.shields.io/badge/-Firebase-FCA121?style=flat-square&logo=firebase)
