@@ -15,7 +15,7 @@
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nninx-0aad48?style=flat-square&logo=nginx)
+![Nginx](https://img.shields.io/badge/-Nginx-0aad48?style=flat-square&logo=nginx)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-262626?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=git)
