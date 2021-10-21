@@ -141,14 +141,14 @@
 
 
 
-# My Statistics:
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=temirovazat&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Azat's github Statistics"  width="49.5%"/>
+<!-- # My Statistics: -->
+<!-- <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=temirovazat&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Azat's github Statistics"  width="49.5%"/> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirovazat&layout=compact&bg_color=0,&theme=graywhite" alt="Azat's github top-langs" width="42%" />
-</p> -->
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=temirovazat&layout=compact&color=FFA500,&theme=night" alt="Azat's github top-langs" width="49.5%">
+<!-- </p> --> -->
+<!-- <img src = "https://github-readme-streak-stats.herokuapp.com?user=temirovazat&layout=compact&color=FFA500,&theme=night" alt="Azat's github top-langs" width="49.5%">
 </p>
- 
+  -->
  
 <!-- 
  **Night** 
@@ -181,6 +181,7 @@ MySQL                1 repo              ██░░░░░░░░░░░
 
 <!-- 
 ![trophy](https://github-profile-trophy.vercel.app/?username=temirovazat&theme=0&column=6&margin-w=15&margin-h=15&count_private=true) -->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=temirovazat&theme=xcode&area=true&&color=FFFFF0&line=FFFFF0&point=white&hide_border=true" width="100%"></a>
-
+ -->
+![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
