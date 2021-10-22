@@ -183,7 +183,9 @@ MySQL                1 repo              ██░░░░░░░░░░░
 ![trophy](https://github-profile-trophy.vercel.app/?username=temirovazat&theme=0&column=6&margin-w=15&margin-h=15&count_private=true) -->
 <!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=temirovazat&theme=xcode&area=true&&color=FFFFF0&line=FFFFF0&point=white&hide_border=true" width="100%"></a>
- -->
-![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
+ 
+
     <!-- <img src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
     <img width="900" height="1" alt=""> -->
+
+![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
