@@ -187,9 +187,9 @@ MySQL                1 repo              ██░░░░░░░░░░░
 
     <!-- <img src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
     <img width="900" height="1" alt=""> -->
+  <td align="center">
 
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
-  <td align="left-top">
       <img alt="" width="400" src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
       <img width="900" height="1" alt="">
     </td>
