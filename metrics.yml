@@ -16,7 +16,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: oscard0m
+      - uses: temirovazat/metrics@latest
+        with:
+          plugin_stargazers: yes
+          user: temirovazat
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid

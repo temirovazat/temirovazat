@@ -1299,7 +1299,6 @@
 		86%{ color: #FF0000; fill: #FF0000; }
   }
 
-/* Calendar */
   :root {
     --color-calendar-graph-day-bg: #ebedf0;
     --color-calendar-graph-day-border: rgba(27,31,35,0.06);
