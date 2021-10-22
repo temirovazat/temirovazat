@@ -200,14 +200,16 @@ MySQL                1 repo              ██░░░░░░░░░░░
     <!-- <img src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
     <img width="900" height="1" alt=""> -->
   <table>
+  <tbody>
       <tr valign="top">
   <td width="12%" align="center">
-      <img alt="" width="500" src="https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg">
+      <img alt="" width="400" src="https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg">
       <img width="800" height="1" alt=""></td>
        <td width="12%" align="center">
-      <img alt="" width="500" src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
+      <img alt="" width="400" src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
       <img width="800" height="1" alt=""></td>
   </tr>
+  </tbody>
     </table>
 
   <!-- ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg) -->
