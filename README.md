@@ -201,12 +201,12 @@ MySQL                1 repo              ██░░░░░░░░░░░
     <img width="900" height="1" alt=""> -->
   <table>
       <tr valign="top">
-  <td width="12%" align="center">
+  <td width="15%" align="center">
       <img alt="" width="400" src="https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg">
-      <img width="800" height="1" alt=""></td>
-       <td width="12%" align="center">
+      <img width="800" height="5" alt=""></td>
+       <td width="15%" align="center">
       <img alt="" width="400" src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
-      <img width="800" height="1" alt=""></td></tr>
+      <img width="800" height="5" alt=""></td></tr>
     </table>
 
   <!-- ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg) -->
