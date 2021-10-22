@@ -66,6 +66,10 @@
         <span><b>Restful API</b></span><br>
         <img height="35px" src="https://files.realpython.com/media/drf-logo.37921ea75c09.png">
       </td>
+             <td width="12%" align="center">
+        <b><span>RabbitMQ</span><br>
+        <img height="35px" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-svg-vector.svg">
+      </td>
        </tr>
     <tr valign="top">
       <td width="12%" align="center">
@@ -97,6 +101,10 @@
         <span><b>DigitalOcean</b></span><br>
         <img height="35px" src="https://cdn.svgporn.com/logos/digital-ocean.svg">
           </td>
+                <td width="12%" align="center">
+        <span><b>Selenium</b></span><br>
+        <img height="35px" src="https://cdn.svgporn.com/logos/selenium.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="12%" align="center">
@@ -125,6 +133,10 @@
              <td width="12%" align="center">
         <span><b>Postman</b></span><br>
         <img height="35px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8"> </td>
+              <td width="12%" align="center">
+        <span><b>Redoc</b></span><br>
+        <img height="35px" src="https://www.saashub.com/images/app/service_logos/49/b157d180674b/large.png?1557427217">
+      </td>
                   </td>
 
   </tbody>
