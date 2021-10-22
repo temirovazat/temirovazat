@@ -185,5 +185,5 @@ MySQL                1 repo              ██░░░░░░░░░░░
  <img src="https://activity-graph.herokuapp.com/graph?username=temirovazat&theme=xcode&area=true&&color=FFFFF0&line=FFFFF0&point=white&hide_border=true" width="100%"></a>
  -->
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
-    <img src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
-    <img width="900" height="1" alt="">
+    <!-- <img src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
+    <img width="900" height="1" alt=""> -->
