@@ -210,5 +210,5 @@ MySQL                1 repo              ██░░░░░░░░░░░
 
   <!-- ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg) -->
 
-![Wwakatime stats](https://github-readme-stats-taupe-twovercel.app/api/wakatime?username=temirovazat&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=temirovazat&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
