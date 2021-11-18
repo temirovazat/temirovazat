@@ -1,8 +1,8 @@
-## Profile statistics:
+## Profile statistic📈:
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
 
- ## Languages and Tools:
+ ## Languages and Tool🛠:
 <table>
   <tbody>
     <tr valign="top">
