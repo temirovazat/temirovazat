@@ -17,6 +17,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }} 
           config_display: large
+          commits_authoring: temirovazat
           config_padding: 0, 8 + 2%
           plugin_followup: yes
           plugin_followup_sections: user 
