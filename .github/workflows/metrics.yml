@@ -23,8 +23,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories, user
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_timestamps: yes
