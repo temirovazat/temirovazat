@@ -19,9 +19,6 @@ jobs:
           config_timezone: Asia/Bishkek 
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories, user
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_timestamps: yes
