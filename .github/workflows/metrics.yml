@@ -1,0 +1,47 @@
+name: Metrics
+on:
+  schedule: 
+    - cron: "0 18 * * *"
+  workflow_dispatch: # enabled
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+
+          template: classic
+          repositories_affiliations: ''
+          commits_authoring: temirovazat
+          config_timezone: Asia/Bishkek 
+
+          plugin_lines: yes
+          plugin_traffic: yes
+
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories, user
+
+          plugin_discussions: yes
+
+
+          plugin_gists: yes
+
+          plugin_pagespeed: yes
+
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_timestamps: yes
