@@ -19,7 +19,4 @@ jobs:
           config_display: large
           commits_authoring: temirovazat
           config_padding: 0, 8 + 2%
-          plugin_followup: yes
-          plugin_followup_sections: user 
-          plugin_lines: yes
           config_timezone: Asia/Bishkek # Set timezone
