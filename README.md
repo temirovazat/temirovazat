@@ -1,36 +1,4 @@
-<!-- <img align="right" alt="GIF" src="https://github.com/temirovazat/temirovazat/blob/master/coding.gif?raw=true" width="600" height="280" />
-
-**Back-end**
-
-![Python](https://img.shields.io/badge/-Python-1E90FF?style=flat-square&logo=python)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
-
-**Databases**
-
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Mongodb](https://img.shields.io/badge/-Mongo-FCA121?style=flat-square&logo=mongodb)
-![redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=redis)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-0aad48?style=flat-square&logo=nginx)
-![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-262626?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-FCA121?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Pycharm](https://img.shields.io/badge/-Pycharm-267349?style=flat-square&logo=Pycharm)
-![Vscode](https://img.shields.io/badge/-VScode-46a2f1?style=flat-square&logo=VisualStudio)
-
-
-**Infrastructure**
-
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-%232c3e50?style=flat-square&logo=DigitalOcean)
-![Firebase](https://img.shields.io/badge/-Firebase-FCA121?style=flat-square&logo=firebase)
-![AWS](https://img.shields.io/badge/-AWS-%232c3e50?style=flat-square&logo=amazon)
-![Heroku](https://img.shields.io/badge/-Heroku-8A2BE2?style=flat-square&logo=Heroku) -->
+![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
 
  #  Languages and Tools:
@@ -146,60 +114,7 @@
 
 
 
-<!-- ## Find me around the web : <a href="https://github.com/sponsors/azat71"><img align="left" width="150" height="150" src="https://github.com/azat71/azat71/blob/main/gitok.png?raw=true"></a>
-<!-- - My website <a href="https://www.monica.dev">monica.dev</a> 📹  -->
-<!-- - Write in <a href="https://t.me/temirovazat"> Telegram</a> ✍🏻
-- Sharing updates on <a href="https://www.linkedin.com/in/azatbek-temirov-601890210/">LinkedIn</a> 💼 --> 
 
-
-
-<!-- # My Statistics: -->
-<!-- <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=temirovazat&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="Azat's github Statistics"  width="49.5%"/> 
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirovazat&layout=compact&bg_color=0,&theme=graywhite" alt="Azat's github top-langs" width="42%" />
-</p> 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=temirovazat&layout=compact&color=FFA500,&theme=night" alt="Azat's github top-langs" width="49.5%">
-</p>
- <!--  -->
- 
-<!-- 
- **Night** 
-
-
-Morning    3 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Daytime    12 commits    ██████░░░░░░░░░░░░░░░░░░░   26.8% 
-Evening    7 commits     ████████████░░░░░░░░░░░░░   49.1% 
-Night      8 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.12%
-
-
- **I'm Most Productive on Sunday** 
-
-Monday       11 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
-Tuesday      9 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
-Wednesday    15 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Thursday     7 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-Friday       4 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-Saturday     2 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-Sunday       17 commits    █████░░░░░░░░░░░░░░░░░░░░   23.42%
-
-
-**I Mostly Code in Pyhton** 
-
-Python               12 repos            ██████████████████░░░░░░░  60.44% 
-HTML                 3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-CSS                  1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-JavaScript           1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
-MySQL                1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% -->
-
-<!-- 
-![trophy](https://github-profile-trophy.vercel.app/?username=temirovazat&theme=0&column=6&margin-w=15&margin-h=15&count_private=true) -->
-<!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=temirovazat&theme=xcode&area=true&&color=FFFFF0&line=FFFFF0&point=white&hide_border=true" width="100%"></a>
- 
-
-    <!-- <img src="https://github.com/temirovazat/temirovazat/blob/master/metrics.plugin.stargazers.svg">
-    <img width="900" height="1" alt=""> -->
-![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
 
 
