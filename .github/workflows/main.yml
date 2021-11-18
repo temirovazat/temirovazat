@@ -15,12 +15,7 @@ jobs:
           base: header, activity, repositories
           
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugin_achievements: yes
-          plugin_achievements_threshold: C       # Display achievements with rank B or higher
-          plugin_achievements_secrets: yes       # Display unlocked secrets achievements
-          plugin_achievements_limit: 0           # Display all unlocked achievement matching threshold and secrets params
-          plugin_achievements_display: detailed 
+          token: ${{ secrets.METRICS_TOKEN }} 
           config_display: large
           config_padding: 0, 8 + 2%
           plugin_topics: yes
@@ -28,15 +23,6 @@ jobs:
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0 
           plugin_gists: yes
-          plugin_languages: yes
-          plugin_languages_ignored: html, css, scss, makefile, roff, xml, json, yaml, toml, npm%20config                 # List of languages to ignore
-          plugin_languages_details: percentage              # Additionally display total bytes size and percentage
-          plugin_languages_limit: 8                                     # Display up to 8 languages
-          plugin_languages_sections: most-used, recently-used          # Display most used and recently used languages stats
-          plugin_languages_recent_categories: markup, programming, data # Display only languages that match these categories in recently-used section
-          plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
-          plugin_languages_recent_days: 7            
-          plugin_languages_indepth: no                                  # Get indepth stats (see documentation before enabling)
           commits_authoring: azatbekt5@gmail.com  
           repositories_affiliations: owner, collaborator
           plugin_isocalendar: yes
