@@ -22,7 +22,6 @@ jobs:
           plugin_topics_sort: stars    # Sort by most starred topics
           plugin_topics_mode: mastered # Display icons instead of labels
           plugin_topics_limit: 0 
-          plugin_gists: yes
           commits_authoring: azatbekt5@gmail.com  
           repositories_affiliations: owner, collaborator
           plugin_isocalendar: yes
