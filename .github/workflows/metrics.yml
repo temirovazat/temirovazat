@@ -15,7 +15,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: metrics
           template: classic
-          repositories_affiliations: ''
           commits_authoring: temirovazat
           config_timezone: Asia/Bishkek 
           plugin_lines: yes
