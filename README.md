@@ -1,8 +1,8 @@
-<h2> Personal statistics: <img src="https://www.clipartmax.com/png/middle/417-4175162_57-tmnt-icons-personal-info-icon-png.png" width ='45px'> </h2>
+<h2> Personal statistics: </h2>
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
 
- ## Languages and Tools:
+ <h2> Languages and Tools: </h2>
 <table>
   <tbody>
     <tr valign="top">
