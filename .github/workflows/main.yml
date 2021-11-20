@@ -20,6 +20,12 @@ jobs:
           commits_authoring: temirovazat
           config_padding: 0, 8 + 2%
           config_timezone: Asia/Bishkek
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes     # Display charts section
+          plugin_habits_trim: yes  
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
