@@ -27,6 +27,5 @@ jobs:
           plugin_people_limit: 28                   
           plugin_people_size: 28                     
           plugin_people_identicons: no               
-          plugin_people_thanks: lowlighter, octocat  
           plugin_people_sponsors_custom: octocat     
           plugin_people_shuffle: yes  
