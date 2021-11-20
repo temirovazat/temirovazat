@@ -3,7 +3,7 @@
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
 
- <h2> Languages and Tools: </h2>
+<!--  <h2> Languages and Tools: </h2>
 <table>
   <tbody>
     <tr valign="top">
@@ -110,7 +110,7 @@
                   </td>
 
   </tbody>
-</table> 
+</table>  -->
 
 
 
