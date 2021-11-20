@@ -1,4 +1,4 @@
-<h2> Personal statistics: <img src="https://www.vhv.rs/dpng/d/428-4286332_personal-information-svg-png-icon-free-download-personal.png" width ='45px'> </h2>
+<h2> Personal statistics: <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7N4N4A0m2K9Z5_57-tmnt-icons-personal-info-icon-png%2F&psig=AOvVaw0AiXiunWmLnz0yVdd-r-8U&ust=1637473437116000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjoj4qepvQCFQAAAAAdAAAAABAk" width ='45px'> </h2>
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
 
