@@ -22,10 +22,4 @@ jobs:
           config_timezone: Asia/Bishkek
           plugin_followup: yes
           plugin_followup_sections: repositories, user
-          plugin_people: yes
-          plugin_people_types: followers, thanks     
-          plugin_people_limit: 28                   
-          plugin_people_size: 28                     
-          plugin_people_identicons: no               
-          plugin_people_sponsors_custom: octocat     
-          plugin_people_shuffle: yes  
+
