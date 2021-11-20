@@ -20,3 +20,15 @@ jobs:
           commits_authoring: temirovazat
           config_padding: 0, 8 + 2%
           config_timezone: Asia/Bishkek # Set timezone
+          plugin_languages: yes  # Show language bar
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_categories: programming
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 300
+          extras_css: |  # Make it prettier
+            * { font-size: 16px; }
+            h2, h3 { margin: 0px; opacity: 0%; width: 0px; height: 0px; }
+            .row { justify-content: center; }
+            .row section { flex: unset !important; width: 232px }
+            .field svg { margin: 0px 8px 0 -4px; }
+
