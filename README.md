@@ -1,4 +1,4 @@
-<h2> Personal statistics:<img src="https://cdn3.iconfinder.com/data/icons/illustricon-tech/512/graphics.stats-512.png" width ='45px'></h2>
+<h2> Personal statistics:<img src="https://cdn-icons-png.flaticon.com/128/1486/1486288.png" width ='45px'></h2>
 
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
