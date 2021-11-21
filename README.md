@@ -1,4 +1,4 @@
-<h2> Personal statistics: <img src="https://banner2.cleanpng.com/20180517/cww/kisspng-bar-chart-computer-icons-statistics-bar-chart-5afd1b936910b2.6252863615265371074304.jpg" width ='45px'></h2>
+<h2> Personal statistics: <img src="https://iconscout.com/icon/statistics-2534584" width ='45px'></h2>
 
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
