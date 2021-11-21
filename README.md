@@ -1,4 +1,4 @@
-<h2> Personal statistics:</h2>
+<h2> Personal statistics:<img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-2-5d-internet-analysis-element-5d-internet2-5d-png-image_4034582.jpg" width ='45px'></h2>
 
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
