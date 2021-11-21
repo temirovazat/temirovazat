@@ -21,8 +21,6 @@ jobs:
           config_padding: 0, 8 + 2%
           config_timezone: Asia/Bishkek
           plugin_habits: yes
-          plugin_habits_from: 200       
-          plugin_habits_days: 14       
           plugin_habits_facts: yes     
           plugin_habits_charts: yes     
           plugin_habits_trim: yes 
