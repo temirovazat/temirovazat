@@ -1,4 +1,4 @@
-<h2> Personal statistics: </h2>
+<h2> Personal statistics: <img src="https://w7.pngwing.com/pngs/59/134/png-transparent-chart-computer-icons-statistics-report-elevator-repair-miscellaneous-angle-text.png" width ='45px'></h2>
 
 ![Metrics](https://github.com/temirovazat/temirovazat/blob/master/github-metrics.svg)
 
