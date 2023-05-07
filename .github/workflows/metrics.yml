@@ -11,7 +11,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: temirovazat
-          template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
           config_padding: 0, 8 + 2%
