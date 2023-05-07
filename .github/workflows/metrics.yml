@@ -38,9 +38,6 @@ jobs:
           plugin_contributors_head: master
           plugin_contributors_ignored: bot
           plugin_contributors_contributions: yes
-          plugin_leetcode: yes
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: temirovazat
           plugin_stackoverflow: no
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines_snippet: 2
