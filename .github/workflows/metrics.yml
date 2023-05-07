@@ -14,6 +14,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
+          config_padding: 0, 8 + 2%
+          config_timezone: Asia/Bishkek
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_habits_facts: yes
