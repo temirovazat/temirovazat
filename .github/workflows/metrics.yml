@@ -16,7 +16,6 @@ jobs:
           config_display: large
           extras_css: |
               .track .name { max-width: 200px !important; }
-          config_timezone: Asia/Bishkek
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_habits_facts: yes
