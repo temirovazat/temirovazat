@@ -13,7 +13,7 @@ jobs:
           user: temirovazat
           base: header, activity, community, repositories, metadata
           config_display: large
-          config_padding: 0, 7 + 2%
+          config_padding: 0, 5 + 2%
           config_timezone: Asia/Bishkek
           plugin_habits: yes
           plugin_habits_days: 30
