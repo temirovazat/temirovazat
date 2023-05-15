@@ -255,7 +255,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 68 commits)</small>
+                    <small class="h-details">(computed from last 71 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -275,7 +275,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.380952380952381px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             01
                         </div>
                         <div class="entry">
@@ -285,7 +285,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.3157894736842104px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.1904761904761905px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             03
                         </div>
                         <div class="entry">
@@ -300,7 +300,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.3157894736842104px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.1904761904761905px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             06
                         </div>
                         <div class="entry">
@@ -320,7 +320,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.3157894736842104px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.1904761904761905px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -335,7 +335,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">23</span>
-                            <div class="bar" style="height: 30.263157894736842px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 27.380952380952383px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             13
                         </div>
                         <div class="entry">
@@ -374,8 +374,8 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 1.1904761904761905px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
@@ -384,7 +384,7 @@
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">38</span>
+                            <span class="value">42</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             23
                         </div>
@@ -400,8 +400,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 16.071428571428573px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">12</span>
+                                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -450,17 +450,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQB/8QAMhAAAgEDAgUBBgQHAAAAAAAAAQIDBAURAAYSEyExQWEHFBUiUYFCcaGxFiMycpHB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHBEBAQACAwEBAAAAAAAAAAAAAQACEQMhQTFR/9oADAMBAAIRAxEAPwCN7UFt5zy19U0FUs6NCeHIABy2evn8vHrq7bU3Pbai0xQVdSY5gSAWjZS65PUDt+uoptqnstYkEdwqI6Ofj4uYzFg32C9D+Zxqs7ev+0pnpLLTtUVfFmNpWLj5VBLHwAT6DVmLpSap0N2y7YtN8iWpp7kOFHbqyZVn7AZbGT6anW4bLZ7ZWypUVXvVYc8MUfVfPfGfTyNaOt3laIrVRi3qot3vklOlPGSJIozw/MQT1H069T50i9oc22/izLZFaGCKNDwIh/nP+LiOen20nDictvyecphoe7I334ZxxJQFkqM8LR5wB075+v8A3TRp/svbNBft1ua0kULAyrGrYLfQEjsNGjON9heY8JDQWumqI443Mp65xxY76s/s/wBi2KOinqOW61KwvwTPITy2ZSCwHbONS20z0qsrGhPFgD5Z3/3nVBSsrKixGns1RLRyyI0bq+HVwwIxnGR9tatH5ZFf2l21uX/Eluoq2VZLa9anNQjAcKTgn/P186bbz92uO5ahreqrFEvKIxhVK+fv++snNBLSSyFgwmppuFwPwnPT9QdVqwyUosTVAtcUNJK3MVYIi5ceGZj3PoO2g30kb9G5vZ3JVW2KIxvSpXCkciGQ/wBSluhJXzo15Re5UFvvNzWomWpqUWlSORAjR+fkBOcaNSlnbVTSqUzE4wB3U6pG1hHFw8aMD/aRo0ad5Jys1RbNrbhd9yzXKEJHWIwhZVwpfiyGwOvTH76d+ze2XOhtFRQ3VGRInPJXh7A9T189dGjSwiV1Lt02WmapaZqYPL2DlcnRo0apCLF6v//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Losing Grip</div>
-                                    <div class="artist">Avril Lavigne</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRAAUSIRMxQVFxBiJhgZEUFTJCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9Gw1dsasqFZn4ztVzk2oTlsQHOjXXWClv0B9T9B3yiRj4jhydff0qMvqPR1BDx8JUU7tvvVH742eUKzmegNtR5D+pKUNyUdJ2Qoj5nOSkqJ9Ae/1zU6DrZ1TTgt5BaltqU280e6VA1+D39sC/LVd4ZUkO2e+GBUQaPge5xU5rPXizjGZC1tb0oJ/tQr8X/mS6vIU3pcpbCCtzYQACPufxnN3PiDWYS3Y0ONAcZaaKnyXVJ6SQOVA1SgAeas89sDo6ITL+lxwlIQppIO5PG/i1X6gm++LdS1I6RMjymYhUlxzpydn8loqkqHg5kZurazqM1uDNYgvBvn9PGeUDQNbimwFCx5581XOMNW1ecmVDbGnByG6ylRS/YXtKkp4o1YKh8pFjA37D6JLDbzStza0hSTXjDK2mPLMNBkNBlzm0g8e4F4YQlMvcCFHg8Zm5uhJkBwNzXUhwq3Badw5BB49iRfesMMqqqtBnlaz+7I2q3bqY5UCSSCq7qzdXX0y6jRl7lF3UpCtyUIIABG1JtI+YG6Pa+cMMB+xILTKG96lhIrco8n3wwwyD//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Electric Glow (feat. Skyler Stonestreet)</div>
-                                    <div class="artist">Tritonal</div>
+                                    <div class="name">Somewhere Only We Know</div>
+                                    <div class="artist">Keane</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -471,10 +464,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAcEBggBAv/EADUQAAEDAwIDBAUNAAAAAAAAAAEAAgMEBREGEiFBYQcTMVEiMmKBkQgUFRgjQlJ0obHB0eL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8A57DsD1Qfcgd0B9yuVf2H2mgqKuOr1XLDFTRGV07qVm04xwAEmc8fLCnVbpOKHTlDfon17bdJP3NU2ogDJYBuwHgZw4EdRx4dVFakXZz6ITd7Lfgrxbewe1XSnbUW3W9JVQP9V0UTD8Rv4Hosn6ujckN1IXEfhpmn9noOfc8McEXQT/k7xs4u1FNj8l/pEEbn19enUMMTakAfbNfGG+htfy2+AAyceS81Bq6qu1oht0Zeyj2h8zHPLt0uck8evLktb+ax+b/iF9thY0Yy5Wpq46Wgob/pW3zSWobe77pxLwAHM4ZB9blzK3Ow0baSBjKGskpi1u1rIpDtHPwJx/JUItGsqm12qGhp4B3cTcA78c8k4x5lZ7O0Sta0NbStAx92UtP6BFWO/VGsW0kkNvvUxMjS3c0Na5o9k+IPUIpPB2n1cTWj6Ojdt5md39IgniIigIiICIiD/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQMHCAH/xAAtEAABAwMCBAUEAwEAAAAAAAABAgMRAAQFEiEGEzFBFCJRYaEjMkJxM4GRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB4RAQACAgMAAwAAAAAAAAAAAAEAAgMRBCExEkFR/9oADAMBAAIRAxEAPwBWzvE2Sfuy9crDwCSkNqKgnfr9pB+aoG8ni7nUcjYJVcFe6UNuOJKQOsl4GZ9qkvp8VchtJ8yjA8pPwOtWGCwDZu3lONXKgmIi2WpJMbjpIqZ37M+fk1xHfsoudw74iRjnTMyjw5AE6Yj607Qe/wCR9oxZJ/CMN67O0ZW6FfwusKQkpg7kh0ment7+r0MdiDkSyAsvBzdjkr1hUfbETS7xJw2k3rfJbugCkkzbLSkH/JNPR9MoObqwXNbiRduNuL1IZQwTH02yrSBHuSfmivckybe8caWSVIIB2I7eh6UVGbq2E2S/YfW5fNhsp1FYCZBO/bpvW6eG03DVpk1Oc7UG0kkOADVyvxnofftXPbN4pm4S4kjUkyJmPjen3gjJ2l9e3DNyykBbUJJcUkJgbkJB9Kfpqc3m1sWMmt6ilwui+vOJWl2bi1XhWVlQV5177wfXet48Wt3Rax/JLoWWlgEuAwrQmdUdT/2ufMdfuY3ItXduAVNqnSSQFDuDG/SnrjbMWjN5b+HYRpLIJhxShKgCCQT6enWgO5ZzVyFMYfruJN63zMq42+tKPOQohJEHvsd6KyYtleUzjSVJEuEq6HT0269qKPZsoNagynCt9qkW107bucxlZQsAgEeh2NFFIkkLGmTHMewMem5TlbFS9AUbeVh2e6ft0z/dRkXSnr5ly5UFjUgK1DbSIEfqKKKHyBU2MdbTIW1ws29q79RxvQlHX9ge0UUUUYrPx9l7Zn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">With or Without You</div>
-                                    <div class="artist">U2</div>
+                                    <div class="name">Bloodstream</div>
+                                    <div class="artist">Paradigm &amp; Scott Rill</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -485,10 +478,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQGAQMFAv/EADAQAAEDAwIEAwYHAAAAAAAAAAECAwQABRESIQYTMUEiUWEjMnGBkaEHFEJSsdHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAcEQEBAAMBAAMAAAAAAAAAAAABAAIRITESImH/2gAMAwEAAhEDEQA/AL+k7jOENKAllx55w6W20D3j8e1ab/dm7Na5E55tS2mSnUlB8RyQNs7d6kH+PrTcmfy78SWG1KG4WEn6g5rk44L262WQVSty+hvWmPC1YOWuYc9fPoTj5U3a7gie2v2a2Xm1aXWnB4kH/d6Ts9ohXKKFtc9pGcALfX9iDXciWUQWOTHcRoBJ3UpRz8TvSXHUhd3iitaF5Pbrj+f6oqa90T+J8xLdreiuLCEPJBGe6gQQPtUizwubjwu3drYtBQy2ovtknOpONQJ7HqR6Yq247sk67LQYraHGEp0ufuT0OoD0pE8Ly4fCsmLZXXeYr2jidWC7tgitDMxAHtmm2puHdUXhSEuKtCMMhzUsZ1EjJz61yLfxNfbyzeW7ekOvRmgW8BKUleRlKflk5JB9BS3APFlvat4tt6cLD7eUlLydtPlVqw8wqIyu1pabaUfAxHATn0OBjpWT9V2TO+XO4bhTodmjJu0gvTFrKlb7IBBwkeYA79zminmbnGuC9LCxzG1YW33QcEbjtRT9PK8eTcd1bDpUAlST+knbpispcCHCtDKBntk4ooo1GiRm263T3Nc22RXuvvDz601bkRbakCFAZaA2HjUrH1ooo/I+JJuQGVX526oQlp55sNuJSdlYOx+Paiiiq3BiX//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQB/8QAMhAAAgEDAgUBBgQHAAAAAAAAAQIDBAURAAYSEyExQWEHFBUiUYFCcaGxFiMycpHB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHBEBAQACAwEBAAAAAAAAAAAAAQACEQMhQTFR/9oADAMBAAIRAxEAPwCN7UFt5zy19U0FUs6NCeHIABy2evn8vHrq7bU3Pbai0xQVdSY5gSAWjZS65PUDt+uoptqnstYkEdwqI6Ofj4uYzFg32C9D+Zxqs7ev+0pnpLLTtUVfFmNpWLj5VBLHwAT6DVmLpSap0N2y7YtN8iWpp7kOFHbqyZVn7AZbGT6anW4bLZ7ZWypUVXvVYc8MUfVfPfGfTyNaOt3laIrVRi3qot3vklOlPGSJIozw/MQT1H069T50i9oc22/izLZFaGCKNDwIh/nP+LiOen20nDictvyecphoe7I334ZxxJQFkqM8LR5wB075+v8A3TRp/svbNBft1ua0kULAyrGrYLfQEjsNGjON9heY8JDQWumqI443Mp65xxY76s/s/wBi2KOinqOW61KwvwTPITy2ZSCwHbONS20z0qsrGhPFgD5Z3/3nVBSsrKixGns1RLRyyI0bq+HVwwIxnGR9tatH5ZFf2l21uX/Eluoq2VZLa9anNQjAcKTgn/P186bbz92uO5ahreqrFEvKIxhVK+fv++snNBLSSyFgwmppuFwPwnPT9QdVqwyUosTVAtcUNJK3MVYIi5ceGZj3PoO2g30kb9G5vZ3JVW2KIxvSpXCkciGQ/wBSluhJXzo15Re5UFvvNzWomWpqUWlSORAjR+fkBOcaNSlnbVTSqUzE4wB3U6pG1hHFw8aMD/aRo0ad5Jys1RbNrbhd9yzXKEJHWIwhZVwpfiyGwOvTH76d+ze2XOhtFRQ3VGRInPJXh7A9T189dGjSwiV1Lt02WmapaZqYPL2DlcnRo0apCLF6v//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Rocket Man (I Think It's Going To Be A Long Long Time) [Remastered 2017]</div>
-                                    <div class="artist">Elton John</div>
+                                    <div class="name">Losing Grip</div>
+                                    <div class="artist">Avril Lavigne</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAuEAABAwMDAgMIAwEAAAAAAAABAgMEAAURBhIhEzEHIkEUFSNRYYGh0TJxkbH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEBQIGA//EAB4RAQACAwADAQEAAAAAAAAAAAEAAgMRIQQSMXGB/9oADAMBAAIRAxEAPwDQgoJBUogJHJJpeLIZdbC2ylae25Ks1VdbXb3XbHXdinEtNKfWgHG4AgY/OftUV4b6kXepbgXEXGS43u75SSDjvjvwftiubrv+Tr8lS3GaPvHoPzTWXLZYHxnEN7u29WK5+1lrXU8HWUxmHKkKjCSWWWCMKB3YAwKvGs5N8cu8KLD9ljmQD1nnhu2kEDYhOeT3NIKtDbPDHU9k7NCdVx37/Wiq1pR6WIzsSattbjIBCmwQnkkcA8gcdvSimYn2ruUqV5PesEp+KXG0uoENQLZUBvyrASM+pJxUN4VrKmI6HkFt1srbSnOcpCBz/po8WpT0J6D0VEBbSgofMZFM/C5xbl9a6hOek4f+VJF3DWVOR9e2rM14ix50xlAbjbUqDX8nHid28jtx885zVa1XczdLjelyGXHYlvIchqbX01NKXg7iRyeP1UJq28ttavkyH3drXVdxk/XAxWlaUt8G46NjGVHacQ+k71YwVgE4yRyaTWllmK0V0PYz8Pr0zd2JDjLSmlNNoacSo58wKuc0VLWLTETT6JS7Yw+hqQoLVvJUM/QminY0qaI/AnppeyV1ho8alfiqclGO0ylSTtTlRyc8Z4pa0aXt9gzJj9VbyEHLjivT14HHpRRUmslt35OadWhMqWwsedbmTt78k1vuj2/Z9H2lkgJKWBkCiin0fhGeMCbZZHZDXunp9RHUwPLvUT+h/Xaiiit4cYD+zXi4K4ixVeu5/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Where Are You Now</div>
+                                    <div class="artist">Lost Frequencies &amp; Calum Scott</div>
                                 </div>
                             </div>
                         </div>
@@ -720,7 +720,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2023, 03:03:11 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 04:03:43 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
