@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.05m added, 81k removed
+                                    2.29m added, 94.8k removed
                                 </div>
                             </section>
                             <section>
@@ -512,45 +512,45 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAYHAwQIBf/EAC8QAAIBBAAEBQMCBwAAAAAAAAECAwAEBREGEiExBxNBUWEUcYEichYyQoKRobH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABoRAAMBAQEBAAAAAAAAAAAAAAABEQIDElH/2gAMAwEAAhEDEQA/AOZ8XjkvUZnmZNMFConMze/qAPyQPms1xYr9aIMfaTXJLBFAkEvMx7D9A1v4BNYMZkvoIZ1W3hmaQDRmXmVf7T0P532qzvDF7/E4scTPZyZGcSMlpEw/RAOxlVewO+g9tHVVxj24Y3EVz/C+f+nNwcHkxAOplNrJygffWq8qaCSE6kUqfmumG4/yONu7W8yE8qF9uUlI0w6dtE1FvG843i7ELxVw/ZRWyRMsV0iDq5bs4H3Gj9wapvgsqp0TO64yi6UpXMUNvGQRXWRtoLiUQxSSqjyH+kE6JrrnxB4Ns8Z4fXLYqUNa48RRRL6FNa2Pfr1/NceVdPAXiBc3/BV7w9nfOycMJVwvnFJRCNAANo7Ckeo6A+w6X46jn0XRCZtlyuu3+6sPFM1j4McSXCSiKaVVh/cjHRUf4qE5OJJPJkscbdWyygtu4mDhh6FToaFejxBlTivDRsJcG2uJr+7EySRSc3lKn8w2OhBJ1sdNg1b1ExEqyraUpXEVFbeNvbjG30N5ZytFPC3MrD/nyPQj1FKVoEku+MIbq4aZuHcPG7NzkRrKFY/t59a+Bqo/l8lPlLxri45QdBVRByoijsqj0A9qUrXpsDQpSlKB/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Instant Crush</div>
-                                    <div class="artist">Daft Punk &amp; Julian Casablancas</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAj/xAAuEAABAwMDAQcEAgMAAAAAAAABAgMEAAURBhIhQRMiMVFhcYEHFDJCocFikeH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABwRAQADAAMBAQAAAAAAAAAAAAEAAhEDEyExEv/aAAwDAQACEQMRAD8AZIcG3SEJL0qU09tCnEhgEJ9jnn+KxdstmkOLCpsopTwMRwTjHv51GXKWqLHk7UuFLziUEo/IDHT1q3dK6at+nLSi5Xop+5KElRe5DXHAA6q/vwqIrLtaj7Kbu0ZNsczbm5a423vOOx9nX/WMVIWZ/MPPaLSM8DHhVyNaxYkTG48WA+8hxW0YIyfj/tcWvNGM3G2vyrQwlm4oSVbEDal7/EgdfI+fjTVU9GJap8SVi1cmm3QHHl4B9Of4opEkzXkvbVsOJ57xXxRR3MXpjrY77EVqS2W15pK0OymgVn1UKsz6qh9arenYoxDvyoeAXxjPrjOPmqNvdrdts9EztFLbKwpt1IwUEHIz65r0forU0TU9nacC2/u0pAfZz4HzA6g0pXNqyn73LxJYvN+lRQLTb24kZgYUtlsAJSBlR3q6+1Nv08vUm7wpQlO9t2CwkOkcnIzg+391B3zROor3qB56Xfm2bSrhMdjeNqeg2Z2k+pJ5rr1JebR9NNKCLCwuapJ+2YJ3OOuH91+nmfgdK0Eha1U8+yitb97V12jRk7kCY6lATz+x4FFZaSKlTJUuYd8h0EhSvMnJPvmiplNlOzPI22ZTcxLkSWhLjSh+Kq0zdLKiOIk2m4uQVNHubSrck+YKefiiiuy9RnFw2Qko/dtVx2WmFakLhUnxDeCfkpzSve7VdnStx4Ge47ypajlwHp3jzRRUnjNlq8jkjINuuTKg2IroI6qGBRRRQcZNbM//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Wicked Games (feat. Anna Naklab) [Radio Edit]</div>
-                                    <div class="artist">Parra for Cuva</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAcDBv/EAC0QAAEDAwMDBAEDBQAAAAAAAAECAwQABREGEiETMUEUIlFxMjVCkVKBweHx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQABQYCB//EACgRAAIBAwMDAgcAAAAAAAAAAAECAwAEERIhMQUTYRRRIkGBsdHh8P/aAAwDAQACEQMRAD8ArTn1dCOi3WxDjiGQp07iSs/OPnmmVotci5pUWrcEpBxucASB998nPxnip6fiquEVlpvKdx96h32gD/laFqPRs26aM9HDkpgtqKS6Ug7ukOSE4Pc+c+KwQkklkMcewHNeh3t4tuBvufesp1c7C03bWpahDnKddLIbjqB2kDJ3K8Y4rizKblWpiXEt6tzhI2FIJyO4Hjvj+1VpkXThnQdPxW1uQ23Nzr5aUhwrxtVgnGcD3YIIJTgd81u190xFh2BppxYeQhCd7gQEZ4ACgB28UxIrrB3F3xzn8UhH1JlmCynY8VidsdEhuULpDVFWlkraS33C/AVn/FFO9RJZahuYB6zRLZVjuO/+6KHDKsya2FaGJ230EgV20m4I8dQ3YJa3D5/bmtgRqy1NMNoXLjEKSApCnRkE9gRyefHHg1hDMpUdmOtnC3GkhSm+25JABFegTf7lJleptbsRl+WpI6ceHu9yEkJySeDglPHjyKLZukEzs55+VUvUrAzkMeN/7g1c1XZoF/1Q1erXdIcforQ+tOAsbgUhKu4BSoAn6HYk4r1D2o0OaTEVU2PMfRH9zgdTk+w5IHfblOBnnPBFJW4mo2oqencUJWltKQhMVsDakHanj9o3HA8fNIBfbpDZLb/oVutFLbUZ6CNxKOUgY8BXPPIPOecF9pIXBjwRq8Uh6RR8eoHT5/VVdSu+pamJwPaEk4HnbRS59xwtyesjDj251RA4Sc/iP5/gUVXx2jWw7cgwfNaGzuI5o9cDBl9wc0ouLDq48N+LcGG3FN7VJBO9sg+fupQnFMe8yw0+D+aF/l9+KKKhUOoJpyQFGKg8Z+9WjdJZP6okH+oYzUGpQZlIkh5Mh/cFKW65ziiipGBG4ZeRQJYEljaNhswwfrTS43Rq4xXip1iOWmyUtpJPVUTjA+Diiiij3EzStk130bpNvaW+iLOM1//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sénégal Fast Food</div>
-                                    <div class="artist">Amadou &amp; Mariam</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QALBAAAQIFAQgBBAMAAAAAAAAAAQIhAAMEERIFExQxQVFhcYEGFSMyoTSRwf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAwQFB//EACURAAIDAAEBCAMAAAAAAAAAAAECAAMREgQFExQhIjFBcWFikf/aAAwDAQACEQMRAD8A8T8Z0+jkaYhcjBapkuy1pIcWDf67xpGkk7YfaTjjwa3J4j0/d00klNGuYaZCCEMyhYO4fzFrIbUDJXiNdQAMnPLrGawnTKf0mi2+8bvKztxsOPW/XlE26SdsftJxx4XFhxeJsxs8rqtbp3gVDakZKuWt/cHBELufczF+TUNHO0xa6jZoXLl2QtRDCxbh76tCL1fu6qScKxcxNMuWAtjZId2DQiGxNOzU6LqCiYeR+pDQ5H4/IFJn/HOFvDd4z50vWZc3CSuauxCVKu1uo/UbNAKdVJJNGhYp1oJQ7JFgzlvEWrATAxv5iXjolE3cGPl/Z51EvV1qCUzJ6UYglSr8Ql/20dTTq0yfdKZ6ZRtzsbYgejcE+49BgNnjZVrde8CkGYWUz8fXWBw/MHif1EztVFtEqROKygU4y58n7wiWtTTJpZxq0TDTolgrc2IdmLwhLBplzpHIU4CfqV/jtZSztOQiTs0LQi60CzMH4+ni6qbTbwFZSr43KrDtz6whDqdUStfUBawE5+pUe8bDeJedr2uOPTzHe3kbyVZo/H8rB+14QghiYHoVcz5Ezfk1dSSNNWifgtUyXdCFAOxfj6Z4QhEFjeqa/Z9K91s//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Run Boy Run</div>
-                                    <div class="artist">Woodkid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQQBA//EAC4QAAEDAwMCBAQHAAAAAAAAAAECAwQABREGEiExURMiQWEHFBVxIzJCgZGhwf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAECBv/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMEERIhBRMxsf/aAAwDAQACEQMRAD8Atmrtb2zTEttie4jK2lrUQrKkEbdoKACed2fsDSbdPig/DnhEctyGClLmW2FucHO/oAElHB5JznvVFu1kZl/MOR0MtSn9viuFHKgnpzjIwB6Y+9SzU+nrQxJMgrdeUlYS8w3ESo53HcrLhWScHoMZ70szFb2By/FR+wrHHMcVXZlH0Nevrlukyd77n43Bda8PAKEkBIyeBnv1zTJU2b1lFtkGBCsKUyWGWUoV5MebOMEAABXUngU5WC8puzOSgNOgZKM5wPftzRKZlbv6we5VmLZWvJh1NeiiiioNPFHaCakV3Bb1PcWCslA3Pr2fm2kZAA71WXwS2cdaQr7p6XKvMebbVMJkEFiSh9ZQFN9UqSQOo5GKX+RxzfVpfoheHd6n7+GJabfAjrDsYXLeY7kkMOkhvnGckjyqz6ZFa+mrpKZu0LLEduOpAW4EujcFZHGAOR700jRrXyrzU69vAutlvyEEpB7ZHJ9yDXTA0hp2KyUMxfECxtU44rZv/ZOM0qp8dkEhj0YwszKmBG9xtHTg0Vxxp0FwpZjSoy1J8gQ24CeAeMA9gf4orpBEpUg/IvX2BqOVdXfp0gMwjjBL239I9ByOc1q2W2ymYRaujqJDu7hYJPHvkD/aKKHTGRbDZ3ubawlQJ9LnZY8+EuMXHo4UQfEjq2L49M/1SfG0HIStwL+mpRghtwhxxaSFZSQCdo6egooogqDLrvdAQpm/pzSzNrlOTZfyz89SjteaZ8PakjBGMnOc+poooqATDWMx2TP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Where Did You Go?</div>
-                                    <div class="artist">Jax Jones &amp; MNEK</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBgcFBP/EACoQAAEDAwQBAwMFAAAAAAAAAAEAAgMEESEFEjFBBhMiURQVI2FxgZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUEBgcA/8QAHhEAAQQDAAMAAAAAAAAAAAAAAQACAxEEBSESMaH/2gAMAwEAAhEDEQA/APMUcK3SMjE08MBcQJZGx3HIBNitZc7xBcVk8UZleGN9kqm4G4DhcchWXY6XwbSp6emqZ4Q+sdGIopHtG5rBxvAw42tzewwuX+TUJ03Xayl9u1r7t28EHIslmBtGZbiyqITDYax+GT2xdLzOERE1SpXhcxsgdKz1GAH23t1jP75Wp8Mfpc2sOMtAPUYwGNplJvdzQTnsD/Vk7YUsnfSzRVMW4vicH2abFw7H8jCiZcJlicGntKXizGKQFq7jFqlS0TB1FN+J2yNu4Dkc85vysB5/UUX3iMvoXfUFodJeXgXNhjC12meZ0L9KpKnVWtpBI54hYXbnuYw2BIHB6+P1XKtarTqOq1VWb2lkLmg9N6H9JBp8UmYyEVSd7nKmsxyO7zn218shDnksbtaTht72CKqK01SrSJ1lERXKSSbXJJAtn4TlEQqkXOJ6VCIiKC//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Dreamin' (feat. Camden Cox)</div>
                                     <div class="artist">Embody</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwf/xAAvEAACAQMCBQIFAwUAAAAAAAABAgMABBEFIRITIjFBUXEGMmGBkRQz8UKSoaLh/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACAwT/xAAcEQEBAAIDAQEAAAAAAAAAAAABAAIREhMhAzH/2gAMAwEAAhEDEQA/ANNFQftzqffalNY1WXTrUcllknkIVQDkL9TUXY/EI1CAcLcMvDllXx/z61q6cgaLn3kfEU6+UD/bk+tGaBu6MDJ8llu2a/jMzPPIW6iRnJzt/ikvjCSznkt47WBEdQzy8sdTbbewzTf6eGTjSbkQzyvgBZNlGc7Y84PmlbbTxGSLZRNdE9UjHpRfr+Kp2Fp10hNYq2n3NwY3ZdkjkzjDDc7edvaiq+80tuTy5ZGRmj5h6lTIP27d6KnaQ/FvmyXMumXolgkKMFA4lG/8e9VWmzDUDDI088pLBpF4sL6+u/ap21/SG1BvInlMv9Stjh9/5pzSLy1s7zgjt3WPBHE82cZ7Ht2ofyg+1jp0cN5PbyRhECzM4VF9FOD+RWtoNkhN7I0YlV7hhmTc8I+/rUgsrRSBrKVbeIZIHGScn7dsV5R6je24WOG4dEznHesssVtccy1beJor3UIZDmCFXUL5HVkf6ufxRU5qF/NM7r1cyUYc47gbb4oq2mOQUvBcGMEfMvfFPtdwu4JVuZjBwfFFFapc4url9UZVyzcC/KBv2rwOrEfLxMvfc7fiiijUcm6HUFmMjSTNGH8KfFFFFW1HJv/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Found Us (feat. Luma)</div>
+                                    <div class="artist">Last Heroes</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwIIBP/EADMQAAEDAwEFBAgHAAAAAAAAAAECAwQABREhBhITMUEHIlGhIzVCYXFyscElNGKR0uHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAbEQADAAMBAQAAAAAAAAAAAAAAAQIDBBEhcf/aAAwDAQACEQMRAD8AkbPb0LhhHAb3sH0mu9z+OPKlzNvKxbGmW+I88gISM9Tuj+6q7DultP8Auor57Nszd7xEt86AkMwoaQt2Q5gJ7pHdTnmTy8PGo7t+suxxLaTJPbizC0XEQeKZLLyEPJLiNw5zqMDmn3g0hmFpt/1bDGSk83P5VdbW7OTZu17EV+WUNTwERXnEFQRjmSlI5A+A0pDtbanbTd3IUrcLrIQCpBylWmQR7iNaZrZG5XWc7WNTb4uIjUyG3JHDTBjNKwTvo394fuojyorhlP4gofpV9qKvRAabYbmEABSuo+orZ+x6ZFufZ3HhvpBbBdZWOuQsnI9+oNebI76mySD1FNWr7fNkNmrYmGsNyZkhcttBOfRnAGcH2udTPB1j5z8+npHaix265WNiLIIblsoCGZCTgo72pSQdMgVhHbYrg7XxFpUVNvRUIBPMqRkHyIpveu0ec5DsKG20ZklLUl0AnvHqkDloepJzU52zPZe2a4v5hSFKV46hOfOmxrzE+C72KyV6Z7F71yV8h+1FcW85uLnyn6iimC2OFEhOeetMkzIl8TZkuoWRGt5jOFWBw1oWSFA5ooo76kHOpsbsbLTJERDrT7am0LMxOFew2cKXujvaZ5456fBf2r7R22/XCytwEviREBQ6XG90YOMY1ydQaKK2qafDIlNdIy2esXflP1ooooNP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Far Away from Home (feat. Leony)</div>
+                                    <div class="artist">Sam Feldt &amp; VIZE</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC8QAAIBAwMDAwIEBwAAAAAAAAECAwAEEQUSIQYxQRMiUWFxBxUjgRYyM0KCocH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBEhBRITMRQiUWFx/9oADAMBAAIRAxEAPwCLQLbRjbx3F3bxypFbCRhu5eQPKShGRjKRt++01zDb6NNZ2dzHBFDPHE2YnmJFwRACGYZ9o9XIOMAik5InuQzqihB/dj/VXvSVu8N3JMQ/pBfdxgfvTe5SgLd0ExwLCAV4l+2kQSNFDBpyG2knYvcOW9VgJGKqoLDClMePrmpV6Zs4F9F4B6vq28qnfhniEbNIM543Y8cg4Fc6n1hpWiqkkd6l1LMucQHJQec57U29JTW3VekG7QPFBuI/TT3kqeTu7Yz5FL/ktv3HDYVYEQ9f6XmVrlrG0g2IVT+tgoFABOCQSWJ+CO9FaNqPScmPUSSaUNgrIDk4HYYPBPNFWXMdePcsvTaHGy2v5MY6ctmumMKsULng54+ua0i1tNM0ZIbXUrsGeVGG4uFGPgA/T5rPOnblLcOzMqyj+XPxUHW0eo65qdhcW7IoSNlkbPt25789jVsuxidCcsCtBX3+z+JadT/h3Y9QSxT6LNKbgTATwQx59NTwdxHAPnHfHitP6f1TTOk7rS+jYGuYpHhLRllDK/Jy2SfJHOBxS30hq/5bbQxyNDHqFzqELSOnu3pgBsnPwPt3ps/OrJ717m9t4hLu22/qQ7mRRnDAntkknjxSlrdcQ/xs7n67MvpHkgH6is6Enb7iB+wFFJv8RW9rd37PLdyxMyhElckbgPcVJzjPxxjH1oqPMRCFxLCNlZikDAk5YfbFextQkiVIo0EmeMF9q/5HvRRTze15mUqYqdiT2N6Y9Yke5KIrwoQI34yCQSB474pkfVTP7YzczAeHPA/5RRSPJQK51Nh06wtTz+5Df3SqhKwssvgMdwP3ooooWMVc6n//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Trois nuits par semaine</div>
+                                    <div class="artist">Indochine</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAQGBwIDBQEI/8QAMRAAAQMEAAMFBgcBAAAAAAAAAQIDBAAFBhESIVEHEzFhgSIjMkJxkRQVJUFSYnKh/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAEEBQL/xAAhEQEAAQMCBwAAAAAAAAAAAAAAAQIDBBRRBQYRFSFBUv/aAAwDAQACEQMRAD8AtNzGbwqQVN3dpLXehYR3O/Z3vg+3LdaZuL3x195Ue+NR2yr3aRHCuEdDvxqwX0AfsN0qpNYscAwY8xQsaq7ugjeL3wNOBy+oU4RyUGAOE/TpXoxi8hSP10aDfCsdwNlWtcQ6ddUjmGaR8Yz5tM5w/gEWd555KTvhWFhSd9NgEc/5Cuv2YKmTsQj3i6bE67qVPcTs6bSs+7QOgDYQKnsOF8Gqubl4WOXll9C5N5RIbCtqR3IGxrw2POipkU0VzVy9g1T1mhMZd2PZbKLCq+NAN3e72x5I0l2BKLf3SdpPqKp7N8V7Q8ct79wgdoBkwmRxK/MHjGWB04tlJP23U0yDtObkXRdjwCArJr4nk4plWokXzdd8PQHn13WNp7NXrnPZvHaRcRkFzQeJqGE8MGKeiG/mP9lePSttWfI2T5HcL/GWuU5JflO6ROknay7wnaQSeegNf8q+sA7dIMa3Q7ZkkBccRmkMJkR0q+FIABWhQGjofKT9KmOdYla1Z7hgjWyK03IlOreQ0ylCVlCe82oAaPwjxq0XEhSiVJBPmKDg49kdlyNgu2O5xZiRzUltftp/0k+0PUUV2Qy2lfGltAXrXEEjevrRQZWHHrXjtsbt9igsQYaPBplGgT1J8VHzJJpxQ0aKKBGZbmZU6BLcB72Gpam+m1oKDv0NMqHOiig1kUUUUH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Drive</div>
+                                    <div class="artist">R.E.M.</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCAwUHAQQI/8QALRAAAgEEAgAFAwIHAAAAAAAAAQIDAAQFERIhBjFBUWEHEyIycRUzQkSRobH/xAAYAQEBAAMAAAAAAAAAAAAAAAAGBQIDBP/EACARAAICAwEAAgMAAAAAAAAAAAECAAMEERIhBTEyQWH/2gAMAwEAAhEDEQA/AHqUR3do8J/qUqa0v4n+lU096GtHEiu3Wx2K2dZZSKO3SSRjtyFVQNsxPkAB2T8Cly/z2eyoefCNZY2wj/vLtwxJ1yA4jZB13rXkR33VF0rxwevB/ZEqstyGBTe4n2P0kyD3rQXkimIDZ0COXxTh4b+nkWEv0uucSKnYjjU9n0JJqVj4kzdxBaRXmRsIbsyhJpIYuXBQhaTls8Qw/Ee2216Vj8L42ziLI2cxjXFmjIrXNuAHVnP4gJv89gqegCOQ6o5kKX/Ftxdh2BfGGo53icdstFUzXUM8P3IpOSn40QfYg9g/BoqSUIMvIoI3PP8Akslm7bKWl61wjC3bnCpbShv296utLDMeIbVbs5MW8U9yLdUiUhFccQN66XojW/MLUriM3EX22XkD6GutbR5HBgG2tBNAZFdtDTEK6trfr+n18tn3pxkLV0GcbgX4+0EcHyWReBs1OFY5IfbZU4sZSem4Fd99fzP+1C6scx4bhS9XLtKYtbicsyaYkeW+xtRsfIql87lFxht7W2voZ2gELSK2taEa9a78o/8Adcucpl7dILq3McICqxG+TBewP81w2GkD6lhFX9emW+DcpnpMxczR3Rmjmbnc8v0k+/XQP7UUwY+BrO2SKGMRxj0FFS7OXbYEq0E1pokzC4m/R2XlokGtoYC5sZrdRIqE/NFFIXPVezAgHF2hGWP+ECAhrePZ+KweVFgeRijRR8CiijOSSWjTCUcxJzuSt7VDxIBooorZWg1M7LGDaE//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Something Stupid</div>
+                                    <div class="artist">Jonas Blue &amp; AWA</div>
                                 </div>
                             </div>
                         </div>
@@ -782,7 +782,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2023, 10:07:35 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 May 2023, 11:04:13 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
