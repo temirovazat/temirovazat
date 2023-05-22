@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.30m added, 86.3k removed
+                                    2.38m added, 96.3k removed
                                 </div>
                             </section>
                             <section>
@@ -512,31 +512,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QALBAAAQIFAQgBBAMAAAAAAAAAAQIhAAMEERIFExQxQVFhcYEGFSMyoTSRwf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAwQFB//EACURAAIDAAEBCAMAAAAAAAAAAAECAAMREgQFExQhIjFBcWFikf/aAAwDAQACEQMRAD8A8T8Z0+jkaYhcjBapkuy1pIcWDf67xpGkk7YfaTjjwa3J4j0/d00klNGuYaZCCEMyhYO4fzFrIbUDJXiNdQAMnPLrGawnTKf0mi2+8bvKztxsOPW/XlE26SdsftJxx4XFhxeJsxs8rqtbp3gVDakZKuWt/cHBELufczF+TUNHO0xa6jZoXLl2QtRDCxbh76tCL1fu6qScKxcxNMuWAtjZId2DQiGxNOzU6LqCiYeR+pDQ5H4/IFJn/HOFvDd4z50vWZc3CSuauxCVKu1uo/UbNAKdVJJNGhYp1oJQ7JFgzlvEWrATAxv5iXjolE3cGPl/Z51EvV1qCUzJ6UYglSr8Ql/20dTTq0yfdKZ6ZRtzsbYgejcE+49BgNnjZVrde8CkGYWUz8fXWBw/MHif1EztVFtEqROKygU4y58n7wiWtTTJpZxq0TDTolgrc2IdmLwhLBplzpHIU4CfqV/jtZSztOQiTs0LQi60CzMH4+ni6qbTbwFZSr43KrDtz6whDqdUStfUBawE5+pUe8bDeJedr2uOPTzHe3kbyVZo/H8rB+14QghiYHoVcz5Ezfk1dSSNNWifgtUyXdCFAOxfj6Z4QhEFjeqa/Z9K91s//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Run Boy Run</div>
+                                    <div class="artist">Woodkid</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAwEAABAwMDAwEGBgMAAAAAAAABAgMEAAURBhIhEzFBUQciIzJhgQgUFkJScZGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBQD/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQxEiEiQf/aAAwDAQACEQMRAD8A+d6eWW1InRlPEBRQVApUopB+XHIHbJP3KR5pJTfTyrrIlpt9mLhfkHAQg4z5PPgcZPjjmi+ik9j5enIBbK2Y8zBcVgOkhQTsSUHgYwSTnyBwMkcqL/a40GMlbSH23dyELQ523bSVYzzjOAMjtz64o7horVEOL1pDkXqdEPdAv4eKUkrHuHk4OVY9aiZM+VKZS0+8txCVbgCScHn/ALRn30xVpfhqUV7iimTLGDpBMrRa70zcEqkgKUmGhkk4ScKyvOBxziqn8PkZ6PrSXMMdrfDjguddWwNoX3UM+cCpmwaimo0y7YGlBtpxSnFOuK91tsDKuO+c+Kz0PfJtmuc+Yyh2XHebIkfE2rKBznJ8/wCam8eSk1or545aey09sKpLV7t12fhsQ1yHNyUsyur1kfyCe4479u9cleZEadIYOQpLhGT6VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPLivNspecbIaUdoXjgn6UUwvdyiybVb40aOEraB3uKUSo5x/qiqonSW+zPTsViXcB+byY7Y3KSP3egqoky0FkIhtNI3bm8YwkD+h9KKK08STWzI5NNXo0NMWtuNqWG+hZWpn421Pu/LnnPjmqT2nR4j+nbbIfcBuKVhLpJ+ZCgSMfUcfaiisvkSpzpI1OPTrE9nJFDbwe9FFFJnH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Oh Woman Oh Man</div>
                                     <div class="artist">London Grammar</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EAC0QAAEEAQMDAwMDBQAAAAAAAAECAwQRAAUSISIxQRNRYTJxoQZCgRQzUsHx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgYD/8QAJBEAAgICAQMEAwAAAAAAAAAAAQIAAwQRIQUSUQYTFGExQZH/2gAMAwEAAhEDEQA/ANC0B1h/SyxLdaDlb2QDykeO3iicj1GM5I0t2K1JaWlZTtbCCTQN0DVePOL2hQFsNh6Y2spWOhoAnd96F46aeyiBGXJlOpQ2UbSktkAHxQ73eN77Uq2SZkMHGuyCqov1M5kaO+rYzIS7ulvISEqR0oSnq4I+1ds9aZ+nIaJMuTILoZQpYQqqskUee23j6uPjNJQtuY22pmQ2ttYO1sppRrjz2/3idq0bVHZslmW4qPGoqUGQdhBoJsn6vtY++cfk1unfviNRi2JZ7QU929a+4lPa5rrkmVJclONNoXYSlNtJ8BI8fmycManf0jMmrUQ6yxA9NKkk/S5x2SmuDfe/Pk4ZC2IyhlOwZDU2BiGXkS5mqbEQKZdCvVV/bTdbRfk/J8ZXJS6AkJKz1cUOFVz2+Afzlyn+n1ONHXGbWsbeksgdA/xUn9p+DRzqjRYzUYJcaLit+4lxsq2n2AFgc883Z/iluTi222E+fP4mm6V13EwcNalG2/fEonHJikncpe5XYlWy64Ht/wByJtZdf9JDyFKPVtCr6fHx3/jL2Vo0zUlWjVylgdmygHjyKUM50QW4UBccT3PWpREj0bA7fFfnKLhVpoM4E6N6hyTs0Uj+QiQnXtLdZcaJQpQLZ3USqqPA5qh3NAn4GGJU/TNSVLcTE1Nt526C2VrSeRdGyQDz7jDGlOOtK9qnczeTmPlWm2xeT4j2rTH4ry5DkiIzIbSouNNVbo8g1wT572MuWIkfY2X3FlZAKve/bDDLXVpcAXG4Fiu1BYVmdMNmM2+F+kLNiyeayLUosVSVNFKQVJ3UhP7fcexwwyiVIp0o1CjkWMu2O9zLnp6tJksIU0ElVpLgO3pI4AFnzz8eBhhhhoAgRdhwDP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Numb</div>
-                                    <div class="artist">Marshmello &amp; Khalid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgECAwf/xAAxEAABAwMDAQUFCQAAAAAAAAABAgMEAAURBhIhMRMiQVFhgZGSobEHFBUyM0Jxo9H/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEAf/EAB0RAAMBAAIDAQAAAAAAAAAAAAABAhEDMRIhYVH/2gAMAwEAAhEDEQA/APc59wMdSjIf2gqIShJ5P8AVpYXLjNS648Qlk52dc+/Oa6SU2ZL7rjrcZTu47iUqJzUlF7trTaR2uwdMBs4+lRzVP4dVxK+iqVKuEZ1QeiSVJH72HN3y60qkaoSzMQypclsLO3c5kbT6irK5qC0A99/+tX+VCm3rTMpBblqbcSRghTKuh6+FNTZW3D7O1slySoBThVlWOTmio9uv2nkusxojrQUpQSlPZudegxkUUmnvQoqZWGG44luyFJSRtdUk8etYk2/CeQKn2J6Ku9XBppThdzlQWSQecceAqqah1O/M1FGttjkpSlbnZrPZBQHn4Z4xQi9WolcaTw3mw8KPdHupBOZQ2vLhQjPTccU8n6flOqV2l8n4znCClPs4FVa+aJYl4UZspbw/KuQrtAPZxV02/wAM9cc72SrEwPxyLkDh1J+YopLpudLtF+tltvbJSVOIDMhHeSsbgAD9PTxopVar2OF4rGtOOunr8L++q1xLmkokKUlxllzGQrg5A5ph9lrdzXqdcm52+ah1xtwqcdYUkbzyTyMedFFZOJZOI08z2j1R9lxR/TX8JpZKiPKzhpz4DRRV8szUiu3KOoXCC1JtU59H3ppSXW2CUtq3DvE+A8/MUUUUb7O8fR//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Show &amp; Tell (feat. Claire Ridgely)</div>
-                                    <div class="artist">Said The Sky</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBgcFBP/EACoQAAEDAwQBAwMFAAAAAAAAAAEAAgMEESEFEjFBBhMiURQVI2FxgZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUEBgcA/8QAHhEAAQQDAAMAAAAAAAAAAAAAAQACAxEEBSESMaH/2gAMAwEAAhEDEQA/APMUcK3SMjE08MBcQJZGx3HIBNitZc7xBcVk8UZleGN9kqm4G4DhcchWXY6XwbSp6emqZ4Q+sdGIopHtG5rBxvAw42tzewwuX+TUJ03Xayl9u1r7t28EHIslmBtGZbiyqITDYax+GT2xdLzOERE1SpXhcxsgdKz1GAH23t1jP75Wp8Mfpc2sOMtAPUYwGNplJvdzQTnsD/Vk7YUsnfSzRVMW4vicH2abFw7H8jCiZcJlicGntKXizGKQFq7jFqlS0TB1FN+J2yNu4Dkc85vysB5/UUX3iMvoXfUFodJeXgXNhjC12meZ0L9KpKnVWtpBI54hYXbnuYw2BIHB6+P1XKtarTqOq1VWb2lkLmg9N6H9JBp8UmYyEVSd7nKmsxyO7zn218shDnksbtaTht72CKqK01SrSJ1lERXKSSbXJJAtn4TlEQqkXOJ6VCIiKC//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Dreamin' (feat. Camden Cox)</div>
-                                    <div class="artist">Embody</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -547,10 +533,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQME/8QAMxAAAgEDBAADBAgHAAAAAAAAAQIDBAURAAYSIRMUMQciMlEVFiRBYWJxkRcjUoGiwdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAFBgME/8QAIREAAgICAgIDAQAAAAAAAAAAAQMAAgQSETEhcQUTQVH/2gAMAwEAAhEDEQA/AK5cbnVpcKpFqpgFlcABzgDJ1za91EceWkmbA7PiN/o6x7zVxpea8En3Z3H+R0hb831Hb6Oe321ga9xxZgOogR8/nqYWpzna057lBdiVK2uB1F/dHtPvNdd6hqOqq4adD4cQirJkyoJ94gMBk6ZPZbve9XCqr4qqrqnhSNWHOolkPInHRZjj9NRhYZWCcY5GD/DhSeX6fPVE9nFQlnp6lpUn83UEfy2RkXiucYJGCfX+2qfNXpjGlBJ/EvvkC1updrPdqqa40qvUzlWlUEM5we9Gk/bl/wDM3+1w+EVL1UY9fzDRoXEUwVPJ/YnlWobDWdL66G/XIGNs+Zk7CH+o6W7LY7bDBdrveKKMxm4ysKmdV4IIzCQhLkAcuUg6yeugdMN+pqee/wB0MnmFIqZOxKwB94+neo/7S6N6S+JxklamlTxI1diQrejYyfXoa6fjrAPtX+zLOB+kW46lBuW/9uRU8Vtnud0uUMEKQrPR0ccOGyPEZCzDiCBwACjAOe2OdY923jTbkvdpo6aSqqYkqGqUlmjELI7cy8bIrMrDBUKRjiBgep1KNa+2I0O4baspBSWTHf45GP3006gC7eoSqxNx7l325HENwWsiAA+Zj74/mGjXLbFmpItw2uWONFdKmNviPqGH46NA45rqfMYyOdhyJoX6z3ee+3FkoKwwtUOVKwnDDkfTr5ffpD9pG3L1V0dHFS2C5zyrIW5R0rtwXGCMgfecfto0a1xlgPBEzewlJE8/0Vdv4bGzfUmr+kefIVXk38T4s5+DOcdeuMaTE2bupHV125eOSnI+xSf80aNOA+DCOOpdNq2W5012s7S2yrijWSIt9nYLH2CcknoaNGjQa1jzFmXJIn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAUEBwEDBgII/8QALhAAAgECBQMDAwMFAAAAAAAAAQIDBBEABQYhMRITQRQiUQdhkTJxoRUWM2KB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECBAMF/8QAIBEAAgEDBAMAAAAAAAAAAAAAAAECERMhAwQxQQUyof/aAAwDAQACEQMRAD8A+YTMpQjsQj2qt7G+3nnk+cejUKST6aAXdnsAeCLdPPA8efknDbKsgXMJYoxUlOuhkrL9F7dLMOnn/XnCyrpBAKMiTq9RCsvFum7EW/jElmh5Qy2Eca+0LcA328884zFKEUAwxOetXuwN7C/t2PBvv525w9zjSlflDOtbFJcVE1OpUDpJjAJPVe1jf8YgJlTSV1BTRygvVRLJuv6b32+/GBprkuUJQxJUIPdHQo7UewYX3ub+eeR4wYnnLIzTNPHOe36T1Khl91+6Iyp3+d7/ABgwEDmvoEyXT+n6sy1LVOaUszhklK9pesqiADlSdz83/Nr6W+jGUZ1W5jFWZnWpHkk9NDKFHUZkkiDta59nuJtbxzc4rjUPbzHSmi5lLGnpaOeKd1FxG6SEhT8E3XbzfbFt1Gt30tHrDMMtFNUvmNTQLTiQkrIPTgllsfdYXxy3Cnbla9ugjzkl59pF6H+5IVapqIsuqI4mjZyxZHDhJG+d+gf9OOEzfTORTa60zlstLVUcVbQxs8gmIYTlW4HCqG6LADycdvk31Ty6uzF8xzkdoV+VrFXduMlCRBfbm1mXa/3xWn1KzaWfUeRZ7ShkWLKaSRFvuGW5F/F7KL49DVatRq84NW68xrb12XGkY9td0XwRVWU00Omc/q6r1H9Qo6uKiYmRrHqDkgjzui4MNdUVEdVkOuaiEgxz55BKm/KkSm/8j84MZTKV2YWWJh34unpVyofm/i3yPPxjLwNspqIWCu6Ady4Ft7j7HwfnBgwgNboyp/mQgoDYNfa/H7/bBHF3Fv3YkBdUszWO99/2FtzgwYQAYyVVmljNwx/Vvt4P3PjBgwYYH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Drew Barrymore</div>
-                                    <div class="artist">Lu2vyk</div>
+                                    <div class="name">Smalltown Boy</div>
+                                    <div class="artist">Bronski Beat</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EAC0QAAEEAQMDAwMDBQAAAAAAAAECAwQRAAUSISIxQRNRYTJxoQZCgRQzUsHx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgYD/8QAJBEAAgICAQMEAwAAAAAAAAAAAQIAAwQRIQUSUQYTFGExQZH/2gAMAwEAAhEDEQA/ANC0B1h/SyxLdaDlb2QDykeO3iicj1GM5I0t2K1JaWlZTtbCCTQN0DVePOL2hQFsNh6Y2spWOhoAnd96F46aeyiBGXJlOpQ2UbSktkAHxQ73eN77Uq2SZkMHGuyCqov1M5kaO+rYzIS7ulvISEqR0oSnq4I+1ds9aZ+nIaJMuTILoZQpYQqqskUee23j6uPjNJQtuY22pmQ2ttYO1sppRrjz2/3idq0bVHZslmW4qPGoqUGQdhBoJsn6vtY++cfk1unfviNRi2JZ7QU929a+4lPa5rrkmVJclONNoXYSlNtJ8BI8fmycManf0jMmrUQ6yxA9NKkk/S5x2SmuDfe/Pk4ZC2IyhlOwZDU2BiGXkS5mqbEQKZdCvVV/bTdbRfk/J8ZXJS6AkJKz1cUOFVz2+Afzlyn+n1ONHXGbWsbeksgdA/xUn9p+DRzqjRYzUYJcaLit+4lxsq2n2AFgc883Z/iluTi222E+fP4mm6V13EwcNalG2/fEonHJikncpe5XYlWy64Ht/wByJtZdf9JDyFKPVtCr6fHx3/jL2Vo0zUlWjVylgdmygHjyKUM50QW4UBccT3PWpREj0bA7fFfnKLhVpoM4E6N6hyTs0Uj+QiQnXtLdZcaJQpQLZ3USqqPA5qh3NAn4GGJU/TNSVLcTE1Nt526C2VrSeRdGyQDz7jDGlOOtK9qnczeTmPlWm2xeT4j2rTH4ry5DkiIzIbSouNNVbo8g1wT572MuWIkfY2X3FlZAKve/bDDLXVpcAXG4Fiu1BYVmdMNmM2+F+kLNiyeayLUosVSVNFKQVJ3UhP7fcexwwyiVIp0o1CjkWMu2O9zLnp6tJksIU0ElVpLgO3pI4AFnzz8eBhhhhoAgRdhwDP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Numb</div>
+                                    <div class="artist">Marshmello &amp; Khalid</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBgcECP/EACkQAAEDAwQABgMBAQAAAAAAAAECAwQABREGEiExBxMiQVFhFDJxkYH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAoEQABBAEDAwIHAAAAAAAAAAABAgMEEQAFEkETFCFhgQYxMnGhseH/2gAMAwEAAhEDEQA/AKVdtHvWKG1Jtdzbn2GSfQ4HASk98Ee/1itH8O7xAiaXMK0WVS528IlyZJSEBZztIzzx0E4Hvk9msXk3ZtxouR4yWWfLzuKc7PknA5/uM040XrOPa1XeVZ7gYLv4ylTZDrZcCm1FCQG2sjK95HORgEk1lBtLyjafBzspCO0hBpx3cQbHFj7c5tWoJ1luvhlNe/PcQ/FQY0hEggOF1CsEEDjJV8EjBzmvPikuJeYUc4QnfhQGUqJ4IBHY47rr1HrG13C5u/gkyWFOKmqU1GKMKWhO8lOeCCDn2yTg+5Rs6ltofDqnpIeQo4C2wcg/yqkQhHUropoHLIT0Ux9r6wSeLH5yw3iLPbl25u4Rgtp5pCg64jepKeeSc9n+cD2oqDWoJLdvfSyWSpTmQ642FKAIyCM9ZB6ooR1R48YhO0ZhTpVs3X617Ylist21qTFm78NA+YgjAxjkd1y2e32y9SnEWmwXGd5YBcEZCllOTgHg8ZNbdpnTlsvmoLneFxXZ0ZvLpiPK3hayCQ2fkYHR+QKrzmhbXp1LT8fXUXSklccvXmKiVueaUo7kMttg7jgEjlRJrT7YtrUlVgjBl6olTTXSSkiuRf7zNpTdptsVK3rfcYkd5SkhRRt344Kc5/5jPzS5tuzypITEt0191SuAlJOT9YNONSeJs+4W52yMKS5ZWChuCFNJbU2lAwHNoz6j2eT+x+jU7c1b50FmS+w+pTiSUrU6vIIGDx1jINC6EtiyTkguOzlFDaWwR5+n+Z3TYNxXbozkNthMZ4ob3qeQkJIGQCM5Bx9Cio2uxtuSluxlsLdjKO1txZAUewfr+EUVGmF7QW0WD6jENS1RsSFIdlJbUnxVHHdhk6iecl2+HfHbSZGCfIQFAEcft2Dg9gjqs68R7Ixp2/qtjcxM6U2gLkyAT6lr9WDn3AI+e6KKQjy3np2xarG2/ewMe1iIzFbSGk1eVOr/AKOkF62NNNrUhxkqST3kHnGP9oorQli28X+HlETABzj+5WhlbaLla5T8ZxXpJON24AZChnkE9H/aKKKQZdWBV/LOte0WFKV1XmwVHnP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bad Habits</div>
+                                    <div class="artist">Ed Sheeran</div>
                                 </div>
                             </div>
                         </div>
@@ -782,7 +782,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2023, 09:05:50 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 May 2023, 10:07:25 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
