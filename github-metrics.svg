@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2385 users
+                            Followed by 2384 users
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    585k added, 104k removed
+                                    628k added, 82.4k removed
                                 </div>
                             </section>
                             <section>
@@ -516,31 +516,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBAv/EADEQAAECBQEGAwcFAAAAAAAAAAECAwAEBQYREgcTFCFRsyUxQRYmYWSUwdIyVIGR4v/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAAIREiEx/9oADAMBAAIRAxEAPwDjd0XDXEXXWkN1qqJQmefSlKZtwADeKwAMwk1cVeKh43VfrHPyjy6W/eyuH59/uKhNoAKGY2CzW1wqlfVae+FYqerjCnVxbgON3nGdUZ5y4a8CfHKr9Y5+UaVysSp2epp3DtCYTPl3e89RG7xjpiMW5gk5ipylete4K2u6aKhytVRSVTzAUkzbhBG8TkEZgifa4PtZQ8Dlx7HcTBBSRMXanF01rrxz/cVCEkGxMtGYTqaCsqTzGR0yOcVboaKrqrXI445/uKhZmVUfQwzLBZ7XTzKlIl0gas/rX54xEifS0ZlxUujQyTlKck6R0yeZimuVcDGAD59ISXKL9Uk/xCc06N92oj3qoh+eY7iYIdtZgpuii5/fMdxMEBJDd7c2KJmKzPTc/UShL0w47oZYUogKUT5nA9YsSuyK3mQneuVJ0/BAT9jBBGwti1FWyy19zp3VS/v/ADE6Z2Q286k7lypNH4oCvsIII7yacpDWxUMVeQmpGpFQZmG3Sh5hSCQlQPmM9IIIIGn3PPy//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQI/8QAMBAAAgEDAwMCBQEJAAAAAAAAAQIDAAQRBRIhBjFBE1EHFCJhgXEjM1JikaGxwdH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAv/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMEERIFEyFBIjFRsf/aAAwDAQACEQMRAD8AxHwpvoNNNzOxPr3EixoBjcxxwOOPBNVyyvmkDEudwIBweN2MnH6V5s0S7lh1COaVl2xCWb9mAAWVMjgceas+harHDp9u07rEogQkscAu3jP4q3jMCuvyZ3q2ORYbB7m/tmVE4+lf1812wOVYHfJt8J/DSKwuFklSPJJQBm/PP/KdRSbRxRGGpNQ/sYfJvrVmdDnKyQ3R3qZGOMDuM98iiu3pBFudU3ARs0LggOM4z3I9jRSNt71NxQ6mgwRyq2SZ4n9dpryRmmDzSArkdm3KQfsPFWjpd47gzhkUxokZQEc/uwf91D5YWa53OSi7lBkbJA+/vW56X6rbS7z5a/iaeNlSP1Yz4BIDY88H+1d4doU6b3C9Tx2uT4fcsWjut9YwTpwZQrZH2pleWs8jI6XkkEaKxbaqkE+5yPFY/ofUQ5htoZQywxtuA5+oNj/BzXbr+srqkg0awuAiSkC6nDY2p5QfzHtx2qlxLEakBMZhYV9D+TWfC++lNtcatcTtDDJMZM7MjZnCj7Ahc58ZorAat141tZSaRodvGYDMq+oGxlExgduxIP4ope3D7jlmmixcS3t7A1JRf6bDFDOwOVKgLxjtjxnj+ppBBDKs7NDKUaM7lIPbnFFFDy6lVl0JU1uU7prUrnV5rizujHHK0AQ3ECbHIJ2889/qzSSEy6HNc26lHmG6Ay47e5X2OKKKp0eSNxaitRe6AeNCM+k7NbrULfeqsGlUYbt3ANFFFd2E8oS9iG0J/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Just for a Moment (feat. Iselin)</div>
-                                    <div class="artist">Gryffin</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAMBAAAgEDAwIDBwMFAAAAAAAAAQIDAAQFBhEhBxIxUYETFCIyQXGhFiNhQlJTkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAGBQT/xAAkEQABAwQBBAMBAAAAAAAAAAABAAIDBAURIRIUMjNxE0Fhof/aAAwDAQACEQMRAD8An1tdWMduiTY/20w33kMpHd6Csi+tYmshkJLcY2xQdpYs0hkO/wBB4k8/atl09wC5nIzT3IJsrONppT5hQTt+KSNWa0vNRWdxFcJFGidq2yRKEEMfJK8eJPA3PlTC53DpRxj7ijlBR9Qcv7QmjH4y0v7eGWzuLib2zdsapCSzH+F33/FElnaQXBt7i4khn/xyxlG/0eawdCXsdrp0peASwM/cGSQq8RB4O48KdzmbvVFvi9P2zrdTLclbeVh3MC/mx52Ubn7UddeqwuwHfwK+200obyLdeykqdBHM6I3eoPj50U59TtIfpXJosTM9q6jtc+JP1opvTv8Alia8nOkLnHGRwaNZW46fyxY3pVqzI8B0sp+f57CB+TXMUU3zL/cgHrVhtdRCz6Y6rxjnmeBQg+7rvUVViNiPHbx2oheARUElKLX4dJq0nOkGaiVnURnYN6D/AIavnRu7weH1Pc5DJOyM6CK2lK/tQlvmJ+oJGw322A386gGPw7NoubPxht7XJpayMPorxkjf1Xb1plweZiSRbaVyryLwSeGqM/LH8grDMSxmMldFddJ7PI6XhurWWOYJL2h0O438qKkNq/vFs9lJKdpOB8XA8mFFKbXd4IoAx+ioFdYp3ScotgpZ99xdtp+QXgt2kYkOJIS/G/HgeaTru0wck8si5Uxo3xBEtSAvHgOaKKwXnzj0tNu1ErD0fttMXfTXV+CyGVUpfOhjZ4yhRwm6sPswBqPwWrTwLsx74j8w/pNFFT54wImP+zlbaRxMrmn8THiM2SircA+0j4Ox5ooorDjCpc3N0F//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Don't Call Me Up</div>
-                                    <div class="artist">Mabel</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAv/EACsQAAIBAwMDAwMFAQAAAAAAAAECAwAEEQUSIQYxQRMiYRVRkQcUI0Jxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwQC/8QAHBEAAwADAQEBAAAAAAAAAAAAAAECAxESIQQT/9oADAMBAAIRAxEAPwDvt9PHbw75lcjO3CjNK21aLdtWCUqSBk4GKsdTtdRaPLJYxiW4VlKoRnIzg1yX1OrfqKiNLpp4t2FKLhkZs4574xx5Ax4rF9H01jtQkzViwqp6Z2BYwxz/AG+ajmVtv8aRs+4ZEjEADyePNWolf0VIjbeV/BqGZWQY53VuMzWhfdxL+0QMIvWLdo92AMfPfmivc6l5MjGAKKBD4qCTnAHxVCLTbK0Z7uOJVl5ZpGYk47nk+Kubg/YnAqGZlkV0IzGw2kfHmgDH6n+qvTVq22Nprkjv6CkD/hOM040bVote0i31O1gmhinyVjl5YAEjnH+ZpTJ0J0w7oV0i3VFPuGW9w/PFLOvr+00PQ49N0dru2vGjVYEt3wUXsOTnJA8VJ1+a6tlp6yvlGplEi53Kck8ZorPdJa9Dq+gQ7Lx7u9hAS4f0TGpcZBxngn744zRVJapbRO05eht1bruraLJapo/T82rRyqxkeNiDGQRgYCnOfnFWtDvrjUdItby+spNPupVJe1kOWiOSME/fzRRTOSzLMAvtI4qN7mB445hDC96gIR5EztBPPPeiiipT8Y1Tn1CyWCATT3jKPqEvsZo/ahXORwfPzRRRRpLxCdN+s//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">What is Love</div>
-                                    <div class="artist">Aexcit</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQC/8QALBAAAgEDAwIFBAIDAAAAAAAAAQIDBAURABIhBjETIkFRYQcUgZEjcRVDwf/EABgBAQEBAQEAAAAAAAAAAAAAAAQDBQIA/8QAIREAAgEDBAMBAAAAAAAAAAAAAQIAAxESBCExQSIyUfD/2gAMAwEAAhEDEQA/AMYlpytTDTwkgzDcdvBx34/WmnV9nShtNtq1WZfHycyqOTtU+Uj055B7EaeU9nCVnTh6irxRWuup2lWojiy0S4O3PBzyE/B17+pNspqOhtoF1gr5Y96qlPKHiWPjDHbyCx9PYamxOQAi1AKH71Ivpuyy3ivSBXSFW/2Snav701mts9sqa6GSMRfbSeEWWQ5JyV/o8j8as/pJXV9BVRVFyWJLcg2/yKoCrgg9+c9hjXL1jTwNSdRXD/LOVaqR/CKYNQ5LHGM5Azz6j11zmS2M6FIKmREz25VBkZYOdq98ep+dGno6feq6fluf2r07xBW379wfnBBHccYx86NWWxHMg6NfcSn+qF3tdzpOn4rPUF46SBotjIylB5cZyPjUdBHLPCxhQuyEO3HHHPP61zVMiMtPIh8pj/7jVV0HD49uukiyRloJI/4cedwwbJHuAFyfYc/0eqSAWG9oygFuEJtKOzvSVVrmhp6fFdIWbPiERxrx3HYng/k6h+sUuFHcqqklhaNIZE8QEDGcZU59jnvrWLFYopYJ1hnkQBY3TEeVG+Iv5jnygYxnB1mP1IFRJHa67dNI9bTrHMNmF3x9wBnPG4dxg+hOj6clnJ6itWwVMR++Rt1VVVlB0Tb4KaOkjhuCMzFCDI+1s7e+cDceT3/GjUNRUdVKsJZZVXPhhiDgEg40aYoCC0zzlUORFpyPIGt8OCN6ZH7Ou6zT0i3CnMcVV4+9OfEUrkctxjtj50aNef1Mmh8lmp2S5qHKqu1nwCMLtOPjGpvrGlpobm0css7qGFRGu8eVW4ZRx74OjRoGnPM1a/IiGOolks2YmjQmcyKGbB4GBgZ+c6NGjWgqi0DUqNlP/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Kids (feat. MKLA)</div>
-                                    <div class="artist">KSHMR &amp; Stefy De Cicco</div>
+                                    <div class="name">Where I'm Headed</div>
+                                    <div class="artist">Lene Marlin</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -551,10 +530,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAgEDAgUDBAIDAAAAAAAAAQIDAAQRBRIGEyExQRQiYVFxgZEVoTLB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADESExBBITQf/aAAwDAQACEQMRAD8A8126K8QYMN3kYp/oFpHc3sUNxIIoXJDSHpt6Hr+6Q2oy46DJ+ao9Ph2orFgM9MZzU9zYJZ46+0urXS9BiTatxEW3d+c5BHX46dPv4+1JdYsFN3Klq55I/wAcHcO3189a0WdqzN7V9mAen0rddmCwtxJcHYp6L1zmua1utglnzwcmQ95psyKMMMj4oqjeaC9gMtsyuoOG8EH5FFMPIZRhmCgMS8HaTaajYXcN1G/OHu9igOR4wT2/FYLHntJshUEbsKpPX8/NOeHdTn0sP6K609GZSrFoS7MPOSRWmBYv5u3nnki5nMXcIYtg++O3emf2BYn9iIgKqAMzudg4O4Z9Bpkr3QDTSxBQOgKuR2ye4z+qg+NxBo/Glj6oSzafFs56RJld+csOvgjB+avbDiBEsI1kD8qKRWGfr/yuO8UcQXWoarc3U0iCF5jhWIZlXsFI+O1cymh/oSeY9xzviPuLbSxstZmu9H9P6C5iRtkTDCt56f3RSK/4jtHtOYli0jIwjJ3gA/gf6oqlKbCOoZNY/ciPR30pN/qonk9oxucgZ89qZ6dqlkusJLDaQxooDsCWYZH1yaKKvKg7snVyAMlHq3HpmtjbpLZW6t3225z/AGTXKLu6JuJWGHy5O4jv+KKK3UijqB5VjcQe9nkQI0gVfgUUUU3qJMbGPJM//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBggDBf/EAC0QAAEDAwIEBQMFAAAAAAAAAAECAxEABAUSIQYHMUETIlFhcTJCgQgUkbHB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQIAA//EABoRAAMBAQEBAAAAAAAAAAAAAAABEQIhMSL/2gAMAwEAAhEDEQA/AHAzAWlMKk+2389KlsPtz55RA31djEx8xUG1K3PHSFgGYHeKTfMrmNmcDdXeHFku3IVqbuiFEuD7dPQdjuNqjT1YhUnR8sXzDzrbTSyFq826ewE9/apjbgUYMaiSEpBkqA7+3+VlDhnjbJHOs3jltcu2IISrUiVNp9Qrv3MbCnbwPxk9nLhbLzZtkuOy29BKlJ1E7xt81Les+9FR+DKCNulFdW9KkJUlYWCNlA7H3orquklRsyrxXZAjVttS2/UOy8rAY19LIVbtPKDjndJI8o+DB/NMuxEuPgAABcbd6rPOXDuZXl9f+ClxbtpFylCD9Wn6pHfykmKQEFiLxWZ4ZdxFiy81feIlxKlbtkCep6j+qtnJm3v0cVDGotg2+YWpDrepKUxCjufSD6UtcFkXbHI27rOrVqAKE/cK1ZygxFmpm5zjOrx31FkpmQmIkj3IgfitpVQyfaXrFE/sWEqSpKw2kwUaYHYQNtukUV6EUVOflQX10pOQXkrW2WrG2KLy4WvZBcS2Ej1JPWl3xPkOYeRsbiztuHb5gOJKCu3CSlQ6EdZgjvRRVAKhHLXjUXIVb8MZFtWoQdAAn5JrQvJbE8SYK2vbTiDHqYt1rCmzrSdwInYmiiszDQKRRRRQJ//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Shyer</div>
-                                    <div class="artist">London Grammar</div>
+                                    <div class="name">Elle Me Dit</div>
+                                    <div class="artist">MIKA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDBv/EAC4QAAICAQMDAwEHBQAAAAAAAAECAxEEAAUhEhMxBkFRYRQVIiNxgaEyM5HB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAgEQACAgIDAAMBAAAAAAAAAAABAgADBBESITEFEyJR/9oADAMBAAIRAxEAPwBXacVMfBUx9ogqSvWL6jV1586axcLKsTTxr0ujI/ICJxxVnSMc0axO3bVceNSQqdLBz8WBeu2NjTyRiORutQFZlSv8ce2k/UAPYUXbOgI7hpjYyH8z7VN4MiA9C/QE8fvqbkRtnZpM9RwE8VZJ9vP+9OQbf2Y3cs4UgjpuqrngaxMFx2kEgHCmgxF8a0qqDMOzETOLs20ZiK7SPhZYUh50cp4rk6NLwFG26eSZeuQRkyBxYKk1+pJ8fJ0aJkYYd+QbUdi5xrTiy7muNtLiNVaOJJ3tHR5ehh+H481X0q9O7J3cSMK0VhWKueqw3wRR+Pb201sGP94QTb9uuRBLjZEvbiRyW+zt4BWh8XzRvzpfeN4RdwMGIjS7cGCo8MdKzAVIVF/02L4vm61Jc4luJ8lW+PCoHU9yqsox4u5Yfya815+dQN1jlzMhYOovMjHsxgf3GI4Jr/qvV/cNpXJOLmbKjZG3z44MkccnWyyWQbW7qj5HuNRMPcG2f1DGuXAU67iZpDZTq9wfbwBz7aZVYHGxB3oU/J8/s55WJmbfkSzSTpJJaHtgHpYKb8n3/avro036hzYYCzTAsGP0B/k6NFyKBc3JjEUXmleKiQWGTBtYxfT0MEuDJ+FhM5Dj+QLBFfNfppradw3OHcIINyihxcGFS2PBFHaxMeOGA55JJNnmtGjRrqlXsRFFzsNEytueNkTNBkbTJ2suCRjKoJRmWjVeOb554OvM7/nzZ8hjVWyc91p/y66aPkgcX4HOjRro0oqrsDuc7IdmYKT1I/q2bIbGxsDHDHtxJHI5PlgALGjRo1FvZQHqf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Never Forget You</div>
+                                    <div class="artist">Zara Larsson &amp; MNEK</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBA//EAC0QAAEDAgUDAgUFAAAAAAAAAAECAxEABAUSEyExBkFRImEUFTJCcQeBsdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAEQMSBCJRE3H/2gAMAwEAAhEDEQA/AOBs2DemMyTqGII4/f370liGHoTdNJSdMrnMVEQmO/4q/bvqbaJuGG9kwM0kD/GpDuIOjGU3ZAcU0oQlZ5A7H2rWdKEEkRJrCdS5W0blpAT9x4PH90pc23w1wttS0rCfuSdjVj5osSPh0zz9R5pNQ+OvSS25KyJS0nMriNhSghg3PmiwSUhThUCqCAkUVfLFuq2SrVzDLtvBB/FFP+M6SJp+qbAW+qGbYMsrV6QFTMePYHaoKcC+aNqNqptLzaAtSVGCe2UeTvMeN61+HW9tcMli5uTKFu6YK+yTtHnztsZpTCbVauonbhVmFWs5laaCQlMxtAMCYG4NXcigqGhadZg77DXmGdZpK1MA5Ssj7qcwCzdbcefWFtOtpBRl2UDMz7cV0HBbFVxZ3VpetPhC/WhttsqBXHeB34mvbrDbS207bSeGJLBDiUI7AkCZO1K1UGDpcxN9Y3aMNe00AsITypMkeYJ4orZ9WYI+q0YLaHNKCHAAQAviKKVm7HrD1PkbxHpfHOhWigItsSbvU6IllSktryhfpUe4B889uKe6O6ZxxyyuLi5tsrN4yFQ9mIMGQv0n+fNFFUxlYuq+zc4vGxtdj2VMB/Ti7btmcSxu7uEMKU3nSwrKtMmAjfcHKJkbGYO81rsd6D6O6XR81xXFsQS423n0lubvkHcTySfpMHvRRQtkbarmO6iif2cxxTrnpFvE1LtrXEAwq4KiDEJakmAJnNJ8/g0UUUYNSLmcKADP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wildlife</div>
+                                    <div class="artist">Jauz &amp; KARRA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC8QAAEDAwEHAwEJAAAAAAAAAAEAAgQDBREhBhIiMVFhcQcTQYEUJDIzQlOhscL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDMQQhQRITFP/aAAwDAQACEQMRAD8AfoQkDQ9abq+O1ro0QVAOJ4Ycn6Zwu9o9X5tGX7lx3a8c/iZgNx4xyVD42SrOH+qCdUx7kgAk4AHdK/bn1at9nbVi2QNmzRw+6fymH/X9LC7f+rUi9RHQrTSfDiuGKjt7jqDpkch2+Upq9dzySSmYuP7ME8zk6hotdptpbptBLdXukyrIdnhDjws7NbyA8IVA8oVi66QFEnwo9SST7dagwj9ypuZ8ZWptmx064PaY1AyQRo1kykNcH69PhYRrtein264TI9Zn2Su9lTeG7g657LEr8N/WjR3HY2529oEyFJY4DiLHtcP4Co5VKLRkH7rLDB+lzxrp8nd64TouE6q20RTMdv3AR2srVM6ufgA5PzqEqr9cGmQ5rye3dLxzctivk7pGYcMEAoXuu7edoQWoThy0cFLtddkabHrVAHhlRp3T0zqhCLXQfBi3m6NcwnUNPInl515rA3aQ6pWOgLCOiEJcEkT49lb4yEIQmFB//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lost Control (feat. Bianca)</div>
+                                    <div class="artist">Tyron Hapi</div>
                                 </div>
                             </div>
                         </div>
@@ -786,7 +786,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2023, 11:04:42 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jun 2023, 12:08:25 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
