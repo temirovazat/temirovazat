@@ -454,17 +454,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDCP/EAC8QAAEDAwMDAgUDBQAAAAAAAAECAwQABREGITESE0EHURQiI2GBFTNCCDJiocH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQDAP/EACERAAICAgIBBQAAAAAAAAAAAAECAAMRIRMxEgQiMlFh/9oADAMBAAIRAxEAPwCXGmN6mm3u3RUsstq+pbSUgpjH+RA/Gce9c37Zc7O1KTHmLWjs4/bOCvpO5pVo63pt91ZuEp9/5U9JSEDce1X5u+Q3HCD3+gK2BRmpDk6Jj8gO5g1yalQNQrbdeCwhKVqcCD0nPgH/AJU23WWVd7dcbm1I7LcRJIb7JUp1Q/ik++K229R9O36PEgyENIbW4G0dQ7alLUcABW25PvzVNXclaO0nqvTD87s3GG652W32FrX2nEgJLakgg5USNyME/ijgdrHrCnuJE6+etvp1BtMNtSVPNr+IWvn5j4oqJevT64ogWmJJmxIsgwkyEMOk9xxCjyccHJwfvRQLZ+RxMym9S0DVkBQUlNvm5TyA0Nv91FvWqYr1sfZYj3FhZSfqJaSPxnO343pAiWouu7qyVeMVNald2xXCMkdClfW7hSVFXRuEcjAJ8+M8UCig9Tqa+RvES6+m0+2amvDVpmwJTzSWFLzMbAPUkpKVAjhQO4I3rd2okNJcWmO0S8ruLUUg9RyD5+4B9s15m0hrOLbtbi73IIhxXMtuDqH0wUgFR34yM1anYPqj3F/peoVuxEg9haUxuhxHKCnKc/2458+aKEKPqVV0eeQCNR16xP2XTbFslrgrVKkrTCbdbAW5hKT0o6lHITueDyc0VlHq/qR6RF01Yps4XG629RkTn8p/dWlRCflAGw+3tRT8Nb+55NdlWwJSvjUrWpTinTv8uOrin9k1bCjm2QblGe+Bald555sErUnc4CccZ8EnNFFbGtZnVa1bZWI9dXWJeZFydtkVcaMsJSy2UbkJAGTjYZxx4rVv6dF3Zej0fqFxK7e484xEjnPWyRud/YnOAePFFFJYgRcCWelYvaSf2Y5rTTszS+uJbTy1Ptv5kodc3KgonPV/kDkUUUVoNiTXgK5An//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Elements</div>
+                                    <div class="artist">Lindsey Stirling</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">The Motto</div>
                                     <div class="artist">Tiësto &amp; Ava Max</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAv/EAC4QAAEDAwIFBAIABwAAAAAAAAECAwQABRESMQYTIUFRFCJhcQcyCBVDgYKRof/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAMFAv/EACARAAICAgICAwAAAAAAAAAAAAECAAMRIQQSE0EUIjH/2gAMAwEAAhEDEQA/AM2b4VcG7W/zS5xrYXbYY8sow24eWTnuOo/5XXMThaKkbJNZH/EdNtlrtzFi9O7614pkJXowlCQTsTuTt0271njnta4QCaPjrC6md8L2J252tuYxjAylXXuKreKpioOqCl3Lv9TSf1+PuoFk4puFkhyY9ve0IfThWoA6T5Hg/NOf4p/HUni103i6tLNsQs6EnoZChv8A4g7+T080w171qe51AFR8BRuJVl4Ym3KP6xbZRG3Rndfz9UV0pOsHJRy2mEjR7dCQPb4FFBOSCPyNfGrHvMZIvGNshpCHJCVr8NnV/vtWafnm3scaR4l1tT7aZkFlaVtOHq6jfCSO46/eayBviRaUk805+DtVuufeUR2V8vLb2kJIdST7igJyM9CeYjfzVR4bqwZIullBH2zEOBAlT5iI7LK+YThWRgJ85zt0raJl5TbrVEhsOqPpmUtJKVY2GM9NqXlQ7u8hAahDnuj2kS2jzVEgApAPXP2c1RyIt5dtjk4xtcVKC5q5qP1GcnGc9jV5qLsC3qRLq6QeuyZ5vlzeedWvmKBUckhRyfs0UnSLi45saKbXCjESdyxzIOsjG9XMTiSYhtuO4+oR9SCsgalDToAIz3AbR3H6iiiucyuXyuLU+oC/53dDhOkKLCQU9cgAaumw222pdVxDNajSIcWU6IbmpOCf2Sc7j+570UUJCZSk9KKKKkE//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I'll Catch You</div>
-                                    <div class="artist">Angemi &amp; Becko</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -475,24 +475,24 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYB/8QAMhAAAgEDAwIDBQcFAAAAAAAAAQIDAAQRBRIhBjETIkEUMkJRoQcjJFJhkdFxgbHB8P/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAQIEAP/EACMRAAICAQMDBQAAAAAAAAAAAAECAAMRBBIhBUFRIjFhcZH/2gAMAwEAAhEDEQA/AEdpdmZn8rIuPzsF/wA1dahodxBbCWaPah8uT86oNM1BIG8PUPuj8Mm3yt/FMrSdHvLi33TIZomGV3MSKZu4C5BiRdPbdbtAP32ip1GznRwDIqq3bHFQliOwCRXBz6jvTK6u6clj2SxWszowCqUU43E9j+1U1p05flvxNhNHCQeZRtz+vPIoQKsfeaSt1QKsp4+JiZIQvpRV/rOmPp02yYEbhkbhjiipKYllu4kpIorhsSKZVPJDetO3RdYto+hG1S4ERSyixJDERuyMKAB6Z4pZ6jPptxIDaARKowA6heP7fzXLGdfDZFt4pg3ByTyPlgHtRL6Bao8wOh17aKxscgjEteoerL7UOhtBkhO2dLuT2h2Rcs8ex0I449/6U1ba1uNR6dsLt0Hiz28cjkr8RUE/WlKwso7FY7yydEcmQJztzjkj0B4xmtg/V2iXnT8FtqF9frGFRWjj2sAB2GAMHH60ru0tiEFPMd9P6n6nN7ZyBxnxMJ9om15VAu4rkMT7mDtI4IzRUrq6XpqU2x0dWiiRfOCMOzfM9wOP+FFNq1JUZiPVPttbafzmZS1YvLsKbpDzjwi3+qnymeKPfFDGmPicEcd6KKJ3mVkAGZyS7vo4x7VDaujANli4/oe/NRZ52njK7GOPyttA+lFFdiUzkiQY7p7UlYkUck+Zsn98UUUVG4jiHCg8kT//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">To Feel Alive</div>
+                                    <div class="artist">Forester &amp; Kidnap</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwIFCAP/xAAxEAABAwMDAwMCAwkAAAAAAAABAgMEAAURBhIhEzFBFCJxB2EjMoEVJEJRY5GhwfH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgECBQP/xAAkEQABBAIBAgcAAAAAAAAAAAABAAIDBBEhMSKREhQyQmFx0f/aAAwDAQACEQMRAD8A1E6dFgvR25bqW1Pq2oz2/X+Q8Zp20/pVEtpMi4OhppRG1JUE/GSe1IEoiQhy7Tkw2I0EFaDJb3A+QCfuQO1VvevqPfbtcnHUvraioJDEUK9jaR2H3OPJ5pR8nJaw2I4A5P4nK9cMHTnnuupnNN6aQkoXMaDn9NwrP+OKQdT/ALKst0THcuLKgvG0I96v7DtVZ6G+o8q2XND92Bfb5T01/lPFO0eNB1tcRI9S3FaQCoqJwOPjvUmiKxAcTjuhYLcuyHZ+04z9NdC2tyQr86QofBGRRWFmejEyYMe4vS2o6Eg7k4Tntx57CiuMsrWuwEdBNIW9SrHVN2cf0jPt0vat59AS30x3IIP+u9VTDirXw22VK4zimZ16ZKk+sjNrWpK8bm0EpBGOKhOO3Dc8YsSQVFR6hS3585wKYK0LoWlrRztZFt7JX+MleVjtT8/UEOJJYW6jro6iCDjbkZyR4xXQc60WuLH9DBaajRSPehlONw+R5/XNUhZb9foWW40AqKD7vwTkHJHOPg1vhra+ghcm2uBvnJAI4896CvVrE7gRwPlE0nVo/U7ZT0+6m0QejY2fTlWVPOKG9WfHzRSbM1W4G/3iO6yVDgrTjv8A8orPFaT3N2tls1cDRCWPplftKWxu7p1ja0TtzQcilTRcKlpz+FwpO0KyPdnjFMcS+fSLot+qsVwS6Up39PqKAPkjL3NFFN4CQy455VeWSTZW74wu7MvvWsS9zrbRKVqY54Bzwe3mpTcrTIV74l6I3HhMpoAjx/Accfc0UVUhdmEqHdpVqVHQLWzcG3d5KjJeSsbccABKRznzRRRVcBSXnK//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Only You</div>
+                                    <div class="artist">DEXTER KING &amp; Alexis Donn</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwEDCP/EAC4QAAEDAwIEBQIHAAAAAAAAAAECAwQABREGIRITFDEiQVFhcQehMkJikbPB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAwQREyESMZFB/9oADAMBAAIRAxEAPwCXvthnzNaalnQbgiImI+jiCgonBbCsjG3l2qx07dtZ2d3pU3S3SGs8I50Yq35fH6g+33rhbSnU+t0KSFeOMrB7EFncbetMbRbW2HC+2FqRJkCQrjXnClMEYHttnFNYqSSY8VbjbS0iXcdRajkXHp+ocMZZ6dJSjHKx2JJ/L61ULYXy1csDj8sip/RLedQ3lPrGiL/lH9VboZ9qelgC6jBVFDEd/jSXSkDfIHztRTxMfttRRcom8U+bry/eLl9T58LTUlPOnpYUEgoKXClvbdQI9anbnqDVFkv67ZdJMtmVHUGlN+BOAB5EDcY8xTERdQWbXMhenY0m5ymWWlrcCedwJJOOLPYbfPpTG+6itOqr7Fd19a5sK4NIDXU2t5JzjOCppWTt7HtUbqFYgdybldu/U0/Tqoll1bOSZT3Ll2qBIT1jwUoE80cIOBsPirlE9FYzPu1o1frFT1ri9cxFtceOVPoLWFJWvcAE7EEedN24M9JBt7DUVSMpBStQwPbORitFJYAg6ldOWqL4su5rkeUHCAkZPsKKyRp3VsKQlxmTMd8X4UPN4/bhz96Kw41v4wgPnLvqs/Jl9pv16a1RJOlkhbklhCHQFE5CVH1+fPIqrtsfUsx95y4In29lGFOJ4G3A4nPiThCEqUMdxncUUU3JGrWnNxjupZ22zIUXV8iRa4s6JHkQ/F1McM80pcI4kJBPhqhXqi2JPLlucB/XlNFFVYtK2J3E5GXZSdLPVifYlKSvmtYJ7h7/AGiiijNC79mGua+vQ+T/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Ride It</div>
                                     <div class="artist">Regard</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC8QAAEDAwMCBQIGAwAAAAAAAAECAwQABREGITESQQcTImGhMnEWIyQ0UpHB0fD/xAAaAQACAwEBAAAAAAAAAAAAAAADBAIFBgAB/8QAJxEAAgIBAwIFBQAAAAAAAAAAAQIAAxEEBTEhkQYSE0FRIiNh0fD/2gAMAwEAAhEDEQA/AMJtFpjP29hxbCVKUnJJ70ybsEM8xUfNNNKwvMsUJXGUf5NWFi2glOerFbOimr01JUcTI6rcGSxl8x5lWVpeIhlLq4jQQr6T1c/Nefh234/bNfP+60NtOU4Wylak7J6gCAMYGxFcE24fxH9UQVV+6jtEX3Rhwx7zNr1YoTNolOtR0BaEZBHbeirnq+F0aYuSgnhon5oqk3NUWwBVHHxL/Z9S19RYn3kvQkJh7R0BwOtdZQlv6xlJUo74z2qxJZjJtceap8IbWlLpKQFdKQR1A49s7c1k2i7gpFikpD76FsNIcaU255eFdRTjI3xhR70+0fKamxxEdXNAE9tDLcZWOsFK1KCiQT2B2wd6QO43KPpOOB2jCbLprX+9k9Sen5/Uu0p5mNqeLHCluxXehr8tJIUV79Q+22e/NPbNaZDt+nw5qEJaU5+lV5g44AUMenOQcn3rK7DqBV0VElyG1svw1FLQbVhOUoKgog5PPO++a0rSEuZqyLDnpjNeaGiXXC0Up8xPcZPOMb8UNNxvJJJ4jWt8P6GpKzWnK9f75nDWumpFv8OtSvXV5syWo4V5beSG1HhOe/HV7A0U18Vm7nI8MJ0kKSYDtsQ+tKzk9WMFWc7nGBRQWve3BYydOjq0+VrGBMM0xK05GskJEuSyl1XrfQXFZUc7A4PG323phbJOmIj7bjV3S2lDhfACiPXjAHHGM+9FFQxmF6g5Bk6KrSDIWGb7GQ2QTg55P1bH3A/41Pg3XSggNW9d4y20np8xcohRO++ccb8DFFFeAAQj2PYAGPEY+JmpdNXzS7oTe48iREt5jRYqHD0lRI9WMbq278UUUVw6SBJJyZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Work from Home (feat. Ty Dolla $ign)</div>
-                                    <div class="artist">Fifth Harmony</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMC/8QAMhAAAgEDAgIHBQkAAAAAAAAAAQIDAAQRBRITISIxMkFRgZEUFSNxckJDUmGCkqGxsv/EABsBAAMAAgMAAAAAAAAAAAAAAAMEBQABAgYH/8QAIREAAgICAgIDAQAAAAAAAAAAAQIAAwQRITEFEhUzUUH/2gAMAwEAAhEDEQA/ANDp189xKkJQGR2Crg45n517k1DY+3hNkeJrJW9xJE4O8KfqFVtVuHkkju0ZcXC7zhhjf1MPXn8iK7OzANqJ14oeosOxK0eog9uNgPEc6aiuI5CArjJ7qyyXTsvSlCn6hVLSZlSVrmSRCkC8Tmw5nqUepHlWOQo3OFGMbH9Zcuo3t5XjkxuU4PfzorLyX0hkZzOM5zndRW1HHMFYgDEDqZBTcccs/BaPHR5HcD/VVbVpJtNlt2Vd0fx48Du6nHphv0UrsBHZpixmNtcRSKu/Z0sZ7Q7x5jIqRbsjYlLBsCvpujxOKDC554picrDpsMO07rg8Z88+iMhB/pvMV0a1HvH2SN+izDbIR92Rnd+3nXG9uUnnklCBEPJV/CoGFHoAKELDYQI41Rxq3Y9ngRNpSBjBY0V7Z1AHMDyopr2P7IhkkzylQsd8VbuOFJ9MUrNc6pAweG9Rx9oSRj+MCiioTXP+z1NPF4mvrEdXWb06a3wkbUUja3V1YbBGWz8843L4YP5Ui2oasq9KzTJHWpz50UUJbXU8GFs8fj2aDruNve28dnx5NQCThNz2/sjdrw3Zx18s9XfRRRTosbXchfF4+zx/Z//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">It Was Always You</div>
-                                    <div class="artist">Maroon 5</div>
                                 </div>
                             </div>
                         </div>
@@ -724,7 +724,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jun 2023, 10:07:44 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Jun 2023, 11:04:24 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
