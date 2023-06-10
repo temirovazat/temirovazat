@@ -32,18 +32,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.62m added, 95.4k removed
+                                    2.52m added, 92.1k removed
                                 </div>
                             </section>
                             <section>
@@ -516,31 +516,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBgECBwT/xAAvEAABAwMDAgMGBwAAAAAAAAABAgMEAAURBhIhMVEHFCJBYXGRwdETMlaBouHw/8QAGAEBAQEBAQAAAAAAAAAAAAAABAIDAQX/xAAiEQACAgAGAgMAAAAAAAAAAAABAgARAwQSITGRE1IyQaH/2gAMAwEAAhEDEQA/AOj6/vWtIGqpLNpuMSPb1lCY6Xi0CTtGQNwyec1WHtU+IqDkXy2KT3Co/fHbvx8eKYeMMCNc9Wu7n3G1oYEdwKgreCUnCtzZHCV+zNU1VgtK9RGcxMliIHgsR/JOcDGSOmPz816WGo0gkDqCetR3/ZaDqPxITG8w5drcGDgh3LARj44xWg1drv8AUFoz73WPtShTSDpu32yRIU6/AeStkm2OqaWlIICVoPXqTmoI0ezt3ZqVIbUsJlKfW0m2OBJBaCNoBGANw3f3VaR6jqTQ9j3OhaAvmtZ+q4ce8XCG/byhTjiWi0SU7TtPpGcZxzRS/wAIFWm26mfjQhKU7LdWpvfGcQG2gn0t5UMYHPzooWY+WwiMICuZv4hX2+J1pPtsJDS4wCNoLZJPpB6g96Vtp1Ehe1+M0ELwo7UqyP5V0qaYUnWr0VTSFSTsCl45AwDj5UhhzbcpKnlyFrjh1wJbAKQlIUQMDtgdKSuYVVC19Qpy7kli0UF+6pYSGkMrTjj0KGB155pZcrhfEqAZEYnGOUH71Y3bpADqvLuOBv2bk1DLvVrYRvmNOrHdtAP1rRXF8SGQ1WqQeGt1vj2rIkaeqP5YpXuCWyFdCRznvRTTQ+oLNN1RGj29EgSFJXje2AMY55zRRM0bfiorK3o3NxvqLR1zuGo3rlCnojgqSpG0KSvhIBypKhxx0qvNaBvlvEhEcMPJccKtxeJJ953c5/eiijrzc2ZLE8qtD6j/ABE7o7akE+ra6On+4rEvRd/cZKU29Ofe4n6miitPI1yBhACS+Heir1atXR51whFlhtKxuC0KHIx7OaKKK47FjZlYaAChP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGAwIEB//EAC8QAAIBBAAEBQMCBwAAAAAAAAECAwAEBREGEiExEyJBUXEHFGEVgSNSYpGhsfD/xAAZAQEBAQADAAAAAAAAAAAAAAADBAUAAQL/xAAfEQACAgICAwEAAAAAAAAAAAABAgARAyESMQQTIkH/2gAMAwEAAhEDEQA/AILG210uOF+eRLYglSW79SNfPT/t1X482ynk+9eaTR8kCbPN7aG/apMYPL4uB2toLe/RSGJZNtF8Ix1o+43XH7TPQSWy3KTWiXLiJWB0o+QvUDX4o2DEbap2pW6AuVeVzkFrcGNHliiVhG7Mu2B3onl3/ili5mYRufFeWEt/DkZCpI9iPQ/ikMDRLlZ7aVIshAjGEyeKUjLMCFffQ6B6+nbrVhwpn5OC8HfW1zAl3d3s/hqJk2FCqfMB779RXA4Udz16+VitxDeZjlHnJorTJ8ST2fLFlFcyyxK/huvMFDDfrRShrhFKi+w46vLZtSq7xfyq2tj/AFWWXz0uXvMccXbC0e3DM5LdG3rqdetLcRgb/IXYtbOJDOVL8zuFVQO+yegrrXNvc2rctxCEGiRIOqtrvojoetA5BPG5TjUj6rqP4uH5ZcgtxlbtBBesCvgp40s569VA7apxf4K7lntobSdLuZCFkSPe4QxCB3JGh0A6Ak/NS2Jy8axTLNII38LylRocvsP6idDWtV6j9VRZ8Lz8OvayLbj7MTTWsSAGV15ddfTZOt9TrdCcbE1ehGOVV2BsyY+tmNuIbvEOtlIrC3a3k5PMh5TtSrDuCCe42KKSZ3ijJ8SXiXN3yBUBWKFD5UG9n9/zRVQNCSVLC1gtorqSK3jaAcojkZ3JPL3Yk+2qnsjxif1W5it4IGslbSxsg121v+1FFZrDkzEzYx6VQP2TkOLhy/EtpFjmeMTPzsjEAoQd9G7a/amH1bzt7m+LEe9jEJt7dYUTXoCdk/kmiirMLEqLmf5KhchAkYl08TaVyo+aKKKcCTz/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fireflies</div>
-                                    <div class="artist">Owl City</div>
+                                    <div class="name">No Drama</div>
+                                    <div class="artist">Becky G &amp; Ozuna</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwIFCAP/xAAxEAABAwMDAwMCAwkAAAAAAAABAgMEAAURBhIhEzFBFCJxB2EjMoEVJEJRY5GhwfH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBgECBQP/xAAkEQABBAIBAgcAAAAAAAAAAAABAAIDBBEhMSKREhQyQmFx0f/aAAwDAQACEQMRAD8A1E6dFgvR25bqW1Pq2oz2/X+Q8Zp20/pVEtpMi4OhppRG1JUE/GSe1IEoiQhy7Tkw2I0EFaDJb3A+QCfuQO1VvevqPfbtcnHUvraioJDEUK9jaR2H3OPJ5pR8nJaw2I4A5P4nK9cMHTnnuupnNN6aQkoXMaDn9NwrP+OKQdT/ALKst0THcuLKgvG0I96v7DtVZ6G+o8q2XND92Bfb5T01/lPFO0eNB1tcRI9S3FaQCoqJwOPjvUmiKxAcTjuhYLcuyHZ+04z9NdC2tyQr86QofBGRRWFmejEyYMe4vS2o6Eg7k4Tntx57CiuMsrWuwEdBNIW9SrHVN2cf0jPt0vat59AS30x3IIP+u9VTDirXw22VK4zimZ16ZKk+sjNrWpK8bm0EpBGOKhOO3Dc8YsSQVFR6hS3585wKYK0LoWlrRztZFt7JX+MleVjtT8/UEOJJYW6jro6iCDjbkZyR4xXQc60WuLH9DBaajRSPehlONw+R5/XNUhZb9foWW40AqKD7vwTkHJHOPg1vhra+ghcm2uBvnJAI4896CvVrE7gRwPlE0nVo/U7ZT0+6m0QejY2fTlWVPOKG9WfHzRSbM1W4G/3iO6yVDgrTjv8A8orPFaT3N2tls1cDRCWPplftKWxu7p1ja0TtzQcilTRcKlpz+FwpO0KyPdnjFMcS+fSLot+qsVwS6Up39PqKAPkjL3NFFN4CQy455VeWSTZW74wu7MvvWsS9zrbRKVqY54Bzwe3mpTcrTIV74l6I3HhMpoAjx/Accfc0UVUhdmEqHdpVqVHQLWzcG3d5KjJeSsbccABKRznzRRRVcBSXnK//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcC/8QAMxAAAQMCBAQCBwkAAAAAAAAAAQIDBAARBQYSIRMxMmFBcQciUYGRocEUFRYkU2KCsdH/xAAaAQACAwEBAAAAAAAAAAAAAAACBAABBQMG/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAxESBCEiMUFxEyMyYfD/2gAMAwEAAhEDEQA/AONNxxWpEZNt7CmGTMt4jmgTVxZUWLHhpSp52QvSLKNtgBcmwJt2pwjJctzC4nEID8mUywXgSUMpUgrXrHgQlTe3Y0WUaQqegkfIcQ0CAQR51jecW4j1baRTuNlqROxpuFHUvQ84UtuvNlAKAeu3ssL2qyiej3DmXlIkYzqeK2UoKI5sC4o6b2VsdCSs72A914avYRhdOzHnsJzRmNukuqIPgO1FVOM5XTEjGaiWlcV6VwY6lpIW6jSFFzTc2G6fO/aihsTIKSn4i4k7Ghyo7lmXXEX/AEl897jl3qwyZiOIYTjC5ZmPNuvX4hdBUHbm51C4PPe4IIO4qVi4ihC+hw/yA+lP4mMTHCjShKtOyQpF/nSdVqh2julSinJTc+J0SNh7uJSZDiGlAvI0FxslRsrq9ZSirtz5bVnxjKuIcNhEh2TJhMaQlpxZSnSPAC+221+dqxwMXzHDhCSy000yOS+GSgfSvWL+lTHncPEN5GHkAWLgaso/Os/3i3EgTSeoCOQyH3J/MgmLlsJZbEaFHSUMspAUEAm5JNgCT2AFgABYUUjm5pmOBSVOJN/DSP8AKKfX17bkRTPRpsCR+8yVZaXqHEUGh+7n8Kf4Q9EbCV/a2Q6lYH5nVYD2hIBB99FFOYA9Z55XZehlV+MZSohY+9GVNhXDKLK6b9Q2tb+qjsZdZWoK47C1K3PAJ28wRb4UUUIRR2ltXqHYmJ+E44oCOeKo8kp6vh4+69FFFXac8jP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Only You</div>
-                                    <div class="artist">DEXTER KING &amp; Alexis Donn</div>
+                                    <div class="name">Inside the Lines (feat. Casso)</div>
+                                    <div class="artist">Mike Perry</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAv/EAC8QAAIBAgUDAgQGAwAAAAAAAAECAwQRAAUGEiEHMUEiYRMVUYEjMkJicaFDUtH/xAAYAQEBAQEBAAAAAAAAAAAAAAAFBwMEBv/EACERAAICAgEEAwAAAAAAAAAAAAECAAMEERIFEyExI0FR/9oADAMBAAIRAxEAPwBe03prLq7QCVr0I+cGCtnhcyMBUpGFAsAbb1YjiwDLfyMNmfdPqcfNocoy2KKZEpxSk1JN2Y/iAXdt1hx2HsL8nO9N6qqaDLoqJaaGWCKNkTc5BDFmbdcH95Fu33wzHW9TLUipfLqQzLIsqeuQqjqLKQu6w/7zjG/IVTqe0oxMljyT1JmZ6T0+c2MPyuF4Z0epglilldbpBGyo1uV3O1iWPKsbG+3GQdPdLZjmtVXVUUpoJaMld5W2yQ8WuSAnPF+SPAvhlr+qua5DmKrl2WZbFTbQkkDb3Eu38hvcEbSOLfe+LjpPX6lnymsraKOleeurHmmWqgusm833D9pO72xldZwq5D7gThnyitnnUndb4avLuncXx5qeSgrKiljoYUUXjKRsXYEckdv1Eerxgx519oTqX1JzGiIyehpMroo/h0qJOscRBuS9ib3Nh47W/nBjalOKCH3WcnOol5dHe3ewxdBVEYsPGKqhkWCAtIwAHuMXNPNEjU8rsEUsp9Zt57YHsJJ3KpiALWf3UbdKdEIM+OY1mpGlaaWlYU9PG+0wyXG1ib2JH0PHONi0/pGhyyJIBImyOnhjdFKgp8OMKVsO3b+74oumGes+s84y2SN3FYGqaWZTdQqt6wfpcspH1w+ZnktJV1YqK9YnYMnw2YWK/UXFiR7HjHbSvepDN5k0zbnW9iPZlzSOjU8ZXbtI4C9reP6wYFENDTqrOAq8XY4MIjehDWYb9ziKKkd5o3VhaOzKp/29/tiXRZck9cslUBLM8gCBjcIL8ADtgwYDuPE+JXqqUKbMdYtUzZD1h01NR7ZIKuWalnUn/HLIF3fyDtP2x0TNtdwlVURyMsgdUG0dvY84MGEenD4QJLuqjVhYSZLtkj3TxekeCb4MGDCMKJn/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAQDAQIFBgcI/8QAMhAAAQMDAQQIBAcAAAAAAAAAAQIDBQAEERIGMXSyISIlNVFhcaEVQYGxBxM0QlJy0v/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBCExQf/aAAwDAQACEQMRAD8A9CQUTGrhI9So+zUpVu2SSykknSPKnHImLQkExlof62yT9hVdn+4o3hmuQUntJPtRBbZTpVdupK0IJx1RvJqukuzdKU56xJzHxII7LY+lmP8ANSNxUU4nUIy0Hy61skH3FYC220S/a6hbgPhWCNXVx4g1moOYEmXkqYUytvGOnIUMbwfaqTT8FOqyCzJEU1ERqYa/UmPswoMOEEMpBB0nyop2d7kkeGc5TRUaHTJ4LYDuKN4ZrlFc7/GCIkk3bE3YhT1q22G30JHWbwSQrzHTg+FdCgD2HHcM1yCn94wRkGo47LAarnTZujz7GO3a1NONIUUHCsD5+lds2cYU3ZIU4lYcIydas+1KvbLWXxBq5tmw0kHrtJ6E+o8PTdWeZbDSAkZI86MIa+nRy+VG9LVC073JIcM5ymiqTh7EkOHc5TRTZhSujSoqUkU39gE39qIkMNjSX2QMfkbj+/OvH0raLWVtlNKTdyFkFEEHRcJx98+NFFFCnh/C43kbnvW33g/qBvxj+XtTCJaNSlKfiNoQBjpfTn70UUgaIUmpaPVDX6U39oVG3cAAfTknSfOiiii2a1QWD//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Say It Right</div>
-                                    <div class="artist">Nelly Furtado</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYBBQcDBAj/xAAuEAACAQIFAwIFBAMAAAAAAAABAgMEEQAFBhIhEzFBIlEUI2FxgQcVkaEWJeH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQDAP/EAB0RAAMAAwADAQAAAAAAAAAAAAABAgMRIQQSMVH/2gAMAwEAAhEDEQA/APnOtiMaSlFNrk8n8YY9D6RpNSUU7PFmT1EVR0mFJtOxemzg7SLsxKFQARckYrswEZoZZtx2kMQDwe58Y6ZDrJsoyety6ipmSetqo5fjI2vLEqqVKotrXNyN3sSPONbQ9F/mWkGpNJSQNm1KKumVJZw6MU9RuqI6ht7XO21hyGtcC+ETUeQ5jp+emizWHpS1EC1Cr5UG/pYeGBBBHcYe5dU10uXNNSisplLo7RU8UWz0kgegg83Zjbxfiwwqaq1lmmoKNaHMJFmgim6qSPEqyg2IsdvA+tgLnAvfNgrfNlLQLujm+WJANrbb/W3j74MdMvSR6arWFgWZBtVWsxO9fHc8XwYC+C7JeneaHet1p4lBdiOzEc/knHHKoHqMzpYo7qzSKAfbnDpmtTQZpJ00/wBdRQg9GnjTeSfdiCLk+T4HAFseanynbntHHku+rmaRWhDJsLD3IuQB+eMNU66GetGqfp1o+HM8rq5q/NYYo5LRqkYRXdgb979za1u+ML1TlsmWahr6WVCuyZrC4Ppvx/WNh0fkNPAlblGbUlfHMssdXCRwzEAjv222P3GE7UGTtSZxP/lFFW0tdUFpdjuLMnja1je3b/uJMWW8uRqmW+TKULghGlYQvOQekb7W8E3HH8YMMlHJDlk7K0K1NKw+ZGzXDD6ccHBir1ISpnqOmiWIu39YihrZ6eo61HM8UroVLK5uoPft27WwYMC/w5PppeXa+qJDllNmTs8rxseoz3IueL/exxGt9TQZlltT8XR9V+mI1qCeRdrhRYcWNj3F/a2DBibFjlXtFGXJTjTEGjmT9unQz272U924sB/ODBgxUZSto//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Hecha Pa' Mí</div>
-                                    <div class="artist">Boza</div>
+                                    <div class="name">For You (feat. Park Avenue)</div>
+                                    <div class="artist">Rich Edwards</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -555,6 +548,13 @@
                                 <div class="infos">
                                     <div class="name">Solo Para Ti</div>
                                     <div class="artist">Alvaro Soler &amp; Topic</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwMECAL/xAAwEAACAQMCAwUHBQEAAAAAAAABAgMABBEFIRIxQQYHExRxIiNhkaHB4VFigbHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAMBBAUC/8QAHhEAAgMAAwADAAAAAAAAAAAAAQIAAxESITEEQVH/2gAMAwEAAhEDEQA/AObdPm0lLQreWksk5Rl41kIAbOzY67dK3ILjQRapE9hM0wGGm8Rtzjnw5wN6RQoHYDOKkdtpiWdms94nvJN4UzuR+p/b/dE7hfZYpqazyLTYhbYyxvI++ADHjP1+1ZlsHVRxLvw5I6/mmemXSLccEwBibZhU5PZC51BF8mpRlXi9tcqy8x7Q5H5g7UJtzoy2PjHNEqyeDw88sUUy1yBre4eKRVDxkq2B1BxRSA6ITV4YmsCEuUJ5emcfHHX0pjeahdXt07X0plmbYsfhsMY6YpfbNgjljO+1Z0iYyEAE8O4OOlSwG6ZFTMBxEmvdzoi61rccTkJDGDJI/LCjf8VemjRm3u0jaYOJPYH2AOeXT/hVV92cBtbOaZlJR2XjAOCyjfHp/gq01ubTyaPIbaxg2cySHGF2J35DI+tZz61h/JsLxSoD7nP3eTD5PtZrFrjhKXT/ACJyPoaK897Gp2eq9ttSvNNnS4t5eD3iAhWYIA2M9Miir6KeImS9mMZDoztW5ZXTW9ykuA4U7qeTDqD8KKK7Yb1BRipBElr9vLuKPw9Nsra1iAwqnMmMcufM/wAVHNU1nUNVkDahcyzY5KThV9FGwoorha1BwRmtZxrGK5t6KKKQQCJ//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ignite (feat. Alan Walker, Julie Bergan &amp; SeungRi)</div>
+                                    <div class="artist">K-391</div>
                                 </div>
                             </div>
                         </div>
@@ -786,7 +786,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2023, 05:04:04 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jun 2023, 06:32:35 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
