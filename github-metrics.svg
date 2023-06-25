@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.74m added, 97.3k removed
+                                    2.68m added, 96.2k removed
                                 </div>
                             </section>
                             <section>
@@ -546,17 +546,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMBBQYEAgj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBESITETIkEFUWFxkaGxBiMy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABkRAQEBAQEBAAAAAAAAAAAAAAABAhFBEv/aAAwDAQACEQMRAD8A+YuuCGHRiGYxHkDjGO7nk45+TVx6PbJfXLzTxIlrHp1BdskDgb+eTVPaQNcTrGmBnkngDyTWgM6QwpBBtEnHyfJPzSkDd8jTp6uXvOqY4gurIjC9gHsBnist/Kb1bj1Bp1ihdWUR6sbgqck88n9VY3MIs/QbT1E3UDvcax0Fzrj04wWyMb58E1k1cvG8bb6u4fWq67Bzmy9Q84ZmboxDVq2AOBn238eKKRmig6rKAC2j0AjqN/s5/FeHnKSDfb61zCRjuTikSMSeTS6Pz7Vne3ZltY47cSdFFGrUc93k/ANcLq0TAMpVsA4/IqLRZHnRYnCSE7EtgfemiKSaeRZ3KSrt37b+1EyZR35HB3oqWUqGRgQ674/dFawaw3Or75pUmM9pJ+tFFTUJnIxzTZJ5JW/tlZsDA3ooqYTq7sgnNFFFSf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EAC0QAAEEAQMDAwMDBQAAAAAAAAECAwQRAAUSISIxQRNRYTJxoQZCgRQzUsHx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgYD/8QAJBEAAgICAQMEAwAAAAAAAAAAAQIAAwQRIQUSUQYTFGExQZH/2gAMAwEAAhEDEQA/ANC0B1h/SyxLdaDlb2QDykeO3iicj1GM5I0t2K1JaWlZTtbCCTQN0DVePOL2hQFsNh6Y2spWOhoAnd96F46aeyiBGXJlOpQ2UbSktkAHxQ73eN77Uq2SZkMHGuyCqov1M5kaO+rYzIS7ulvISEqR0oSnq4I+1ds9aZ+nIaJMuTILoZQpYQqqskUee23j6uPjNJQtuY22pmQ2ttYO1sppRrjz2/3idq0bVHZslmW4qPGoqUGQdhBoJsn6vtY++cfk1unfviNRi2JZ7QU929a+4lPa5rrkmVJclONNoXYSlNtJ8BI8fmycManf0jMmrUQ6yxA9NKkk/S5x2SmuDfe/Pk4ZC2IyhlOwZDU2BiGXkS5mqbEQKZdCvVV/bTdbRfk/J8ZXJS6AkJKz1cUOFVz2+Afzlyn+n1ONHXGbWsbeksgdA/xUn9p+DRzqjRYzUYJcaLit+4lxsq2n2AFgc883Z/iluTi222E+fP4mm6V13EwcNalG2/fEonHJikncpe5XYlWy64Ht/wByJtZdf9JDyFKPVtCr6fHx3/jL2Vo0zUlWjVylgdmygHjyKUM50QW4UBccT3PWpREj0bA7fFfnKLhVpoM4E6N6hyTs0Uj+QiQnXtLdZcaJQpQLZ3USqqPA5qh3NAn4GGJU/TNSVLcTE1Nt526C2VrSeRdGyQDz7jDGlOOtK9qnczeTmPlWm2xeT4j2rTH4ry5DkiIzIbSouNNVbo8g1wT572MuWIkfY2X3FlZAKve/bDDLXVpcAXG4Fiu1BYVmdMNmM2+F+kLNiyeayLUosVSVNFKQVJ3UhP7fcexwwyiVIp0o1CjkWMu2O9zLnp6tJksIU0ElVpLgO3pI4AFnzz8eBhhhhoAgRdhwDP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In Your Eyes (feat. Alida)</div>
-                                    <div class="artist">Robin Schulz</div>
+                                    <div class="name">Numb</div>
+                                    <div class="artist">Marshmello &amp; Khalid</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAQDBQYBAgf/xAAwEAABAwMEAQIEBAcAAAAAAAABAgMEAAUREiExQRMGURQiI2EHMnGBFSRCUpGx8P/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgH/xAAeEQEAAgMAAgMAAAAAAAAAAAABAAIDESEEEhMxQf/aAAwDAQACEQMRAD8A9YkQkyUFqQ0hxOcaVAHesnfbTKDxTb2lGNypHk/q90+3+asJUh51rQ08W9RwpWdwnvH3qgdU2JzTCS+uN5Al1QGUtjP93P6iofqdxZCzqZiZElNNrfmNqatynw35M/U5+ooD7b/uKTnSYBnS34zL38MjuY1hBOlJGd/bYHnFX/qh+xymHVeV+I82ShkO5X5Sck4AOwH39xWN9OzJkOe9FYQXkzEqaKB82pfKFYwc4I4wcgkd09cZasr4M3kz1xaGmW5a1PeOOnQ1bnGdC3lDSNSCTpIAHR7yN6Ka9NfhvCRcW7p6git+RSEBiJpVhC9ySW9RAO4ISDge1FLukzpiE++u+AIjM4eTkJVjOs7kZ346z1VY3Kv8+SlmOWY2oaktoRncnACt+z/wqVDLahlL0dtxKSpYfJG49sA/6p213RhiI6FSWGZXkaUlwIwG1ZylIUrbkZ2H61Njfb8gAYzhF7lYJSFA3LV4UJP0gA4EJJIBBTsolRHCtu6jsjjkAiRZ40duaxqDUp1zIXlPSCM5GccYHddLvcPVk9TUGFdkyojjo8bJ0EJABOrZO457O9M2+Zbm/USF6Em3qWlK9RKg38oCiNztn5sClqNdE18ujcu7pe5siCn459ImqbBU40k4SrjBHBG9FUt4vEaWuY1D8JbjOlvLaTocA7wedvaiju6YgqdYhGXIkR46pQQsNJV+fYKUeiOwKil31UiKhE6Gic4wgMpS5GBb0gY3GNzsMKztjuiil8fvJ2oLHoN+kzrSzaojYgNNAeZDQBLozkbp/KBnofvXEECBOk/yfxEd9nxupcUQSc5CgQnbj70UUrx1FMNL9SV8hVsClluNMjvq1HQXU4UocdZAxjkA/eiiipcpq0w1K8J//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRAAUSIRMxQVFxBiJhgZEUFTJCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9Gw1dsasqFZn4ztVzk2oTlsQHOjXXWClv0B9T9B3yiRj4jhydff0qMvqPR1BDx8JUU7tvvVH742eUKzmegNtR5D+pKUNyUdJ2Qoj5nOSkqJ9Ae/1zU6DrZ1TTgt5BaltqU280e6VA1+D39sC/LVd4ZUkO2e+GBUQaPge5xU5rPXizjGZC1tb0oJ/tQr8X/mS6vIU3pcpbCCtzYQACPufxnN3PiDWYS3Y0ONAcZaaKnyXVJ6SQOVA1SgAeas89sDo6ITL+lxwlIQppIO5PG/i1X6gm++LdS1I6RMjymYhUlxzpydn8loqkqHg5kZurazqM1uDNYgvBvn9PGeUDQNbimwFCx5581XOMNW1ecmVDbGnByG6ylRS/YXtKkp4o1YKh8pFjA37D6JLDbzStza0hSTXjDK2mPLMNBkNBlzm0g8e4F4YQlMvcCFHg8Zm5uhJkBwNzXUhwq3Badw5BB49iRfesMMqqqtBnlaz+7I2q3bqY5UCSSCq7qzdXX0y6jRl7lF3UpCtyUIIABG1JtI+YG6Pa+cMMB+xILTKG96lhIrco8n3wwwyD//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In Flames (feat. Lexi Norton)</div>
-                                    <div class="artist">Dabin</div>
+                                    <div class="name">Electric Glow (feat. Skyler Stonestreet)</div>
+                                    <div class="artist">Tritonal</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBgcFBP/EACoQAAEDAwQBAwMFAAAAAAAAAAEAAgMEESEFEjFBBhMiURQVI2FxgZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUEBgcA/8QAHhEAAQQDAAMAAAAAAAAAAAAAAQACAxEEBSESMaH/2gAMAwEAAhEDEQA/APMUcK3SMjE08MBcQJZGx3HIBNitZc7xBcVk8UZleGN9kqm4G4DhcchWXY6XwbSp6emqZ4Q+sdGIopHtG5rBxvAw42tzewwuX+TUJ03Xayl9u1r7t28EHIslmBtGZbiyqITDYax+GT2xdLzOERE1SpXhcxsgdKz1GAH23t1jP75Wp8Mfpc2sOMtAPUYwGNplJvdzQTnsD/Vk7YUsnfSzRVMW4vicH2abFw7H8jCiZcJlicGntKXizGKQFq7jFqlS0TB1FN+J2yNu4Dkc85vysB5/UUX3iMvoXfUFodJeXgXNhjC12meZ0L9KpKnVWtpBI54hYXbnuYw2BIHB6+P1XKtarTqOq1VWb2lkLmg9N6H9JBp8UmYyEVSd7nKmsxyO7zn218shDnksbtaTht72CKqK01SrSJ1lERXKSSbXJJAtn4TlEQqkXOJ6VCIiKC//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Dreamin' (feat. Camden Cox)</div>
+                                    <div class="artist">Embody</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -567,24 +574,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAgMGAf/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEERIhBRMxQVEiMmFScaEGM4Gx8P/EABoBAAIDAQEAAAAAAAAAAAAAAAIEAAMGBQH/xAAgEQACAQUAAgMAAAAAAAAAAAAAAQIDBBESIRMxBUFh/9oADAMBAAIRAxEAPwDi/TLEGbaRTjYVb4OFuJYY7yYCFsaVI3HnFQ+TJHIyA9NjtXs8NwVAguXgeRSmpQDjIx3rT1m9Hr7MfaQj5Vt6OomueDvfJbCzka2n1rFeZGlnX3Drkfz1rmuJW629y0SsZVG6+Pvmm2k4NL+lo7AW55kbEB9RyJPbqBzn/dKQWBl5MDSapY4/3PPztSFhKq2/Idj5mFtGMXSMDIeS6HPXx1orRcuYXJG57gUV1NsGfUG+otRvDLdSMxZUX1MRu3xik7u6IihES8wgnY7HFKxFmnVADr6E+aemhMQGcMr7DHUfNC45PVPV8F2bkwQSIzNFJE8bxD6wuR9/V+RWfC7lZJ2EkOB2bG6jf81KaUW94kLHUMuxHbVtg/mq9vdSpCU0rj3dtqpoR62N3k8xS/BaWSMyMSpP06sUUXFtzoWeRdJ7gHtRTDQnFrHTfw94nuRliAV64yDtS11cx89jGSNP90UVGyJLJNXVJfLM+nTnJ81WWZWQsWG+NqKKGP2HVecG95IltpEUEtgYGcUUUUZSkf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Million Dollar Baby</div>
-                                    <div class="artist">Ava Max</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAYDBAgFB//EACkQAAIBBAIBAwQCAwAAAAAAAAECAwAEBREGEiExQVEHExSBFSIyYXH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAACBQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADETEhUQUSIkH/2gAMAwEAAhEDEQA/AOdOH3Fhacpxc2Yto7rHLcILiGTyrRk6bf8AwHf6ro/McK4TFcXH52Ox1nbARPFPCAFBWYA7H3GJVg6ht6/r59q5YroH6Z5fIZLjljc3VxbX7W6NCfzA3WDq+l0+tCQpIyge4K+Do1keURx62oxHeISsjRmW1x/FpcymLk4zhlCcgbGtMHbZgUGQP/lryB136ar37jj/AATH5FlyWExsffSQwpDsyFVeRwNSkBioUAk6J8a81svbyX/J8ld2l9Ekd/bLaqYrsEqy9x2KdSWAD+PYFdHdQ/1AlzeGx+UzL52y6XiosVhJGZJAjgBQCfBKqN9yN7371mKzX2BQ5HA/TuE0NT4nlJoLnJXc9pAtvbSTO8UK+kaEkhf0PFK1aV1Q+RiLRVHxy8zlljbibEojWiTI7s8aP1kAbRAbz6E+g181OVZcUu758C9iLSKbG/liSRu5jlI6juit6AEBT6E/FDsAK4IzC0IHcKZ7+OyfJchaY65kvLUzXRb8JIIIWkLdtaIA35ZPIOtDR9Kk+W5fkd0qWHImcfafsEeFUO9fIA34NUWZuoRmbRsRipsDNj75me9KgrH6EKSBosDv/WtDQrW+p95k7+SOS+W2eKNwveGAIYz0AWMsPgLvr7Enfml0RFcEKIzZThCepA0pSnIjLfBxcU/hokyLW73skZZ3eWZWRvPgdR13+iD81IR3c8CSRQTyLCW31DaBPsdfNKVJMkciVMXKwnEYMaHkE0byM69mIkZt/wBjskeh861vQqUkuZpIRC8rtErFwhbwGIAJ186A80pVEQKSRD2XM6qp0JhpSlXgJ//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">C.R.E.A.M.</div>
-                                    <div class="artist">El Michels Affair</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQYI/8QAJRAAAgIBAgYCAwAAAAAAAAAAAAECAxEEIQUSE0FRgTGRIkKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAAIDAAAAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwD1SAR2SfK1XhzWNgJAAAATT+ABQ41bLT8Otug5J14l+PjO5SjPUSfDZKueL5uyxr9VjKT9G28Nbh57Y+ixlULfHPWcVnLVSqr0utiuZpylCTfpLt7Lur1nSsqVvUrrlDKcoNvm8PHc1N/K+gs93/C7QWi0rzRB8koZ3xL59gmBlAAAAAAAAH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Glad You Came</div>
                                     <div class="artist">VIZE</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAQDBQYBAgf/xAAwEAABAwMEAQIEBAcAAAAAAAABAgMEAAUREiExQRMGURQiI2EHMnGBFSRCUpGx8P/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgH/xAAeEQEAAgMAAgMAAAAAAAAAAAABAAIDESEEEhMxQf/aAAwDAQACEQMRAD8A9YkQkyUFqQ0hxOcaVAHesnfbTKDxTb2lGNypHk/q90+3+asJUh51rQ08W9RwpWdwnvH3qgdU2JzTCS+uN5Al1QGUtjP93P6iofqdxZCzqZiZElNNrfmNqatynw35M/U5+ooD7b/uKTnSYBnS34zL38MjuY1hBOlJGd/bYHnFX/qh+xymHVeV+I82ShkO5X5Sck4AOwH39xWN9OzJkOe9FYQXkzEqaKB82pfKFYwc4I4wcgkd09cZasr4M3kz1xaGmW5a1PeOOnQ1bnGdC3lDSNSCTpIAHR7yN6Ka9NfhvCRcW7p6git+RSEBiJpVhC9ySW9RAO4ISDge1FLukzpiE++u+AIjM4eTkJVjOs7kZ346z1VY3Kv8+SlmOWY2oaktoRncnACt+z/wqVDLahlL0dtxKSpYfJG49sA/6p213RhiI6FSWGZXkaUlwIwG1ZylIUrbkZ2H61Njfb8gAYzhF7lYJSFA3LV4UJP0gA4EJJIBBTsolRHCtu6jsjjkAiRZ40duaxqDUp1zIXlPSCM5GccYHddLvcPVk9TUGFdkyojjo8bJ0EJABOrZO457O9M2+Zbm/USF6Em3qWlK9RKg38oCiNztn5sClqNdE18ujcu7pe5siCn459ImqbBU40k4SrjBHBG9FUt4vEaWuY1D8JbjOlvLaTocA7wedvaiju6YgqdYhGXIkR46pQQsNJV+fYKUeiOwKil31UiKhE6Gic4wgMpS5GBb0gY3GNzsMKztjuiil8fvJ2oLHoN+kzrSzaojYgNNAeZDQBLozkbp/KBnofvXEECBOk/yfxEd9nxupcUQSc5CgQnbj70UUrx1FMNL9SV8hVsClluNMjvq1HQXU4UocdZAxjkA/eiiipcpq0w1K8J//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In Flames (feat. Lexi Norton)</div>
+                                    <div class="artist">Dabin</div>
                                 </div>
                             </div>
                         </div>
@@ -816,7 +816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2023, 09:30:29 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jun 2023, 10:08:34 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
