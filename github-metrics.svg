@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.45m added, 103k removed
+                                    924k added, 97.6k removed
                                 </div>
                             </section>
                             <section>
@@ -546,31 +546,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBgcFBP/EACoQAAEDAwQBAwMFAAAAAAAAAAEAAgMEESEFEjFBBhMiURQVI2FxgZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUEBgcA/8QAHhEAAQQDAAMAAAAAAAAAAAAAAQACAxEEBSESMaH/2gAMAwEAAhEDEQA/APMUcK3SMjE08MBcQJZGx3HIBNitZc7xBcVk8UZleGN9kqm4G4DhcchWXY6XwbSp6emqZ4Q+sdGIopHtG5rBxvAw42tzewwuX+TUJ03Xayl9u1r7t28EHIslmBtGZbiyqITDYax+GT2xdLzOERE1SpXhcxsgdKz1GAH23t1jP75Wp8Mfpc2sOMtAPUYwGNplJvdzQTnsD/Vk7YUsnfSzRVMW4vicH2abFw7H8jCiZcJlicGntKXizGKQFq7jFqlS0TB1FN+J2yNu4Dkc85vysB5/UUX3iMvoXfUFodJeXgXNhjC12meZ0L9KpKnVWtpBI54hYXbnuYw2BIHB6+P1XKtarTqOq1VWb2lkLmg9N6H9JBp8UmYyEVSd7nKmsxyO7zn218shDnksbtaTht72CKqK01SrSJ1lERXKSSbXJJAtn4TlEQqkXOJ6VCIiKC//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Dreamin' (feat. Camden Cox)</div>
+                                    <div class="artist">Embody</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAgMGAf/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEERIhBRMxQVEiMmFScaEGM4Gx8P/EABoBAAIDAQEAAAAAAAAAAAAAAAIEAAMGBQH/xAAgEQACAQUAAgMAAAAAAAAAAAAAAQIDBBESIRMxBUFh/9oADAMBAAIRAxEAPwDi/TLEGbaRTjYVb4OFuJYY7yYCFsaVI3HnFQ+TJHIyA9NjtXs8NwVAguXgeRSmpQDjIx3rT1m9Hr7MfaQj5Vt6OomueDvfJbCzka2n1rFeZGlnX3Drkfz1rmuJW629y0SsZVG6+Pvmm2k4NL+lo7AW55kbEB9RyJPbqBzn/dKQWBl5MDSapY4/3PPztSFhKq2/Idj5mFtGMXSMDIeS6HPXx1orRcuYXJG57gUV1NsGfUG+otRvDLdSMxZUX1MRu3xik7u6IihES8wgnY7HFKxFmnVADr6E+aemhMQGcMr7DHUfNC45PVPV8F2bkwQSIzNFJE8bxD6wuR9/V+RWfC7lZJ2EkOB2bG6jf81KaUW94kLHUMuxHbVtg/mq9vdSpCU0rj3dtqpoR62N3k8xS/BaWSMyMSpP06sUUXFtzoWeRdJ7gHtRTDQnFrHTfw94nuRliAV64yDtS11cx89jGSNP90UVGyJLJNXVJfLM+nTnJ81WWZWQsWG+NqKKGP2HVecG95IltpEUEtgYGcUUUUZSkf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Million Dollar Baby</div>
+                                    <div class="artist">Ava Max</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcBAgQFBgMI/8QALBAAAQMDAgQGAQUAAAAAAAAAAQACAwQFERIhBgcxQRMUIjJRYSOBkaGxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAHBEAAwEAAwEBAAAAAAAAAAAAAAECEQMhMRJB/9oADAMBAAIRAxEAPwD5Ybo07g5+iqejI2d+6tWxtlufVskeB6WYRS3pC1SlazXHGduiLavtzmn2rDrKZ0BGQQCi5aBNqvDFRESjlVLPIu22y6y3aC7y+FE2FkjXBudw7H+qJl2nLbiSmsFwmNZE2SKZug5Gcbg5xkZOQOuyeHjJc0/UYTPV8C8PSnNHcYng9i1wP9KJebVnhs9wpIKaSORjoQ7Uw5HuP19LupOLaLxamSGutTKWSfzDGsbIJGH4btkDBcMbYz9KPOaHFDOJ7uKlgGGjSMNA2znfHckk/qqW3nZl4Yyk+zhkRFA3m0oqe2PpmPrKyaOTXh0ccWr07dDnr1+VgTBjZniF7nRgnS4jBI7bIib8AvS3WflWk5KIlCe/4/Ke4eLqxp09vnP8YREROP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">3am (feat. Julia Viktoria)</div>
                                     <div class="artist">Landis</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCAwQGBwj/xAAyEAABAwMCAgcGBwAAAAAAAAABAgMEAAUREiExUQYTIkFhkaIUJDJSodEHFUJFcYGU/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDzG7rD7g1qwFHvqI1/MrzrLkt4lvjk4ofU1ZFadLoUwhSlo7eyNWAN8kcq3WYXq14+NXnValOD9avOnntMkDUFoxz0J+1Kn05JO2T31lpSwtan2xrVuoDj40VKEMz46ebiR9RRWoKY3Ds3SYnk8seo10j8BGnXul764E1UO7Mw3FQ1BlLqVqOEqStB4jSonI4YzggVzW9HTfbinlKdHrNQiS3oklqRFeWy+0oLbcbUUqSocCCNwaLUf9Lr+5f5wkyYFuiPjJWqJHDJdz86U9nPiAPGtaf2GNs+FObternc7bb4c4dY3BC0sL6oBYSoglJUBlQBG2eGTSBa8mgrbUNV2hJ5voHqFFW2IBV+toHfKaHrFFMDoV4sduNvuhXaZ6r0ZTxChFkHPvGxBA0Y6vP91qE+xTtXuNpumjb44iwe/Pd/FFFVSg2q9mL1P5LO451+yL1eeKxjYL0f2e5f5V/aiirCY9HLBeE9IrWpy03BKBLaKlGMsADWMk7UUUVSB//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Wake Up, You're Dreaming</div>
-                                    <div class="artist">Notaker</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQFBgIDB//EACwQAAEDAwMDAwMFAQAAAAAAAAECAwQFESEABhITMUEUIlEHYYEjMkJxkbH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIF/8QAHxEAAgMAAgMBAQAAAAAAAAAAAQIAAxESMQQhQVFh/9oADAMBAAIRAxEAPwC3Uqa63PcbiT31okuILLbwCkoyOSVcrKtjjbJsdc6BUaQxGrr1QC4DsFwpdWlBDecBKbEkKuLYt3wLat0ySXqO1KqyeL+XRIUEtIZAOTdViU38Wx8nS1SpbG6KBIYYqiVCQ4mUxIbIdQFpAFuIAv8AGew8+NSKylfa5OowZDn0TqqtRp0raDVRpEeVVGYxKAI6OIVkBSTewFj48W1BrVWVHKZciJHZlhgucJagFkk26YIvdWc2Njb50yvbru16NTocStOvPuTHHZoQTxcUe/EA2CQBbie/K+pZNPlPPuzeu488VuNI/YSoG9ye/m1tHWa1PfcYC11AA2Tq25Apa4LzIWVyHeTiy6o5IurkSLE5B42/GjUesqW6+2mJIR1yv9NtAzyHuJufbfPbBzk6NUHD/ZM3NSQBNHErcD6j0h+lNNyYQDiF9Lqh5Kmkk2BJFxci3EWwdWdk0ORQ0VH0z7TCJT5WmNGSroxW7AXTfJuc2GBpbauz6ZRq29Eo83pPPc3VNufxQM24g3AGcff7a1m5GZkHdkRiAet1oiELHEAICeVikDybpT2A1l6sYcevom6XLMTZ3FmaMiWp5MV6I7NZcHIGysd7mxwLfN9JL2yXqwlEiQy8ll1ShwUr2cgOWCSEn8Dz3Gktp7Tk7arkmT6tcthfJtCm08L8lXso395BH21oZDUekwqtWmY8pUhaeS21EAcgSbJtjKl9yD3xjQDxlUgqsqNr1gMJln9v0aXKdiIlPPvxipfo+sLc88jx8kg2+B+dGlGKlwTCM1TPGCm/sypa1e0+DbvfHc5xbRpgCow+pMzBiTu7PQ5qWtvxZm5JYk9dporcbbbC02sAQLEXuPk/5rHbY3FWHt1Qnq1HglqbyitqZCkutJFyhsnyMEXGf+6NGqkUYYZPM6ZpPqVDiyKbHdlrdjBhXJqzgbQggX9qL9/AJ+e2shWJNTrKqY1GQ29RnpHqJIW5wIKewJB7Yva396NGjY4mxkPoL+yTNpUv11WMGOllpauKQggBOCFEC9xnwe+jRo1LT5LuutkwawDP/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Beautiful Mistakes</div>
-                                    <div class="artist">Maroon 5 &amp; Megan Thee Stallion</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAcDBv/EAC0QAAEDAwMDBAEDBQAAAAAAAAECAwQABREGEiETMUEUIlFxMjVCkVKBweHx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQABQYCB//EACgRAAIBAwMDAgcAAAAAAAAAAAECAwAEERIhMQUTYRRRIkGBsdHh8P/aAAwDAQACEQMRAD8ArTn1dCOi3WxDjiGQp07iSs/OPnmmVotci5pUWrcEpBxucASB998nPxnip6fiquEVlpvKdx96h32gD/laFqPRs26aM9HDkpgtqKS6Ug7ukOSE4Pc+c+KwQkklkMcewHNeh3t4tuBvufesp1c7C03bWpahDnKddLIbjqB2kDJ3K8Y4rizKblWpiXEt6tzhI2FIJyO4Hjvj+1VpkXThnQdPxW1uQ23Nzr5aUhwrxtVgnGcD3YIIJTgd81u190xFh2BppxYeQhCd7gQEZ4ACgB28UxIrrB3F3xzn8UhH1JlmCynY8VidsdEhuULpDVFWlkraS33C/AVn/FFO9RJZahuYB6zRLZVjuO/+6KHDKsya2FaGJ230EgV20m4I8dQ3YJa3D5/bmtgRqy1NMNoXLjEKSApCnRkE9gRyefHHg1hDMpUdmOtnC3GkhSm+25JABFegTf7lJleptbsRl+WpI6ceHu9yEkJySeDglPHjyKLZukEzs55+VUvUrAzkMeN/7g1c1XZoF/1Q1erXdIcforQ+tOAsbgUhKu4BSoAn6HYk4r1D2o0OaTEVU2PMfRH9zgdTk+w5IHfblOBnnPBFJW4mo2oqencUJWltKQhMVsDakHanj9o3HA8fNIBfbpDZLb/oVutFLbUZ6CNxKOUgY8BXPPIPOecF9pIXBjwRq8Uh6RR8eoHT5/VVdSu+pamJwPaEk4HnbRS59xwtyesjDj251RA4Sc/iP5/gUVXx2jWw7cgwfNaGzuI5o9cDBl9wc0ouLDq48N+LcGG3FN7VJBO9sg+fupQnFMe8yw0+D+aF/l9+KKKhUOoJpyQFGKg8Z+9WjdJZP6okH+oYzUGpQZlIkh5Mh/cFKW65ziiipGBG4ZeRQJYEljaNhswwfrTS43Rq4xXip1iOWmyUtpJPVUTjA+Diiiij3EzStk130bpNvaW+iLOM1//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sénégal Fast Food</div>
-                                    <div class="artist">Amadou &amp; Mariam</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -581,10 +574,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAcIBgQFA//EADAQAAEDAwMCAwgBBQAAAAAAAAECAwQABREGEiEHMRMiQQgUMlFhgZGhcRUjUmLh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMP7SduNx62t2+Of7s1qGznPAWryj9YqktSQGFMi2lAVGRHTG2fNGNuPxU39a3nI/tHsSNwXslW9xAB9AG+P1VG3q5sR764t9YDSCpaj8kpBOf1QSz0jjJ071sXZZiiCpyRbQo/5c7PyUgfeqSsrZbuq2j3IAH85FS9eb8mb1s/r9gZUUm4tSm0OnB8pTu3EdgSD9jTSsfUqNcdTXBu7zIUe1oYc3OYIWHB6Jwfh/JyO9A2YV4KL9IhPNte7ocS0HW1ZIUrOM+hGRjiil5Z9bsXzXyLbaMvwSGy5MDBaGUqBSnB57E9vTFFApdctS7z1zeegNvTHFzmVISgEnYjYCRx8I2nn6U79SCQ1Yr3drufCWIbyUoB+HckgffOKSsW+wHVOOxTLmXIbd0iNJXBcS1kDBwnCgCc4zTYsN8vtytSm7hbFhnYWz4yVO+IntyoDzcfSgnm2Keg6QulxbWW5br6Wd4ODsIO4A14lulISGvey4IjawQlpIKlKAPz9Of8AlUVZtK6dg6K1Rabow6t65FCoy3G9hjbOQErUBtyeT8/WsI1ouwMKbbXKchoUvAfeb8ULwRyMHGMnHHeg1XRe8TZXimfFZTEioSpLvJcKynCE57cJySe/KaK2eh9MwYOm4qYc5E1leXFPsDCXVk+Y8knPGPpjFFBsGdP2th4vRrdFQ7ncSEjv/HavhqNm8qjNGyJYD+/z+KMgox6cd80UUHgyWtWqcw0IYbKOykjO768dq74On3ZURwX6JGWrckt+FwAMDOcf7Z+1FFB3Qrci2NeFDZLTI7Iz5RzngdhRRRQf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUCAwQGBwj/xAAyEAABAwMCAgcGBwAAAAAAAAABAgMEAAUREiExUQYTIkFhkaIUJDJSodEHFUJFcYGU/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwDzG7rD7g1qwFHvqI1/MrzrLkt4lvjk4ofU1ZFadLoUwhSlo7eyNWAN8kcq3WYXq14+NXnValOD9avOnntMkDUFoxz0J+1Kn05JO2T31lpSwtan2xrVuoDj40VKEMz46ebiR9RRWoKY3Ds3SYnk8seo10j8BGnXul764E1UO7Mw3FQ1BlLqVqOEqStB4jSonI4YzggVzW9HTfbinlKdHrNQiS3oklqRFeWy+0oLbcbUUqSocCCNwaLUf9Lr+5f5wkyYFuiPjJWqJHDJdz86U9nPiAPGtaf2GNs+FObternc7bb4c4dY3BC0sL6oBYSoglJUBlQBG2eGTSBa8mgrbUNV2hJ5voHqFFW2IBV+toHfKaHrFFMDoV4sduNvuhXaZ6r0ZTxChFkHPvGxBA0Y6vP91qE+xTtXuNpumjb44iwe/Pd/FFFVSg2q9mL1P5LO451+yL1eeKxjYL0f2e5f5V/aiirCY9HLBeE9IrWpy03BKBLaKlGMsADWMk7UUUVSB//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">California Gold (Triplet)</div>
-                                    <div class="artist">Kaaze &amp; KARRA</div>
+                                    <div class="name">Wake Up, You're Dreaming</div>
+                                    <div class="artist">Notaker</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAcDBv/EAC0QAAEDAwMDBAEDBQAAAAAAAAECAwQABREGEiETMUEUIlFxMjVCkVKBweHx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQABQYCB//EACgRAAIBAwMDAgcAAAAAAAAAAAECAwAEERIhMQUTYRRRIkGBsdHh8P/aAAwDAQACEQMRAD8ArTn1dCOi3WxDjiGQp07iSs/OPnmmVotci5pUWrcEpBxucASB998nPxnip6fiquEVlpvKdx96h32gD/laFqPRs26aM9HDkpgtqKS6Ug7ukOSE4Pc+c+KwQkklkMcewHNeh3t4tuBvufesp1c7C03bWpahDnKddLIbjqB2kDJ3K8Y4rizKblWpiXEt6tzhI2FIJyO4Hjvj+1VpkXThnQdPxW1uQ23Nzr5aUhwrxtVgnGcD3YIIJTgd81u190xFh2BppxYeQhCd7gQEZ4ACgB28UxIrrB3F3xzn8UhH1JlmCynY8VidsdEhuULpDVFWlkraS33C/AVn/FFO9RJZahuYB6zRLZVjuO/+6KHDKsya2FaGJ230EgV20m4I8dQ3YJa3D5/bmtgRqy1NMNoXLjEKSApCnRkE9gRyefHHg1hDMpUdmOtnC3GkhSm+25JABFegTf7lJleptbsRl+WpI6ceHu9yEkJySeDglPHjyKLZukEzs55+VUvUrAzkMeN/7g1c1XZoF/1Q1erXdIcforQ+tOAsbgUhKu4BSoAn6HYk4r1D2o0OaTEVU2PMfRH9zgdTk+w5IHfblOBnnPBFJW4mo2oqencUJWltKQhMVsDakHanj9o3HA8fNIBfbpDZLb/oVutFLbUZ6CNxKOUgY8BXPPIPOecF9pIXBjwRq8Uh6RR8eoHT5/VVdSu+pamJwPaEk4HnbRS59xwtyesjDj251RA4Sc/iP5/gUVXx2jWw7cgwfNaGzuI5o9cDBl9wc0ouLDq48N+LcGG3FN7VJBO9sg+fupQnFMe8yw0+D+aF/l9+KKKhUOoJpyQFGKg8Z+9WjdJZP6okH+oYzUGpQZlIkh5Mh/cFKW65ziiipGBG4ZeRQJYEljaNhswwfrTS43Rq4xXip1iOWmyUtpJPVUTjA+Diiiij3EzStk130bpNvaW+iLOM1//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sénégal Fast Food</div>
+                                    <div class="artist">Amadou &amp; Mariam</div>
                                 </div>
                             </div>
                         </div>
@@ -816,7 +816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2023, 11:05:48 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jun 2023, 12:08:46 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
