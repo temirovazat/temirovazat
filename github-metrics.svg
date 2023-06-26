@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2379 users
+                            Followed by 2380 users
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    608k added, 82.1k removed
+                                    1.98m added, 87.1k removed
                                 </div>
                             </section>
                             <section>
@@ -520,6 +520,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBgcFBP/EACoQAAEDAwQBAwMFAAAAAAAAAAEAAgMEESEFEjFBBhMiURQVI2FxgZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUEBgcA/8QAHhEAAQQDAAMAAAAAAAAAAAAAAQACAxEEBSESMaH/2gAMAwEAAhEDEQA/APMUcK3SMjE08MBcQJZGx3HIBNitZc7xBcVk8UZleGN9kqm4G4DhcchWXY6XwbSp6emqZ4Q+sdGIopHtG5rBxvAw42tzewwuX+TUJ03Xayl9u1r7t28EHIslmBtGZbiyqITDYax+GT2xdLzOERE1SpXhcxsgdKz1GAH23t1jP75Wp8Mfpc2sOMtAPUYwGNplJvdzQTnsD/Vk7YUsnfSzRVMW4vicH2abFw7H8jCiZcJlicGntKXizGKQFq7jFqlS0TB1FN+J2yNu4Dkc85vysB5/UUX3iMvoXfUFodJeXgXNhjC12meZ0L9KpKnVWtpBI54hYXbnuYw2BIHB6+P1XKtarTqOq1VWb2lkLmg9N6H9JBp8UmYyEVSd7nKmsxyO7zn218shDnksbtaTht72CKqK01SrSJ1lERXKSSbXJJAtn4TlEQqkXOJ6VCIiKC//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Dreamin' (feat. Camden Cox)</div>
+                                    <div class="artist">Embody</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAMEBQYHCP/EAC4QAAEDAwIDBwQDAQAAAAAAAAECAwQABRESIQYxUQcTFCJBYYEVkaGxI0Nx0f/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAGxEBAQEAAwEBAAAAAAAAAAAAAQARAgNBMSH/2gAMAwEAAhEDEQA/ALzFZ23G1STLQ22po9PhQ7zb7VIWpM2elxTCA2SFBAyrJ5Dbrzqeai8tq7duTJKK00HUl9Ki166DvRNaY8VHMZLgjZ/l1EasZHL4z039qedwQNqaTsMsLUogHBxk+tBNmHPKE4lkWhuL5ESUO5R51rGgK14P460VXeOtLfDFxkOLLZS2CMnbPeUUq5bFs37aeJr7bOPp8SLcp0SLoZcbbS4UgeUbp+enOum7KFS7PAkOZDj0dtxQKcHKkgn91xR2guznrvbXZlxkzXFNhHeSF6iAlXL/ADet2icY3SMylH1SQvSMDJBx8kZqT2/Kxw9tsXGSE7mqvxTIYjxCtbgaGdy5sMDIPOs9d43u6myPqD2D7jP6qm8Rpdvm8y5S3vUIedK0/Y1nsSBwH7R3aVxmq8OybbDWhUBKikOp/sGrIx0Hp70VXpvD7rZPdOJWPtRU3srHEJS6RhcZMJ55aUeGJKUITgHOP+e9SomLUd1CiimADIcnf2XblK04zSLslSfX80UUvsPIW5GMYrNxAexnufDr59NWcfPKiiija//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Love the Way You Lie (feat. Rihanna)
@@ -528,31 +535,17 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAYDBAgFB//EACkQAAIBBAIBAwQCAwAAAAAAAAECAwAEBREGEiExQVEHExSBFSIyYXH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAACBQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADETEhUQUSIkH/2gAMAwEAAhEDEQA/AOdOH3Fhacpxc2Yto7rHLcILiGTyrRk6bf8AwHf6ro/McK4TFcXH52Ox1nbARPFPCAFBWYA7H3GJVg6ht6/r59q5YroH6Z5fIZLjljc3VxbX7W6NCfzA3WDq+l0+tCQpIyge4K+Do1keURx62oxHeISsjRmW1x/FpcymLk4zhlCcgbGtMHbZgUGQP/lryB136ar37jj/AATH5FlyWExsffSQwpDsyFVeRwNSkBioUAk6J8a81svbyX/J8ld2l9Ekd/bLaqYrsEqy9x2KdSWAD+PYFdHdQ/1AlzeGx+UzL52y6XiosVhJGZJAjgBQCfBKqN9yN7371mKzX2BQ5HA/TuE0NT4nlJoLnJXc9pAtvbSTO8UK+kaEkhf0PFK1aV1Q+RiLRVHxy8zlljbibEojWiTI7s8aP1kAbRAbz6E+g181OVZcUu758C9iLSKbG/liSRu5jlI6juit6AEBT6E/FDsAK4IzC0IHcKZ7+OyfJchaY65kvLUzXRb8JIIIWkLdtaIA35ZPIOtDR9Kk+W5fkd0qWHImcfafsEeFUO9fIA34NUWZuoRmbRsRipsDNj75me9KgrH6EKSBosDv/WtDQrW+p95k7+SOS+W2eKNwveGAIYz0AWMsPgLvr7Enfml0RFcEKIzZThCepA0pSnIjLfBxcU/hokyLW73skZZ3eWZWRvPgdR13+iD81IR3c8CSRQTyLCW31DaBPsdfNKVJMkciVMXKwnEYMaHkE0byM69mIkZt/wBjskeh861vQqUkuZpIRC8rtErFwhbwGIAJ186A80pVEQKSRD2XM6qp0JhpSlXgJ//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQYI/8QAJRAAAgIBAgYCAwAAAAAAAAAAAAECAxEEIQUSE0FRgTGRIkKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAAIDAAAAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwD1SAR2SfK1XhzWNgJAAAATT+ABQ41bLT8Otug5J14l+PjO5SjPUSfDZKueL5uyxr9VjKT9G28Nbh57Y+ixlULfHPWcVnLVSqr0utiuZpylCTfpLt7Lur1nSsqVvUrrlDKcoNvm8PHc1N/K+gs93/C7QWi0rzRB8koZ3xL59gmBlAAAAAAAAH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">C.R.E.A.M.</div>
-                                    <div class="artist">El Michels Affair</div>
+                                    <div class="name">Glad You Came</div>
+                                    <div class="artist">VIZE</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEEAwAAAAAAAAAAAAAAAAcDBAUGAQII/8QALRAAAgEDAgQDCAMAAAAAAAAAAQIDAAQRBQYSEyExFGGBBxUiM0FRUnGRkqH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQMEAv/EABsRAAMAAgMAAAAAAAAAAAAAAAABEQIDBCEx/9oADAMBAAIRAxEAPwD1TVG6XjtpVzjiQjPpVausvy2/RpPwEahOT7vcr3EXT+K2TRSzaPYs5y5gjLHz4Rmoz1A3ywatdePaWzk0vmQ2+AOS5UZOQMnPQjJ/KpQ0+Hw9hbQfSOJUHoAKz8demnkdSFzSlK0mYVY60/L0m7PMMbGNlVh3BIwMeeSKvqwu6rhrbT43KqYhKvMZicKMEg/2C9+lc5OIeKrSI83Pfw6ft6drYvfL4dbU2sGMhQCGbGMnAHoKlazuI7u0guYDmKaNZEP3BGRUNWm2bm33VLuCDUHnRC8kVnIzlCzICfizjsB0xgHt3OZJ9n87XG07JipCJxxxn8o1YhCPLhAqWqKpFdt6bNjpSlXIiuCAR1pSgDAXu09JuizLDNbMxyTbTPFn0U4/zyrOW8KW8EcUYwiKFH6FKUograKlKUpgf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAQFBgIDB//EACwQAAEDAwMDAwMFAQAAAAAAAAECAwQFESEABhITMUEUIlEHYYEjMkJxkbH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAIF/8QAHxEAAgMAAgMBAQAAAAAAAAAAAQIAAxESMQQhQVFh/9oADAMBAAIRAxEAPwC3Uqa63PcbiT31okuILLbwCkoyOSVcrKtjjbJsdc6BUaQxGrr1QC4DsFwpdWlBDecBKbEkKuLYt3wLat0ySXqO1KqyeL+XRIUEtIZAOTdViU38Wx8nS1SpbG6KBIYYqiVCQ4mUxIbIdQFpAFuIAv8AGew8+NSKylfa5OowZDn0TqqtRp0raDVRpEeVVGYxKAI6OIVkBSTewFj48W1BrVWVHKZciJHZlhgucJagFkk26YIvdWc2Njb50yvbru16NTocStOvPuTHHZoQTxcUe/EA2CQBbie/K+pZNPlPPuzeu488VuNI/YSoG9ye/m1tHWa1PfcYC11AA2Tq25Apa4LzIWVyHeTiy6o5IurkSLE5B42/GjUesqW6+2mJIR1yv9NtAzyHuJufbfPbBzk6NUHD/ZM3NSQBNHErcD6j0h+lNNyYQDiF9Lqh5Kmkk2BJFxci3EWwdWdk0ORQ0VH0z7TCJT5WmNGSroxW7AXTfJuc2GBpbauz6ZRq29Eo83pPPc3VNufxQM24g3AGcff7a1m5GZkHdkRiAet1oiELHEAICeVikDybpT2A1l6sYcevom6XLMTZ3FmaMiWp5MV6I7NZcHIGysd7mxwLfN9JL2yXqwlEiQy8ll1ShwUr2cgOWCSEn8Dz3Gktp7Tk7arkmT6tcthfJtCm08L8lXso395BH21oZDUekwqtWmY8pUhaeS21EAcgSbJtjKl9yD3xjQDxlUgqsqNr1gMJln9v0aXKdiIlPPvxipfo+sLc88jx8kg2+B+dGlGKlwTCM1TPGCm/sypa1e0+DbvfHc5xbRpgCow+pMzBiTu7PQ5qWtvxZm5JYk9dporcbbbC02sAQLEXuPk/5rHbY3FWHt1Qnq1HglqbyitqZCkutJFyhsnyMEXGf+6NGqkUYYZPM6ZpPqVDiyKbHdlrdjBhXJqzgbQggX9qL9/AJ+e2shWJNTrKqY1GQ29RnpHqJIW5wIKewJB7Yva396NGjY4mxkPoL+yTNpUv11WMGOllpauKQggBOCFEC9xnwe+jRo1LT5LuutkwawDP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Start Up (Stripped)</div>
-                                    <div class="artist">Jonathan &amp; Friends, Loote &amp; emma løv</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwMECAL/xAAuEAABAwMDAwIEBwEAAAAAAAABAgMEAAUREiExBiJBE2EHFHGRFTJCUYGhsdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAMC/8QAGhEBAQADAQEAAAAAAAAAAAAAABEBAhIUQf/aAAwDAQACEQMRAD8AQrXYbMqLGVOhKy4hClL+cCNjydJ+/wDVeZdmsaYz2mGtpaGVqDnz6VgKCSR28ncCk83aWpKEqfUQhIQnUAdKf2GRxWNVwfPYp4JSrt/KBsfoKy8+lvWzf0byc4b3RilJ6oiaQNXd/hph6/iyZUZmS2gqDJUlaU/pB81DWS3y7ZfLfJcSgtLV2rSrI44PkU6R5UlTjxU1nuGnHAHnNasvis4k6Qu6xpBUpyQjQlOBvhKQlI29gBRVnx2ZLMqc7HjMapLaUp2A0EHOdhk548UU0RUKG31vpZS24XlKCUthJ1E+BjnNPcj4X363dPpvt7QyzASdLjaXQt1okHBWkcb4yM53p7+JV2tUe7u3u2xi1cQ2GhIWd8jYlI8HxnmsPQd5bf6TuQeQ+/ObjOzJEd9HZIb9TIcSSe4gavG2kVzTCTcmWkWawLt6GGJDDT0lx11ISt1IO3dysHBI2xvseauTp+J0eqxW3071b35TjeqUpzdRUoZwk5AASdsYO3vVOJub/wCKI1Ms3OJGgJhNt693me5IKcDOoBeQCMjG/FILiC2tSFpUlQ8EYNKdW2vpa3RxIeXNiyUKWfRCn0AJR48j/aK5SAGPaiqCmkdVMz7nHfv8FUmM0QpUeO56YXjxkg4FSUn4ky5nW8e+PwWG4bLJhot7SR6aI5GC2nP1znyfaiiqKtt+fb5+qRbINvsTLUJcj1GU63FLCkp0HOyR3cD70l3+7m8yG5DkZpl7GFqQANZ/gf8AaKKjlGpooopcv//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Wicked Game</div>
-                                    <div class="artist">Chris Isaak</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMBBQYEAgj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBESITETIkEFUWFxkaGxBiMy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABkRAQEBAQEBAAAAAAAAAAAAAAABAhFBEv/aAAwDAQACEQMRAD8A+YuuCGHRiGYxHkDjGO7nk45+TVx6PbJfXLzTxIlrHp1BdskDgb+eTVPaQNcTrGmBnkngDyTWgM6QwpBBtEnHyfJPzSkDd8jTp6uXvOqY4gurIjC9gHsBnist/Kb1bj1Bp1ihdWUR6sbgqck88n9VY3MIs/QbT1E3UDvcax0Fzrj04wWyMb58E1k1cvG8bb6u4fWq67Bzmy9Q84ZmboxDVq2AOBn238eKKRmig6rKAC2j0AjqN/s5/FeHnKSDfb61zCRjuTikSMSeTS6Pz7Vne3ZltY47cSdFFGrUc93k/ANcLq0TAMpVsA4/IqLRZHnRYnCSE7EtgfemiKSaeRZ3KSrt37b+1EyZR35HB3oqWUqGRgQ674/dFawaw3Or75pUmM9pJ+tFFTUJnIxzTZJ5JW/tlZsDA3ooqYTq7sgnNFFFSf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">In Your Eyes (feat. Alida)</div>
-                                    <div class="artist">Robin Schulz</div>
+                                    <div class="name">Beautiful Mistakes</div>
+                                    <div class="artist">Maroon 5 &amp; Megan Thee Stallion</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -560,6 +553,13 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Wake Up, You're Dreaming</div>
                                     <div class="artist">Notaker</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMFAgQHCP/EACoQAAEDAwQABgEFAAAAAAAAAAEAAgMEBRESEyExBhRBUWFxIiMyUnKx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAIBEAAgEEAgMBAAAAAAAAAAAAAAECAwQRMRIhImGB0f/aAAwDAQACEQMRAD8A8qoEws4ozI7S3v7wgDBPRWQtU/l/Mbcpg0l+4InadI4zn+x0+2VoSRujcWu4I+cqFJPRWM4y0RoiKSxY2i01t3nfDb4TLIxhkdyAGtHZJPSu7P4aro3iespn+TGXvdGY35YxwDsZP8iB8njnpUNvudZbhL5Kokg3RpfodjUPY+6nZfbpHDHCyvqBHGQWNEhw3B1DH0ST9pepGtJ4jjArVjXk2oNY+5Ov1NwNNZxQS+FGsmML/wBHcZtNAcHODuchnR59eMrn978H3HzFQ6io5W0tO5zTvOjbo41lvDuSAf8AOulTDxHcBKZRVVG6WbZdvO5b3jvP7vy77WrJeLhKYTJWTudC8yRlzydLickj5J9Upb2dSg24td73+iNrYVbZtwa73t9/WSXax3G0R0z7jTmFtQCY8kZOMZ47HY4KKCvudbcRGK6qmnEedG48uxk5PfuUWhBSx57NSnz4+eM+jRREVzoEREAEREAf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">All Day and Night (Jax Jones &amp; Martin Solveig Present Europa)</div>
+                                    <div class="artist">Jax Jones, Martin Solveig &amp; Madison Beer</div>
                                 </div>
                             </div>
                         </div>
@@ -791,7 +791,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2023, 00:08:51 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jun 2023, 01:04:00 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
