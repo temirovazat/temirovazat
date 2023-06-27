@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.04m added, 11.6k removed
+                                    352k added, 93.1k removed
                                 </div>
                             </section>
                             <section>
@@ -215,7 +215,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    22 Languages
+                    26 Languages
                 </h2>
             </section>
             <section class="column">
@@ -520,31 +520,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAQDBQEGAgcI/8QALxAAAQMCBQEHAgcAAAAAAAAAAQIDBAARBRIhMUETBhUiUWFx0RQjJDRScoGTof/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhEhMUMVH/2gAMAwEAAhEDEQA/ALCMkJAApsBIBKiABuTVfBmR5Bc6LqVBBso8bXpCY5Hm41BbdcLsVbavt3OUrBsLj5q+OPJ7JTdIfcxiN1ujDSuY7r4WRcfyo6VzgSnnpTrckxUKSm4ZbczrT+47UiZjKcUBRlaYjXSSCALW4A96gwuRA74U7h4AY+nOaySLqz+tXioOLpCO01sv3EjyoqMPIdSFJI8rc0VzWVo68kzXIclfSQVsKV1EhPOluaWXii3XGVIIQ+EkLsOdzatmVCStG4t71RYjhay64luSy2ct7qcI5oYMzi2x8mO0kQRMRZkSJS5AU6hlOcBZ0VwNBSS+0DcG0pDBClK6YbvtfW+1tqwmDKZSkd4YbcC1zJIv/lISsDnO2UiXhwR1C4PxKbem4o+RPdv2Dpj8Nlmdoo6I6HW19VZIHTsQRzfbTSiqJzDsSyDLMw6xVf8AMt/NFRcx+J7XUwyNmWf6x8VVy8JQ5i7byGUJbdjLZeWlIuLEFFvI6r1t78UUU0dCPZUIwad3zrHfXh2cJ8Smicv6t7+u19K2lmDGbYbYLLbiUJCbuISSffSiigEjMCHchUSPYbfaT8UUUVjH/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAYHBQH/xAApEAACAgEDAgUEAwAAAAAAAAABAgADEQUSEwQhMUFRYXEGFBYiQnKB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACBAP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAISEf/aAAwDAQACEQMRAD8A3jzMJA6nUK6mABBJ95KquRwGBBB95os0+Ub0MQZ5yj1Mbe1R5gD5hTyUTCQ+o62uogEjMI0s9fVcOctCv6iIBVbSo9MysXUPZaW5l2+m6QPtLS+OesAsf5TkrU6bT/yStdMXNg5SMZzOe2t8gxyk/wCynvSyrjlXt7xvpenvF5zem35h01nVbrNS/buxz8wlcKOGO61Mf2hEWHTZzbrdvK3dx4yK2rXbx+7bfEQhKNkFuvb1nUNp62qz588A95Ar1i5TuDuDCEjLpltrdosL7m7+PaEIRIVv/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Muy Tranquilo</div>
-                                    <div class="artist">Gramatik</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QAMhAAAQMDAgQEBQIHAAAAAAAAAQIDBAAFEQYhBwgSMRMyQWEUIiNRcUKRFVJigaGisf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZYsZbziUNpUtajhKQMkmqD4ccuVwu8dmbqmUq1sOYUmM2nqeI/qzsn/J9q9fK3ouApbmqr34ISy4WYKXiAC4MdS9+5GQB7mqfRc4HUMTI5JHUMOAnGAc/jBH70Eaaf0lprVutrjpq2xZts/hrrqFSlS0vKkBKijPSUpCQCM7AnB/vXT3jlvnK0yxOs1wQ/cQgl2K5slZBI+RXpkDsf3rO4rWOFpfjTEf0jOkOTJ5Nylt9X0kIWrIQCk5UFEHIJ7EU/eE13nSoTbF0lKlPyEl8lQACFdyE4GycelBCN1tsm2zHosxhxiQyoocbcGFJUO4Ioqo+bPRTC7bH1TDaSiQ0tMeWUjzpPlUfcHbP2I+1FAwuAEWMeEdgSEJUFJWtW36utWaYbUFlK84KvsDSC5UdZMyrG/pmS6lMqMtT8cE+dtXmA9wd/wAGqFbVumgj28Szd+O2qJbp2ZnfCoJOyUtDoA/1zTi4FLcf6QtWTGXJY79whfSD/wAqdk3Vu28R9XGYvpWi5SXfm7qwtYI/PaqA4KR5kO8Mx3Un6MFTkopIKUuOq69yNs5G3r3oOk5iFtJ4SX/xsbobCc/zeInFFKrmx10w63G0pb3QtbbgkTSk5CSB8jZ998n7bUUE42K7zLPcY862yFx5TCgttxBwUmqf0JzHW5+K1H1fFdjyUgBUqMnrQv3KO6T+MiiigRPGS/Wa68TrvdbClD0GQ424kpQW0uHw09eRsclW+fU1sac4zXexaducO0xmYsyatA+JBKi0hKSB0g/q3O57UUUCymzHZUhx59xbrriipa1qyVE7kknuaKKKD//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Writing's On the Wall</div>
-                                    <div class="artist">Sam Smith</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">New York City</div>
-                                    <div class="artist">Owl City</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcFBggEAv/EACwQAAEDAwQBAwMEAwAAAAAAAAECAwQABREGEiExBxNBURQiYSNCcYFikaH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAJREAAgEDAgUFAAAAAAAAAAAAAQIAAyExBBESE0GRkhQiMkJR/9oADAMBAAIRAxEAPwDNdsgOJu8ZmQ3wtWBno1ZnrG3CUpaoxS4twhKiPtR/kfYDHz1XiTPt1ytw2r9KWj7mz7g1M2W2QtZ2q4MxC1Fu25slx4lSesKx7jJHYB+KntXbLWHWMWmuBc9JCKTL3K/RcW1tUFBDQJJSrBA47I5/gZrvtViYdjTkekle1BWnHfHCuPkHirHD8P7pajJvLP0qVjaUJWFEcZHP7sZ/FQ2s1W3TpZt9tZZbkutqbfW3kJCcjjkkngdkknPt1WWrBtlp5M0KfDdxaVO1aXkTo5kYKW8nA/FFSsjVJTBbg29OFH7R8UVoNXa+Jz4aYlNlsqjSXGiclBxn5qT0replkuqH4WVFZCVowTvGfbHOf4pkaa8R3DV6Yt03qhW2QgLBUjLih+B0B+T/AKpvteGrVp7R93fsVvXJvn0qkNvvObnEhXCikdA7d3QzTDs1P3CcBZrGLyRrABpN0XHYMfarDQcyQSgAKyT8jO3HfvSX1JMnTbot65IU24oAoQW9mEHlOBjog5z75zT7leNoIiNzAXS2UB76fefT9XrO3P8AdMrx1oiHdfHaYupLREnNMvrbiOPtBbmzOThXYAUVYwRU3QvT5hVcxmpD8IJxMb2WMpx1T/7Guc/mitGa38LIYgSjpVH0alnIacWVJJ+ATkp/7RVBkZjvCBgBGXb7R5CaQmMxPtaEtAISkRk4AxwOvipUw/ISFAKnW5I9gW0c/wB7aKK2aI/T3iPWMfqviJQZdo1W7KujZciYaeU2UhITg4yccdbjkCrfpuJrwWKAiBLgJihsJbR6acpxwrP295zz80UVP0yLzWAiq2rflqdh2E5r7E8itxXUO3G2qKUeptTHTlWCMAcdk0UUVSFEbZPeCbWvv8V8RP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bailando (feat. Descemer Bueno &amp; Gente de Zona) [Spanish Version]</div>
-                                    <div class="artist">Enrique Iglesias</div>
+                                    <div class="name">Homegrown</div>
+                                    <div class="artist">Haux</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -555,10 +534,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAwEAABAwMDAwEGBgMAAAAAAAABAgMEAAURBhIhEzFBUQciIzJhgQgUFkJScZGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBQD/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQxEiEiQf/aAAwDAQACEQMRAD8A+d6eWW1InRlPEBRQVApUopB+XHIHbJP3KR5pJTfTyrrIlpt9mLhfkHAQg4z5PPgcZPjjmi+ik9j5enIBbK2Y8zBcVgOkhQTsSUHgYwSTnyBwMkcqL/a40GMlbSH23dyELQ523bSVYzzjOAMjtz64o7horVEOL1pDkXqdEPdAv4eKUkrHuHk4OVY9aiZM+VKZS0+8txCVbgCScHn/ALRn30xVpfhqUV7iimTLGDpBMrRa70zcEqkgKUmGhkk4ScKyvOBxziqn8PkZ6PrSXMMdrfDjguddWwNoX3UM+cCpmwaimo0y7YGlBtpxSnFOuK91tsDKuO+c+Kz0PfJtmuc+Yyh2XHebIkfE2rKBznJ8/wCam8eSk1or545aey09sKpLV7t12fhsQ1yHNyUsyur1kfyCe4479u9cleZEadIYOQpLhGT6VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPLivNspecbIaUdoXjgn6UUwvdyiybVb40aOEraB3uKUSo5x/qiqonSW+zPTsViXcB+byY7Y3KSP3egqoky0FkIhtNI3bm8YwkD+h9KKK08STWzI5NNXo0NMWtuNqWG+hZWpn421Pu/LnnPjmqT2nR4j+nbbIfcBuKVhLpJ+ZCgSMfUcfaiisvkSpzpI1OPTrE9nJFDbwe9FFFJnH//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGBAcBAwj/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMABBEFEiETMUEGIlFhcYEHFJEyM0Khwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEiMTJB/9oADAMBAAIRAxEAPwDzFn3kUx02LrSBec8tj7UsRsS89qq9DsXWcTPjZDtLDHyO1OKthboRyWJa7hs5PYWYgHwAeRWFALe3eWO9heRw20YbAGO/3rYnp60tr31k91qxS3sYWwwdS4znheBkkj8VP/qRoR0n1XfKkDQ2kjrJCrn3KrrkAjx5HPPFF9jrRNyNaPGyxQush/pOScf7ori2i2uNwGM9/pRUOSOzpb5lCA5zxW4P006EdjeRXaJcdWItJ1I3k2gcE4TkDxuJHwB5rUNpJtuVbPY1e6FMkhjMAWCEc7VP9xvGfzVwy6Ip4/B2mjraatLIjQu/JRXXeCGyOR8j/lQ/q2TdqV+Ll3xPOjxyH3bgoKMRk/P17Vc6lqTQbYrQM79J2wn+WBnH81Cajpq3PpWTWzI6CO6ECxSPnBbLMq5+4P05+lGWpGi8IVQywpb8n3kY7dqKSEk0V1EU6MyPtmnekahJBqFuNxMcScr4JPNFFNMyLm/WC10+21C0zPuimLxuNykADcP4JP4qL9X3KR6dYWlm8q2sxa7kicEYkJKjvyQFAwfg0UUH6N0+BPrZhrXrfurYHBPTLHfx4xiiiikZH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Oh Woman Oh Man</div>
-                                    <div class="artist">London Grammar</div>
+                                    <div class="name">Brisé (Pilule Bleue)</div>
+                                    <div class="artist">GIMS</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYFBwgEA//EAC8QAAEDBAEDAgUCBwAAAAAAAAECAwQABQYRIRIxQQcTIiMyUYFhoRQzNkJykbL/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIE/8QAHREAAgEFAQEAAAAAAAAAAAAAAQIAAxESITEEIv/aAAwDAQACEQMRAD8ArTB8RtlzsUKTKhpcccSSpRUeeSPBqUymwYxjcNhblmZkyXiQhsuqTwO6jzvVSuF3CLY/TS23GYCUhspSgDlaytWgKUMkZv156b5OgvBhxOm/baUUttjse3APPJ78mlDZNvkjfI12LPsQ/wCOVIECN0lRPsaUUAfbvv8AemfG28TmJWzebbGiP9Xy3EFYbI+x+I6P69qWvNMmF2VEyeh+722c9ZVbbckNIUEtKPCVFQHYHvSPYC5gozE2ntmmKWeDj0yZb4zQKEgpcbWVDuB99UVI+o+CxrPj82VbpT4aaAUtp07BGwBrQHOz5orCuCNGPiR2M3pTjFvuOI22ZdUrmBxgttsuHaGk7UFaT22e++9WNlVyj4/h9xlgD5TBbbQrQBUodKR+/akL0mntowe0NF1sKS2rjqG/rVUf64XUrt9qgIV8C3FvK0ePhGh/0a4RlUq4mdLgJTLCVOlsvPttRUuuLWQlKNbUpR4AAFaewe23CyYdBttz9gPMdWghROkklQB478kVm+1SZeP3a23P2SlxCkyWgsfWjZH+jojf5rRwyOFJs8e4iQhuK+gLQpxQT+OfIPFL7WawAGoPjUXJPYrer/8AQt530/yh2/yTRS76o5NbpWK3KLHlsuuuoASEK3/cD4oq+cNjyLVK5dleYvfoUK1xmn5SULQkgp545P2FMqMpxuU4hNwcjuhohSFOJKufPiiilZAdwVOJnPn+UWK6xWkxJMZ59pQCXUtrC+nXKdkAdPP6/ik43hpcdtl2WpbbW/bQSSEb5Oh45oopKSgKBMVRk15w3CbHdiOoQ4CojgaooopJFUAT/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sleepwalking</div>
+                                    <div class="artist">The Chain Gang of 1974</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDBAL/xAAxEAACAQIFAwEGBQUAAAAAAAABAgMEEQAFBhIhEzFBYRQiMlFxkQcVI4HBJFKhseH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRIQQSExQxMv/aAAwDAQACEQMRAD8AorLKzoxCmqaKmqKdnG/cpV/puUg+f47YnmVaVmmmeJi8puZKSqjJG89xcm3Nr38/7xWmW1SRO8sjMWHvAcEE+t8XrpCvgpdP/mlXMIw7CMhO7MQNrW/fxg7EXrlfsu4z9tNuIzoeopemUkHVib4E8Jf3lHPF/W1icR6t021FKJJlSKZPfWNASxkJuLEHx6nt4w/i1hG2oZJqkztRMwVA491lHxEADvax5/nEiq8wyyon6tROrG4Rf07hV+dvAxqkz+vkc5QHQBMpnMqOeOxfdGjcBbklubkknvc84MSL8S5KdUj9hlJZJChYdnW1wwP1Fvtgw9vCDoSGyxg2zHWmc50/mmXZm+dado4lppQY+lEF6aXYnc3kj+3i/wB8PqKq0rVjosyGGVW9nYXBKKq2U8dgQ3cH0xUmQzVUeaxLSHrLUW3KDYbhxc3HFu/7475I0p81SPM4IYyi7wCDtvbyAeRc8euAHIIbqRELwFZeysRLQpNO5JmMZloaKR3iiJMrlmVhsA2hAL3uDxY28C/bC6dod0ywirRvZ1REEEh2TA+8zcc38D74hdPqiGgVmhqpafaWeEKpTc3Ni4HPy5GNGXZ9mdZnEwjqqxokuywJISvB43Am5uDbvhvsIVORFPwLa2HWyOtc6fhbS6+zZbXDMBVJulkhJZk2txcfCL247X+ffBjg1ZnlfDRqIzNTgqzNUBitiVI6YX/N73wYWHrcBsYnfFdUSpIMSwflVHA1VRTu3P6iXBZR4ceCObFTzxcW7YVyUkFbXy/1gZ2YsNpuG83F+307jBgwCjeDLHbWBJJTUGWzUIhzKGrae1jIoW/pb/vbHrRop9M51PXzz1MdP0njWRFW6hiLXvx4wYMZalXJE49hcAGbvxB1llue5fRU0M9dUpHUCokSZETcArAC6jvz9APXBgwYCCJ//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Enjoy the Ride</div>
+                                    <div class="artist">Krewella</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QAMhAAAQMDAgQEBQIHAAAAAAAAAQIDBAAFEQYhBwgSMRMyQWEUIiNRcUKRFVJigaGisf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZYsZbziUNpUtajhKQMkmqD4ccuVwu8dmbqmUq1sOYUmM2nqeI/qzsn/J9q9fK3ouApbmqr34ISy4WYKXiAC4MdS9+5GQB7mqfRc4HUMTI5JHUMOAnGAc/jBH70Eaaf0lprVutrjpq2xZts/hrrqFSlS0vKkBKijPSUpCQCM7AnB/vXT3jlvnK0yxOs1wQ/cQgl2K5slZBI+RXpkDsf3rO4rWOFpfjTEf0jOkOTJ5Nylt9X0kIWrIQCk5UFEHIJ7EU/eE13nSoTbF0lKlPyEl8lQACFdyE4GycelBCN1tsm2zHosxhxiQyoocbcGFJUO4Ioqo+bPRTC7bH1TDaSiQ0tMeWUjzpPlUfcHbP2I+1FAwuAEWMeEdgSEJUFJWtW36utWaYbUFlK84KvsDSC5UdZMyrG/pmS6lMqMtT8cE+dtXmA9wd/wAGqFbVumgj28Szd+O2qJbp2ZnfCoJOyUtDoA/1zTi4FLcf6QtWTGXJY79whfSD/wAqdk3Vu28R9XGYvpWi5SXfm7qwtYI/PaqA4KR5kO8Mx3Un6MFTkopIKUuOq69yNs5G3r3oOk5iFtJ4SX/xsbobCc/zeInFFKrmx10w63G0pb3QtbbgkTSk5CSB8jZ998n7bUUE42K7zLPcY862yFx5TCgttxBwUmqf0JzHW5+K1H1fFdjyUgBUqMnrQv3KO6T+MiiigRPGS/Wa68TrvdbClD0GQ424kpQW0uHw09eRsclW+fU1sac4zXexaducO0xmYsyatA+JBKi0hKSB0g/q3O57UUUCymzHZUhx59xbrriipa1qyVE7kknuaKKKD//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Writing's On the Wall</div>
+                                    <div class="artist">Sam Smith</div>
                                 </div>
                             </div>
                         </div>
@@ -790,7 +790,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2023, 11:06:37 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jun 2023, 12:09:43 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
