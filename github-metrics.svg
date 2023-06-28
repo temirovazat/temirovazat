@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.34m added, 83k removed
+                                    2.28m added, 96.3k removed
                                 </div>
                             </section>
                             <section>
@@ -520,11 +520,39 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcIA//EADIQAAECBQIEAwcEAwAAAAAAAAECAwAEBQYREiEHEzFBMmFxFBUiIyQzUUJSgbFTYtL/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMEERMSITFBIjJCof/aAAwDAQACEQMRAD8AtNU4v2pLzz0w9Vq4yDn5QHwJ8gkL6/xHnROM1oT7zjLFUuFxRTgIUNCvUEq/qOa6FLLnXmppelS1OHCVb5HeLdbViz97XnTkUCXEmtj5k485shpsHxHHUncADcnyBMOcKhes+JOGSxbi3szomncUbdlSsINdmCv/AD4cx6ZVtDmV4mUWYxpl55IOPEhI2/PizjeKDLWnYrNaaoabzS5X1K5aWUFJyv8AbgDGfLVmI9Yt6ft+qezzfsyEYBam8kIWnPTH5z1Hb03gTCv8zeTITu4mmC5ae9NJm0u1IITvoCsIVjO2nPlBGfy1Pn/p9T+gPOclzljwgE49Rud4IULaPmMrYxHcTnChS78qkIHLK2yRr3BGe20bvwrlqpP8E7wFtOKVcMy8pCNKglekJSNKT2OOZgk9TGIqeTLShWv7i9wn/bp/cXjhpeEzZNTS9KJD8u6gImZYnAcT2IPZQOcH1EWXrNiFV9SNXeKrRY/uRGXbrsWhtTTNKoVrz0kz9+ZS2ajOFasEpSsqVg+SQMA7xu1zzr9T4ZW3P3Iwtiqvht11ptOCFFBKtj0GMHHbMJ0XRw2q9cTcs1QHna5hJ5kw3r0kbDqop2x1xtCq6LwcuKpJcmg2yyhC0NISoq5YI657k/nHpE/iYHuJTtya2T4ne5MlK1MNzDT6ZdWhtBUtBOxSTkH+Nt4IWe+GEJU4ycqCeVy1jxJCgcemMwQI1bP1g1yega6v5M6d4NcRH5+VW/SQtsH4iH2hpGc/u39YftcJ7zQpJ9zHHQ/UNf8AUEEO15Dr4mXYVdmgYzovDS75OYbU/RCppKjlPPa+IZyP1RYHLAuFDS0sUobICUkuN5zkgnr+IIIFbczHZnVOFWoIG5Kl7Gr7Te9KOsNpGzze50nYZOBvBBBAmOzDChQJ/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQCBQMGBwj/xAArEAACAQQBAgQFBQAAAAAAAAABAhEAAwQFMRJBEyFRYQYUFSKBMmJxcqH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDIQQREiIxYf/aAAwDAQACEQMRAD8A8sirzTayzn4d5iYuoPXv2qkq00WY2JlgIT9/l5Rz25/mjYm49fR1W3Lt4JZOM+O5V1I/FYCK6jucy7sPgc60JYa42QtzHdkU3GAH3KGIkCZ7+1cyuKyOyupVgYIPINSqxTX0ZfS6msYZBeaKF5NFMM45gHXBCM9covLQbJUCOkxz+6PxPerTV4+tzdiMPAs5j5N+beP4hXp6yF6S3oJ65PpHvWvVYabNXX5vzDKxZbbhCDEMQQD/ALVX4Wjhmw6vYoudexbyX3FlBatGwwIVg4DEz2ieO8dqS3FrW2s24cwbDxXs9Uyhm7HP9Zn3ik9NeXGclpBiZFR3+WuXko6DhYpNa2nslg6FvbT8pPJh2H02B9N+anrM+P0/phY47z1fiKKRWitBzTGDUhyKKKiChvxZKwPbype43UxNFFBIZZJtEVPnRRRRFH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Change My Heart
+                                    <div class="name">Castles</div>
+                                    <div class="artist">Freya Ridings</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Confident
 Explicit content</div>
-                                    <div class="artist">Ummet Ozcan &amp; Laurell</div>
+                                    <div class="artist">Demi Lovato</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAYHBQH/xAApEAACAgEDAgUEAwAAAAAAAAABAgADEQUSEwQhMUFRYXEGFBYiQnKB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACBAP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAISEf/aAAwDAQACEQMRAD8A3jzMJA6nUK6mABBJ95KquRwGBBB95os0+Ub0MQZ5yj1Mbe1R5gD5hTyUTCQ+o62uogEjMI0s9fVcOctCv6iIBVbSo9MysXUPZaW5l2+m6QPtLS+OesAsf5TkrU6bT/yStdMXNg5SMZzOe2t8gxyk/wCynvSyrjlXt7xvpenvF5zem35h01nVbrNS/buxz8wlcKOGO61Mf2hEWHTZzbrdvK3dx4yK2rXbx+7bfEQhKNkFuvb1nUNp62qz588A95Ar1i5TuDuDCEjLpltrdosL7m7+PaEIRIVv/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Homegrown</div>
+                                    <div class="artist">Haux</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHBAUIAgP/xAArEAABAwIFAgUFAQAAAAAAAAABAgMRAAQFBhIhMRNRByJBYXEUIzKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgIDBwT/xAAjEQACAgMAAgAHAAAAAAAAAAABAgADBAUREiExMkFhcaHR/9oADAMBAAIRAxEAPwDmWxt7Z5K/qblTKp2AQVTWWcMtVvBLV4stxussnn2FbTLeAuYlcobbTKlHtVhw3K2F5Ytki+aTc4pcDS2g/ixqGyldzvMVDJd6UDBexiw9Qbk6R/TJLl/KjWLXXRtbh52BvDJmZ4j4rb4lkJ2zWdS1BCYP3W1CfaADVE8B8LZs8YxW6uUa8Qs5+3J0kKgSf92NW28w+wxyyUlxpvURsUjY/Hb4pT2e9sxsg1AD1+ZxvhgdB9GcTZmsLdq+ccskpaZMBLIKiU7CSSR6neiqh4nZVTh926EpETtRRfE2KX1BxBjoVPDPh4ZNtt39utcaeokH41CmfNtulLmIPtLdUUOqJCiPJCoge3HxFIGT79LaglStjVSZQzjCXg46hL1wypBSoxrXAhQPG8bjvT5fXXZrmI+YD9zTMXwNKuv0EWsvZlubcXKUNAO3JBWtO2oxEnvVMyJev3z9uguqQGVgkc6zzHsIHPvHrSll/Kj6XwXLdYAPqmB/adMAdsMKcumm7htdymVL0GUtgwInvt+qxvaFXdnK+xBOfQoYt3s0Pi4w2qCAPxopa8RMdTdvLCVeUbUVZrarFoAMVcgDzMkOV8UsbeU3rCnFlYKV6oAT6jkc9947GnjD8z4c00UOt9VKVgp88bRzzzNFFP7AlSOn394a1uTZ487M+yzpZsIeSgPa9+n59SRxXt3N+Fp6xZtnUdVXUWAd1H1kz6/G37oopXtw6vMy/YZDt8TEnNWO2tytP0SFtpCfNrMkn+/7t8UUUUSooRUAAixYxLdM/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">You Spin Me Round (Like a Record) [Radio Edit]</div>
+                                    <div class="artist">S.Tandy &amp; Marc Korn</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQGAQUHA//EAC8QAAIBAwMCBQMCBwAAAAAAAAECAwQFEQAGIRJBBxMiMWEUMlGRoSNCcYGxweH/xAAaAQEAAwADAAAAAAAAAAAAAAAFAAEGAgQH/8QAIxEAAgEDBAMAAwAAAAAAAAAAAQIAAwQREiExQQUTUTJh8P/aAAwDAQACEQMRAD8Asb3X19orGp6S5V/lpL5SBnU92HuR8DjWBuO/xV01KK2rJjm8pWAjPVyQP5PfTF8tNbUbvuS26nlkEiP6gMAOY1K+rgDk9zpxNp1VstElfc5TU1NO/wBSsUGSWZeQGY9sj8e2iPWwY6dgJsC9DQobBJHzuT3ixue7bctFDSUm47kL7cY1JpRDB1QqRg8iPqDZ4HPYntrR7Vtd927WWiNt27gqVuUqR1rzoHii8wHoKeaG9QcKpPBPV7DURWUe67/vOG6x2+revkqllEkkTCNMH8kcKB/zVX4rxbxqoLHbqFZKQzV5nepDgiORSChyAMLnLc8+n41Bds9Vaa8GH3FitBC5OT/cTqlBabzVPVpPuu5rJTVDRHy6emAIwCp5jPuCP76NSHg7u+quu8bja7jUGomahjZpjjE00R6HcYGDlSvOBnp0aYCgjMKqVCjFZ2EzgOFHuTpa7TVX00aUiRMXcLMJGAITvgdz/rSM1UKeYysAccAZxkngalRWVFVuBTTzCsYg4VXwFYNz/VQP8aIu7rQNAG5jFK01nV0I5uffsFm3DDaGt8s03TmRkYIEXuRn3wM/pqP3v4jUkuz54Bb546ysSWMiZD5Uaccls5yVYEAd8/jU/uDcdbPY7rHWiWadKx43lPKrj7VXuFOMkdyvydRW1GkjuNJI5jmVJywWXlerpYKSD8nI1LIpnU4zjcTlfWDeoLT26Jz97nQvB22Ab1tFTCHVaa1zCYdJCh2KAL+h/bRqj8LrzT3O8AqiCZKZ4i6cdZVhkkfkZxn50aQtHL08sOzDvK0VSvhd9h++BjmOV+4ZKnzB5EMSn2JJYj5Hb9tSU12+glV6J381AQrIfVzwedGjXUqooOrG801vTH49SMvEdfVHPRMFP3LnhzknJ/JyTrUJT1sEc/mwsYmX05x9+RjPx76NGrtLdHrDMryty9G0Yp1PS0S3CCYPSu1MTz/Cbpxn35HPvo0aNbVKKBQMTwW5vqzVCxPM/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Fool's Gold (Tiësto 24 Karat Gold Edition)</div>
+                                    <div class="artist">Sofia Carson &amp; Tiësto</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -533,34 +561,6 @@ Explicit content</div>
                                     <div class="name">LA LA LAND (feat. Delaney Jane)
 Explicit content</div>
                                     <div class="artist">DVBBS &amp; Shaun Frank</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAH/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMEAAURBhIhEzEHQVFhgSIycRQVUpGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAHhEAAgMBAQADAQAAAAAAAAAAAQIAAxEEIRITMUH/2gAMAwEAAhEDEQA/AEChsuGpu26bnTo3XYQFIBUnAUM5Az29/wDak9G6Tn6gyIMcuBIyVEgAfJ4q42/Qslb6oj8YsyQcAuHGD8+VYtcoOA+xpeViNIlUa8PbssLCFMZQhLi8rxtSo4B/Hv5VC3TTsq3R0uyOkEnA2hwFQJz3A5HanLH0dclRhAchyjICSPLplvOfuzjGaiLj4czG3kNhtIU6vYlPkT7H0rNej30y54z+CJZWUHHOKKuOudHT9N9Mzo5Qhz7Vg5Sr5HFFMJYrjQYu9DIcMvnhElEzTsyPIJTHjupkFbawFg4weCeRj+qY8Ga3erx1W1FDSUpbAUrJ2gYyT60tvCadChWF0voQ4tSxnckZT8jmt2tr1GNxditBCIz7Wx3onHccj81y1sU3lcnaeiz6AxPn8jx/bAIn0vpHH8h29PxVQu90ct9xC5a+s3goABAIBGOPelHDh6WTlpxbi3dm/a46Rx8YqZ0pfISbmy04QmLHTsbQpQxgduTTF7KFOCL8/PZ8hrD2dHjQWmNJWuOyoqZkOqkpWtYKs4x2B4FFcvi5cIc/TkdyO2yVh0o+kDKeM9/SihyODXoGSvZW6PjGKa1Xl+CytDKtpV3NYv3R19/qPKKj50UU4K1BLZ7Ez0WFAu+Cefqwp3q5O/bt+6tjE4pWT6+9FFQqCIEsYHZhPmFxraCcemaKKKiqMhssZjpn/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Fractures (feat. Nevve)</div>
-                                    <div class="artist">ILLENIUM</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">New York City</div>
-                                    <div class="artist">Owl City</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC8QAAIBAwMDAwIEBwAAAAAAAAECAwAEEQUSIQYxQRMiUWFxBxUjgRYyM0KCocH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBEhBRITMRQiUWFx/9oADAMBAAIRAxEAPwCLQLbRjbx3F3bxypFbCRhu5eQPKShGRjKRt++01zDb6NNZ2dzHBFDPHE2YnmJFwRACGYZ9o9XIOMAik5InuQzqihB/dj/VXvSVu8N3JMQ/pBfdxgfvTe5SgLd0ExwLCAV4l+2kQSNFDBpyG2knYvcOW9VgJGKqoLDClMePrmpV6Zs4F9F4B6vq28qnfhniEbNIM543Y8cg4Fc6n1hpWiqkkd6l1LMucQHJQec57U29JTW3VekG7QPFBuI/TT3kqeTu7Yz5FL/ktv3HDYVYEQ9f6XmVrlrG0g2IVT+tgoFABOCQSWJ+CO9FaNqPScmPUSSaUNgrIDk4HYYPBPNFWXMdePcsvTaHGy2v5MY6ctmumMKsULng54+ua0i1tNM0ZIbXUrsGeVGG4uFGPgA/T5rPOnblLcOzMqyj+XPxUHW0eo65qdhcW7IoSNlkbPt25789jVsuxidCcsCtBX3+z+JadT/h3Y9QSxT6LNKbgTATwQx59NTwdxHAPnHfHitP6f1TTOk7rS+jYGuYpHhLRllDK/Jy2SfJHOBxS30hq/5bbQxyNDHqFzqELSOnu3pgBsnPwPt3ps/OrJ717m9t4hLu22/qQ7mRRnDAntkknjxSlrdcQ/xs7n67MvpHkgH6is6Enb7iB+wFFJv8RW9rd37PLdyxMyhElckbgPcVJzjPxxjH1oqPMRCFxLCNlZikDAk5YfbFextQkiVIo0EmeMF9q/5HvRRTze15mUqYqdiT2N6Y9Yke5KIrwoQI34yCQSB474pkfVTP7YzczAeHPA/5RRSPJQK51Nh06wtTz+5Df3SqhKwssvgMdwP3ooooWMVc6n//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Trois nuits par semaine</div>
-                                    <div class="artist">Indochine</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC4QAAIBAwIFAwMDBQAAAAAAAAECAwAEEQUhBhITIjFBUWEUcYEHFSQ0kaGxsv/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRMRIhEyJBUf/aAAwDAQACEQMRAD8Awu2tnlBZQMfJq1cJ2kUmoWatD3liS3N5GDtipPC9xp6cH6jHPZCW+6g6cpJHKO0/32rrw0yx3lrIxAAB/wCTU7VCcjEqRAMGM54oLiL+hclfQSn2qwW3BcOraXLbW/08dzCVZFJPUbmAOPn81nkl+ORggIzVsPEUmna5FJZS5ZxGodTkDsGc0b7mwHjPcxZKELchFt5+n2pRTND0D1gCxj9QBtRVq17jvUbOGQyZWaYcrSMck/bPgfFFRhrn8loFudmZto80SaLNAwbrO/MuFJ2wPWu9vp0twnMFPKqgH4pMt0sK9iOyYGcf581Mstb3i6SSKwwZAZOxjnbYDxj0zVVRX2sTQamre8Zw8PM6FlaU492IqXZ6aYGjnx2p3EjfxXr8TrJJM8TLDNIpQJyBo1B8jB9xt7j3pSNevLHTzb29zD0ixfl5N/Pox3H4pHGq0u8tuvySOL9cub6JbeRESJT2OI+VmH39RRULUOIrW/8ApxJaMgijEbL1CwfbBO/gn4oq1clRy3OQ6U0Ppo9xGNUlWLpgLgjHipHD1+LbVo5WFqByMv8AIXKbgjfHr7fNFFNPe4oALnEsP7/GUtATpQ54+8hDlcb9227Z2yPNVjX51lv+ZZoph0174/Gcf7oooAQ5iwtRRRRgn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Paris</div>
-                                    <div class="artist">The Chainsmokers</div>
                                 </div>
                             </div>
                         </div>
@@ -792,7 +792,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jun 2023, 09:19:48 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Jun 2023, 10:08:34 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
