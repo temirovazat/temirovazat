@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2383 users
+                            Followed by 2385 users
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.78m added, 6.91k removed
+                                    2.19m added, 8.10k removed
                                 </div>
                             </section>
                             <section>
@@ -480,8 +480,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">4</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -490,8 +490,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">1</span>
+                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -520,25 +520,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBgcBBAj/xAAqEAABAwMCBAYDAQAAAAAAAAABAgMRAAQFEiEGIjFBBxMUUXGRMkKBFf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDy6w2lQGoT8Gp0W7ZVzAyO01xallLQUtSdQ/WDPX4rUvB3gjFcY3l6u6vSpizCFusNny1rCp21EQBI69utBXH+FMFj0tuZTPM86AsW9uhTjm4kdNgIjckVX28XaKa3fIcV+LmmG0n2UfenuNewbeXdTcPqTbNvqnSnUtaAo6RqjSBsJNaT4347B4C2wH+ToZtbhtZhxZdDoOkyqBETuIoMSvbFhphxxp9tak9UwUjtuj370UxzuRt7pl1KLpu4IQAhRYKFDf8AEdojeaKBHaFKQdQBlJHStr8BF45vFcbO3IgW+JL6QDp5k6hBjqCVp271lmNxtlcY9lx925bWqRCAjSTJ7lQrQ/CS7ucVbcXW+PbxYu7fHrfS9eKCXHhywyOePdW07gUGZ3KLdt9vQlJSQUqI9461aeMeNLjiXBY2wubCxt2cendVugguq0wFGTA+BA3NIGcaq6xN/eKdYi1SlWguhK1FaokJiVD6iulZNrubhq1bUgLWoJBWYA+TQKiNiYNFWnNWmJt7B70qHC7pGlfnlaSZE/qATHaaKBNZXLTbKUOaDPWUgx/SDH1U7LuOcy9t6xS0WJcR5xaSNQRPNpERMUUUDXMZjFXGSy5xjXpMc+si3Z5uRA2TMfe89f7Vft7httbazBUNzM0UUEt7kPPZKSoqKupMyd9p33ooooP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Confident
-Explicit content</div>
-                                    <div class="artist">Demi Lovato</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC4QAAIBAwIFAwMDBQAAAAAAAAECAwAEEQUhBhITIjFBUWEUcYEHFSQ0kaGxsv/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRMRIhEyJBUf/aAAwDAQACEQMRAD8Awu2tnlBZQMfJq1cJ2kUmoWatD3liS3N5GDtipPC9xp6cH6jHPZCW+6g6cpJHKO0/32rrw0yx3lrIxAAB/wCTU7VCcjEqRAMGM54oLiL+hclfQSn2qwW3BcOraXLbW/08dzCVZFJPUbmAOPn81nkl+ORggIzVsPEUmna5FJZS5ZxGodTkDsGc0b7mwHjPcxZKELchFt5+n2pRTND0D1gCxj9QBtRVq17jvUbOGQyZWaYcrSMck/bPgfFFRhrn8loFudmZto80SaLNAwbrO/MuFJ2wPWu9vp0twnMFPKqgH4pMt0sK9iOyYGcf581Mstb3i6SSKwwZAZOxjnbYDxj0zVVRX2sTQamre8Zw8PM6FlaU492IqXZ6aYGjnx2p3EjfxXr8TrJJM8TLDNIpQJyBo1B8jB9xt7j3pSNevLHTzb29zD0ixfl5N/Pox3H4pHGq0u8tuvySOL9cub6JbeRESJT2OI+VmH39RRULUOIrW/8ApxJaMgijEbL1CwfbBO/gn4oq1clRy3OQ6U0Ppo9xGNUlWLpgLgjHipHD1+LbVo5WFqByMv8AIXKbgjfHr7fNFFNPe4oALnEsP7/GUtATpQ54+8hDlcb9227Z2yPNVjX51lv+ZZoph0174/Gcf7oooAQ5iwtRRRRgn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Paris</div>
-                                    <div class="artist">The Chainsmokers</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAwEAABAwMDAwEGBgMAAAAAAAABAgMEAAURBhIhEzFBUQciIzJhgQgUFkJScZGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBQD/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQxEiEiQf/aAAwDAQACEQMRAD8A+d6eWW1InRlPEBRQVApUopB+XHIHbJP3KR5pJTfTyrrIlpt9mLhfkHAQg4z5PPgcZPjjmi+ik9j5enIBbK2Y8zBcVgOkhQTsSUHgYwSTnyBwMkcqL/a40GMlbSH23dyELQ523bSVYzzjOAMjtz64o7horVEOL1pDkXqdEPdAv4eKUkrHuHk4OVY9aiZM+VKZS0+8txCVbgCScHn/ALRn30xVpfhqUV7iimTLGDpBMrRa70zcEqkgKUmGhkk4ScKyvOBxziqn8PkZ6PrSXMMdrfDjguddWwNoX3UM+cCpmwaimo0y7YGlBtpxSnFOuK91tsDKuO+c+Kz0PfJtmuc+Yyh2XHebIkfE2rKBznJ8/wCam8eSk1or545aey09sKpLV7t12fhsQ1yHNyUsyur1kfyCe4479u9cleZEadIYOQpLhGT6VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPLivNspecbIaUdoXjgn6UUwvdyiybVb40aOEraB3uKUSo5x/qiqonSW+zPTsViXcB+byY7Y3KSP3egqoky0FkIhtNI3bm8YwkD+h9KKK08STWzI5NNXo0NMWtuNqWG+hZWpn421Pu/LnnPjmqT2nR4j+nbbIfcBuKVhLpJ+ZCgSMfUcfaiisvkSpzpI1OPTrE9nJFDbwe9FFFJnH//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Oh Woman Oh Man</div>
-                                    <div class="artist">London Grammar</div>
+                                    <div class="name">Paradise (feat. Benjamin Ingrosso)</div>
+                                    <div class="artist">Ofenbach</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -549,10 +534,24 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYFBwgEA//EAC8QAAEDBAEDAgUCBwAAAAAAAAECAwQABQYRIRIxQQcTIiMyUYFhoRQzNkJykbL/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIE/8QAHREAAgEFAQEAAAAAAAAAAAAAAQIAAxESITEEIv/aAAwDAQACEQMRAD8ArTB8RtlzsUKTKhpcccSSpRUeeSPBqUymwYxjcNhblmZkyXiQhsuqTwO6jzvVSuF3CLY/TS23GYCUhspSgDlaytWgKUMkZv156b5OgvBhxOm/baUUttjse3APPJ78mlDZNvkjfI12LPsQ/wCOVIECN0lRPsaUUAfbvv8AemfG28TmJWzebbGiP9Xy3EFYbI+x+I6P69qWvNMmF2VEyeh+722c9ZVbbckNIUEtKPCVFQHYHvSPYC5gozE2ntmmKWeDj0yZb4zQKEgpcbWVDuB99UVI+o+CxrPj82VbpT4aaAUtp07BGwBrQHOz5orCuCNGPiR2M3pTjFvuOI22ZdUrmBxgttsuHaGk7UFaT22e++9WNlVyj4/h9xlgD5TBbbQrQBUodKR+/akL0mntowe0NF1sKS2rjqG/rVUf64XUrt9qgIV8C3FvK0ePhGh/0a4RlUq4mdLgJTLCVOlsvPttRUuuLWQlKNbUpR4AAFaewe23CyYdBttz9gPMdWghROkklQB478kVm+1SZeP3a23P2SlxCkyWgsfWjZH+jojf5rRwyOFJs8e4iQhuK+gLQpxQT+OfIPFL7WawAGoPjUXJPYrer/8AQt530/yh2/yTRS76o5NbpWK3KLHlsuuuoASEK3/cD4oq+cNjyLVK5dleYvfoUK1xmn5SULQkgp545P2FMqMpxuU4hNwcjuhohSFOJKufPiiilZAdwVOJnPn+UWK6xWkxJMZ59pQCXUtrC+nXKdkAdPP6/ik43hpcdtl2WpbbW/bQSSEb5Oh45oopKSgKBMVRk15w3CbHdiOoQ4CojgaooopJFUAT/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHBAUIAgP/xAArEAABAwIFAgUFAQAAAAAAAAABAgMRAAQFBhIhMRNRByJBYXEUIzKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgIDBwT/xAAjEQACAgMAAgAHAAAAAAAAAAABAgADBAUREiExMkFhcaHR/9oADAMBAAIRAxEAPwDmWxt7Z5K/qblTKp2AQVTWWcMtVvBLV4stxussnn2FbTLeAuYlcobbTKlHtVhw3K2F5Ytki+aTc4pcDS2g/ixqGyldzvMVDJd6UDBexiw9Qbk6R/TJLl/KjWLXXRtbh52BvDJmZ4j4rb4lkJ2zWdS1BCYP3W1CfaADVE8B8LZs8YxW6uUa8Qs5+3J0kKgSf92NW28w+wxyyUlxpvURsUjY/Hb4pT2e9sxsg1AD1+ZxvhgdB9GcTZmsLdq+ccskpaZMBLIKiU7CSSR6neiqh4nZVTh926EpETtRRfE2KX1BxBjoVPDPh4ZNtt39utcaeokH41CmfNtulLmIPtLdUUOqJCiPJCoge3HxFIGT79LaglStjVSZQzjCXg46hL1wypBSoxrXAhQPG8bjvT5fXXZrmI+YD9zTMXwNKuv0EWsvZlubcXKUNAO3JBWtO2oxEnvVMyJev3z9uguqQGVgkc6zzHsIHPvHrSll/Kj6XwXLdYAPqmB/adMAdsMKcumm7htdymVL0GUtgwInvt+qxvaFXdnK+xBOfQoYt3s0Pi4w2qCAPxopa8RMdTdvLCVeUbUVZrarFoAMVcgDzMkOV8UsbeU3rCnFlYKV6oAT6jkc9947GnjD8z4c00UOt9VKVgp88bRzzzNFFP7AlSOn394a1uTZ487M+yzpZsIeSgPa9+n59SRxXt3N+Fp6xZtnUdVXUWAd1H1kz6/G37oopXtw6vMy/YZDt8TEnNWO2tytP0SFtpCfNrMkn+/7t8UUUUSooRUAAixYxLdM/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sleepwalking</div>
-                                    <div class="artist">The Chain Gang of 1974</div>
+                                    <div class="name">You Spin Me Round (Like a Record) [Radio Edit]</div>
+                                    <div class="artist">S.Tandy &amp; Marc Korn</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC4QAAIBAwIFAwMDBQAAAAAAAAECAwAEEQUhBhITIjFBUWEUcYEHFSQ0kaGxsv/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIAAwQRMRIhEyJBUf/aAAwDAQACEQMRAD8Awu2tnlBZQMfJq1cJ2kUmoWatD3liS3N5GDtipPC9xp6cH6jHPZCW+6g6cpJHKO0/32rrw0yx3lrIxAAB/wCTU7VCcjEqRAMGM54oLiL+hclfQSn2qwW3BcOraXLbW/08dzCVZFJPUbmAOPn81nkl+ORggIzVsPEUmna5FJZS5ZxGodTkDsGc0b7mwHjPcxZKELchFt5+n2pRTND0D1gCxj9QBtRVq17jvUbOGQyZWaYcrSMck/bPgfFFRhrn8loFudmZto80SaLNAwbrO/MuFJ2wPWu9vp0twnMFPKqgH4pMt0sK9iOyYGcf581Mstb3i6SSKwwZAZOxjnbYDxj0zVVRX2sTQamre8Zw8PM6FlaU492IqXZ6aYGjnx2p3EjfxXr8TrJJM8TLDNIpQJyBo1B8jB9xt7j3pSNevLHTzb29zD0ixfl5N/Pox3H4pHGq0u8tuvySOL9cub6JbeRESJT2OI+VmH39RRULUOIrW/8ApxJaMgijEbL1CwfbBO/gn4oq1clRy3OQ6U0Ppo9xGNUlWLpgLgjHipHD1+LbVo5WFqByMv8AIXKbgjfHr7fNFFNPe4oALnEsP7/GUtATpQ54+8hDlcb9227Z2yPNVjX51lv+ZZoph0174/Gcf7oooAQ5iwtRRRRgn//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Paris</div>
+                                    <div class="artist">The Chainsmokers</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQCBQMGBwj/xAArEAACAQQBAgQFBQAAAAAAAAABAhEAAwQFMRJBEyFRYQYUFSKBMmJxcqH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDIQQREiIxYf/aAAwDAQACEQMRAD8A8sirzTayzn4d5iYuoPXv2qkq00WY2JlgIT9/l5Rz25/mjYm49fR1W3Lt4JZOM+O5V1I/FYCK6jucy7sPgc60JYa42QtzHdkU3GAH3KGIkCZ7+1cyuKyOyupVgYIPINSqxTX0ZfS6msYZBeaKF5NFMM45gHXBCM9covLQbJUCOkxz+6PxPerTV4+tzdiMPAs5j5N+beP4hXp6yF6S3oJ65PpHvWvVYabNXX5vzDKxZbbhCDEMQQD/ALVX4Wjhmw6vYoudexbyX3FlBatGwwIVg4DEz2ieO8dqS3FrW2s24cwbDxXs9Uyhm7HP9Zn3ik9NeXGclpBiZFR3+WuXko6DhYpNa2nslg6FvbT8pPJh2H02B9N+anrM+P0/phY47z1fiKKRWitBzTGDUhyKKKiChvxZKwPbype43UxNFFBIZZJtEVPnRRRRFH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Castles</div>
+                                    <div class="artist">Freya Ridings</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -792,7 +791,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jun 2023, 00:08:40 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jun 2023, 01:03:53 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
