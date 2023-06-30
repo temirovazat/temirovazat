@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2388 users
+                            Followed by 2387 users
                         </div>
                     </section>
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 131 repositories
+                            Contributed to 129 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7891 Commits
+                            7897 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            2827 Pull requests opened
+                            2831 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -263,7 +263,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 17 commits)</small>
+                    <small class="h-details">(computed from last 20 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -392,7 +392,7 @@
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">17</span>
+                            <span class="value">20</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             23
                         </div>
@@ -428,8 +428,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">1</span>
-                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -458,10 +458,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgEBgUHAQID/8QALRAAAQMDBAAGAQMFAAAAAAAAAQIDBAAFEQYSITEHEzJBUWFxFBUiI0KRofD/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMABP/EABoRAQEAAwEBAAAAAAAAAAAAAAEAAgMRQWH/2gAMAwEAAhEDEQA/AGNlh8xnBEU0mRt/plwEpB+wDkiqdq3WjelFoTdpsMvrBWiJHZW48pOVc7QeB6BuJAyDVi1TcJdpsE24W+I3MejNl3yFu+WFpHKsKx3jn764pLtUXiTqHUky6vpQqXLeLqkFRAQjH8W8qPWBgD/FTXlfVi5TPnxTsLMFDsq+21qRISksM+W4paTuG5K0pz/LBHvjOewK5uPiPGZvLFotD7V8ujncW3slZT6c5XnYkers8cUr12htrlw4qAnyJK0ltxaNqm8nkc/9+a21pN9OmZv7nb5s9cOKUiSTJAaeSB6dmDkZ4yAAOx3QHtTPS4LMLAVJVCZVOQhEopBcS2cpSr4BoqFpa+wtTWGJd7YtSoklJKd3BSQSCD9giinuVq/4yXq56f8ADq7XCxpV+tQlKQ4kZLSVKAU4PwD37d0qF1hEWUXFiHJkzg75zk5eXDjrKldD5596du5xmpltlRpEdEll5pTa2F+l0EEbT+eqRy5nUGn0uQLnBuFvgPOlp1he5CHCDnaCeDgc+/zSZD5V1oXV9uVcIyl3aY1GejxBLj+acmQglOQlXWcdD6I7qHIua5rD7qnillCC03H34449veoFziPtuR35LEluA9uTFcdyUrQg7TtV0QDxwanCOwymKWSy6VYWhG5ROM8pUfk/XXtR+zives3/AIGNRGfC2xpgS25bam1LWtHSHFKKlI+cpJxz8UVnNCQ7ZG0zBfsttbtsea0iUqO2MYWpCc5+8ADPv3RTUGsFU/xM0UxrW0NMLUlEyOVfp3Fk7UBeAs4HZ2AgfBOaKK1iwVl8MYNy8NNPWDV0Uh+3pcVtYd5QtRV/cOzhQPxke9eNr8DNI266Q5yP3B8x+fKffCkLVnIKht/0ODRRQt1LaSQEpASMJHAAHAoooowv/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgj/xAAuEAABBAEDAwMCBQUAAAAAAAABAgMEEQAFEiETMUEUIlEGYRUjMnGRJDNCRLH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAlEQABBAECBQUAAAAAAAAAAAABAAIDESEEIhITMUHwIzJCUdH/2gAMAwEAAhEDEQA/APQk36m0swuuzqzDLYAWXFJJATW6/sKo3kTq/wBYJg+lVHkJlsum3HG0ABlFA71AkE/qBoeL+MoyC2/q8rSHty9PTEbKo+z/AF+pxyD8cfO3m8mjp2l6pDdiyAVNRFBtXPt2VYSQD2CSB96GYGyvOBSXtu3Wri99SQWonXXq0RKAgErKSB2Bs/AojB76kgMsKfe1eMhkCysoI2g1RPx3HfM4ZLc+bIhTGlnTDHa3Rig/2Urr9V8mxR7cV3xrImRzrjukaoh16CpLDbjXT4SjgoBO6+eOAOwF4DO4fSIbxdMrV0/UulxmFOTNUY2WPeQQEjgc/Fkj+cMzFlSJuqz9N1Hc/EYTHLzBb7IABTyDzZq6rx3wyvOJ7gKbviCUml4O6EYvTSZnSQ6tsOHqHcA0Wu3g2nzxzk1+VEYWwh6O0qS4VhPcr4AUKsciiPjKXFmmPqEnXVLT6Msp2U1+b1x7zfH6f8APnxfOWD8QYfeC+msthHVS5dFbqikhJFcDun9/GFjSbCU94aAfLSuroW5pchtn+qkqaQpLbThC3bIRtH7/APMcqTHf0uS27FMiRHCVltfBU4psCjf8YxQ8vT3H9VcKPT9JAb2ItZeASVXxymztH38DOn9QYTJfXbPSet/cpvkkISLvxzYA84K3EEZVg4cAc04XGsqL2kPRozSn5aFI3NNrIddLike08UKCTffgeMMYerOlzZ+rqcSYzmz0xQ0C4VgJCt3HIJJrvVeMMRIGXvtPjEhHpnCocWM07CET1MlKOmG96V0oe3buHgKrzlpZhsqgIjiS8m2wkuJX7xXAN+DQwwzKyeTOfLXbm0UJI2+Ul9WaTKjuxw+8hDg272lUU/dPweMTLaQhlvrrTSdm7iwKAJP7gYYYwaiQPJtJOhgdE1pb0/FEahEbkwzHMqS2CAAtCqKaINj4JrDDDEGV57rWNJDXtX//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Teardrop (Remastered 2006)</div>
-                                    <div class="artist">Massive Attack</div>
+                                    <div class="name">Papaoutai</div>
+                                    <div class="artist">Stromae</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -472,6 +472,20 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBAECBQb/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMABBEFEiEGMUETFCIjUWFCUmKR4f/EABoBAAEFAQAAAAAAAAAAAAAAAAACAwQFBgf/xAAlEQABAwQBAgcAAAAAAAAAAAABAAIRAwQFIRIxYRMiI0GBkfD/2gAMAwEAAhEDEQA/AFPUNzMYWhI2hWkCsWIAxg+TwKtpbzSLujhldPuqEivQ9JXNvL091roV5aySXd5bw+0QQ7meQCQKFGP3spz45PioFJvJ211LO3htbRxYdnWlyddis4dTkj01na2CrgyEEk4Ge3HfPbj7ZqgaqdM+8kin028trlLhMNAJIyDkZ3IAR5HOP41clRocespjJ7bxjP8AdFVha5Kwt+y7tWmdjR/d1rRWNwJxkZPNFNq2BB6Jl9J3Wkw9N2bajdRLFbxzTyJHetHcNIr5SNU3Yw68HjznORXRvZ+l1ueoH07Vra9v5LeO4sveajJHHGDwLdm3rkr825ORvUUpKq28Yb3DeXYinG1IWfyGJ8dw853J7JiaDeaJNqt+txr4NpZX7P6l5czO8Fusa7DbgOjNyZRuAZsBcrgk125YukbvSrCe9m0vUbxJLgTM16ZAEyxhAIkHGCvCg88HBpI6SN91f3LdgfTA/AH+VP06mzTEJ7uxannv1v2VNi8b6rQ1xDXcvoGAmT1Vb9LJokZ0K2sItS9OCaVopHIw6/JEDMfkrDn8Nj9JorxNFRnOkytnaW4tmcAZWKigRo0IbBJJPFFFCKgkgqS20+CzM8keyazkcEI8n1DlfkCByOc81IYLa3jRLNpDHydroBt5OBkE5488UUUtxmVDsrRlKCOokfErSiiikKyX/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Turn Me On (feat. Nicki Minaj)</div>
+                                    <div class="artist">David Guetta</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAwEAABAwMDAwEGBgMAAAAAAAABAgMEAAURBhIhEzFBUQciIzJhgQgUFkJScZGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBQD/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQxEiEiQf/aAAwDAQACEQMRAD8A+d6eWW1InRlPEBRQVApUopB+XHIHbJP3KR5pJTfTyrrIlpt9mLhfkHAQg4z5PPgcZPjjmi+ik9j5enIBbK2Y8zBcVgOkhQTsSUHgYwSTnyBwMkcqL/a40GMlbSH23dyELQ523bSVYzzjOAMjtz64o7horVEOL1pDkXqdEPdAv4eKUkrHuHk4OVY9aiZM+VKZS0+8txCVbgCScHn/ALRn30xVpfhqUV7iimTLGDpBMrRa70zcEqkgKUmGhkk4ScKyvOBxziqn8PkZ6PrSXMMdrfDjguddWwNoX3UM+cCpmwaimo0y7YGlBtpxSnFOuK91tsDKuO+c+Kz0PfJtmuc+Yyh2XHebIkfE2rKBznJ8/wCam8eSk1or545aey09sKpLV7t12fhsQ1yHNyUsyur1kfyCe4479u9cleZEadIYOQpLhGT6VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPLivNspecbIaUdoXjgn6UUwvdyiybVb40aOEraB3uKUSo5x/qiqonSW+zPTsViXcB+byY7Y3KSP3egqoky0FkIhtNI3bm8YwkD+h9KKK08STWzI5NNXo0NMWtuNqWG+hZWpn421Pu/LnnPjmqT2nR4j+nbbIfcBuKVhLpJ+ZCgSMfUcfaiisvkSpzpI1OPTrE9nJFDbwe9FFFJnH//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Oh Woman Oh Man</div>
+                                    <div class="artist">London Grammar</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGBAcBAwj/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMABBEFEiETMUEGIlFhcYEHFJEyM0Khwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEiMTJB/9oADAMBAAIRAxEAPwDzFn3kUx02LrSBec8tj7UsRsS89qq9DsXWcTPjZDtLDHyO1OKthboRyWJa7hs5PYWYgHwAeRWFALe3eWO9heRw20YbAGO/3rYnp60tr31k91qxS3sYWwwdS4znheBkkj8VP/qRoR0n1XfKkDQ2kjrJCrn3KrrkAjx5HPPFF9jrRNyNaPGyxQush/pOScf7ori2i2uNwGM9/pRUOSOzpb5lCA5zxW4P006EdjeRXaJcdWItJ1I3k2gcE4TkDxuJHwB5rUNpJtuVbPY1e6FMkhjMAWCEc7VP9xvGfzVwy6Ip4/B2mjraatLIjQu/JRXXeCGyOR8j/lQ/q2TdqV+Ll3xPOjxyH3bgoKMRk/P17Vc6lqTQbYrQM79J2wn+WBnH81Cajpq3PpWTWzI6CO6ECxSPnBbLMq5+4P05+lGWpGi8IVQywpb8n3kY7dqKSEk0V1EU6MyPtmnekahJBqFuNxMcScr4JPNFFNMyLm/WC10+21C0zPuimLxuNykADcP4JP4qL9X3KR6dYWlm8q2sxa7kicEYkJKjvyQFAwfg0UUH6N0+BPrZhrXrfurYHBPTLHfx4xiiiikZH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Brisé (Pilule Bleue)</div>
@@ -479,24 +493,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgj/xAAuEAABBAEDAwMCBQUAAAAAAAABAgMEEQAFEiETMUEUIlEGYRUjMnGRJDNCRLH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAlEQABBAECBQUAAAAAAAAAAAABAAIDESEEIhITMUHwIzJCUdH/2gAMAwEAAhEDEQA/APQk36m0swuuzqzDLYAWXFJJATW6/sKo3kTq/wBYJg+lVHkJlsum3HG0ABlFA71AkE/qBoeL+MoyC2/q8rSHty9PTEbKo+z/AF+pxyD8cfO3m8mjp2l6pDdiyAVNRFBtXPt2VYSQD2CSB96GYGyvOBSXtu3Wri99SQWonXXq0RKAgErKSB2Bs/AojB76kgMsKfe1eMhkCysoI2g1RPx3HfM4ZLc+bIhTGlnTDHa3Rig/2Urr9V8mxR7cV3xrImRzrjukaoh16CpLDbjXT4SjgoBO6+eOAOwF4DO4fSIbxdMrV0/UulxmFOTNUY2WPeQQEjgc/Fkj+cMzFlSJuqz9N1Hc/EYTHLzBb7IABTyDzZq6rx3wyvOJ7gKbviCUml4O6EYvTSZnSQ6tsOHqHcA0Wu3g2nzxzk1+VEYWwh6O0qS4VhPcr4AUKsciiPjKXFmmPqEnXVLT6Msp2U1+b1x7zfH6f8APnxfOWD8QYfeC+msthHVS5dFbqikhJFcDun9/GFjSbCU94aAfLSuroW5pchtn+qkqaQpLbThC3bIRtH7/APMcqTHf0uS27FMiRHCVltfBU4psCjf8YxQ8vT3H9VcKPT9JAb2ItZeASVXxymztH38DOn9QYTJfXbPSet/cpvkkISLvxzYA84K3EEZVg4cAc04XGsqL2kPRozSn5aFI3NNrIddLike08UKCTffgeMMYerOlzZ+rqcSYzmz0xQ0C4VgJCt3HIJJrvVeMMRIGXvtPjEhHpnCocWM07CET1MlKOmG96V0oe3buHgKrzlpZhsqgIjiS8m2wkuJX7xXAN+DQwwzKyeTOfLXbm0UJI2+Ul9WaTKjuxw+8hDg272lUU/dPweMTLaQhlvrrTSdm7iwKAJP7gYYYwaiQPJtJOhgdE1pb0/FEahEbkwzHMqS2CAAtCqKaINj4JrDDDEGV57rWNJDXtX//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAUEBwEDBgII/8QALhAAAgECBQMDAwMFAAAAAAAAAQIDBBEABQYhMRITQRQiUQdhkTJxoRUWM2KB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECBAMF/8QAIBEAAgEDBAMAAAAAAAAAAAAAAAECERMhAwQxQQUyof/aAAwDAQACEQMRAD8A+YTMpQjsQj2qt7G+3nnk+cejUKST6aAXdnsAeCLdPPA8efknDbKsgXMJYoxUlOuhkrL9F7dLMOnn/XnCyrpBAKMiTq9RCsvFum7EW/jElmh5Qy2Eca+0LcA328884zFKEUAwxOetXuwN7C/t2PBvv525w9zjSlflDOtbFJcVE1OpUDpJjAJPVe1jf8YgJlTSV1BTRygvVRLJuv6b32+/GBprkuUJQxJUIPdHQo7UewYX3ub+eeR4wYnnLIzTNPHOe36T1Khl91+6Iyp3+d7/ABgwEDmvoEyXT+n6sy1LVOaUszhklK9pesqiADlSdz83/Nr6W+jGUZ1W5jFWZnWpHkk9NDKFHUZkkiDta59nuJtbxzc4rjUPbzHSmi5lLGnpaOeKd1FxG6SEhT8E3XbzfbFt1Gt30tHrDMMtFNUvmNTQLTiQkrIPTgllsfdYXxy3Cnbla9ugjzkl59pF6H+5IVapqIsuqI4mjZyxZHDhJG+d+gf9OOEzfTORTa60zlstLVUcVbQxs8gmIYTlW4HCqG6LADycdvk31Ty6uzF8xzkdoV+VrFXduMlCRBfbm1mXa/3xWn1KzaWfUeRZ7ShkWLKaSRFvuGW5F/F7KL49DVatRq84NW68xrb12XGkY9td0XwRVWU00Omc/q6r1H9Qo6uKiYmRrHqDkgjzui4MNdUVEdVkOuaiEgxz55BKm/KkSm/8j84MZTKV2YWWJh34unpVyofm/i3yPPxjLwNspqIWCu6Ady4Ft7j7HwfnBgwgNboyp/mQgoDYNfa/H7/bBHF3Fv3YkBdUszWO99/2FtzgwYQAYyVVmljNwx/Vvt4P3PjBgwYYH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Papaoutai</div>
-                                    <div class="artist">Stromae</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYHCP/EADEQAAIBAwIFAgQEBwAAAAAAAAECAwAEEQUhBhITMUEigRQVYZEHMlFxM1JTYpKh0f/EABkBAQADAQEAAAAAAAAAAAAAAAYDBAUAAv/EACYRAAICAgECBQUAAAAAAAAAAAEDAAIEERIFMSEiUXGRE0GBwfD/2gAMAwEAAhEDEQA/AOMXCwvcBZjyxnOW/l22J+majvtOtYdPaR4QJlCFsOf6zqfp2AFNapaydNJbdg/MDzKoOU3Iwf3G9ScK6dcapr1nazs72+TJLGTjnRAXI99/vXIw268w1N3qVQ53kMTn0eGJnMdqJEF2yElj6Yi0fKRvvs3vv+lL6nYWcEMMiwnHVAc8xxy9SQHOfog+1aziu1EnybV7EpHG0SpI8YwFkUkOjfsT/jisrJeQwyGC4tJbtUJSRjckLLgtuBjbdif+V6djsURszKtWnHlT2lFeL8Jf3EWMdKRlHsaKb1SSG85Hgs3huCWMrGYyBhtjGdxj/dFSruytdVJlcidGisZJ7QvYqzzqP4eKY0Swurd7qSaI2sksXSIbYkMdwPt9s1X6ZxHHbw8xkZJVHjBBpscXS3yvJcKWiDFtk2JxsB4zVvqefdieS7+PoIsSnFtYAnW/78S2t+HntrG+0q9jXp3DRz9VT+XlBPftuDWI1PR4raCOaKVWByGX6jzTOp8T6tJN0ZFkh9ICiRSuFPbvT2pcManpfxQv4JY4ZAs8LEellcEjB9jRQOdS/J1/EyVGHjPrwUN9/nvMY6ryc6KD4IzRS12WhlKgnFFbK2nj4GH3JoLkEaInYpNF/D9Dj5FxcX7shnUKPfkzimor3h97aCz0LTrWxihlaVfiGe4bmIALbjvt+gNFFRWOqk6lRaPrsFb2Oj6HU2UFlayaWy6wo1KEovKyofQv9obyB2HapeNZ/n+g2rW9lcJDLGeluNo4yRsPOc+O1FFG7UDb879xGmDirw1UuvuD9/Yn9Tz/AK5pNm1wwV7iJ/AaPNFFFJE0HAQd1DMZd5J18T//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Don't Wait Up</div>
-                                    <div class="artist">Shakira</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHBAUIAgP/xAArEAABAwIFAgUFAQAAAAAAAAABAgMRAAQFBhIhMRNRByJBYXEUIzKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgIDBwT/xAAjEQACAgMAAgAHAAAAAAAAAAABAgADBAUREiExMkFhcaHR/9oADAMBAAIRAxEAPwDmWxt7Z5K/qblTKp2AQVTWWcMtVvBLV4stxussnn2FbTLeAuYlcobbTKlHtVhw3K2F5Ytki+aTc4pcDS2g/ixqGyldzvMVDJd6UDBexiw9Qbk6R/TJLl/KjWLXXRtbh52BvDJmZ4j4rb4lkJ2zWdS1BCYP3W1CfaADVE8B8LZs8YxW6uUa8Qs5+3J0kKgSf92NW28w+wxyyUlxpvURsUjY/Hb4pT2e9sxsg1AD1+ZxvhgdB9GcTZmsLdq+ccskpaZMBLIKiU7CSSR6neiqh4nZVTh926EpETtRRfE2KX1BxBjoVPDPh4ZNtt39utcaeokH41CmfNtulLmIPtLdUUOqJCiPJCoge3HxFIGT79LaglStjVSZQzjCXg46hL1wypBSoxrXAhQPG8bjvT5fXXZrmI+YD9zTMXwNKuv0EWsvZlubcXKUNAO3JBWtO2oxEnvVMyJev3z9uguqQGVgkc6zzHsIHPvHrSll/Kj6XwXLdYAPqmB/adMAdsMKcumm7htdymVL0GUtgwInvt+qxvaFXdnK+xBOfQoYt3s0Pi4w2qCAPxopa8RMdTdvLCVeUbUVZrarFoAMVcgDzMkOV8UsbeU3rCnFlYKV6oAT6jkc9947GnjD8z4c00UOt9VKVgp88bRzzzNFFP7AlSOn394a1uTZ487M+yzpZsIeSgPa9+n59SRxXt3N+Fp6xZtnUdVXUWAd1H1kz6/G37oopXtw6vMy/YZDt8TEnNWO2tytP0SFtpCfNrMkn+/7t8UUUUSooRUAAixYxLdM/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">You Spin Me Round (Like a Record) [Radio Edit]</div>
-                                    <div class="artist">S.Tandy &amp; Marc Korn</div>
+                                    <div class="name">Smalltown Boy</div>
+                                    <div class="artist">Bronski Beat</div>
                                 </div>
                             </div>
                         </div>
@@ -728,7 +728,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jun 2023, 23:04:09 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jul 2023, 00:08:20 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
