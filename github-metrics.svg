@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.46m added, 87.8k removed
+                                    2.33m added, 88.2k removed
                                 </div>
                             </section>
                             <section>
@@ -516,10 +516,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAwEAABAwMDAwEGBgMAAAAAAAABAgMEAAURBhIhEzFBUQciIzJhgQgUFkJScZGh0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDBQD/xAAeEQADAAICAwEAAAAAAAAAAAAAAQIDEQQxEiEiQf/aAAwDAQACEQMRAD8A+d6eWW1InRlPEBRQVApUopB+XHIHbJP3KR5pJTfTyrrIlpt9mLhfkHAQg4z5PPgcZPjjmi+ik9j5enIBbK2Y8zBcVgOkhQTsSUHgYwSTnyBwMkcqL/a40GMlbSH23dyELQ523bSVYzzjOAMjtz64o7horVEOL1pDkXqdEPdAv4eKUkrHuHk4OVY9aiZM+VKZS0+8txCVbgCScHn/ALRn30xVpfhqUV7iimTLGDpBMrRa70zcEqkgKUmGhkk4ScKyvOBxziqn8PkZ6PrSXMMdrfDjguddWwNoX3UM+cCpmwaimo0y7YGlBtpxSnFOuK91tsDKuO+c+Kz0PfJtmuc+Yyh2XHebIkfE2rKBznJ8/wCam8eSk1or545aey09sKpLV7t12fhsQ1yHNyUsyur1kfyCe4479u9cleZEadIYOQpLhGT6VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPLivNspecbIaUdoXjgn6UUwvdyiybVb40aOEraB3uKUSo5x/qiqonSW+zPTsViXcB+byY7Y3KSP3egqoky0FkIhtNI3bm8YwkD+h9KKK08STWzI5NNXo0NMWtuNqWG+hZWpn421Pu/LnnPjmqT2nR4j+nbbIfcBuKVhLpJ+ZCgSMfUcfaiisvkSpzpI1OPTrE9nJFDbwe9FFFJnH//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC8QAAIBAwMDAwIEBwAAAAAAAAECAwAEEQUSIQYxQRMiUWFxBxUjgRYyM0KCocH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBEhBRITMRQiUWFx/9oADAMBAAIRAxEAPwCLQLbRjbx3F3bxypFbCRhu5eQPKShGRjKRt++01zDb6NNZ2dzHBFDPHE2YnmJFwRACGYZ9o9XIOMAik5InuQzqihB/dj/VXvSVu8N3JMQ/pBfdxgfvTe5SgLd0ExwLCAV4l+2kQSNFDBpyG2knYvcOW9VgJGKqoLDClMePrmpV6Zs4F9F4B6vq28qnfhniEbNIM543Y8cg4Fc6n1hpWiqkkd6l1LMucQHJQec57U29JTW3VekG7QPFBuI/TT3kqeTu7Yz5FL/ktv3HDYVYEQ9f6XmVrlrG0g2IVT+tgoFABOCQSWJ+CO9FaNqPScmPUSSaUNgrIDk4HYYPBPNFWXMdePcsvTaHGy2v5MY6ctmumMKsULng54+ua0i1tNM0ZIbXUrsGeVGG4uFGPgA/T5rPOnblLcOzMqyj+XPxUHW0eo65qdhcW7IoSNlkbPt25789jVsuxidCcsCtBX3+z+JadT/h3Y9QSxT6LNKbgTATwQx59NTwdxHAPnHfHitP6f1TTOk7rS+jYGuYpHhLRllDK/Jy2SfJHOBxS30hq/5bbQxyNDHqFzqELSOnu3pgBsnPwPt3ps/OrJ717m9t4hLu22/qQ7mRRnDAntkknjxSlrdcQ/xs7n67MvpHkgH6is6Enb7iB+wFFJv8RW9rd37PLdyxMyhElckbgPcVJzjPxxjH1oqPMRCFxLCNlZikDAk5YfbFextQkiVIo0EmeMF9q/5HvRRTze15mUqYqdiT2N6Y9Yke5KIrwoQI34yCQSB474pkfVTP7YzczAeHPA/5RRSPJQK51Nh06wtTz+5Df3SqhKwssvgMdwP3ooooWMVc6n//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Oh Woman Oh Man</div>
-                                    <div class="artist">London Grammar</div>
+                                    <div class="name">Trois nuits par semaine</div>
+                                    <div class="artist">Indochine</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBgcECP/EACkQAAEDAwQABgMBAQAAAAAAAAECAwQABREGEiExBxMiQVFhFDJxkYH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAoEQABBAEDAwIHAAAAAAAAAAABAgMEEQAFEkETFCFhgQYxMnGhseH/2gAMAwEAAhEDEQA/AKVdtHvWKG1Jtdzbn2GSfQ4HASk98Ee/1itH8O7xAiaXMK0WVS528IlyZJSEBZztIzzx0E4Hvk9msXk3ZtxouR4yWWfLzuKc7PknA5/uM040XrOPa1XeVZ7gYLv4ylTZDrZcCm1FCQG2sjK95HORgEk1lBtLyjafBzspCO0hBpx3cQbHFj7c5tWoJ1luvhlNe/PcQ/FQY0hEggOF1CsEEDjJV8EjBzmvPikuJeYUc4QnfhQGUqJ4IBHY47rr1HrG13C5u/gkyWFOKmqU1GKMKWhO8lOeCCDn2yTg+5Rs6ltofDqnpIeQo4C2wcg/yqkQhHUropoHLIT0Ux9r6wSeLH5yw3iLPbl25u4Rgtp5pCg64jepKeeSc9n+cD2oqDWoJLdvfSyWSpTmQ642FKAIyCM9ZB6ooR1R48YhO0ZhTpVs3X617Ylist21qTFm78NA+YgjAxjkd1y2e32y9SnEWmwXGd5YBcEZCllOTgHg8ZNbdpnTlsvmoLneFxXZ0ZvLpiPK3hayCQ2fkYHR+QKrzmhbXp1LT8fXUXSklccvXmKiVueaUo7kMttg7jgEjlRJrT7YtrUlVgjBl6olTTXSSkiuRf7zNpTdptsVK3rfcYkd5SkhRRt344Kc5/5jPzS5tuzypITEt0191SuAlJOT9YNONSeJs+4W52yMKS5ZWChuCFNJbU2lAwHNoz6j2eT+x+jU7c1b50FmS+w+pTiSUrU6vIIGDx1jINC6EtiyTkguOzlFDaWwR5+n+Z3TYNxXbozkNthMZ4ob3qeQkJIGQCM5Bx9Cio2uxtuSluxlsLdjKO1txZAUewfr+EUVGmF7QW0WD6jENS1RsSFIdlJbUnxVHHdhk6iecl2+HfHbSZGCfIQFAEcft2Dg9gjqs68R7Ixp2/qtjcxM6U2gLkyAT6lr9WDn3AI+e6KKQjy3np2xarG2/ewMe1iIzFbSGk1eVOr/AKOkF62NNNrUhxkqST3kHnGP9oorQli28X+HlETABzj+5WhlbaLla5T8ZxXpJON24AZChnkE9H/aKKKQZdWBV/LOte0WFKV1XmwVHnP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bad Habits</div>
+                                    <div class="artist">Ed Sheeran</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -531,10 +538,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQCBQMGBwj/xAArEAACAQQBAgQFBQAAAAAAAAABAhEAAwQFMRJBEyFRYQYUFSKBMmJxcqH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIDIQQREiIxYf/aAAwDAQACEQMRAD8A8sirzTayzn4d5iYuoPXv2qkq00WY2JlgIT9/l5Rz25/mjYm49fR1W3Lt4JZOM+O5V1I/FYCK6jucy7sPgc60JYa42QtzHdkU3GAH3KGIkCZ7+1cyuKyOyupVgYIPINSqxTX0ZfS6msYZBeaKF5NFMM45gHXBCM9covLQbJUCOkxz+6PxPerTV4+tzdiMPAs5j5N+beP4hXp6yF6S3oJ65PpHvWvVYabNXX5vzDKxZbbhCDEMQQD/ALVX4Wjhmw6vYoudexbyX3FlBatGwwIVg4DEz2ieO8dqS3FrW2s24cwbDxXs9Uyhm7HP9Zn3ik9NeXGclpBiZFR3+WuXko6DhYpNa2nslg6FvbT8pPJh2H02B9N+anrM+P0/phY47z1fiKKRWitBzTGDUhyKKKiChvxZKwPbype43UxNFFBIZZJtEVPnRRRRFH//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgIDBAH/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMEAAURBhIhEzEHQVFhgSIycRQVUpGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAHhEAAgMBAQADAQAAAAAAAAAAAQIAAxEEIRITMUH/2gAMAwEAAhEDEQA/AEChsuGpu26bnTo3XYQFIBUnAUM5Az29/wDak9G6Tn6gyIMcuBIyVEgAfJ4q42/Qslb6oj8YsyQcAuHGD8+VYtcoOA+xpeViNIlUa8PbssLCFMZQhLi8rxtSo4B/Hv5VC3TTsq3R0uyOkEnA2hwFQJz3A5HanLH0dclRhAchyjICSPLplvOfuzjGaiLj4czG3kNhtIU6vYlPkT7H0rNej30y54z+CJZWUHHOKKuOudHT9N9Mzo5Qhz7Vg5Sr5HFFMJYrjQYu9DIcMvnhElEzTsyPIJTHjupkFbawFg4weCeRj+qY8Ga3erx1W1FDSUpbAUrJ2gYyT60tvCadChWF0voQ4tSxnckZT8jmt2tr1GNxditBCIz7Wx3onHccj81y1sU3lcnaeiz6AxPn8jx/bAIn0vpHH8h29PxVQu90ct9xC5a+s3goABAIBGOPelHDh6WTlpxbi3dm/a46Rx8YqZ0pfISbmy04QmLHTsbQpQxgduTTF7KFOCL8/PZ8hrD2dHjQWmNJWuOyoqZkOqkpWtYKs4x2B4FFcvi5cIc/TkdyO2yVh0o+kDKeM9/SihyODXoGSvZW6PjGKa1Xl+CytDKtpV3NYv3R19/qPKKj50UU4K1BLZ7Ez0WFAu+Cefqwp3q5O/bt+6tjE4pWT6+9FFQqCIEsYHZhPmFxraCcemaKKKiqMhssZjpn/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Castles</div>
-                                    <div class="artist">Freya Ridings</div>
+                                    <div class="name">Fractures (feat. Nevve)</div>
+                                    <div class="artist">ILLENIUM</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -543,13 +550,6 @@ Explicit content</div>
                                     <div class="name">LA LA LAND (feat. Delaney Jane)
 Explicit content</div>
                                     <div class="artist">DVBBS &amp; Shaun Frank</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAUEBwEDBgII/8QALhAAAgECBQMDAwMFAAAAAAAAAQIDBBEABQYhMRITQRQiUQdhkTJxoRUWM2KB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECBAMF/8QAIBEAAgEDBAMAAAAAAAAAAAAAAAECERMhAwQxQQUyof/aAAwDAQACEQMRAD8A+YTMpQjsQj2qt7G+3nnk+cejUKST6aAXdnsAeCLdPPA8efknDbKsgXMJYoxUlOuhkrL9F7dLMOnn/XnCyrpBAKMiTq9RCsvFum7EW/jElmh5Qy2Eca+0LcA328884zFKEUAwxOetXuwN7C/t2PBvv525w9zjSlflDOtbFJcVE1OpUDpJjAJPVe1jf8YgJlTSV1BTRygvVRLJuv6b32+/GBprkuUJQxJUIPdHQo7UewYX3ub+eeR4wYnnLIzTNPHOe36T1Khl91+6Iyp3+d7/ABgwEDmvoEyXT+n6sy1LVOaUszhklK9pesqiADlSdz83/Nr6W+jGUZ1W5jFWZnWpHkk9NDKFHUZkkiDta59nuJtbxzc4rjUPbzHSmi5lLGnpaOeKd1FxG6SEhT8E3XbzfbFt1Gt30tHrDMMtFNUvmNTQLTiQkrIPTgllsfdYXxy3Cnbla9ugjzkl59pF6H+5IVapqIsuqI4mjZyxZHDhJG+d+gf9OOEzfTORTa60zlstLVUcVbQxs8gmIYTlW4HCqG6LADycdvk31Ty6uzF8xzkdoV+VrFXduMlCRBfbm1mXa/3xWn1KzaWfUeRZ7ShkWLKaSRFvuGW5F/F7KL49DVatRq84NW68xrb12XGkY9td0XwRVWU00Omc/q6r1H9Qo6uKiYmRrHqDkgjzui4MNdUVEdVkOuaiEgxz55BKm/KkSm/8j84MZTKV2YWWJh34unpVyofm/i3yPPxjLwNspqIWCu6Ady4Ft7j7HwfnBgwgNboyp/mQgoDYNfa/H7/bBHF3Fv3YkBdUszWO99/2FtzgwYQAYyVVmljNwx/Vvt4P3PjBgwYYH//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Smalltown Boy</div>
-                                    <div class="artist">Bronski Beat</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -788,7 +788,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jul 2023, 22:07:24 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jul 2023, 23:03:49 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
