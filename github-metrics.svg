@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    95.7k added, 5.34k removed
+                                    296k added, 82.4k removed
                                 </div>
                             </section>
                             <section>
@@ -516,25 +516,11 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECBAj/xAAsEAABAwMCBAUEAwAAAAAAAAABAgMEAAUREiEGIjFBExRRYXFCgZHBBxUj/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAfEQACAgMAAwEBAAAAAAAAAAAAAQIRAxIhBDFRIkH/2gAMAwEAAhEDEQA/AJfjy1/28UMsgF1KsoJG33pSs1pcilxt1JDrJGoJ3wcZGftTdY7sm4SvAdjPtrUNSSpBwfWpu8ybbaLVJkSy0kMtqWElWCpWCcfJqic4XsjmPDKqYmXfhxm6QGyhZC2lZ6DuNwd6Q71ZVwykxUL0YOSrAP4z0qwGb9JuENuHDtbypDxwqQCGkI5sAkq2Hx19KTOLW5f+rjsxMhTZQhSG21ABKwSlWo4647gE+mN6iy+Rhl2+sph4+RWmvQlSnlgEBJNFTNtt7cw6Xnmm1q6p6n8CiuRfDPn8PSbcVDyFFvLZxpGNsCkH+UbHITaJUyM4EIZb8ReTusgjGSdgN6sqXMt9qZS7MeDaVHA2ySfisS4do4gta2XNMmO4OZJGU9dtj70MpWu+h8X8RSsa8Li2WTdZKHm4SZCFIi+JyuyFJCUpKwMqH1KPQdAM5rj4pKpjrUaO87r8Tzksuua0eOoYITgAaQNhtThx/wAHTpcGDHtrw8my8jWgEJ0JzzLA+o499qhE2e6yZ0mTMcaQiWoKDahhaABjBI26fqpZYFzX0hkMre2y6xBft8pctamXgCrYhsbeuKKtCXbbfbYoWsEuDY43NFN1f0Q6JhfDkp2Subd5zrhbwpCAQc4HfbGM9hXejiAxIrcaIBpSnmUU834Heiiij+l0c1rVGz91dcj6n1FB7D2pVvd1bwnW4dlc2n90UUDdIOSFp6+oW455hTpCVcuRj7j2ooopTkzUj//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Far Behind (feat. Panama)</div>
-                                    <div class="artist">Nils Hoffmann</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgFBgQHAQID/8QALRAAAQIFAwIFAwUAAAAAAAAAAQIDAAQFESEGEjFBUQcTFCJxFYGxCDJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESEDMRL/2gAMAwEAAhEDEQA/AFcCj3NrWxA3uUsJSCok2A7mJrSVAd1JV0U9mblJPckqU/Nu7G0ADqfnHH+Ruqg/p6eaqMpOzOqaM9Iy7iHHw3uUb4O0Wwfm+e0ZlNR9GotmpqzoetUfT8rVqjLFhuZ3FLasKCBb3W5tmKtfMN74vLlqnNyRliqXlZBCZda5pnZ7FH3BN8m4sc4x94Wmv6PqFOnZgyYE9I+YQzMMEELT0Ngcdu1+LxPn0+sbNz5uOlY6nt8wRl1WmzNLmUsTaUhxSEuDYsKBSRcZGL9LdDBFsJmGDybGJejV2qyc/ImWqk5Lhl4LQW1k7VXvfbfJ+YiOtxcQJO1QVm4N4TVjWDseLEghematVnJ+ZTVZWnesEu0EnITsCxcZAOTz+IU17XFfdqXrfWhtzf5hQ22kNk3ubptYgnNjjJ7wyeqtXSz2jlVBSg5NrpjiUNlRW2GHUJuRgXUrCbH9tjg8lRAf7iXJKnhubeWTepdT1HURY+olizG7YGmgi243PGYIgybGCK0ienp0jnaLWJx/EEEMCws6vqiKH9OulTaWFSqHCgbktq5Tcj7XwQMAxWtpBPHPMEEFJeBbfp1OSfzBBBAB/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Avec toi
 Explicit content</div>
                                     <div class="artist">OBOY</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHAwUIAQT/xAAsEAACAQMDBAEDAwUAAAAAAAABAgMEBREABiEHEjFBEyJRYWJxgRQVIzKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwUGBP/EACYRAAEEAAQGAwEAAAAAAAAAAAMAAQIEBREhMRITIjJBURQjgWH/2gAMAwEAAhEDEQA/AOpZpEiiaSVgqKMlj4A0jbg6gwUCzLSwF2ThXc4BP7ecaxdUdwNbzS2+PhZQZJWPgKPXkcnBx+RqTX6oS4Shx/lVMIfq+NAOfP39HGc8/jSO9iLjJyhuqPCcHaw0Sm7XTjR9YKhpu2akjYZwSCRp825vi33YKspFPKccMeD/ADqDQtbwr80rsjZzEi9x8fSFOf1Dznxz5Ossks8VqFdHJI1IGCt8bBWTJGCVzyeP+++NZB3zxkztm7f1O7OB1CtwjjwuuoeMaNJnTK9f3Kz/ANM0rTNTBQkr/wCzoc4J/PBGjVGEnNg028qHsglXK4pbsp91rqKgbnp46dGYyUgKlfIwzZx+dJ23a5Kl3oq9Y8EKoEhyWbwfPvAGrB1J2LVbgSKrtdUiVtOpCRTgmNwecHHKn9Q8fY6j1zlntlG1r3JSyWm4A4hnqDmFz3ZykwHb3euSDjSg9R4mkXLRWGGYqD4sK79zaev1ajeNZU2GmlfbxpmkjiKzrPCJQIXIywHnI4Pvju0tWS4mXbjW+0TXStmRF7/pjlTK855IYKfWM49nVH2TYKrcclQayuliSmZEVo4/mJL5wSR4Tjk5xrTpseGhvFJcrXU09DUzZd44H+SKVQe08qR2d2DxyPwNFGWAx/c3T4Q8WARzvOoTrbLPX9VY6IiVZ6qnqldHp6aPsBIx2tyeB5II96NedLaj4t43MOSxq4gFPaQcpjOfWMEAEaNMBTHOOYn0UrZYzEfn9z+1XdfFcrZR3SmenuFNFUQuMMkihgR+x0aNGWdSi/dFqWJqibaNwqrNJKCHhhcmGQfZkJxj9iNLjWndVmqla92l61I0WJKi2YICKMAGI4I/jOjRrDdqDON4z2TOndNDZ1UOnVHCtGbg0cscs2VVZozG6rn2pGRzo0aNEpV4VgsMeyx2iSKV5SfVf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Tell Me Why (Radio Edit)</div>
-                                    <div class="artist">Supermode, Axwell &amp; Steve Angello</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -545,17 +531,31 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAUGBwIDBP/EADAQAAEDAgQEAwcFAAAAAAAAAAECAxEABAUSITEGFFFhIzJBExUiQnGB0SQzYpHB/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQYD/8QAHxEAAgMBAAEFAAAAAAAAAAAAAAECAxEEBRIhMUFR/9oADAMBAAIRAxEAPwDNqmLCysHsIffeceN0kKShltQlSz5TBEx17A61D1U+KOIHbd9VnYqyrTo44BqD0H5rW9F0aYeqTAoRcniNKvsGsWFBpjEmnbhWVGWdEKj4yogbA7dtSa9+JcLwuzvrtuzdWgNtIcCPMEEiMhJMySZj0FYWxe4ow6Lpp+6SsSQ5mMjvP+1ZeGeI37q45TEXC444ZS6rdSv5dTvrQNHkI2zUX7HWdLitLVSlKbA4G4rP0kTiXskE4ml4kKIkhEmSnvP317VoFVTiXAXnbk32HSXTqtAMGeopX5TnndWnH6CuO5VT1kO2xduHmA4dEyUC5SFnQaie/pv6V6eEh20StCRiRcQfDEZTm+bWJj0AH9zXxFeMFRb/AFuY6FMKmrBwvw+7bvpvL9OVaf22zuD1P4pJzcltliWZgwu6q1BqK3f0th3NKUrXCUV2w4GnkrLaHADORYJSfrBpSoQkefsOWj3Y3zG+YrVk36TMfeo11YccUpKEtg/KmYH0kzSlRRS+C2c0pSrKP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EADMQAAIBAwIEBAQDCQAAAAAAAAECAwAEEQUGEhMhMQdBUdEUFiJxFSNzMjNSYXKBg5Oy/8QAGgEAAgIDAAAAAAAAAAAAAAAABAUAAwECBv/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMQVRgf/aAAwDAQACEQMRAD8A7kNE0zV7RJb61EzNnqWYeZHkaINoaHD+6sFX/I/vUjaknO2/aSfxBv8Ao1O1K6Wx0+5unAKwxtIRnGcDOKisdbEHFdZXmwHkqJNn6FIcvYKT+o/vS49n6GegsF4f1H96g6bu+G6kso3hYyzRNLKsQLcoA9Mj7DJ9KurXcFlOVWBLl+I/QRF0fv1HX+RohmuA7J1JQtNndQExniZtXRNL2ZqeoWdiIrqFUKSc1zjLqD0Jx2NFXPiY6al4baq0HFwSImMjB6SL7UUXiPtDyMJK66idt3TxbIsHhYiV24EwMkkyHy+2ajboubookMTXNzx3CxmDgHCyoQzFuEEhewJwcenWn9tWd58saOtm8KGEuzGTr3LDoMHyNLvbCFdS5d3qDrMyh+WEyCrNj0xgt5efnXMsLTevEHjr8lZTliqo9Ime02y/DLR2h5AaWH84pIx5gLcKoHKjBJycjGevkKcsrtReRxwQSRW8vDyoElyHbAV/7ZBGQR9q0sWoaIjoWvpzLkMMRleE4wDgLgdPTtTdtZ6BfzQ20U9zIzBljU8Q6ftkZI9etPWuDDU1+PqGMdHyRt+agT4a6vOyqojCphEIUYdRgZ7gds4FFK8WbVYvC/V7eEEKI41Ueg5i+lFX4igod/cIcgsSPI3tTdWjw6LawXd6sc6huJOBjj6j6DHar/5o0QjPxqY/ob2oopbjjmBuKUynCiK+ZtFIB+MT/W3tQdzaMMt8Yv35be1FFMDjIBLKsp29mW8QdzaNqO1NQsLW9ElzKECx8thnDqe5GOwooorKIFGhDQdz/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Even Better Than the Real Thing (Single Version)</div>
-                                    <div class="artist">U2</div>
+                                    <div class="name">Diamonds</div>
+                                    <div class="artist">Mord Fustang</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAuEAABAwMDAgMIAwEAAAAAAAABAgMEAAURBhIhEzEHIkEUFSNRYYGh0TJxkbH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEBQIGA//EAB4RAQACAwADAQEAAAAAAAAAAAEAAgMRIQQSMXGB/9oADAMBAAIRAxEAPwDQgoJBUogJHJJpeLIZdbC2ylae25Ks1VdbXb3XbHXdinEtNKfWgHG4AgY/OftUV4b6kXepbgXEXGS43u75SSDjvjvwftiubrv+Tr8lS3GaPvHoPzTWXLZYHxnEN7u29WK5+1lrXU8HWUxmHKkKjCSWWWCMKB3YAwKvGs5N8cu8KLD9ljmQD1nnhu2kEDYhOeT3NIKtDbPDHU9k7NCdVx37/Wiq1pR6WIzsSattbjIBCmwQnkkcA8gcdvSimYn2ruUqV5PesEp+KXG0uoENQLZUBvyrASM+pJxUN4VrKmI6HkFt1srbSnOcpCBz/po8WpT0J6D0VEBbSgofMZFM/C5xbl9a6hOek4f+VJF3DWVOR9e2rM14ix50xlAbjbUqDX8nHid28jtx885zVa1XczdLjelyGXHYlvIchqbX01NKXg7iRyeP1UJq28ttavkyH3drXVdxk/XAxWlaUt8G46NjGVHacQ+k71YwVgE4yRyaTWllmK0V0PYz8Pr0zd2JDjLSmlNNoacSo58wKuc0VLWLTETT6JS7Yw+hqQoLVvJUM/QminY0qaI/AnppeyV1ho8alfiqclGO0ylSTtTlRyc8Z4pa0aXt9gzJj9VbyEHLjivT14HHpRRUmslt35OadWhMqWwsedbmTt78k1vuj2/Z9H2lkgJKWBkCiin0fhGeMCbZZHZDXunp9RHUwPLvUT+h/Xaiiit4cYD+zXi4K4ixVeu5/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDAAQREiEFE0FxBiIxURQyM7FCUmFygZKh/8QAGQEBAQADAQAAAAAAAAAAAAAABAEAAgMF/8QAIBEAAgIBBQADAAAAAAAAAAAAAQIAEQMEEhMhMQUUQf/aAAwDAQACEQMRAD8A84XMpRtJAYnzEn3yaWDnTA8m31432FQXJBYAfhGmth8HLqvdJUEdq45W40LVEYEObKEv2U01rfxrrkhuUU79cViyM+SJTJ2LV2KeJGgKsox2rmPiKIR3kmFwM0fS6vmNEVGa/wCO+soYNcqUGXUAHdgKKfbKDPDqGRzFB7ZophNTzFWxC42mlHs7fenW1xNbyCS3leOReoNJeDF1OMn6jfeoc71asdzXcVbqbZc8d4pLwaKVJVDOxQlPXbrWuXc1xIQbiWSRm6uc71k2N+IUjifUVV9X6YrN41Pw8Ifg4lV39SPT+KMijE1BfY/K5zpuZ/PwykhJ1x6fm5i4opbMarmBd8mRR/tFIY9waCxH3g1XcxUMVaRiDjpmoVjb8r/1ooq3QkIBJiiNyM6Hx+2hYZGyBHKeyE0UVLMwKJYcKsWMizvIkKwyKxWXIZt8+XaiiijuxuNx412z/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Where Are You Now</div>
-                                    <div class="artist">Lost Frequencies &amp; Calum Scott</div>
+                                    <div class="name">Call Out My Name</div>
+                                    <div class="artist">The Weeknd</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECBAj/xAAsEAABAwMCBAUEAwAAAAAAAAABAgMEAAUREiEGIjFBExRRYXFCgZHBBxUj/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAfEQACAgMAAwEBAAAAAAAAAAAAAQIRAxIhBDFRIkH/2gAMAwEAAhEDEQA/AJfjy1/28UMsgF1KsoJG33pSs1pcilxt1JDrJGoJ3wcZGftTdY7sm4SvAdjPtrUNSSpBwfWpu8ybbaLVJkSy0kMtqWElWCpWCcfJqic4XsjmPDKqYmXfhxm6QGyhZC2lZ6DuNwd6Q71ZVwykxUL0YOSrAP4z0qwGb9JuENuHDtbypDxwqQCGkI5sAkq2Hx19KTOLW5f+rjsxMhTZQhSG21ABKwSlWo4647gE+mN6iy+Rhl2+sph4+RWmvQlSnlgEBJNFTNtt7cw6Xnmm1q6p6n8CiuRfDPn8PSbcVDyFFvLZxpGNsCkH+UbHITaJUyM4EIZb8ReTusgjGSdgN6sqXMt9qZS7MeDaVHA2ySfisS4do4gta2XNMmO4OZJGU9dtj70MpWu+h8X8RSsa8Li2WTdZKHm4SZCFIi+JyuyFJCUpKwMqH1KPQdAM5rj4pKpjrUaO87r8Tzksuua0eOoYITgAaQNhtThx/wAHTpcGDHtrw8my8jWgEJ0JzzLA+o499qhE2e6yZ0mTMcaQiWoKDahhaABjBI26fqpZYFzX0hkMre2y6xBft8pctamXgCrYhsbeuKKtCXbbfbYoWsEuDY43NFN1f0Q6JhfDkp2Subd5zrhbwpCAQc4HfbGM9hXejiAxIrcaIBpSnmUU834Heiiij+l0c1rVGz91dcj6n1FB7D2pVvd1bwnW4dlc2n90UUDdIOSFp6+oW455hTpCVcuRj7j2ooopTkzUj//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Far Behind (feat. Panama)</div>
+                                    <div class="artist">Nils Hoffmann</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAUCBwMEBgj/xAAvEAACAQIDBgQFBQAAAAAAAAABAgMABAUGERIhMUFRYQcTFYEUIiMycSRCYnLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAQEAAgIDAAAAAAAAAAAAAAEAAhETISIxcf/aAAwDAQACEQMRAD8A+qaVg7qiMzsFVRqSToAKn4NjVjjAmNjLt+UxVgRoexHY9aUUHVTpXnTmmz9b+BCsYvtNxr8m30/HfrVHF8WtMJijkvJCodgoAGp/OnQc6UMxqNKwjdZEV42DIw1VgdQRSlq1p403uY7HD4ZcLjtTgwX9U7k7Stru2v4f7x5V0sJxrzciJdZZW2nljA9UVmKyp1I01+Xj7e9bWmijnheKZFkicFWVhqGB4gjnUTK2UsHywLr0i28s3LlnZjtEDkoJ4KOQrKVDD2ndrK3zdhbxgSNCmg4B9R7ECrl3jkceT5bvMiwxW77sMUN9aTd3/bw9vaqj+GWDNmoYrs6Wv3mxA+mZNeP9eezw17bqv5nyrhOZobePFbbzBbuHRlOyQOa69DzFZxw07uuXD1o+3j/BzEMdxGG5kureOLAt/wAOzMWYtrv2eWzx178OdK2TBDFbQRwwRrHFGoVEQaBQOAApXS5ZPfiaLlpSlKSlKUkpSlJf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Technicolor</div>
+                                    <div class="artist">Madeon</div>
                                 </div>
                             </div>
                         </div>
@@ -787,7 +787,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jul 2023, 03:05:55 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Jul 2023, 04:04:55 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
