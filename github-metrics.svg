@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2376 users
+                            Followed by 2375 users
                         </div>
                     </section>
                     <section>
@@ -454,18 +454,18 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwf/xAAvEAACAQMCBQIFAwUAAAAAAAABAgMABBEFIRITIjFBUXEGMmGBkRQz8UKSoaLh/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACAwT/xAAcEQEBAAIDAQEAAAAAAAAAAAABAAIREhMhAzH/2gAMAwEAAhEDEQA/ANNFQftzqffalNY1WXTrUcllknkIVQDkL9TUXY/EI1CAcLcMvDllXx/z61q6cgaLn3kfEU6+UD/bk+tGaBu6MDJ8llu2a/jMzPPIW6iRnJzt/ikvjCSznkt47WBEdQzy8sdTbbewzTf6eGTjSbkQzyvgBZNlGc7Y84PmlbbTxGSLZRNdE9UjHpRfr+Kp2Fp10hNYq2n3NwY3ZdkjkzjDDc7edvaiq+80tuTy5ZGRmj5h6lTIP27d6KnaQ/FvmyXMumXolgkKMFA4lG/8e9VWmzDUDDI088pLBpF4sL6+u/ap21/SG1BvInlMv9Stjh9/5pzSLy1s7zgjt3WPBHE82cZ7Ht2ofyg+1jp0cN5PbyRhECzM4VF9FOD+RWtoNkhN7I0YlV7hhmTc8I+/rUgsrRSBrKVbeIZIHGScn7dsV5R6je24WOG4dEznHesssVtccy1beJor3UIZDmCFXUL5HVkf6ufxRU5qF/NM7r1cyUYc47gbb4oq2mOQUvBcGMEfMvfFPtdwu4JVuZjBwfFFFapc4url9UZVyzcC/KBv2rwOrEfLxMvfc7fiiijUcm6HUFmMjSTNGH8KfFFFFW1HJv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgFBgQHAQID/8QALRAAAQIFAwIFAwUAAAAAAAAAAQIDAAQFESEGEjFBUQcTFCJxFYGxCDJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESEDMRL/2gAMAwEAAhEDEQA/AFcCj3NrWxA3uUsJSCok2A7mJrSVAd1JV0U9mblJPckqU/Nu7G0ADqfnHH+Ruqg/p6eaqMpOzOqaM9Iy7iHHw3uUb4O0Wwfm+e0ZlNR9GotmpqzoetUfT8rVqjLFhuZ3FLasKCBb3W5tmKtfMN74vLlqnNyRliqXlZBCZda5pnZ7FH3BN8m4sc4x94Wmv6PqFOnZgyYE9I+YQzMMEELT0Ngcdu1+LxPn0+sbNz5uOlY6nt8wRl1WmzNLmUsTaUhxSEuDYsKBSRcZGL9LdDBFsJmGDybGJejV2qyc/ImWqk5Lhl4LQW1k7VXvfbfJ+YiOtxcQJO1QVm4N4TVjWDseLEghematVnJ+ZTVZWnesEu0EnITsCxcZAOTz+IU17XFfdqXrfWhtzf5hQ22kNk3ubptYgnNjjJ7wyeqtXSz2jlVBSg5NrpjiUNlRW2GHUJuRgXUrCbH9tjg8lRAf7iXJKnhubeWTepdT1HURY+olizG7YGmgi243PGYIgybGCK0ienp0jnaLWJx/EEEMCws6vqiKH9OulTaWFSqHCgbktq5Tcj7XwQMAxWtpBPHPMEEFJeBbfp1OSfzBBBAB/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Found Us (feat. Luma)</div>
-                                    <div class="artist">Last Heroes</div>
+                                    <div class="name">Avec toi
+Explicit content</div>
+                                    <div class="artist">OBOY</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAYEBQIDCP/EADAQAAEDAwEFAw0AAAAAAAAAAAEAAgMEBRESBhMhMWFRcYEUIiMlMjNBdJGxssHC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIDAf/EACARAAIBAwQDAAAAAAAAAAAAAAABAlKh0QMREkIisfH/2gAMAwEAAhEDEQA/APNXDsQ8kRAPBERAEREAK3OzjGu8p1NidnQ30m6PMnkJCB4g964sfZW+1FWP+g/ayoKzZtvvrZWvHSUD7q1GL7e8Fy05x+oyXGlhnqXzsbiDIAjip+LXD4gHBPdnCn6+sNW8HdQRtbnTuomx8OuBxKpY7psc1o12G4uPzTR/K6XXTZVzz6grQztFYM/iqUIvsr4Md503WSWRVJrNkH87bdY+6ZpROEalfB3zpusksiIsigiIgNxJTWMWUTR3GrN00AmnNN5mrPEa88uuEREB/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAArEAACAQMCAwgCAwAAAAAAAAABAgMABBESIQUiMQYTFBVRYYGRQXEzUlP/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUGAAH/xAAcEQEAAwADAQEAAAAAAAAAAAABAAIDBBEhMRL/2gAMAwEAAhEDEQA/APJe1j2huiGt5IJxjKsmk/VUGiBxyNhqn4pxm+vgwmYSc5dZGXnwcADPX8dPWkob4mTEkavv+QPmtK60XpmhdaL1GEt99iCK1kYocVaotoyh2cqxGyAbD6quuohklHB9qT5eXXpFeVmHpINW/vRWhO29FTZOknAprWXiNp5hnwomUyjJHLnm3Xfp6b1e8UtuDLw9vL4JX4g0aDWX0qHMj6tidxoKD9gmuNth7A+2asLZIy38Q+6o1HQPZQr3cPZ2ycN4P4uN5IX8sWOcSFXbUXy/dk82emjp81rLY9nvBkRwztcd1IVUs2C4fl1HPTAPSuf1N4fuxJNo/wA9XL9UlKo35aByKNWA3ojMcVaE3t0bUBLcSv3S5OyZOnqc9PWilZ8/12NFAAggicBG2CKctpNEgJO37oopvNY1mst0mhNtszd/q9tOnH3nNLOpYkgg/NFFdotvs80f19kDQPLgJg/NFFFJsU+T/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Σ. MOROSE
-Explicit content</div>
-                                    <div class="artist">Damso</div>
+                                    <div class="name">Say It Right</div>
+                                    <div class="artist">Sunlike Brothers &amp; Micano</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -484,17 +484,18 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAEGBwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiExQWEGE1EicZEHFBUyM0KBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxJRIf/aAAwDAQACEQMRAD8A4vMSzO01lp1ZacaWVp4q7FKA88A135rmsq6lHVHitTXmWpjbp2qfsg7q43AHqQOvf745EdrUtLfNblq+oqIo34v8/nEv7ebEhyER3FSGVK2uMbCsV88dDf2PfDp1t+pvTkJnVGppcitoaYbv3N5/rJ+keeL6c8Y0m6Po7cQ+w24t5aaClqICD24H+u5rzlL0ctJgzmPcpz3EOFnb9RSARYPgnGkqG6uKmS4UtRN+3eo8rUOoA8XhNFWgQX4+qTNOmMALipUp8pVdAeR1JuhzQFmrwx6nVX3YkiBHSgJcIUt1Qon5KiOtdBfQYYNN40/S9KS7/MLj+4XHQqYw8v8AtBY5cSjopu+TfIPfFH6m6xo0aTpp0GClxpuy44wKacSaIF/5EG/FHrmnuvSFRkBL6XG2VWncsIPPUEE2of8AMnia0lEdbUiNFeaSa2e8lJHzVGj+L88Ya2VFGqa9qTc2CyzDaZcKmHHCEbebAJ6qrp0ObJIjIkssxpckkRAUoQwnh1ZNqq+gsnnIdOe0Za1lpLER7de50tr55HBvx8Z6nNtTFOOy9ZTus8BVmvmhhGJ6ozDEhT0lhtEdkK9q9ocNge2juTz35NE4ZWY0zRWpiHp6lTmmyVbAQlCz23AEk0O3Hk4YRa9Pa8jS9OnRHYjbyZFEKI5QQCOCOR+ePg4/Hq70wQFP+jorjhrepKGk39vpPOGGW8luMx8YmMlt9c702RE0/VmX5mnomxmpHvORlgAON8/T9szH1CApw+36fZcIN0ZLtVfAPNYYZFWn3WXGUhmAhhzduO19agR8EE9vGGGGFf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQACAwAAAAAAAAAAAAAAAAYEBQIDCP/EADAQAAEDAwEFAw0AAAAAAAAAAAEAAgMEBRESBhMhMWFRcYEUIiMlMjNBdJGxssHC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIDAf/EACARAAIBAwQDAAAAAAAAAAAAAAABAlKh0QMREkIisfH/2gAMAwEAAhEDEQA/APNXDsQ8kRAPBERAEREAK3OzjGu8p1NidnQ30m6PMnkJCB4g964sfZW+1FWP+g/ayoKzZtvvrZWvHSUD7q1GL7e8Fy05x+oyXGlhnqXzsbiDIAjip+LXD4gHBPdnCn6+sNW8HdQRtbnTuomx8OuBxKpY7psc1o12G4uPzTR/K6XXTZVzz6grQztFYM/iqUIvsr4Md503WSWRVJrNkH87bdY+6ZpROEalfB3zpusksiIsigiIgNxJTWMWUTR3GrN00AmnNN5mrPEa88uuEREB/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Silhouette (feat. Skyelle)</div>
-                                    <div class="artist">Bad Computer</div>
+                                    <div class="name">Σ. MOROSE
+Explicit content</div>
+                                    <div class="artist">Damso</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYE/8QALRAAAgEDAwEGBQUAAAAAAAAAAQIDAAQRBRIhMQYiQVFhcRQygZGxE2JyoeH/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUBAAb/xAAgEQACAQQCAwEAAAAAAAAAAAABAgADBBIxESIFEyFB/9oADAMBAAIRAxEAPwBUlt0cBfDwqqe2UMMgHPpUItSJXEQEmfEVaLvLqZ2WM54ycV1iyIcp7C4JYFYxtoRBGqhBuanUFouwZALegpcNJ1RLWO9WAyxfMW3DhccHHX/PCmB1D4GwaW52RqB49SaW8req64U/vMy0Q7P5F+tRfpDcwQZ8+lFIdVvrrU++sQHl7UVLS3IHaNmsIqtJEgKMkSsPNHDfg12atqNvJY72gIkHAd4yQv8AXNYNb67UYXePQDioG/vMsrhsEcqeB+aZNJmfInUCKihcRN1bXfaew0p713ia1uiki3DNu7uSAAuODn6YroaGXUY4J7u6kmmHzLG2E+3QH2rOap2kDdjNO06Jy84jwyqchSJScMc9cY+9R0rVtSS3URWobH7qFdU2XunAM2zC4kNyfs1zCVYiluv160UguNa1Qx960wf5UVO9dU7IjhcDQnBHFyiRxQx7sc7yw5888VddWJ+EYSSBVIzjYBn2ooqpU6uAIjT7KeZTPYW40m2uRCoLLjeeud5BOPanmniFbSM2+HBHeVTyDRRQr5dCEs3JBkppOoJVwM9TRRRU3ARtkBn/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Can Be (feat. Crysta)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">I Got A Feeling (feat. Georgia Ku)</div>
+                                    <div class="artist">Felix Jaehn &amp; Robin Schulz</div>
                                 </div>
                             </div>
                         </div>
@@ -726,7 +727,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jul 2023, 17:04:26 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Jul 2023, 18:12:54 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
