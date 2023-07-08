@@ -454,24 +454,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAv/EADEQAAECBQMCAwUJAAAAAAAAAAECAwAEBQYRByExEkETUYEiVmGS0RQXIzJCcYLB8f/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAQIDBv/EACURAAICAgEDAwUAAAAAAAAAAAECAAMEEQUSIVETFDEyQVKRwf/aAAwDAQACEQMRAD8ApNXtR7so9+3BKUuv1CWl2ZkttshQ6EAAfl24347esIR1bv73qqQ/kn6Rpeo9uMT133W7ONpbafm1Hxc5KAhOSsAcHG2/PEc/OtlDqkgEgHAOI6BKVCKSB3EUY+Yt1jop+k6jt97V/e9VS+ZP0j0NW7996al8yfpCMAryMSZJgPzTLbqy22tYClkZ6QTjOIv6Vf4iEs5A2TNt0j1Cu+q33bsrU7hnpqWmJroWwpQIWnByVbbDbAHeCJ1j0F6lXtZyJRlkSbU6A8v9a14V7ZPJGMY7CCFefWEsAA+0z4/LTJrNgPbcl6vVL7HdVTlEpWpU08Q4G+W2dgVfAlW/pGcTLLDCHkOMTiWtwV+KEjcOAHZPfrTxxt5Qx69019y/6nNOtrda8QdPcYwNvhGRT6HH5jAbQ2EAJCRgYH9wzNZdF34gfHFKS/R32Tv9xveYQqorLMs68lbZXgu8nfBzgbZPHbmLCXcYmJgN+AEBC+kqWtzABKwdgdjhQwPP9ozZTLiThQGRyOcRc0GWfW6pLcup5DiShafC6sDnI8jE+gTD7ckKpPadAaZ1ZqrXVSEuILbzL4T4Ss5wAehQzz3GYIqtDaAqn3dKO/ipSpe+RjOAdj6wQFyIIdQfEUcWa1Fgp+Or+CN9621Wpu6qs+1R519hT3U2UIT0rGBg87xlVY0nuJ+aU4zbVVUDueADBBFkzrAijQm1PH1pc7qSNnzKBvTC6HHylq3KsCk7p8IHHrDRRtN7uZfBmqBUygJ4CEjJ7Z9qCCLe+sHwBCrsRLB0sTNP0/tyvSNw0t2apE/LoD2X1LUOgDB3/wAggggLLva1gWkYGFXjoVTfcz//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bum Bum</div>
-                                    <div class="artist">Bodybangers, Alex Parker &amp; Alis Shuka</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBAv/EADEQAAECBQEGAwcFAAAAAAAAAAECAwAEBQYREgcTFCFRsyUxQRYmYWSUwdIyVIGR4v/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAAIREiEx/9oADAMBAAIRAxEAPwDjd0XDXEXXWkN1qqJQmefSlKZtwADeKwAMwk1cVeKh43VfrHPyjy6W/eyuH59/uKhNoAKGY2CzW1wqlfVae+FYqerjCnVxbgON3nGdUZ5y4a8CfHKr9Y5+UaVysSp2epp3DtCYTPl3e89RG7xjpiMW5gk5ipylete4K2u6aKhytVRSVTzAUkzbhBG8TkEZgifa4PtZQ8Dlx7HcTBBSRMXanF01rrxz/cVCEkGxMtGYTqaCsqTzGR0yOcVboaKrqrXI445/uKhZmVUfQwzLBZ7XTzKlIl0gas/rX54xEifS0ZlxUujQyTlKck6R0yeZimuVcDGAD59ISXKL9Uk/xCc06N92oj3qoh+eY7iYIdtZgpuii5/fMdxMEBJDd7c2KJmKzPTc/UShL0w47oZYUogKUT5nA9YsSuyK3mQneuVJ0/BAT9jBBGwti1FWyy19zp3VS/v/ADE6Z2Q286k7lypNH4oCvsIII7yacpDWxUMVeQmpGpFQZmG3Sh5hSCQlQPmM9IIIIGn3PPy//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Just for a Moment (feat. Iselin)</div>
-                                    <div class="artist">Gryffin</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAUGBwIDBP/EADAQAAEDAgQEAwcFAAAAAAAAAAECAxEABAUSITEGFFFhIzJBExUiQnGB0SQzYpHB/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUAAQYD/8QAHxEAAgMBAAEFAAAAAAAAAAAAAAECAxEEBRIhMUFR/9oADAMBAAIRAxEAPwDNqmLCysHsIffeceN0kKShltQlSz5TBEx17A61D1U+KOIHbd9VnYqyrTo44BqD0H5rW9F0aYeqTAoRcniNKvsGsWFBpjEmnbhWVGWdEKj4yogbA7dtSa9+JcLwuzvrtuzdWgNtIcCPMEEiMhJMySZj0FYWxe4ow6Lpp+6SsSQ5mMjvP+1ZeGeI37q45TEXC444ZS6rdSv5dTvrQNHkI2zUX7HWdLitLVSlKbA4G4rP0kTiXskE4ml4kKIkhEmSnvP317VoFVTiXAXnbk32HSXTqtAMGeopX5TnndWnH6CuO5VT1kO2xduHmA4dEyUC5SFnQaie/pv6V6eEh20StCRiRcQfDEZTm+bWJj0AH9zXxFeMFRb/AFuY6FMKmrBwvw+7bvpvL9OVaf22zuD1P4pJzcltliWZgwu6q1BqK3f0th3NKUrXCUV2w4GnkrLaHADORYJSfrBpSoQkefsOWj3Y3zG+YrVk36TMfeo11YccUpKEtg/KmYH0kzSlRRS+C2c0pSrKP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Even Better Than the Real Thing (Single Version)</div>
-                                    <div class="artist">U2</div>
+                                    <div class="name">I Can Be (feat. Crysta)</div>
+                                    <div class="artist">Mike Ault</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -482,17 +468,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwUEBgcI/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDAAQREiEFE0FxBiIxURQyM7FCUmFygZKh/8QAGQEBAQADAQAAAAAAAAAAAAAABAEAAgMF/8QAIBEAAgIBBQADAAAAAAAAAAAAAQIAEQMEEhMhMQUUQf/aAAwDAQACEQMRAD8A84XMpRtJAYnzEn3yaWDnTA8m31432FQXJBYAfhGmth8HLqvdJUEdq45W40LVEYEObKEv2U01rfxrrkhuUU79cViyM+SJTJ2LV2KeJGgKsox2rmPiKIR3kmFwM0fS6vmNEVGa/wCO+soYNcqUGXUAHdgKKfbKDPDqGRzFB7ZophNTzFWxC42mlHs7fenW1xNbyCS3leOReoNJeDF1OMn6jfeoc71asdzXcVbqbZc8d4pLwaKVJVDOxQlPXbrWuXc1xIQbiWSRm6uc71k2N+IUjifUVV9X6YrN41Pw8Ifg4lV39SPT+KMijE1BfY/K5zpuZ/PwykhJ1x6fm5i4opbMarmBd8mRR/tFIY9waCxH3g1XcxUMVaRiDjpmoVjb8r/1ooq3QkIBJiiNyM6Hx+2hYZGyBHKeyE0UVLMwKJYcKsWMizvIkKwyKxWXIZt8+XaiiijuxuNx412z/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUCAwYE/8QALRAAAgEDAwEGBQUAAAAAAAAAAQIDAAQRBRIhMQYiQVFhcRQygZGxE2JyoeH/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUBAAb/xAAgEQACAQQCAwEAAAAAAAAAAAABAgADBBIxESIFEyFB/9oADAMBAAIRAxEAPwBUlt0cBfDwqqe2UMMgHPpUItSJXEQEmfEVaLvLqZ2WM54ycV1iyIcp7C4JYFYxtoRBGqhBuanUFouwZALegpcNJ1RLWO9WAyxfMW3DhccHHX/PCmB1D4GwaW52RqB49SaW8req64U/vMy0Q7P5F+tRfpDcwQZ8+lFIdVvrrU++sQHl7UVLS3IHaNmsIqtJEgKMkSsPNHDfg12atqNvJY72gIkHAd4yQv8AXNYNb67UYXePQDioG/vMsrhsEcqeB+aZNJmfInUCKihcRN1bXfaew0p713ia1uiki3DNu7uSAAuODn6YroaGXUY4J7u6kmmHzLG2E+3QH2rOap2kDdjNO06Jy84jwyqchSJScMc9cY+9R0rVtSS3URWobH7qFdU2XunAM2zC4kNyfs1zCVYiluv160UguNa1Qx960wf5UVO9dU7IjhcDQnBHFyiRxQx7sc7yw5888VddWJ+EYSSBVIzjYBn2ooqpU6uAIjT7KeZTPYW40m2uRCoLLjeeud5BOPanmniFbSM2+HBHeVTyDRRQr5dCEs3JBkppOoJVwM9TRRRU3ARtkBn/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Call Out My Name</div>
-                                    <div class="artist">The Weeknd</div>
+                                    <div class="name">I Got A Feeling (feat. Georgia Ku)</div>
+                                    <div class="artist">Felix Jaehn &amp; Robin Schulz</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBAEGBwL/xAAtEAABBAEDAwMDAwUAAAAAAAABAgMEEQAFEiExQWEGE1EicZEHFBUyM0KBsf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgP/xAAbEQEBAAIDAQAAAAAAAAAAAAAAAQIRAxJRIf/aAAwDAQACEQMRAD8A4vMSzO01lp1ZacaWVp4q7FKA88A135rmsq6lHVHitTXmWpjbp2qfsg7q43AHqQOvf745EdrUtLfNblq+oqIo34v8/nEv7ebEhyER3FSGVK2uMbCsV88dDf2PfDp1t+pvTkJnVGppcitoaYbv3N5/rJ+keeL6c8Y0m6Po7cQ+w24t5aaClqICD24H+u5rzlL0ctJgzmPcpz3EOFnb9RSARYPgnGkqG6uKmS4UtRN+3eo8rUOoA8XhNFWgQX4+qTNOmMALipUp8pVdAeR1JuhzQFmrwx6nVX3YkiBHSgJcIUt1Qon5KiOtdBfQYYNN40/S9KS7/MLj+4XHQqYw8v8AtBY5cSjopu+TfIPfFH6m6xo0aTpp0GClxpuy44wKacSaIF/5EG/FHrmnuvSFRkBL6XG2VWncsIPPUEE2of8AMnia0lEdbUiNFeaSa2e8lJHzVGj+L88Ya2VFGqa9qTc2CyzDaZcKmHHCEbebAJ6qrp0ObJIjIkssxpckkRAUoQwnh1ZNqq+gsnnIdOe0Za1lpLER7de50tr55HBvx8Z6nNtTFOOy9ZTus8BVmvmhhGJ6ozDEhT0lhtEdkK9q9ocNge2juTz35NE4ZWY0zRWpiHp6lTmmyVbAQlCz23AEk0O3Hk4YRa9Pa8jS9OnRHYjbyZFEKI5QQCOCOR+ePg4/Hq70wQFP+jorjhrepKGk39vpPOGGW8luMx8YmMlt9c702RE0/VmX5mnomxmpHvORlgAON8/T9szH1CApw+36fZcIN0ZLtVfAPNYYZFWn3WXGUhmAhhzduO19agR8EE9vGGGGFf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Can Be (feat. Crysta)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Silhouette (feat. Skyelle)</div>
+                                    <div class="artist">Bad Computer</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAArEAACAQMCAwgCAwAAAAAAAAABAgMABBESIQUiMQYTFBVRYYGRQXEzUlP/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUGAAH/xAAcEQEAAwADAQEAAAAAAAAAAAABAAIDBBEhMRL/2gAMAwEAAhEDEQA/APJe1j2huiGt5IJxjKsmk/VUGiBxyNhqn4pxm+vgwmYSc5dZGXnwcADPX8dPWkob4mTEkavv+QPmtK60XpmhdaL1GEt99iCK1kYocVaotoyh2cqxGyAbD6quuohklHB9qT5eXXpFeVmHpINW/vRWhO29FTZOknAprWXiNp5hnwomUyjJHLnm3Xfp6b1e8UtuDLw9vL4JX4g0aDWX0qHMj6tidxoKD9gmuNth7A+2asLZIy38Q+6o1HQPZQr3cPZ2ycN4P4uN5IX8sWOcSFXbUXy/dk82emjp81rLY9nvBkRwztcd1IVUs2C4fl1HPTAPSuf1N4fuxJNo/wA9XL9UlKo35aByKNWA3ojMcVaE3t0bUBLcSv3S5OyZOnqc9PWilZ8/12NFAAggicBG2CKctpNEgJO37oopvNY1mst0mhNtszd/q9tOnH3nNLOpYkgg/NFFdotvs80f19kDQPLgJg/NFFFJsU+T/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Say It Right</div>
+                                    <div class="artist">Sunlike Brothers &amp; Micano</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EADMQAAIBAwIEBAQDCQAAAAAAAAECAwAEEQUGEhMhMQdBUdEUFiJxFSNzMjNSYXKBg5Oy/8QAGgEAAgIDAAAAAAAAAAAAAAAABAUAAwECBv/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMEERIhMQVRgf/aAAwDAQACEQMRAD8A7kNE0zV7RJb61EzNnqWYeZHkaINoaHD+6sFX/I/vUjaknO2/aSfxBv8Ao1O1K6Wx0+5unAKwxtIRnGcDOKisdbEHFdZXmwHkqJNn6FIcvYKT+o/vS49n6GegsF4f1H96g6bu+G6kso3hYyzRNLKsQLcoA9Mj7DJ9KurXcFlOVWBLl+I/QRF0fv1HX+RohmuA7J1JQtNndQExniZtXRNL2ZqeoWdiIrqFUKSc1zjLqD0Jx2NFXPiY6al4baq0HFwSImMjB6SL7UUXiPtDyMJK66idt3TxbIsHhYiV24EwMkkyHy+2ajboubookMTXNzx3CxmDgHCyoQzFuEEhewJwcenWn9tWd58saOtm8KGEuzGTr3LDoMHyNLvbCFdS5d3qDrMyh+WEyCrNj0xgt5efnXMsLTevEHjr8lZTliqo9Ime02y/DLR2h5AaWH84pIx5gLcKoHKjBJycjGevkKcsrtReRxwQSRW8vDyoElyHbAV/7ZBGQR9q0sWoaIjoWvpzLkMMRleE4wDgLgdPTtTdtZ6BfzQ20U9zIzBljU8Q6ftkZI9etPWuDDU1+PqGMdHyRt+agT4a6vOyqojCphEIUYdRgZ7gds4FFK8WbVYvC/V7eEEKI41Ueg5i+lFX4igod/cIcgsSPI3tTdWjw6LawXd6sc6huJOBjj6j6DHar/5o0QjPxqY/ob2oopbjjmBuKUynCiK+ZtFIB+MT/W3tQdzaMMt8Yv35be1FFMDjIBLKsp29mW8QdzaNqO1NQsLW9ElzKECx8thnDqe5GOwooorKIFGhDQdz/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Diamonds</div>
+                                    <div class="artist">Mord Fustang</div>
                                 </div>
                             </div>
                         </div>
@@ -724,7 +724,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jul 2023, 16:04:58 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jul 2023, 17:03:29 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
