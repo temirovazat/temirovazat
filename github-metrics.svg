@@ -450,6 +450,27 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwIDBQH/xAAxEAACAQMCAgcGBwAAAAAAAAABAgMABBEFIRIxBhMiQWFxgRQVUWKR0SMzQlKhosH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAgUBBgP/xAAkEQACAQIGAQUAAAAAAAAAAAABAgADEQQFEhQxUQYVIjJBof/aAAwDAQACEQMRAD8Af7eK6fUp4yHMXZEY4dskfHzqWbdxnltTjNprIp6lCXOAPlycZ+lar3RQ9uI0G3f410Ixykzl2yOoeOYqKIGtygcG5D/EY4cfesfZ5N9v4qf7icX6oEHCIyx335gUwWWkcMbBh35FG9p8gzXyCuLarRQEDg4xRTr7qXi5d1FG+WL6DU7nXgkSZ8xSxSLwg9g59djyqNpOpw39zdWzL1c9u5R0Jz61XundGoNOcew3uowNtvHPgnw5b1nNplzY34uNOvJ5b4/nmaTP9u8+HpUwYJibapTp52GFyhtLHvxb2UMl3M4VFQDl41wdA12LU9Zlihbijkj4kX9uKSelT9KdctVtOriijGOIrKMH4nnXL0jQtatmmW4R0jcY4rW5VG8s4O2BT08u9hLMAeor+QKH0IpI7l0SyoOEiaJOMFVLEbt6nfyoqrZejcF7dPNcG9hd2MhxMpHF9KKTZOPuI2erf4/sY5ZpIUZoYi8hGAwIyvkD3+Oa0Qu6dlYJfEkD70UVSAEgM5KBZJIbG+KxbrP0FR5jvooonlPFEhb8RlI+UEf7RRRWQvP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Moments (feat. Adara)</div>
+                                    <div class="artist">MitiS</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EACwQAAIBAgUEAQMEAwAAAAAAAAECAwQRAAUSITEGE0FRIgcUYRUjMqFxkcH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQMB/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxEEEiExQf/aAAwDAQACEQMRAD8A2VJLDl9alPPBqDorK/FiSRvfb+74cp84+1lh+5VHpyWUsFs172GxN8RdUqWaKn7ypqQONUZsgHJ1AXB/rHOj8nStSWRpjHqjIplilLMUJIDMRsCbXxC5easIMHuMutZm+yzfPaQ61jjPcF9I0nge/Q/OK6fO5bgzQLHEf4sUJDbXFrc3P42xcL0ApzR6oZjoSVVZwVNyQANrEb7eb4zubdPVHTz0k9PVRVcdbMY/tpUEKiwNyunb8nji9sb3UBV3J2pgThM8Fv1CZYZIY43Kdy4udS2PHo38esGLPIrz1M7rGqxMxj1BNmKC3I/76wYjX8qu2gZFJcVGAyfPI/v62OgmcRU7w6WbT8tLXBKsBsfxiP6bxKiVUVAZ1ptazK4XUSxLAg3HoKbf4wnnFVfM1kSEMYR23Y34I+NiON7722t7w/091NNR1T0rUVTWrJoYyQhQE8FQDueL384rc9orI39gLKyx9fk3scNX2LCrq9YsNRhFztY+MZDrqqOWZTE8sxqZnk0xx1Eahm2AOm9tJsCb384foOqVr5IRLlNdROryR6J7BviLhtvBv5tjB/VjNsn6khosqWCdawy/tSyIS6i9iQvBHxO5tbnDrXRx4bM01Ts0PS1XJWu7EkQiLuKq20g30+CdXHNyPWDFX9PKf9NoftgytEsRjTXtJ8TubcEWI3GDEu1grZErpkdOGzGpQLHD2WBEplkYFr240niw49jDlP0/OZJXbtKYyXptDEHWrWRmN7cAG2DBgnHezoA006KlVyRJanKc7zGOUV2YcoFZCdIfbxa43839/wCln6Z1MqwpDS06qq2DfMKRdrMbn+Xja/vBgw0uR7EwCj5E8ohrMqqpzUKFh0lVHcLab77X58XA8+9rGDBiJ2dLmyUeepfCf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Closer (feat. Halsey)</div>
+                                    <div class="artist">The Chainsmokers</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQMHCAL/xAAsEAABAwMDAwMDBQEAAAAAAAABAgMEAAURBhIhEzFhFEFRBwgiI3GBkaHB/8QAGQEBAAMBAQAAAAAAAAAAAAAAAwABAgQF/8QAHxEAAgICAwADAAAAAAAAAAAAAQIAEQMhBAUSExVB/9oADAMBAAIRAxEAPwB8nu3RFylhuZJCOsvADp7bj5rw0/c0OhQmyB7H9Qn/ADNNM02dvqy3p8JtlbiyHHHkpSSFEHkn5BFRojlivQVGgz4ksqG4pjvA7gO/IPI/astzAPyCvXsxu5CTDdmKUhyXLZcPKVpfWkfyCcf1WG4aTvISkwbrLeV8eoV/nNXT+n4KUkiOvfxz1VZ4858CsKLaWIaGokmUwGQdqeqSMe/nNB9ggOjHHWMw3Fy0WfUrdziKclSC2l5G8KknsFDPBPNFN0GTKedZYfloKkOIKm1Y3KGRzj/tFMOWG3CPXshqcW6qmuHXN8UpDDm2dJSkPcjHUV8mtwfb40xIv25U5yKttkoSsLAC84J47eye1auuzMWNrvUAmzIre6VIK98cu7AVkg9uDz+1N+iIFsgIYfgXVUiXKVhorSNhSSQpRSe2Bnk+/al5bIyeZ6PFBnQd01/pyzmY3eJaUKikpUtIKt5AyAAOcnHFc36/+r+otSznGtPpk2m1glKG4+es4PlaxyD4GAPNRtc3K9WXVLlu9cyGCpBQ4yyPyB5GSRnPzg1HXcQzKtTjq1NPzEEkJylKjkY8YJ45Gcig4/FxYqeg1yshLEgEipRaJnvsa7sbklU1t9c9gKcLigpWXE988kUVsC23P0mrLTDmxYp3SmVsuenSVJHUCeDjjGMdh8g80V1nJ635gnGV16jQ/orVWnNUa/biaUuF6g3khth5t1DaXEKzuz+XYBZwCCCQMirH6d/QWavStulXifItd1KCHIyozbnRIWoDnPORg/zRRQndw1cqbEtpP0TdaubktF2u07rbkraU0hKE8YGApX9Y7YqLI+3WHeGo6pF2uUOQ0gJSFsIUEJB4B/LBPvxRRUB8mxIcjMKMzNfb36e92mU9qO5y1RX0vJV6ZASnapKsKO7ODjzRRRV/IwmbJ2Z//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Nevada</div>
+                                    <div class="artist">Vicetone &amp; Cozi Zuehlsdorff</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EACsQAAICAQMEAQIGAwAAAAAAAAECAwQRAAUSBiExQRMHIhRCUXGBoTJhkf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEFBP/EABsRAAMAAwEBAAAAAAAAAAAAAAABAhESITFB/9oADAMBAAIRAxEAPwDi3S+zpu0lwSSMorw/MQuMleQUnB84LA9u+O/rTbQ+mk+437NauLPOtK8MwbgoVlYqRknHcq2D74k+NLXQt2xt+7pYqyJHJxeP71ypDqVII99j/wB0+1Otuotg3KxfggglrzRRVeVmMqjfGvESDBB5YJLHOCSc62b3XV4Z8avj9Fm90P8Ag7UVeZ50lkhnmWJuHPEPMSDGfIKHtnuAces0x0rTG3Pda5N8KHiey55fEJOJGex4n377edXp+t5bW4ULVgVX3CkxaO06uQ5aUyNkZxgklfH+OR/vUEe9Tw7faoyVoZYrNh7THk4BZlwBgHDKOxAIIzoE7YzSTC6l2Q7HNFFJITK3ISRtgNGy4yCPI8+fB9E6NS9Wb3Z3hqcdhFSKqrrEOTOVVjniCxJCj8q+APGjTZzjpz2lnhHsargkjvrb3WQ2oadLJc2bCoXz3C+wP67apfT1ZbG/wwQcTJ90nFsYZVUll7j2uRrW64t0qu6F9riKpXnSVVOAyNjHHt6zg/r50NV8GROejzFtXQx6KZxTl+R2EBk+NjIJP57D9/HrSH0vVgr7z+D3VDKsNloVjf8AMPX7gDvjXRNs65WahJfVYsfCM1yDz5AefGP50l9K2dv3KSza3K6m33pWd/kZgGiYgAspb7T2GOJx+oOdK6hrPf1C6XrrUmu0IlgeFebxqMKy+yB6OjVn6pdfQ7j03tfTmz2vxVaCFDcvNHwksy4zjuMhAfXs/sNGmQ6a6hNpJnLqViWnais15DHLE3JWB7/1rSu7nFYtTy/EOMjcuJ0aNG1lgKmgfdppq/w5WJPBwT4/TWbPL9xWMgqPYGNGjV4I6ZCSWOSTo0aNWCf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Wolves</div>
@@ -457,17 +478,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBAUHAQL/xAAxEAABAwMCAwYDCQAAAAAAAAABAAIDBBEhBRIGMVEHExQVYXEiMtEkM0FScnOhscH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYHA//EACURAAEEAQIFBQAAAAAAAAAAAAEAAgQRAwUhBhMycbESFTGhwf/aAAwDAQACEQMRAD8A2gfVS0EBrad0sJAI3YdgY9QoL4NiVoaTQ1NDERU7GueQWRA3Iz6cv9UtpkbHILvWLpWmszM0UM5Rq7WLNqEEcskbSHGP5tvXoqrtbaXDbA4i9nXcBZY9TxNTeaeXMpi4RzeFDA34i7cQXX6XNtvNOfBHDlJrdfqLK95+xQN3RxOsdxva59hyTR2mYAOlJGaxJJFu+gqknM5CFHI5ClyFctGykF7WyVa851KAMFMad3JrCQwi/wCkNyf5VM4A6pu1nSGcP0lJJRd9NJUMLpJJLEtwPlsMc/dPtDaXOcOyl+JSGsYe/wCLnHCPCEtFqNZqOsRubUNkL6Ukgfjd0luYPQHlldB7JaXwz9dN7h0TcAW/OkvVtS1QVcvdwyERxu2/Cc4P1Tp2QU+ptpNZqNWjMbpImhjTg4Dif7VLlaAxR+F5dkCUXOxc9EKJx9RYoWfH5WuNGwVkZbbNk8QdoE0cLYjp8dmNDb96c2HshC64ZOSPfLNWg5MPDJoZRdL5HHsoYAKBpH77vovZ+0Kd0Lo/L4huaW/eH26IQiPcpJHV4QzdGhg7M8rn8trDmhCEEnDRsv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcDBQYCBAj/xAAwEAACAQIGAgADBwUBAAAAAAABAgMEEQAFEhMhMQZBBxVRIjJCUmGRoRQWI3HB0f/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAQQFAP/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMEERIhQRMx/9oADAMBAAIRAxEAPwD5n0F1bSGLAXsBfj3jlFY3IBsOz9MT050yBjbT0QT6OGx4d4PLVeJVy7qRmvpoZrIyySSqz/Y0g2Km4Nwb3BBB4OFO/CQqg+xYyJQnI9zeb5jv227H7lv2tf33fi3vFdtuX0BG1D8Nuf2wxq34dVn9zUsNMG/o6muSCJ4oiQsZIGs8m3634xH5BRVFV8Rq6kkiaafe22libSrheNzjgCw+pt0eb4EWADc5aTz4b9mMrsor8tp6aeupnhiqdW0WI+1psG4BuLXHeDGs89oI6HJ6NNdNLMKlw0kL6tI0g6Sf5wYip/qgYx2bjLj3tUG3r2Y7L5UiradpgGhEiM6kcMAbkHGzo84qIcpRXpo5lR2jpJW5amDm4VG74Po3HvjGSynL2zB1WMgHejjJZrABr8knrrDwy7w+jXLkimiiDxuroW7B9kfUYcyqf2Zl+SadASgyjy6ogy+pinymjraikkaNZWY62jbUxVz+Iahbk256xkkqpqWhzs1tLtV0jKI3ZjdVYsWA9H1zh0UOS5dQwSxKiOXbUzW5J4/8wm/ivMieSyQwyBlWNAbH3a5vgDWp2IGJms1gAlPXTNP4vExRrLVkblxb7nXfffrBjhyw8Gi/J8wa9zzfbH6/8wYmsADQEvPa9rF2Pcm+H1elLnDrLp25U0NqUEfzhh0WbUlJVl9BJFl4NjpB6H0wYMNYTPyRybRltU+e0NPSPuwzbKpY/wCRb9W7tfCU8mzj5vndTXJEyRubRoxuVUdXPs4MGAWpVPUbh0JWSyjueV801ZH8vKEkVG+H4/LYjr/WDBgwSjUuaG5//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Say Something (feat. Chris Stapleton)</div>
-                                    <div class="artist">Justin Timberlake</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Fly by Wire</div>
-                                    <div class="artist">Anevo</div>
+                                    <div class="name">Lovefool</div>
+                                    <div class="artist">twocolors</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -475,20 +489,6 @@
                                 <div class="infos">
                                     <div class="name">Work from Home (feat. Ty Dolla $ign)</div>
                                     <div class="artist">Fifth Harmony</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAMEBQYBAgcI/8QALhAAAgEDAgUCAwkAAAAAAAAAAQIDAAQRBSEGBxIxQRNRMsHSFRciNmFxgZOi/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQAAQUC/8QAIBEAAgICAwADAQAAAAAAAAAAAQIAAwQREiExIkFhcf/aAAwDAQACEQMRAD8A8rY81irHcy2t3pzxtIqydQZGPv8Arj+fekZNCxo9xfxTl1hK9Q6MZBOM9/lTb4jrsr2BBiwH2RCuphEJjjBLg+qc9QHbHfGPPbNO2sbYSBftCEqT8QU7VtDYWp0O4vpdQhW5V1jiswpMjZ7sTjAUAe53xUZSpGoSOLyCOBlEVwk4OclRjFFNqKqSOmkEqIixKr5A6h3ro4CWfLu/dGV5ZIxFlz4JGcbbnx865wsTLIpYkK24b3qyaNqcSW8tnczSC0mABCkdSnwVz5zvWzh9h1bokaEWt+iPJnhLgu61+SzkM6W9nPJ6ZlcN8W56V2wWwpPt7nO1P+PeAjw5ZWs9lJPdRtJ6EruoXqkOenoUEnGF8nPbal34yTTNOi06xG0ShFfYEDOe4G9MNW4w1XMax3ySqwzlVIxvgd/lVNjYyVkM3y/JBY5bYHUqd1ZXVoFN1bTQhiQPUQrkjvjNFTutX817oyreOSVkDRZ7nYg/uKKz8ioUvxU7EMj8hszpGocleNGjKRcPzFuwX1Y/qqvy8jOZHWenhi4I8Ynh+uiii5WQ12iQB/IOlAvQmn3F8yc/la5/vh+ul7fkbzHXqc8MzBl+FWmhIP8AuiilUOjDN5Ju45JcdavpTvJw6NPu7OPKRGZCLokj8K4YhTjJ3IHiiiipbYbDyb2cqABoT//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Smoke Signals</div>
-                                    <div class="artist">Hotel Garuda</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAEDAwIFAwIHAAAAAAAAAAECAwQABREhMQYSE0FRIjJhcYEHUnKRofDx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgYH/8QAJhEAAgEDAwQBBQAAAAAAAAAAAQIDAAQRMUFRBQYSIRMiMmFxof/aAAwDAQACEQMRAD8A5xBidZtSgglKE8yiBsKeMZHYCp/ClyctMxuS00y+CChTToylaSMEHxppWmc4cbukgSrA24WHDhcRQy4ws9vBT4VtXTtcCF/GYYTH3bfo8V6qhRMBxgc1ixB5tkmkrgBIBIH71urjwhdIvQaMN5x95ZSltA5gQMa5Hz27AZNUFzhvW6YuDcGHY77Z9SFjBHim4JLW5XyhcMDxW45bSZjGjgsNs1Sgpjw32RHjLDo97jQUtP6T2op+aQptQKcKxvRWJIFDUKW2QNpTMJCugg8p1203+lbz8Pr+LNemWppKIrpPMon25GAVeAMfbWsZaZkhMZLKX3UtgEAJWRgHfHxVqILlvtzNye5kuvLUlhJyMgD3/I1/2lr6BLq1a2m0cEfyisgkh+N9/Vdyv0+42u4RLpAjiVEZbV1kleAOYgBQ+d9fGa4/x7fG+IL+uU3GSyCn8/Oc7k5/oquk8R3R+1ptxmvGHoVNkjBI/nHxtVd01YK1q1xSXbvQz0u3WJz5Fc+/xmonSu3TaXjXbvngbaYzUe46I+eXeikzjkL32x9qKtTH6qvTe3pi2PoS42VFOEeo8wyDjXGO+dsVLud5n3R9L82StxxKQhPpACUjsANhRRSqoGcOdRpSyHOCdqisyClwKcJUBnTAFIMt3GOqvH0ooo5Yga0UuwGtIdlBTZBznye9FFFCLml2lbNf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Inside Out</div>
-                                    <div class="artist">Azteck, Angemi &amp; Laura White</div>
                                 </div>
                             </div>
                         </div>
@@ -720,7 +720,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2023, 03:04:19 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Jul 2023, 04:05:12 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
