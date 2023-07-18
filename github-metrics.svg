@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.66m added, 95.7k removed
+                                    462k added, 6.35k removed
                                 </div>
                             </section>
                             <section>
@@ -512,10 +512,25 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC4QAAEDAwMDAgUEAwAAAAAAAAECAwQABREGEiETMUEHYRQiUXGBFSMkJTLB0f/EABgBAQEAAwAAAAAAAAAAAAAAAAUDAQQG/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAAwQRIRITMSJRYaHR/9oADAMBAAIRAxEAPwBJR3oCYnTeiuLeIO5weD4xz/qo62mlvJ+F6wRjnqEZz+KmtsqSw41g4WUnGPpn/td4cYIfbLiVdMKG7acHHnGacTH0eYbZkaXiWTOl5LkFl5oB3ekn5T/jgZwc8ZxzisvLZKXCOadundR2INBthLLdwSSlpsyANqtoCTgjavJHPOeeKW17gFy4SFoaDYUsnYOyfYZq1ihxoQzDyrusi4a9pjHv2yBnk+KKuW9O3G7XVuPAjqcwkKWs/KhsZ7rUeEj70UJd1K5UTqsehrUDqNzS6Vdjz50Nx5tCw3IAcaAI3pyOOfPtnxVjqTT0owP4gPUKjtbA5c4JwPfArp6cJWjR01TSU9f9QZWgqSCAfHFSG7/KvMmW+++pDUFalKSyyEhKCnaSDnk5z3+tLY95uBB8mEZ+E2KyW1nYI3qLi32x2e2VtoJOSDx2I706fSbR95dg3Bn4a1PKbWgf2TbpW0SnOBgjA+/44rN26Tb1Xm5R9NOOTIa1KeUHWSSpBACis9wD54pt6evNt0G5fmrspLIZXHdKY7CljCkA8YBGRuHcipWV9tdg8mUyX6k3WvMQnqfLeizGrTCldKKU75MZlZ2FxJxk/Wivdz1Xao93lKm2ONd0uvOONmQ4ptTaVHgceMY4NFH3sDYdxTCrIpUF9ShsEGbcOnareXlSpLgKUNuEfkjOB9629y0+vQN+iWV2StUq4pYL77Q3bUqUQUpz7+3NFFVp9PI+YflWNbd228KB97l3ry12T0967lgkTfjZkN1G15CQAErRgjaABwTSivGobteriuTc5KpEh9KApawOQkADsB4AooqVVrMgJMSuqVbAo8b/ACaD1OEZWpLipxIVKDcbpncO3Qb8ZooorXc8zNg0xn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgECAwf/xAAxEAABAwMDAQUFCQAAAAAAAAABAgMEAAURBhIhMRMiQVFhgZGSobEHFBUyM0Jxo9H/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAMEAf/EAB0RAAMBAAIDAQAAAAAAAAAAAAABAhEDMRIhYVH/2gAMAwEAAhEDEQA/APc59wMdSjIf2gqIShJ5P8AVpYXLjNS648Qlk52dc+/Oa6SU2ZL7rjrcZTu47iUqJzUlF7trTaR2uwdMBs4+lRzVP4dVxK+iqVKuEZ1QeiSVJH72HN3y60qkaoSzMQypclsLO3c5kbT6irK5qC0A99/+tX+VCm3rTMpBblqbcSRghTKuh6+FNTZW3D7O1slySoBThVlWOTmio9uv2nkusxojrQUpQSlPZudegxkUUmnvQoqZWGG44luyFJSRtdUk8etYk2/CeQKn2J6Ku9XBppThdzlQWSQecceAqqah1O/M1FGttjkpSlbnZrPZBQHn4Z4xQi9WolcaTw3mw8KPdHupBOZQ2vLhQjPTccU8n6flOqV2l8n4znCClPs4FVa+aJYl4UZspbw/KuQrtAPZxV02/wAM9cc72SrEwPxyLkDh1J+YopLpudLtF+tltvbJSVOIDMhHeSsbgAD9PTxopVar2OF4rGtOOunr8L++q1xLmkokKUlxllzGQrg5A5ph9lrdzXqdcm52+ah1xtwqcdYUkbzyTyMedFFZOJZOI08z2j1R9lxR/TX8JpZKiPKzhpz4DRRV8szUiu3KOoXCC1JtU59H3ppSXW2CUtq3DvE+A8/MUUUUb7O8fR//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Leave This Place</div>
-                                    <div class="artist">LIONE</div>
+                                    <div class="name">All I Got</div>
+                                    <div class="artist">Said The Sky &amp; Kwesi</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAECAwYEBQj/xAAoEAABBAECBQMFAAAAAAAAAAABAAIDESEEMQUSE0FRFCNxIjKBkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/xAAaEQEAAgMBAAAAAAAAAAAAAAAAARECEmEh/9oADAMBAAIRAxEAPwD6ivPdT2WV/UFZY2kk75VS7I3TH5Vb/akFxB3PwiqTbb3RSWb5XJaPV8W9brJJBry6PU8zoDD7TodqYa374OV1RKZooZYzNelE05+KfjI4iJT7mh6z2cnT5X8uS0kEWPAO3lTLLxnUEGSB8OnbI1xEJAkcyzbRk5+3xYuqXvjd7KwulmnW7cZ3jxhFJFtzuiYPGfqJGzlrdM97LAD2uGfJorSKd776kD4x8g/xERsqaC7VwD3KIlAjgSDlERan/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">CLIQUE
+Explicit content</div>
+                                    <div class="artist">Rilès, Younès &amp; Leone</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACsQAAIBAwIEBQQDAAAAAAAAAAECAwAEERIhBQYxQRMiMlGBFBWhsWGRwf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAABAhEhMQMSURNh/9oADAMBAAIRAxEAPwB7bcGVUDIQMHG4zT2PgLSAtqGAA3o7f3U39vePiVvBqYI6luncZ61MC1WBGkbUirpUGuV9P03KBU15ccquh1y3pyPj90mTlyZmYeTHuFOK0m04Z4mkwlWVPVpOdJzn4rpc2kMaNFrBlOMKMZzTJSasDcVgye55dliTzhX1dNNFXqa2kkkaGMgmP1AEZBPuO1FI5MPVGRw85ymCA+MJJLaVQsmrBKnVnJz0yKm7nnyW4vrNpnihCReI0SnO5B6/iseseNubgJaK3iE6cr/v8Uu7vL64vSjziAoWJOr1ADJJPUjA2xTS4oIZckvDbrTnQ2El1app03h8SU7ENsCScHbr2rsOaULZkmihEagozuVKgEdPisHFzxVriF4OIsY5GKhmcrjG5UAgdiO2DUhb8Yv20rO8ZypOo7bAZOQN+3tSdM7H7KtF849zTNb8Ima2mEsl5IfqJFYhjjBBBO4+Peis8veYp4AElUSQ4zqRice+xAorRGCooc6dFWXiE9nLMfD8unSoIwN9j0Oem1P4+IMWimWCONRCymRMvjykKwBO5GcbkdKKKFLBZ6Li4xCHthJdXErQuWZpIVXKnbAAO4zXNClvN9RFc4jdWVm0Y0kggHGo537bUUUZY0COdje/LPE8pujLGo9SoB+j+aKKKkVZJJH/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Untouchable</div>
+                                    <div class="artist">Tritonal &amp; Cash Cash</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -527,17 +542,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAMRAAAQMDAwMBBgUFAAAAAAAAAQIDBAAFEQYSIQcTMUEIFBVRYYEiMnGRoVJigsHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAfEQACAgEFAQEAAAAAAAAAAAABAgARAxIhIjEyE0H/2gAMAwEAAhEDEQA/AFvrGxyLta9JzI0sXC5PMLjPbklDiykKWknPnjendnnbnzVpb71quPoR7S6rMHLctfc7hbSopVkeFg4znAx59KV9ivkq33+A5Mfc2sbmwon8TQUCCQfIxuJpo6C6Vao1Cy7NN5mR46XFNjDysq5OfWpfnQ0tNZxdiLpUhYG4sO7SM52nxUudqy+L04jTrKnPhSXvefd+0ACv+okDJ+5rc6n6Jo05d2I9wukx1l+OpxpMVguuuLCgNgSPoScnA4rLdTOm7ujbPBu7U4vxJb3ZShwbVhQSSQofTFEum9P7F8u5qejNjl2tbeqpSAHdpVH3eNpSeaKZiIL8TpZZm5Kmy+mAMqbGBghRT/BA/WiuRnBfISZXjcBZzM7bXrvpi43lpG9cCQ37xtHhDoICj9ApGP8AKnD0T65W7Tdh+EapakBuOkqZksJ7inOfyqHofQHOPnil101h3qTb7oqFJ7doSECYyTw6TuCOPoamSel8yRbVT2ZDKCWVyFJPAwkKV/qu2WF0ZEXANGMmT16tV+1vCedjSbfbG45aaeUQHUOqVyVEEp24CefTn58ZW4JunWHWz8WM6oWC1KW8XV8gqVgHkAZKikAccJGfnlIV0Z7Mc5XwC+x1nJL4cJJ5JKRnP7UDYwpOQdxjuQlS1n3iUz0mhLmuqW6hl5tRPnCHnEgfYACioXVec2rQqA0nYktLT996wT+9FTriD2TBVtovekty7VkvcPPK+yvGf7iP+Vur/d1wtJrKEpIMF1KiTjaC2oD9eSBRRT3HOTOOc5zpsez9Ocj3S7stq5cjhQB8ZBIz/NFFNfzKMvgy16kTw/oSCdqUlXdBAPGe64KKKKXiG0xOp//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFCAIEBgn/xAA2EAABAgUCAwMJCQEAAAAAAAABAgMABAUGERIhBxMxFCJBFRYjM0JRYXHBMjRVgYSRkpSx0v/EABkBAAMBAQEAAAAAAAAAAAAAAAECBQMABP/EACQRAAEDAwMEAwAAAAAAAAAAAAEAAgMEETEFIUEGE1FhgaHR/9oADAMBAAIRAxEAPwBC3VcNZZuWrNtVWfS2mbdSEiYWAAFnA6xFtXHWlLSF1mopSSMq7Qs4Hv6xndrLi7rrRQhagJ14ZSknfWYenCLhjJyFJlqvXZRMzUH0hxtp1OUMpO42OxVjffpmC0EqRX11PptOJZG38AcpLmrVbklwV6rFO2Dl3BHjvq+caLlx1oOqSitVFSAThXaFjUPfjO0XIedl2Gih0tpbxjSRtj5QluL1o0CckHqnQdEvU2+8thlpQQ+PHAAwFeO3WGLLYUbTupY6uURSQlt8HI+dks7WuCsu3NSm3KrPrQqbaSpKphZBBWNsZgiOtFpxF2UXmIWAZ1ncgjPfTBChWq2FhcNlYXh4JkydREh28Dzqe7byO1fd+Y1nTyu7nGvPjj8od8jIGXYaS85NurDhLhU++olPhjJiht5OuN3jXQha0gVB/YEgesVDBlOLFWbseWkVB6XmGhyVT4OVLQBhIQD7WNirwxnqYLSBlLqNPNJ2zCL8He1vf0rEP8Q6JI3cm2XZl9icWlDSFP6z6Y5OgqBwFFJTge8x2Ew860SZVEysEOkoXryFD7IGD0O/7x54zs+/NzHNW4rZRUnc7HOc/E/HrDFPGOuPWjM0eaSHJt1sMpntRCwg7K1DxVjbP1hg/wArzVWmzNDOxvi/Fvf6mNxFE8VWyaj5SCfK0h2cOGcx6v0vO53c5nMzp0b41Z2xBCJs11bl40FK3FqHlBjYqJA9ImCM1VnZchd5dNhz0tcNYqb0hPTmueeWhlqTdOMuKI9nB/zeOMqNAuioPlbtBq6UAdxAknMAfxgggrZjjbdavmdcH4JV/wCi7/zGK7QuIY00Grq/Quj6QQRy0upmyrWuBq76Et6g1VDaJ9hSlKk3AEgOJJJOnYQQQQEjsr//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Desert Rose</div>
-                                    <div class="artist">Sting</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAYHAwgBAgT/xAArEAABAwMDAwIGAwAAAAAAAAABAgMEAAUREhMhBgcxQVEIImGBkaEyUvD/xAAaAQACAgMAAAAAAAAAAAAAAAADBQIEAAEG/8QAJhEAAQQABAUFAAAAAAAAAAAAAQACAxEEBSExEhQyQVFhcYGx8f/aAAwDAQACEQMRAD8AtXUN4usS6zWoxKI6EI0K2tXPy+OOfOPvxXmRfL2rf0p1KS6oJTtegWkYzj2Jp/rBLlR4jW5KebaR4ypWPxWimUeLZQYIgT9pEZ6ykzH48RiPJjyQjWS60nEjGASkA5AB98ecjwRXdd/u7eCFFxkICi9sYz8wB4x7evikjo+XEt/eKY7JW8zbtl5MV8qUULWteSFE+M8nnjPtV0bWl1AW2pK0KGQpJyCPoaHE4uFlFlkZAaMWnr+JVst1ly5sJmQ/pcO7vNloDOMaR4yDzn7UU2UUVUJpmvNhtLmpb3MnhHUbLBVw2wDj3JJz+qqWf9mo/wB27QG+oYtyVr0Pp0JcB4QsDBBHsRg/ahTdCYZJw80A7wa91mnWNmTYIT704wnH0K21pj7nr/I4PnlNM3bxUW3RXLY1cFTVreU62dop0JwARyT4IP5qdx+vYFp6fZjdSxXHTCadCX0KSEkKPGkH1HgGqR0DAhyrTbb/ABmHoy5scPhlawrSlYBwSB68GsiDatqtZg4tjdHOTua2rv8AKcKKM0UVc6sG5Ur+IISD07BdYeLQDy29SThQUpBwR+DRRUH6tKZYAViG0tYL6+9LWlNxlJMeOjCWASop4wOcVuT2q3G+2vTKHVJKhAaxj+unKf1iiioxihSt5q0NpoTVr+tFFFESegv/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Young Right Now</div>
-                                    <div class="artist">Robin Schulz &amp; Dennis Lloyd</div>
+                                    <div class="name">Giving In (feat. Mees van den Berg)</div>
+                                    <div class="artist">ElementD</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -545,13 +553,6 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Somewhere Only We Know</div>
                                     <div class="artist">Keane</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIEBQYHA//EACsQAAIBAwIEBQQDAAAAAAAAAAECAwAEERIhBQYxQRMiMlGBFBWhsWGRwf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMEBf/EAB4RAAICAgMBAQAAAAAAAAAAAAABAhEhMQMSURNh/9oADAMBAAIRAxEAPwB7bcGVUDIQMHG4zT2PgLSAtqGAA3o7f3U39vePiVvBqYI6luncZ61MC1WBGkbUirpUGuV9P03KBU15ccquh1y3pyPj90mTlyZmYeTHuFOK0m04Z4mkwlWVPVpOdJzn4rpc2kMaNFrBlOMKMZzTJSasDcVgye55dliTzhX1dNNFXqa2kkkaGMgmP1AEZBPuO1FI5MPVGRw85ymCA+MJJLaVQsmrBKnVnJz0yKm7nnyW4vrNpnihCReI0SnO5B6/iseseNubgJaK3iE6cr/v8Uu7vL64vSjziAoWJOr1ADJJPUjA2xTS4oIZckvDbrTnQ2El1app03h8SU7ENsCScHbr2rsOaULZkmihEagozuVKgEdPisHFzxVriF4OIsY5GKhmcrjG5UAgdiO2DUhb8Yv20rO8ZypOo7bAZOQN+3tSdM7H7KtF849zTNb8Ima2mEsl5IfqJFYhjjBBBO4+Peis8veYp4AElUSQ4zqRice+xAorRGCooc6dFWXiE9nLMfD8unSoIwN9j0Oem1P4+IMWimWCONRCymRMvjykKwBO5GcbkdKKKFLBZ6Li4xCHthJdXErQuWZpIVXKnbAAO4zXNClvN9RFc4jdWVm0Y0kggHGo537bUUUZY0COdje/LPE8pujLGo9SoB+j+aKKKkVZJJH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Untouchable</div>
-                                    <div class="artist">Tritonal &amp; Cash Cash</div>
                                 </div>
                             </div>
                         </div>
@@ -783,7 +784,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2023, 08:30:04 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 18 Jul 2023, 09:17:25 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
