@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    881k added, 90.5k removed
+                                    2.30m added, 89.4k removed
                                 </div>
                             </section>
                             <section>
@@ -512,32 +512,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMC/8QAMhAAAgEDAgIHBQkAAAAAAAAAAQIDAAQRBRITISIxMkFRgZEUFSNxckJDUmGCkqGxsv/EABsBAAMAAgMAAAAAAAAAAAAAAAMEBQABAgYH/8QAIREAAgICAgIDAQAAAAAAAAAAAQIAAwQRITEFEhUzUUH/2gAMAwEAAhEDEQA/ANDp189xKkJQGR2Crg45n517k1DY+3hNkeJrJW9xJE4O8KfqFVtVuHkkju0ZcXC7zhhjf1MPXn8iK7OzANqJ14oeosOxK0eog9uNgPEc6aiuI5CArjJ7qyyXTsvSlCn6hVLSZlSVrmSRCkC8Tmw5nqUepHlWOQo3OFGMbH9Zcuo3t5XjkxuU4PfzorLyX0hkZzOM5zndRW1HHMFYgDEDqZBTcccs/BaPHR5HcD/VVbVpJtNlt2Vd0fx48Du6nHphv0UrsBHZpixmNtcRSKu/Z0sZ7Q7x5jIqRbsjYlLBsCvpujxOKDC554picrDpsMO07rg8Z88+iMhB/pvMV0a1HvH2SN+izDbIR92Rnd+3nXG9uUnnklCBEPJV/CoGFHoAKELDYQI41Rxq3Y9ngRNpSBjBY0V7Z1AHMDyopr2P7IhkkzylQsd8VbuOFJ9MUrNc6pAweG9Rx9oSRj+MCiioTXP+z1NPF4mvrEdXWb06a3wkbUUja3V1YbBGWz8843L4YP5Ui2oasq9KzTJHWpz50UUJbXU8GFs8fj2aDruNve28dnx5NQCThNz2/sjdrw3Zx18s9XfRRRTosbXchfF4+zx/Z//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUGBwgBAgP/xAAqEAACAQMDBAECBwAAAAAAAAABAgMABREEIUEGEjFREwciJCUyQ2GBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAIBAwQF/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAwQFERJBISMxUf/aAAwDAQACEQMRAD8AzpB+upDbnK4+4/7Udj2YU8tzq08CnO7CtlfiCZzcObBf2as6jjRPoJpFRR3pp42zzkb1le8zfIWPNacvFyWb6ZroCo7BpAQ2fPBGKy1cWXtwCc75qYdhsxFc97xZdYTIdR0Ync7miuN5ooyTq+aZ2tvxcJ9Gl8UUk00cUKNJK7BVRRksx2AA5Oad6Xp+/LrBELPcROP2zp3Dc8YzwaLDcER1nZwwlm6vqfNgXSFz2/Hiqh1rAyvj2ak8tmv7RyK1t1ncmA6/C2VJxgEY2zkUnl6cvryMos9wZh5A07HHHqnQoTHWsdEzBmay53bsxEeaK9OjRuyOCrqSCCNweaKkc+kc0mm1Ec0EjRzRMHR0O6sDkEH3mpPZequonnSBr3cTGSR2mdj588/zRRRu8AzbH82KJbkkdzSyvr45tQskiZeRdQwZiFwCTyce6qC69T39NS35xru5dsiU5wOM+tzt43Ps0UU9N9mmixvvIzz7CV1C6sfAZGZpXmmeWZ2eR2Ls5OSxJySf7oooqTrE/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">It Was Always You</div>
-                                    <div class="artist">Maroon 5</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Somewhere Only We Know</div>
-                                    <div class="artist">Keane</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAQDAQIFBgcI/8QAMhAAAQMDAQQIBAcAAAAAAAAAAQIDBQAEERIGMXSyISIlNVFhcaEVQYGxBxM0QlJy0v/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBCExQf/aAAwDAQACEQMRAD8A9CQUTGrhI9So+zUpVu2SSykknSPKnHImLQkExlof62yT9hVdn+4o3hmuQUntJPtRBbZTpVdupK0IJx1RvJqukuzdKU56xJzHxII7LY+lmP8ANSNxUU4nUIy0Hy61skH3FYC220S/a6hbgPhWCNXVx4g1moOYEmXkqYUytvGOnIUMbwfaqTT8FOqyCzJEU1ERqYa/UmPswoMOEEMpBB0nyop2d7kkeGc5TRUaHTJ4LYDuKN4ZrlFc7/GCIkk3bE3YhT1q22G30JHWbwSQrzHTg+FdCgD2HHcM1yCn94wRkGo47LAarnTZujz7GO3a1NONIUUHCsD5+lds2cYU3ZIU4lYcIydas+1KvbLWXxBq5tmw0kHrtJ6E+o8PTdWeZbDSAkZI86MIa+nRy+VG9LVC073JIcM5ymiqTh7EkOHc5TRTZhSujSoqUkU39gE39qIkMNjSX2QMfkbj+/OvH0raLWVtlNKTdyFkFEEHRcJx98+NFFFCnh/C43kbnvW33g/qBvxj+XtTCJaNSlKfiNoQBjpfTn70UUgaIUmpaPVDX6U39oVG3cAAfTknSfOiiii2a1QWD//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">For You (feat. Park Avenue)</div>
-                                    <div class="artist">Rich Edwards</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Cool for the Summer
-Explicit content</div>
-                                    <div class="artist">Demi Lovato</div>
+                                    <div class="name">Whatever It Takes</div>
+                                    <div class="artist">Imagine Dragons</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -548,10 +526,32 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcFBgIIAQME/8QALBAAAgECBQQCAQMFAAAAAAAAAQIDBBEABQYSIQcTMUEiYVEUMoEVF3GRkv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAQMRMv/aAAwDAQACEQMRAD8A88vQvUqjbF/Ru2OAGc3t/wAYwPRDPRHKZRl7OYyEMcwFnsLE3jNxe5tx65xs806kCyk/5OMW2FLYoX/SzTbaXySly11CvEr7vmG8sT5Cr+fx/vzjnPOpOVZPr2k0pUUtZLW1Ij2ywBWVWckKrAkEcWN+eDi69kLKHBHvC7Xpiv8AdYazmzN5/mZP0skI+DbNi7WB8D7GAZGDBgwENnuVxajyiTL615oIpSkm6nco6lWDCzeuRhdZxl+XabziGlzDUGq4UjgQrWrMHSNPlZbKCw/Yw4W3I9YbyrxZQePrFa1FS6nfNYqjT9ZlyUqwdt4KxWKl99y3xF/28ef4wC5znMsnoKt1lzLVmaboVEN2WRVDor7wrDcOCvLCxO4c2NrHp+ly/UNTUjL9Y6lmmWPuSRmYx9sMzePiB5uLD8fjEnNl+tZaWtpxmmXRSlo5KepSKx5Yl1sd3xUWsCLm5F/eJXTi6kWqqBqFsraAIO29HGylmJN77j4AA9eW+uQmKCmNJQ09M001QYY1jMszbnewtuY+ycGO/wDnBgFF1OyvUGp8rDZZNmNHXUzGWnWCOWJWNrFSQfJHu3nCJoupuvMoqWpkz2v7yOY2hqwJSrA2sQ4JBvxgwYo3OpBMtHB+pYNOI17jAWu1vkbeucJrq51Lm0/mi0FJvjdwvO1gfPkC3PB9eR92wYMc23bZBaekes5tW5RJNJRTiohbszM21UQjwACd3ix5HJJ+sGDBjbPyP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMC/8QAMhAAAgEDAgIHBQkAAAAAAAAAAQIDAAQRBRITISIxMkFRgZEUFSNxckJDUmGCkqGxsv/EABsBAAMAAgMAAAAAAAAAAAAAAAMEBQABAgYH/8QAIREAAgICAgIDAQAAAAAAAAAAAQIAAwQRITEFEhUzUUH/2gAMAwEAAhEDEQA/ANDp189xKkJQGR2Crg45n517k1DY+3hNkeJrJW9xJE4O8KfqFVtVuHkkju0ZcXC7zhhjf1MPXn8iK7OzANqJ14oeosOxK0eog9uNgPEc6aiuI5CArjJ7qyyXTsvSlCn6hVLSZlSVrmSRCkC8Tmw5nqUepHlWOQo3OFGMbH9Zcuo3t5XjkxuU4PfzorLyX0hkZzOM5zndRW1HHMFYgDEDqZBTcccs/BaPHR5HcD/VVbVpJtNlt2Vd0fx48Du6nHphv0UrsBHZpixmNtcRSKu/Z0sZ7Q7x5jIqRbsjYlLBsCvpujxOKDC554picrDpsMO07rg8Z88+iMhB/pvMV0a1HvH2SN+izDbIR92Rnd+3nXG9uUnnklCBEPJV/CoGFHoAKELDYQI41Rxq3Y9ngRNpSBjBY0V7Z1AHMDyopr2P7IhkkzylQsd8VbuOFJ9MUrNc6pAweG9Rx9oSRj+MCiioTXP+z1NPF4mvrEdXWb06a3wkbUUja3V1YbBGWz8843L4YP5Ui2oasq9KzTJHWpz50UUJbXU8GFs8fj2aDruNve28dnx5NQCThNz2/sjdrw3Zx18s9XfRRRTosbXchfF4+zx/Z//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Desperate</div>
-                                    <div class="artist">Jonas Blue &amp; Nina Nesbitt</div>
+                                    <div class="name">It Was Always You</div>
+                                    <div class="artist">Maroon 5</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAH/xAAvEAACAQMDAgUCBQUAAAAAAAABAgMEBREAEiEGMQcTQVFhFCIIFSMycSRSgZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQH/xAAiEQABBAEEAgMAAAAAAAAAAAABAAIDEQQFEiExE1EyQcH/2gAMAwEAAhEDEQA/AOi7xcLjR3CXyIRNSrRtIqCIktNuAVdwOADntj5zphJerwtEjfRATrTkzYidlWVZVRioByy7dzgDkgDB1apI0ljKSKGU9wdR5ttDUQgRLGVRsAj7gCOMfGDow4fYXKKgWvl1+ho3KLGJJJFNR9FLJvCkeX+kDuXfzyT6fI16b7eI7ld1logKOllhELiFi0kbOokZcE7sLvPAGCBwRphL1PaBfprXAkslzpCUSMxbWYrjAU4ORgHk/wBvzp5Q3WxSpAaeHzGNQYmBXYYMKzFm9gADz8j40yqF0guzVp7Yrrcqy6Qw1sQhjNBHPIppnXErdwHJ24A7juMj50albJcLbcKTNoqYJ6eI+XmFtwUj0/nRpTjyjCS6lvMFhtE9dVZ2Ip28cFsEgE+mcYydc8x9QXZ7rdJUusdvpLmY53joqssFfGXAJGUbdxnsQO/bWh+PMt3orbT1FppZa9akinemdswJjc3mOvr/AI9sHvrBkej31qutVWQRwsUkhJiKNwA7AZwoJ7H41Ti4seUHBxII9KbLyJ8cDxAEO7tXzr7r+uk6tsdvsjLPVwUTTwVIXdJO5HJ4B5ARsg8HvpKk6vt5elnjpUql2iCphqZcQqWyzTGP9rfcoyCeAc4OANS/TfTljS22SvslzqZZqgK004wkjyrIeOclCCdvB5HuDqp1dVb6ejr4XmSiMSMYoI4jh3Lcpx+3ueTrOydVEe7FiaSRxfS1NO0Z2W8ZD3V7Hd3+LafCus/M6+61Ud/p6lo9kM9powpp6JsZUo4HJI7kEqT/ABo1WfwxU1MLJeaqCkWFjUiHzlyPMUDcAfQ7S5574OPTRoo62CkGUwxyuYa49LYrnQ09zoZqSsjEkEylWU+2qJa/CDpy2JcVpnuH9dSSUcheYNhHxkj7e/A50aNObI5nxNWpyAe1I9DeHVo6Phnio5KisjkcSKKzY/lMPVCFGM8f6GmfU3hN0x1Dc3rqqGpgnkO6UU0uxZD6kjB5+RjRo0t9PO5wslOimki5YSFbun7LQdP2uG3WmnWno4h9ka/9JPck+50aNGi6SySTZX//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Telling the World (From the Motion Picture Rio)</div>
+                                    <div class="artist">Taio Cruz</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAQb/xAAgEAACAgIBBQEAAAAAAAAAAAAAAQIDESEFBBITQVGR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAYHCP/EACURAAIAAwYHAAAAAAAAAAAAAAABAgYRAwcVUXGxEhQkJTE0Qf/aAAwDAQACEQMRAD8A8kABdLOAAAFXHwjOyxTT1XKSx9S0DnQWeKyx4b7q5R/VgD/L1eTVM2QO8DhxiKuS2JgAIBfAAAA1oxl72DXjYRsusUlnFU5LftLQKFL9p0aVPrM/z9YvGI3XylsSgAnpoAAAAKuOlGN1jm0k65pZ+40AB+l701qyBXgxd3i0R//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Tunnel of Love</div>
+                                    <div class="artist">Dire Straits</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Cool for the Summer
+Explicit content</div>
+                                    <div class="artist">Demi Lovato</div>
                                 </div>
                             </div>
                         </div>
@@ -783,7 +783,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2023, 17:03:14 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 22 Jul 2023, 18:10:00 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
