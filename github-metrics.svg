@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.35m added, 87.4k removed
+                                    2.26m added, 13.7k removed
                                 </div>
                             </section>
                             <section>
@@ -512,13 +512,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EAC8QAAIBAwMCBAUDBQAAAAAAAAECAwAEEQUSIQYxEyJBUQcUMmFxUpGxI0JTgfD/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAgP/xAAhEQACAgMAAgIDAAAAAAAAAAABAgADBBEhExQFMSJBkf/aAAwDAQACEQMRAD8A83XMsq3MwEj4Dn+4+9SWmxmaFR4kjSv2GSaT+SnvL68S1jMzx+LKyL3CJlmP+gCfxVy0vojXLWC3nlit4VmhSSN57mOIf1ASq5cgb8DO0cgVmwjx8jDCB9ghjyQM2kSmBZo7ti3O5C5HH2NRxEpDeG0o2nDbmwRWj2nw+6lctGkdm7bwjKt9CzK2CcEBvZWP4U+1dR8K9dhvY01OyYvO7hGEi7GKruPmzj6ee9CreEP59jbIwlcDwnRP32Z680gnSNZ2kj3Ljn70VbdQ6etNKuVglSCa4GG3xyLIAc+6kjP2oqHNQfqYr+OuA6w/sqGkX0umdWLfWhRbi3uTIhcZU88hh2KkZBHqCRWvdE3d1rkAl1i/0y5QSSziyuIFZ0lLs28Eny8ucEemBjgVg1/IU1S5I/yt/NW3pO6u3eN7cTqUB3EYwVx6fsc1dysU0DBcVlNhGuzf9R6lXULqGSTUrC2aOVmc7FZpiC6j6ifKQ7cezUrq/Vmv2FrBeJfWkZgiPh2zQBRIrEAELnsOMHvkH3NZ5pXVUa3h+dU7YR+kBs8cBv8As0l1T1gt6STOZcpt3Oozj0Halj02Iw12McW+pgRZoaiHV3VE+raxBJcpbrcSOiu0SkbhkcnJJJxx+KKpDTvca5DK3YyrjA+9FMAgUDf3Blva0sRwb5HbyzgaOdjbSG5LsQQjfq/btmutjcT2CyLb285DAqNyHy5zn+aKKtWOpHUBtqNRbVo7qSWMWsE4RUGcockk5Jrjp+lXV0s3iRyr4QD+ZTzyBgUUVZsIWchio1ndycvtIa0uLOSIeNgqzLtIK5Pfjv6UUUUO9rGN/XRCQs//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Walk Thru Fire (feat. Meron Ryan)</div>
-                                    <div class="artist">Vicetone</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYBCP/EAC0QAAEDAwIEBQQDAQAAAAAAAAECAwQABRESIQYTMUEUIlFhcRYygaEVI5HB/8QAGQEAAwADAAAAAAAAAAAAAAAAAgMEAQUG/8QAHxEAAgMAAwADAQAAAAAAAAAAAQIAAxEEIUEFE4ES/9oADAMBAAIRAxEAPwDz7CiMLgx1FhpS1IySQc5ya03Dlit74Q7JjxVI1qQUFW6vLkbdep9RSi1NhVrjKAOyN/fc1o4NhXM4fuM5uWmO7HwGUbZWT8moLbM63O50Y4qGgMR3ktNcOWp90IahslTqglvSnWASQkAEfk77/ilPEvD0OLzHW48dlIXjkZytHbB75yO/rU/BfEabGyiaAh26sJWlClqOGlEEcwp6EgE4OeuOmN+3+2phyGlqkLfflJMhxBQAGiT0SQckb9SAaHWU4TEUUK7A+TKSYsbwMgiO0lSWyQoAgg/7RVy4tKTAlqx5eWcfqiqqm0SfnUqlgAHkktRQbLDH2gJ859tRxWx4gfsMCxtwY/iZ04tFaSCMIJ3OoDbJz0BJArDWwgWyOnP3N/8ATTmXc46bPb7fEtyHbi2VqU5rIUU74x27/O1SOn9N+y57AOOoJzqKo9rV9Jm+CU2ND6YpYxvowMnOfU9Me+ahjS3RcFsuFXmSAnuQB2p39MRxEMXVJC1KGpwL8vN0awnT1xo31fukSP7bzGbkRFNvJAGCrsBuSc+gzk08ENvs1tNn1uGHUuT3E/xM5Kj5tB0/ORmiq9zWVwZAJJ0tkjb4oo6R1HfINtv5KsKTGECOlUhtK0owQScg5PtTdi48PkIIdnMyCjS4tvllKj3xq3xRRWTWNMkt5DFFB8jUXCz+DczdW9sLQQ0nnE7ggqKcA4wetJ3p3D6gdbkx6QlJDbjnLCUnt03xRRS0rEX9h0RVIlMGHJAktKKkEJSM5+KKKKcoyHfczkEz/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">My Humps</div>
@@ -526,10 +519,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHAwQFAf/EADEQAAIBAwMCAwYFBQAAAAAAAAECAwQFEQAGIRIxE0FRBxQiYXGRFSRSgaEjMkJisf/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQMB/8QAIREAAgIBBQADAQAAAAAAAAAAAQIAAxIEBRExURMUIUH/2gAMAwEAAhEDEQA/AM6a/wBZeNhbb23RjE09OxMgbhiGPc+p51IN9WwWXcFTQxkyLH0/EVweRk5Hkc8aafZ7e6KGGktyKwr5qhEjlY4EZLDvnsNM3tZtFPFfqeupIYpIqqMJKzMGy/rjPHGklY1ufIyqfIAB3IKysOo/PvplprHV1m30mpaSV1/uaZjxjOMfTj699Z3C1kPKtKqyIzdMYVstn0x5nVz9n1se2bSko7vGRKkZkAiTqGGGB388/b10lu24/VrVl/ST1Km26MZOLB0JH9qW5aOad1n/ADQUx9OekEeYz5gj+NGu3cUqU94niicyCMiNmxj4h5fTRqhTbmgb2T9TSKrSi9T0bjsZrNY4qyRpXrDGv9PGB4jHhR54A5/bXiJb1pKqNcLkqDLIz8Kf8uT/AN1Qd5bseqKkTpT24yI0LVvwyKwUhlACkH1z/t8tIt/3FR5c0Yt0jh+tnck9YxxhCvSD9+eeNNVEBT7EWByHk2W6Wx73BX0lBUU9NFWxrHMhygjGS3V3HV29ONV3b95ilpq25e+UiskCxQJ1jLE5I+HJ7kjjULvVTd45IBOyxxTxCRWgAC4PGCRxn6Y+mtZLZe7dSPWe71tLSxqJGJJGB+o5xkZ1E1uzpqQAW6lirc2QEFe58qkdLtIt0SeOUMxxKhQuxOe5AGjT/Lszc+47Awhjq7jR9QkpqkSL0EcZyCc98jIx++jVRUCjESfba1jZNHqpsm29xItvqrRSUxCdS+7pEqORzk9R6geewY6WrttWyVC+BJUvMoHh+ClU4wBxjozj+dGjRq3B4mBX+xfbb1qSXwkiyyKEQTMZQAOw5J1lLZ0gH5cUJb9IhAx9xo0a0I5E7zjOm2fiKluho4UiUvgnoVseQx3Py0aNGiCwC5n/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAUCBwMEBgj/xAAvEAACAQIDBgQFBQAAAAAAAAABAgMABAUGERIhMUFRYQcTFYEUIiMycSRCYnLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABwRAQEAAgIDAAAAAAAAAAAAAAEAAhETISIxcf/aAAwDAQACEQMRAD8A+qaVg7qiMzsFVRqSToAKn4NjVjjAmNjLt+UxVgRoexHY9aUUHVTpXnTmmz9b+BCsYvtNxr8m30/HfrVHF8WtMJijkvJCodgoAGp/OnQc6UMxqNKwjdZEV42DIw1VgdQRSlq1p403uY7HD4ZcLjtTgwX9U7k7Stru2v4f7x5V0sJxrzciJdZZW2nljA9UVmKyp1I01+Xj7e9bWmijnheKZFkicFWVhqGB4gjnUTK2UsHywLr0i28s3LlnZjtEDkoJ4KOQrKVDD2ndrK3zdhbxgSNCmg4B9R7ECrl3jkceT5bvMiwxW77sMUN9aTd3/bw9vaqj+GWDNmoYrs6Wv3mxA+mZNeP9eezw17bqv5nyrhOZobePFbbzBbuHRlOyQOa69DzFZxw07uuXD1o+3j/BzEMdxGG5kureOLAt/wAOzMWYtrv2eWzx178OdK2TBDFbQRwwRrHFGoVEQaBQOAApXS5ZPfiaLlpSlKSlKUkpSlJf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Feel It Still</div>
-                                    <div class="artist">Portugal. The Man</div>
+                                    <div class="name">Pay No Mind (feat. Passion Pit)</div>
+                                    <div class="artist">Madeon</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">The Motto</div>
+                                    <div class="artist">Tiësto &amp; Ava Max</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -540,18 +540,18 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAj/xAAuEAABAwMDAQcEAgMAAAAAAAABAgMEAAURBhIhQRMiMVFhcYEHFDJCocFikeH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMBBP/EABwRAQADAAMBAQAAAAAAAAAAAAEAAhEDEyExEv/aAAwDAQACEQMRAD8AZIcG3SEJL0qU09tCnEhgEJ9jnn+KxdstmkOLCpsopTwMRwTjHv51GXKWqLHk7UuFLziUEo/IDHT1q3dK6at+nLSi5Xop+5KElRe5DXHAA6q/vwqIrLtaj7Kbu0ZNsczbm5a423vOOx9nX/WMVIWZ/MPPaLSM8DHhVyNaxYkTG48WA+8hxW0YIyfj/tcWvNGM3G2vyrQwlm4oSVbEDal7/EgdfI+fjTVU9GJap8SVi1cmm3QHHl4B9Of4opEkzXkvbVsOJ57xXxRR3MXpjrY77EVqS2W15pK0OymgVn1UKsz6qh9arenYoxDvyoeAXxjPrjOPmqNvdrdts9EztFLbKwpt1IwUEHIz65r0forU0TU9nacC2/u0pAfZz4HzA6g0pXNqyn73LxJYvN+lRQLTb24kZgYUtlsAJSBlR3q6+1Nv08vUm7wpQlO9t2CwkOkcnIzg+391B3zROor3qB56Xfm2bSrhMdjeNqeg2Z2k+pJ5rr1JebR9NNKCLCwuapJ+2YJ3OOuH91+nmfgdK0Eha1U8+yitb97V12jRk7kCY6lATz+x4FFZaSKlTJUuYd8h0EhSvMnJPvmiplNlOzPI22ZTcxLkSWhLjSh+Kq0zdLKiOIk2m4uQVNHubSrck+YKefiiiuy9RnFw2Qko/dtVx2WmFakLhUnxDeCfkpzSve7VdnStx4Ge47ypajlwHp3jzRRUnjNlq8jkjINuuTKg2IroI6qGBRRRQcZNbM//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Wicked Games (feat. Anna Naklab) [Radio Edit]</div>
-                                    <div class="artist">Parra for Cuva</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEEAgUGCP/EACsQAAICAQIDBQkAAAAAAAAAAAABAgMRBBIFITEGBxRBoRMWIjIzQlFhgf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8A9AgAKAPPAAAAACccivZOUp3V7UoqCalnqwNVLhlvvWtd8Xh/ZdN7+p06dMY9TenBT7aWx7z6uzuyPhFo3dO3HPflef4x6nXaviENPfVRKaVs5JLlncv0IrirWmc1eBPkgEq7ujLGXyIlKEvmSAO+cQpS4bw+Vrselqdj+5rmZLS0RlBxilseY4fQANWY2qvOHn+gAyawzX//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">edamame (feat. Rich Brian)
 Explicit content</div>
                                     <div class="artist">bbno$</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcDCP/EAC8QAAIBAwMCBAUDBQAAAAAAAAECAwAEEQUSIQYxEyJBUQcUMmFxUpGxI0JTgfD/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQABAgP/xAAhEQACAgMAAgIDAAAAAAAAAAABAgADBBEhExQFMSJBkf/aAAwDAQACEQMRAD8A83XMsq3MwEj4Dn+4+9SWmxmaFR4kjSv2GSaT+SnvL68S1jMzx+LKyL3CJlmP+gCfxVy0vojXLWC3nlit4VmhSSN57mOIf1ASq5cgb8DO0cgVmwjx8jDCB9ghjyQM2kSmBZo7ti3O5C5HH2NRxEpDeG0o2nDbmwRWj2nw+6lctGkdm7bwjKt9CzK2CcEBvZWP4U+1dR8K9dhvY01OyYvO7hGEi7GKruPmzj6ee9CreEP59jbIwlcDwnRP32Z680gnSNZ2kj3Ljn70VbdQ6etNKuVglSCa4GG3xyLIAc+6kjP2oqHNQfqYr+OuA6w/sqGkX0umdWLfWhRbi3uTIhcZU88hh2KkZBHqCRWvdE3d1rkAl1i/0y5QSSziyuIFZ0lLs28Eny8ucEemBjgVg1/IU1S5I/yt/NW3pO6u3eN7cTqUB3EYwVx6fsc1dysU0DBcVlNhGuzf9R6lXULqGSTUrC2aOVmc7FZpiC6j6ifKQ7cezUrq/Vmv2FrBeJfWkZgiPh2zQBRIrEAELnsOMHvkH3NZ5pXVUa3h+dU7YR+kBs8cBv8As0l1T1gt6STOZcpt3Oozj0Halj02Iw12McW+pgRZoaiHV3VE+raxBJcpbrcSOiu0SkbhkcnJJJxx+KKpDTvca5DK3YyrjA+9FMAgUDf3Blva0sRwb5HbyzgaOdjbSG5LsQQjfq/btmutjcT2CyLb285DAqNyHy5zn+aKKtWOpHUBtqNRbVo7qSWMWsE4RUGcockk5Jrjp+lXV0s3iRyr4QD+ZTzyBgUUVZsIWchio1ndycvtIa0uLOSIeNgqzLtIK5Pfjv6UUUUO9rGN/XRCQs//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Walk Thru Fire (feat. Meron Ryan)</div>
+                                    <div class="artist">Vicetone</div>
                                 </div>
                             </div>
                         </div>
@@ -783,7 +783,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2023, 15:04:33 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Jul 2023, 16:05:11 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
