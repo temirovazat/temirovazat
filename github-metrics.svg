@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.32m added, 82.6k removed
+                                    2.67m added, 101k removed
                                 </div>
                             </section>
                             <section>
@@ -512,31 +512,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAAUGBwMCBAj/xAAzEAABAgUDAQYDCAMAAAAAAAABAgMABAUGERIhQQcTIjEyUWFxocEUFSMlQlJy0ZGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAIDAf/EACURAAICAgEDAwUAAAAAAAAAAAECAAMEESEFEiIUMWEVMkGR4f/aAAwDAQACEQMRAD8AQyfSG42JZDKpK3XiE4K1rJUT657PML6x0wuOlSi52cZtdKEZ2ShWTtjGNOPffmPout1eRokqXZ1waz5Gk7rWfQD6naMSv+9R2a5upEkLVpYlUHwA3xn/AKTHKEd/JuBHYwqdFm4AkHMWjWJ1pTSWKC1rAOtlvQRz5gNo5NdLa66hK0vSGFHb8VX+fL4RRNzd5sUVVfdtF1NCQntFPL1I7nrknOPfTiNBs+v026aEp6moKHG+65LKPebUR8x6HmJc6r9slGNh3ntU8zK5XpxWnWVyKfuXUchLyydRPjsrTmCNp1ykuUobWO0HmSlOojfwzxBGJsP4hf0qiRoTMT80qYm3HXnV+ZxZyfnE5OKpdJ6r2s/dCPyNvDjmtGpGcqwVDkBWgn2jSWW5dkYSkKPxhNeFsS10yCWJhRZeaJUy8kZKDyCOQfSCrMgtx7Ca5mObaSqe8vHGbUvutvS71Sr10yM68T2bCnE02S0JyAVI0pyM8lRyRtGI2NKy1P6m3RIUCaW7RWi4226FZ1pDgCd+eRnkbx3boN+yVBNvM3OxLUAagW23SgaVHJBwnUQc+GcGGVvSMha1OMpTHC9MOHU/MKTgrPAA4AiqobOFEVYWFatodxoCVr77Uk13cF39KR9YIm9SnlFS3QOTmCCBirry5Mf909A9RqGgDTMqV8GVfUQtnuosk6CGZlaR/BX9QQRRGCnehEJ6ld8RI/d0s8SXJxf+qv6jxRdEg2kn7QtXsEHf5QQQV6xwNACUPUbviJqrcy58FvWWmP2Jzv8AE8wQQQWvU7EGgo/X9iqx3sbuZjuf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMFAgQHCP/EACoQAAEDAwQABgEFAAAAAAAAAAEAAgMEBRESEyExBhRBUWFxIiMyUnKx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAQBAgUD/8QAIBEAAgEEAgMBAAAAAAAAAAAAAAECAwQRMRIhImGB0f/aAAwDAQACEQMRAD8A8qoEws4ozI7S3v7wgDBPRWQtU/l/Mbcpg0l+4InadI4zn+x0+2VoSRujcWu4I+cqFJPRWM4y0RoiKSxY2i01t3nfDb4TLIxhkdyAGtHZJPSu7P4aro3iespn+TGXvdGY35YxwDsZP8iB8njnpUNvudZbhL5Kokg3RpfodjUPY+6nZfbpHDHCyvqBHGQWNEhw3B1DH0ST9pepGtJ4jjArVjXk2oNY+5Ov1NwNNZxQS+FGsmML/wBHcZtNAcHODuchnR59eMrn978H3HzFQ6io5W0tO5zTvOjbo41lvDuSAf8AOulTDxHcBKZRVVG6WbZdvO5b3jvP7vy77WrJeLhKYTJWTudC8yRlzydLickj5J9Upb2dSg24td73+iNrYVbZtwa73t9/WSXax3G0R0z7jTmFtQCY8kZOMZ47HY4KKCvudbcRGK6qmnEedG48uxk5PfuUWhBSx57NSnz4+eM+jRREVzoEREAEREAf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In My Mind (feat. Mi Manchi)</div>
-                                    <div class="artist">LVNDSCAPE</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBgECBAf/xAAuEAACAQMDAgQEBwEAAAAAAAABAgMABBEFEiExQQYTUWEUIiOBFTJCcZGhscH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBQT/xAAhEQACAgIBBAMAAAAAAAAAAAAAAQIRBBIDEyExcTJikf/aAAwDAQACEQMRAD8A8D0S606C4nOqQPLGygJsPKnPPf0qz/inhOSNBFpdxvWP5sZ5PUnr7f7VCUZO7PAp5pV3Bb6dcSOreYGAIU43KRwP5FZnLwqT27m5i5PTqMqr0PLbVfC/kxeZYOJuN/UqPXHPPT+6kudX8JSxFfgZ4mBBDJ+r1HJ71R+oJ45NMQ8EGhFgPrzMVbK9u3X9uvvQPFjd2/0fDNlO06S9EWtXFlcXpbTYmigwBg9z69T/ALRSvtRXXGOqpGVPk2lbGumRwhrp7hN6JESvs3Y0afHCba6eeRUAXhSeSe2KxabjaXgQEllA49jmorqH4VlDOrl13KV6ChL+NN+GbBLZba3JJMzZ3jPAHb70z1fToY7KzzKUaWESxgg7XB7g49ePTNIEbbIpOOeua7mmlYQRzTNIkKkRgn8q5zgfcmo4vyM631VC0jBNFbTEGU7RgZopghnZaTvDIQgB3HvWL2QlyjhDs4UjnA7c0UUCXew9m40zhfJJ5yakV/p7cdepooogC2aza+D10ud9MvL178KPLR1+Utkf8zRRRVgn/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Be There</div>
-                                    <div class="artist">Krewella</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">The Motto</div>
-                                    <div class="artist">Tiësto &amp; Ava Max</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCAwQFB//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwAEEQUSQQYhMRMiUXFhgSNCUv/EABoBAAEFAQAAAAAAAAAAAAAAAAQBAgMFBgf/xAAeEQABBQEBAAMAAAAAAAAAAAABAAIDBBEhBRIiMf/aAAwDAQACEQMRAD8ATt1TjR5XCRozufCqMmqMGrrO3mubqOGAsZHOBgH9+O/itw+UAaq0M1aJNOvY22vZ3Ct8GM/dZZA0bbXUq3wRg0zdWaRqWg2KNcR3xjWP1JnkMedv+lAJbbn5OfxSrbypeQrNBIJY2zhwfODjmgorrJiQ0qR8Jj6QgtRUzCx8UU8ypvFturQ22PVwAa3dJajbabr9peTybYIm/kZRuKrycc/VL/UN85f0VBUDyK4ivKD7cjPbNC2Jh1iLiqOBDtXoPUGvRdWyT2A1O/ltpb1nw0np4t0hAAwQDu3Dd2wCSfik/oeEzDUvRjKWYnBhUtnbkZIxxwfs+BStZwSR3C75H2qzDI7E47d/1T30SsVtA8MLe1pSzducCqqs34yap/R1sBOJittJkmxsQ5/NFM+nPGAACM/OKKsDIdWIkvSB2BLN5pNheTb1mGTnjmqbbp2J96KyM39BnHeiipCQ7HEdXY4qcTtBCWn0KUXMkJQr7yfHFdjSdFlty4g9yHuTxRRQdP7PIKX1POgMTefq32upS2UpScEY4xRRRRpaFgbPk1jIeL//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Run</div>
-                                    <div class="artist">OneRepublic</div>
+                                    <div class="name">All Day and Night (Jax Jones &amp; Martin Solveig Present Europa)</div>
+                                    <div class="artist">Jax Jones, Martin Solveig &amp; Madison Beer</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -547,10 +526,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBgcBAwUI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhEzEGB0FxgSJRYQgUFaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQIAAwQF/8QAHxEAAwABBAMBAAAAAAAAAAAAAAECAxESIUEEEyIx/9oADAMBAAIRAxEAPwCoNP1aGR7KB9NsY1SRN00cZ6jAEZyc859qkvmXbacvinUo9IaN7SOTMLRNldpAPBHpkmoNpz9G9SRZJEeM7g0a5YY9a7FhfRl445ZQ1owKjemTkZwMDsOfSsdxpatdHS8fJ8OK7L6/SzbLFa6tf3QXqTFbeNj32LyfjJ/qoX5sqvh3VL3T7TT7aW1mna5y4P0MxwRwRxn/AGrQ8JeG9b8M6bZRWtrBJkAtGZCOGPJzjkjiqe83vESXWrSwXNtDIApEzQvuHVBGRnPYHjFUTk9lJadhrFs1pVxoQDUdXV45YpdLsUlP0l9jBlPtnAPxRXHu5kmLSbSsjElvq4orcpMFVzww68m53RtpPfFOBLGBHsjfpKd20tnHbPamKtgU40zpNewLc3BtoSwDTbS2wffA5PtRaIqZ6CXzns/4awELzG+gm2OpBI6ZyPngL7VRXivVf3+r3hiVkiaeRlUjBwzFsn5NMQztOypPAjYO187AfnHf3rn5yckkn70kYkq3DXle3ajbgsrMOy4zzRSDxj8/mirigW1YzgUUUAmt6Svf1oooiv8ATcW3Ko4ytFFFQY//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lay All Your Love On Me</div>
-                                    <div class="artist">ABBA</div>
+                                    <div class="name">The Motto</div>
+                                    <div class="artist">Tiësto &amp; Ava Max</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAUGCAIEBwED/8QALxAAAgEDAgQCCQUAAAAAAAAAAQIDAAQRBRIGByFxIjETFCMyQVFhgZElM3Khwf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAwQFBv/EAB8RAAIDAAICAwAAAAAAAAAAAAABAgMRBAUSMSEiUf/aAAwDAQACEQMRAD8AsgwQqckVGdZtwNzJ500uo5wfCTWuIfCzTsNoGTXDo06/r86QxndnIUE4+QphaShoyjedJr7mTwVY3RifUBsOB6ZYXI3H4YC5z9qk4hgUrKmMMAw6Y6VLZGUM8lhNGxWehbNaHJYL0NFb15fIiFVUZopFKQ+M8ueMYnU7F/ulMvFLs/swfzVVrrmdr093DPG9vDHF1NuieCT+WTn8EVJdE5wRKiJq2lSb93iktnyMfRW65+9ab6yyC1LSrC6n0KNVnJ45ikxn9XV8fD93NWQbV5Zc5qqVzrNtJxJFeZdLf14TZZeoXfny7V1O+5saBboxtEvbtwcYSLaCPnlquc6idngorRONZGGtvDsFlMJ5PaCiq26nze4jlut2kQxWUA91GjErN3J/wUVVXV2v8RI+XXpzdh6MjPn2rITMANpI70UV0JmGD5b3mJGa+jO6jBdgPqtFFAAZWyCWbb3zmiiigD//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Hurricane</div>
+                                    <div class="artist">Ofenbach &amp; Ella Henderson</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EAC8QAAIBAwMCAggHAAAAAAAAAAECAwAEBRESIQYxQWEHExUiI3GBsSQyNlFzkcL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhMRJB/9oADAMBAAIRAxEAPwDCmFVxdvcc73kdDz4ACmPgsruxdpDLKERYxq5bQafOsI0J9i2inuJn+wq9gsJeZyC5xlqSjbGlLsfdHIAH11rKTtaaTzgy1zGPltWjtsjavKo94GUUo+vsqb2V441I28bh2NW7zBHp20GPyGPu3yUraxz25JVvIaHT+xUOY6WvMViTc38iDdyIwdT9fOjVLQbbVCwu96ud33oqfJ+9JoPCiqovBDWj1sOjcxfwQ2aWzBo2MhY8Lo2njWitZsf0BGbLM74Lq5+IbgoSmg/KoIHfvxTuitkht0SMAALp2rA+lnD+0envWARu9rKsyrI5RT4d+wPPjxUfmlo/364YbH9fW9wkst1bs9t6wrDOV4bSl16QuqWyk7LEx9SvCipepMzeGI2/4M22nMMbBivnqABWGv5AynaKZGC6C5/Dj3IeQNLtbYOCdOAaK6kP6Vyn88P+qKfDbFzjw98tINgHjpXNvTAUZJwsgbVTHwQfI0UVMwo4effSt0mbPNvfYzDs9hMoJjt1O1H7HgdqUOSt5/iSNA0Ka6bW4Pyooo4PDrRUhuYR09kLYsRcSTROqfuF115+tFFFOhlgyfD/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Easy Lover</div>
+                                    <div class="artist">Philip Bailey &amp; Phil Collins</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUCCP/EACwQAAIBAwIFAwQCAwAAAAAAAAECAwAEEQUhBhITMUFRYbEUIzIzFSIlkaH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMRIQQxQWFxEhMywf/aAAwDAQACEQMRAD8A84WNm91cRQx46kjBVyfJ2ontmhkZH/JTitfhoH+asthjrJ8imM6Lb6npjywukV8szRhGH7O5z7eh9MitH6Sc+JqLQprXH6MW5G0I8OoqWt0Nazys/U+1jP5Y9ceO1ZdrZtczpFHjmY43qQghyGXlYHBBG4Nb2jW0f0q3W4cTqnfbHKxPxS1QFgPMEcbKMR2EWtSsns7mWByOeNirY7ZG1FbHF6ka5fDA/c/yaKddxirkL0mZQwesM3WScP8A08krRGOcz8hEHSO/U7gn2px0xra2ezuRbyG0a6dfyPNgquRu3qe+M7Zx4pK4PONdstx+1R/2r2o6gIVWBR9yKdpM+NwoHxVNrFahYnfUr4jLdyDVb0AyPcYOK9J0hXku447vJwhPODzMRse/qV+fao1t9Nj0qXpwXYg6ycvI4B5sEdiSfP8Av2pfn1SG7ja1ZMQhy0BJy0ft7jxUtlL0VigZd5JkdXHYgZB+aQioSWOh/ZVaLQVWs5ycH1KnEC2gbKNdNcKoWYy9+pn+x70VBxC3+XvcEfuf5NFdLF9/KBaqUua1GhMewvJLS4jmhIEkbBlOM7jcV3NdPPI0khy7bmiiogxIxnUjVsbkfPVqPUbiONUV8qhDLnxRRXSTGLa6HKmV7q6e4meWQ5dyWY48miiihzAZi5y0/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Astronomia (Never Go Home)</div>
+                                    <div class="artist">Tony Igy</div>
                                 </div>
                             </div>
                         </div>
@@ -782,7 +782,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2023, 03:03:11 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 29 Jul 2023, 04:03:40 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
