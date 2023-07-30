@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.51m added, 97.4k removed
+                                    2.20m added, 97k removed
                                 </div>
                             </section>
                             <section>
@@ -512,25 +512,32 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBgECBAf/xAAuEAACAQMDAgQEBwEAAAAAAAABAgMABBEFEiExQQYTUWEUIiOBFTJCcZGhscH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBQT/xAAhEQACAgIBBAMAAAAAAAAAAAAAAQIRBBIDEyExcTJikf/aAAwDAQACEQMRAD8A8D0S606C4nOqQPLGygJsPKnPPf0qz/inhOSNBFpdxvWP5sZ5PUnr7f7VCUZO7PAp5pV3Bb6dcSOreYGAIU43KRwP5FZnLwqT27m5i5PTqMqr0PLbVfC/kxeZYOJuN/UqPXHPPT+6kudX8JSxFfgZ4mBBDJ+r1HJ71R+oJ45NMQ8EGhFgPrzMVbK9u3X9uvvQPFjd2/0fDNlO06S9EWtXFlcXpbTYmigwBg9z69T/ALRSvtRXXGOqpGVPk2lbGumRwhrp7hN6JESvs3Y0afHCba6eeRUAXhSeSe2KxabjaXgQEllA49jmorqH4VlDOrl13KV6ChL+NN+GbBLZba3JJMzZ3jPAHb70z1fToY7KzzKUaWESxgg7XB7g49ePTNIEbbIpOOeua7mmlYQRzTNIkKkRgn8q5zgfcmo4vyM631VC0jBNFbTEGU7RgZopghnZaTvDIQgB3HvWL2QlyjhDs4UjnA7c0UUCXew9m40zhfJJ5yakV/p7cdepooogC2aza+D10ud9MvL178KPLR1+Utkf8zRRRVgn/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Motto</div>
-                                    <div class="artist">Tiësto &amp; Ava Max</div>
+                                    <div class="name">Be There</div>
+                                    <div class="artist">Krewella</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcC/8QAMxAAAQMCBAQCBwkAAAAAAAAAAQIDBAARBQYSIRMxMmFBcQciUYGRocEUFRYkU2KCsdH/xAAaAQACAwEBAAAAAAAAAAAAAAACBAABBQMG/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAxESBCEiMUFxEyMyYfD/2gAMAwEAAhEDEQA/AONNxxWpEZNt7CmGTMt4jmgTVxZUWLHhpSp52QvSLKNtgBcmwJt2pwjJctzC4nEID8mUywXgSUMpUgrXrHgQlTe3Y0WUaQqegkfIcQ0CAQR51jecW4j1baRTuNlqROxpuFHUvQ84UtuvNlAKAeu3ssL2qyiej3DmXlIkYzqeK2UoKI5sC4o6b2VsdCSs72A914avYRhdOzHnsJzRmNukuqIPgO1FVOM5XTEjGaiWlcV6VwY6lpIW6jSFFzTc2G6fO/aihsTIKSn4i4k7Ghyo7lmXXEX/AEl897jl3qwyZiOIYTjC5ZmPNuvX4hdBUHbm51C4PPe4IIO4qVi4ihC+hw/yA+lP4mMTHCjShKtOyQpF/nSdVqh2julSinJTc+J0SNh7uJSZDiGlAvI0FxslRsrq9ZSirtz5bVnxjKuIcNhEh2TJhMaQlpxZSnSPAC+221+dqxwMXzHDhCSy000yOS+GSgfSvWL+lTHncPEN5GHkAWLgaso/Os/3i3EgTSeoCOQyH3J/MgmLlsJZbEaFHSUMspAUEAm5JNgCT2AFgABYUUjm5pmOBSVOJN/DSP8AKKfX17bkRTPRpsCR+8yVZaXqHEUGh+7n8Kf4Q9EbCV/a2Q6lYH5nVYD2hIBB99FFOYA9Z55XZehlV+MZSohY+9GVNhXDKLK6b9Q2tb+qjsZdZWoK47C1K3PAJ28wRb4UUUIRR2ltXqHYmJ+E44oCOeKo8kp6vh4+69FFFXac8jP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAEEAgUGCP/EACsQAAICAQIDBQkAAAAAAAAAAAABAgMRBBIFITEGBxRBoRMWIjIzQlFhgf/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQIRIf/aAAwDAQACEQMRAD8A9AgAKAPPAAAAACccivZOUp3V7UoqCalnqwNVLhlvvWtd8Xh/ZdN7+p06dMY9TenBT7aWx7z6uzuyPhFo3dO3HPflef4x6nXaviENPfVRKaVs5JLlncv0IrirWmc1eBPkgEq7ujLGXyIlKEvmSAO+cQpS4bw+Vrselqdj+5rmZLS0RlBxilseY4fQANWY2qvOHn+gAyawzX//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Inside the Lines (feat. Casso)</div>
-                                    <div class="artist">Mike Perry</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwAEBggC/8QAMBAAAQMDAwMBBwMFAAAAAAAAAQIDBAAFEQYHEiExQWEIExQVUYGRIjKhM0JxscH/xAAXAQEBAQEAAAAAAAAAAAAAAAADAgQB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxEhEjEEEzJRYf/aAAwDAQACEQMRAD8APZrzUCE5JeOEo/JPgVrrOoJ7kN6emIz8Gy4lteSc5VnAz57fSsjXKnH5NutzQUS8rlhIySc4HT7muoLWjSbG3gty7MldojJDCuaG1haiMFZVnGc5ySQRU9ToGYF6GlM3S62eWxkATGgpJ7pUFpyKWt1N6rroTXMuzqs0aZCS02826FrSriof3eO4NB+1obj68kQYzhXFROb93k+A7gH8VvvtO6Sn3TXPzGKrEdEFoOcs4B94pIx69RR2cR8jqP49T2vwQZP1HPazcK37g2QzYTao8ho8Ho6zkoV6HyKqHfZqZbsutbnaIzi1tPQI8r9QxlXEBX8qP2qo8A/si1CjcSMGB1x1GGNaQLpCUSmA4gpUnzg5JH5ro6TutZlW2S29Fb+UmMHgVM4DiyM46HGCfTOelDjG3UO6TJTkFbvwzDxZS0lQLikpH7znocnr07VlvbYpYaCBMmyG/wBwjkcQD6+BWllko4XMwNpUOTtZO3RuMpth2e1/TbPBHJ3OM9h46V0hvnGWbKJLaQoYLTgI7DIUDn0KSMH61pO1t7Y0VZ7ZaJjXu2pkxTaQlP6lrUpIBIPjqBSNvbFRI0Bd0uBSghlTieKiMKA6Hp3+9DevIcY3i3+m4WQh9mFblz3C1DclcS00wiOhQTjI6/z0HXzVWxeyZZTD0tLnuowuW8SPrxHQf6qqQcdQrmLOSe4e7OSonwDcebMXGk8QpB5gBXocj/tJb6mWOS37tBjtnqTzwr8g1VVvTqZmO4fLlxb7uja3YclcmFBkMNBa1E8nCsE4yeg7V0luHAXc9LT4TXeQn3Z/we9VVZLdncZOxPGhrMxYLBFgsICQhI7VVVVAGNCdbZyZ/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">#BrooklynBloodPop!
+                                    <div class="name">edamame (feat. Rich Brian)
 Explicit content</div>
-                                    <div class="artist">SyKo</div>
+                                    <div class="artist">bbno$</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCAwQFB//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwAEEQUSQQYhMRMiUXFhgSNCUv/EABoBAAEFAQAAAAAAAAAAAAAAAAQBAgMFBgf/xAAeEQABBQEBAAMAAAAAAAAAAAABAAIDBBEhBRIiMf/aAAwDAQACEQMRAD8ATt1TjR5XCRozufCqMmqMGrrO3mubqOGAsZHOBgH9+O/itw+UAaq0M1aJNOvY22vZ3Ct8GM/dZZA0bbXUq3wRg0zdWaRqWg2KNcR3xjWP1JnkMedv+lAJbbn5OfxSrbypeQrNBIJY2zhwfODjmgorrJiQ0qR8Jj6QgtRUzCx8UU8ypvFturQ22PVwAa3dJajbabr9peTybYIm/kZRuKrycc/VL/UN85f0VBUDyK4ivKD7cjPbNC2Jh1iLiqOBDtXoPUGvRdWyT2A1O/ltpb1nw0np4t0hAAwQDu3Dd2wCSfik/oeEzDUvRjKWYnBhUtnbkZIxxwfs+BStZwSR3C75H2qzDI7E47d/1T30SsVtA8MLe1pSzducCqqs34yap/R1sBOJittJkmxsQ5/NFM+nPGAACM/OKKsDIdWIkvSB2BLN5pNheTb1mGTnjmqbbp2J96KyM39BnHeiipCQ7HEdXY4qcTtBCWn0KUXMkJQr7yfHFdjSdFlty4g9yHuTxRRQdP7PIKX1POgMTefq32upS2UpScEY4xRRRRpaFgbPk1jIeL//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Run</div>
+                                    <div class="artist">OneRepublic</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUCCP/EACwQAAIBAwIFAwQCAwAAAAAAAAECAwAEEQUhBhITMUFRYbEUIzIzFSIlkaH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMRIQQxQWFxEhMywf/aAAwDAQACEQMRAD8A84WNm91cRQx46kjBVyfJ2ontmhkZH/JTitfhoH+asthjrJ8imM6Lb6npjywukV8szRhGH7O5z7eh9MitH6Sc+JqLQprXH6MW5G0I8OoqWt0Nazys/U+1jP5Y9ceO1ZdrZtczpFHjmY43qQghyGXlYHBBG4Nb2jW0f0q3W4cTqnfbHKxPxS1QFgPMEcbKMR2EWtSsns7mWByOeNirY7ZG1FbHF6ka5fDA/c/yaKddxirkL0mZQwesM3WScP8A08krRGOcz8hEHSO/U7gn2px0xra2ezuRbyG0a6dfyPNgquRu3qe+M7Zx4pK4PONdstx+1R/2r2o6gIVWBR9yKdpM+NwoHxVNrFahYnfUr4jLdyDVb0AyPcYOK9J0hXku447vJwhPODzMRse/qV+fao1t9Nj0qXpwXYg6ycvI4B5sEdiSfP8Av2pfn1SG7ja1ZMQhy0BJy0ft7jxUtlL0VigZd5JkdXHYgZB+aQioSWOh/ZVaLQVWs5ycH1KnEC2gbKNdNcKoWYy9+pn+x70VBxC3+XvcEfuf5NFdLF9/KBaqUua1GhMewvJLS4jmhIEkbBlOM7jcV3NdPPI0khy7bmiiogxIxnUjVsbkfPVqPUbiONUV8qhDLnxRRXSTGLa6HKmV7q6e4meWQ5dyWY48miiihzAZi5y0/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Astronomia (Never Go Home)</div>
+                                    <div class="artist">Tony Igy</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -545,13 +552,6 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Hurricane</div>
                                     <div class="artist">Ofenbach &amp; Ella Henderson</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Make Me Move (feat. Karra)</div>
-                                    <div class="artist">Culture Code</div>
                                 </div>
                             </div>
                         </div>
@@ -783,7 +783,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Jul 2023, 17:03:02 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Jul 2023, 18:09:28 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
