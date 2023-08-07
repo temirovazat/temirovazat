@@ -450,17 +450,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYFBwgCAwT/xAAyEAABAwMCAwUGBwEAAAAAAAABAgMEAAURBhIhMUEHExRxgSIyYZGhsRUjJCVCUVLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFAv/EACERAAIDAAICAgMAAAAAAAAAAAECAAMRBBIFISIxQWHh/9oADAMBAAIRAxEAPwDMjMhtKUBURhwp5lW/KvPCvtTFpPR101fcC3bYzbLeMqWSUtoHmSagLRH8Xc40c4/NcSjOcczirzvOo4cexogWZZjstIDe4ADaoc/dPL70t9xQgAfc1PH8FeQC7nAJDTOwm6R20/usEuH+JCgPQ44ikLVGjrtpSQ2bpEStk+6rJKFj0II+lWhoO+vLbWxOlrkut7u7XnI2kg8STyyD0zXo1DdzcFLhzUl5lTe1QSNwT0B/5XS3r+ZafEhq+yn3KHdkNqaKRFYQoj307sj5qx9KKlNW2CRYLl4eSgp3pDiM/wCTRSqwYaDMK2lq2KMPYnPQdlVqLUsa1tSmobrwWpD7oJSgoSV8h8E48zV5WouWq26e03FkW2f+LJcU05h+OEtPFQ3OpGAs5QoAHiB0xWbm1lCwpJwR1pm07FckrckkqORzAx5mjsTTuxKFNvwmgoDl3vjOy8Wa2219GYbcdCHArucApLhz7KARgK8xiuuPBbXIhuFiAVNICY6kKcWVtj2lZSTjmrbk8TSHpaEtSWWkJLwdWE4SDlQB+P3p81JZ48FyM8++1FgsoUtQSsZAGeJ/s+dTEAnpNWvxttIFq2Z+s/sqnt0miTqBhshIU02U7R0BOaKTNY3Ru632Q/G3eGBCGt3PaOAJ+NFV1VhFyZnMuNlpO7IKpiw3+XZ3B3Ox1rqy6ncg+nT0oopGGiTV2NW3ZfuPMbtduEVju4tvhMHBG5CSDSjqXV121Av9dIPddGkeyj5CiiiWpQdltvPvtXqzeouk5oooppBs/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYFBwgEA//EAC8QAAEDBAEDAgUCBwAAAAAAAAECAwQABQYRIRIxQQcTIiMyUYFhoRQzNkJykbL/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIE/8QAHREAAgEFAQEAAAAAAAAAAAAAAQIAAxESITEEIv/aAAwDAQACEQMRAD8ArTB8RtlzsUKTKhpcccSSpRUeeSPBqUymwYxjcNhblmZkyXiQhsuqTwO6jzvVSuF3CLY/TS23GYCUhspSgDlaytWgKUMkZv156b5OgvBhxOm/baUUttjse3APPJ78mlDZNvkjfI12LPsQ/wCOVIECN0lRPsaUUAfbvv8AemfG28TmJWzebbGiP9Xy3EFYbI+x+I6P69qWvNMmF2VEyeh+722c9ZVbbckNIUEtKPCVFQHYHvSPYC5gozE2ntmmKWeDj0yZb4zQKEgpcbWVDuB99UVI+o+CxrPj82VbpT4aaAUtp07BGwBrQHOz5orCuCNGPiR2M3pTjFvuOI22ZdUrmBxgttsuHaGk7UFaT22e++9WNlVyj4/h9xlgD5TBbbQrQBUodKR+/akL0mntowe0NF1sKS2rjqG/rVUf64XUrt9qgIV8C3FvK0ePhGh/0a4RlUq4mdLgJTLCVOlsvPttRUuuLWQlKNbUpR4AAFaewe23CyYdBttz9gPMdWghROkklQB478kVm+1SZeP3a23P2SlxCkyWgsfWjZH+jojf5rRwyOFJs8e4iQhuK+gLQpxQT+OfIPFL7WawAGoPjUXJPYrer/8AQt530/yh2/yTRS76o5NbpWK3KLHlsuuuoASEK3/cD4oq+cNjyLVK5dleYvfoUK1xmn5SULQkgp545P2FMqMpxuU4hNwcjuhohSFOJKufPiiilZAdwVOJnPn+UWK6xWkxJMZ59pQCXUtrC+nXKdkAdPP6/ik43hpcdtl2WpbbW/bQSSEb5Oh45oopKSgKBMVRk15w3CbHdiOoQ4CojgaooopJFUAT/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Call It Love</div>
-                                    <div class="artist">Felix Jaehn &amp; Ray Dalton</div>
+                                    <div class="name">Sleepwalking</div>
+                                    <div class="artist">The Chain Gang of 1974</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBAUBAgj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiETMQYiQVEUcZGhwSRCYbHR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQFAgH/xAAfEQACAgEFAQEAAAAAAAAAAAAAAQIDIQQREjFBUWH/2gAMAwEAAhEDEQA/APMlrbyT3CRRIzPK20KByTV6005pIJjGFLLg4JA/up9AkS11eznlBKJIGwPxVm5gU3G0A8soNU1xXZFdc1Lj4bFt4BSfSLe/fV7eOOVumylO0mQCgO7BOT+e1K2t6Y9hOsLEMQzKCCDnBxzg8U7XVvEEFgI7lozN1BFvbaZCow+PfHFKMzLHeRls5BbcSc5PNdzhFLAdGodklkyJFKrtOAT2FFTTqxmbdkkcDn0xRU+xoJ4GXVJLO6v/AIu3uepHJMQqMm11QdiwAxyPaon2vqSBT5TIoHy4rBtZiXUs3NalrLH8bG7OQQ2cD3pYSM62lxz+Dg9yF1eSBJEeEMBGynkyBfNn1xg+1I9+u3UWU84cj70yQ3MR8cDULK1U2wkJS3IOCNuME/fvmlvWCbfV5g+BIkp3LnIBzyM0ljj4Bpa+E0l8RVnjdB1f2lsA/X/KKhuLhmXbk7QeBngUUDkjTSe2Tsi2qadHIs7m+MpVodnlCY4bd759K4hl/UKxPO4GiivIs6mt0NSaxaNPcQdJBFJdpMrkDKqFkBHy8y/SlbUpkmvZpEztZywyf5oopZ9E9NajPHwqPz60UUUDKz//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcBAgQFBgMI/8QALBAAAQMDAgQGAQUAAAAAAAAAAQACAwQFERIhBgcxQRMUIjJRYSOBkaGxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAHBEAAwEAAwEBAAAAAAAAAAAAAAECEQMhMRJB/9oADAMBAAIRAxEAPwD5Ybo07g5+iqejI2d+6tWxtlufVskeB6WYRS3pC1SlazXHGduiLavtzmn2rDrKZ0BGQQCi5aBNqvDFRESjlVLPIu22y6y3aC7y+FE2FkjXBudw7H+qJl2nLbiSmsFwmNZE2SKZug5Gcbg5xkZOQOuyeHjJc0/UYTPV8C8PSnNHcYng9i1wP9KJebVnhs9wpIKaSORjoQ7Uw5HuP19LupOLaLxamSGutTKWSfzDGsbIJGH4btkDBcMbYz9KPOaHFDOJ7uKlgGGjSMNA2znfHckk/qqW3nZl4Yyk+zhkRFA3m0oqe2PpmPrKyaOTXh0ccWr07dDnr1+VgTBjZniF7nRgnS4jBI7bIib8AvS3WflWk5KIlCe/4/Ke4eLqxp09vnP8YREROP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">On My Own (feat. Karra)</div>
-                                    <div class="artist">Far Out</div>
+                                    <div class="name">3am (feat. Julia Viktoria)</div>
+                                    <div class="artist">Landis</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Love Thru the Night (feat. Morgan Perry)</div>
+                                    <div class="artist">Mike Ault</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBgcECP/EACkQAAEDAwQABgMBAQAAAAAAAAECAwQABREGEiExBxMiQVFhFDJxkYH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAoEQABBAEDAwIHAAAAAAAAAAABAgMEEQAFEkETFCFhgQYxMnGhseH/2gAMAwEAAhEDEQA/AKVdtHvWKG1Jtdzbn2GSfQ4HASk98Ee/1itH8O7xAiaXMK0WVS528IlyZJSEBZztIzzx0E4Hvk9msXk3ZtxouR4yWWfLzuKc7PknA5/uM040XrOPa1XeVZ7gYLv4ylTZDrZcCm1FCQG2sjK95HORgEk1lBtLyjafBzspCO0hBpx3cQbHFj7c5tWoJ1luvhlNe/PcQ/FQY0hEggOF1CsEEDjJV8EjBzmvPikuJeYUc4QnfhQGUqJ4IBHY47rr1HrG13C5u/gkyWFOKmqU1GKMKWhO8lOeCCDn2yTg+5Rs6ltofDqnpIeQo4C2wcg/yqkQhHUropoHLIT0Ux9r6wSeLH5yw3iLPbl25u4Rgtp5pCg64jepKeeSc9n+cD2oqDWoJLdvfSyWSpTmQ642FKAIyCM9ZB6ooR1R48YhO0ZhTpVs3X617Ylist21qTFm78NA+YgjAxjkd1y2e32y9SnEWmwXGd5YBcEZCllOTgHg8ZNbdpnTlsvmoLneFxXZ0ZvLpiPK3hayCQ2fkYHR+QKrzmhbXp1LT8fXUXSklccvXmKiVueaUo7kMttg7jgEjlRJrT7YtrUlVgjBl6olTTXSSkiuRf7zNpTdptsVK3rfcYkd5SkhRRt344Kc5/5jPzS5tuzypITEt0191SuAlJOT9YNONSeJs+4W52yMKS5ZWChuCFNJbU2lAwHNoz6j2eT+x+jU7c1b50FmS+w+pTiSUrU6vIIGDx1jINC6EtiyTkguOzlFDaWwR5+n+Z3TYNxXbozkNthMZ4ob3qeQkJIGQCM5Bx9Cio2uxtuSluxlsLdjKO1txZAUewfr+EUVGmF7QW0WD6jENS1RsSFIdlJbUnxVHHdhk6iecl2+HfHbSZGCfIQFAEcft2Dg9gjqs68R7Ixp2/qtjcxM6U2gLkyAT6lr9WDn3AI+e6KKQjy3np2xarG2/ewMe1iIzFbSGk1eVOr/AKOkF62NNNrUhxkqST3kHnGP9oorQli28X+HlETABzj+5WhlbaLla5T8ZxXpJON24AZChnkE9H/aKKKQZdWBV/LOte0WFKV1XmwVHnP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Shivers</div>
+                                    <div class="artist">Ed Sheeran</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -475,20 +489,6 @@
                                 <div class="infos">
                                     <div class="name">Ferrari</div>
                                     <div class="artist">James Hype &amp; Miggy Dela Rosa</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBwgCAwYB/8QAMRAAAgAFAgMGBAcBAAAAAAAAAQIAAwQFERIhBhMiBzFBUWGBFBVikSMkMkJScZLx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgUABAYD/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQhBRESMRP/2gAMAwEAAhEDEQA/AG+jayzZaDlz+eFGTywRq/1kiEnEF44ftwMgirSqmAshlSgSi+Zy2PMQottHLly8Lu3niOBt6Neu0uolTlb4VJnXkbaE/wCGOt1nkEylx2KLSA0VtbKuppZlxtlRxDMcIzoZklURyO7bPd/QPpDlwVfxxBTTqerQLWyP1AfuXz+8TgtZbptiM0SG0IukKqDOPT0ivVWZNo7XpK25fy9Uw1AfWDnw9+6KeNltY5BEd5uEi09idiaMKwbEEOc9xBDQWGYt6QDqKZFZZfh0qBWU0tGQTFPOGNOM5+0N1ALa98S6cP3G2zlaWOfL5wLuASOlc5zgt4bxWYKRk7xtlEqwbfaF1lZdfPc1OKv4uGEuf8zpfiwuCF6QVC7d0R38oorjxxXXSmeTMal/DVEma3DnIYvvttsBDHTdqlsk8GMURxdUAlLTMM742YP/AB9O+IkkcS3ijNaaKunUy1jFp/KOnWd/H3MU8Wh0YsdRpyV6WVBEP37LFTqVs5LafaCIJl9o3ErNK5lcs1kcMrPLXbpK4wBgjfO4794IZB2maOCDuc6ZM3QQJT4HjpMaWkTdWCjj2MEEERGzCZNSzenUjDPmsZtRTwpLI+B9MEETyILDc8pKd2qEGhj1Dw9YIIInUICf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Torn</div>
-                                    <div class="artist">Natalie Imbruglia</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAcIBgQFA//EADAQAAEDAwMCAwgBBQAAAAAAAAECAwQABREGEiEHMRMiQQgUMlFhgZGhcRUjUmLh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMP7SduNx62t2+Of7s1qGznPAWryj9YqktSQGFMi2lAVGRHTG2fNGNuPxU39a3nI/tHsSNwXslW9xAB9AG+P1VG3q5sR764t9YDSCpaj8kpBOf1QSz0jjJ071sXZZiiCpyRbQo/5c7PyUgfeqSsrZbuq2j3IAH85FS9eb8mb1s/r9gZUUm4tSm0OnB8pTu3EdgSD9jTSsfUqNcdTXBu7zIUe1oYc3OYIWHB6Jwfh/JyO9A2YV4KL9IhPNte7ocS0HW1ZIUrOM+hGRjiil5Z9bsXzXyLbaMvwSGy5MDBaGUqBSnB57E9vTFFApdctS7z1zeegNvTHFzmVISgEnYjYCRx8I2nn6U79SCQ1Yr3drufCWIbyUoB+HckgffOKSsW+wHVOOxTLmXIbd0iNJXBcS1kDBwnCgCc4zTYsN8vtytSm7hbFhnYWz4yVO+IntyoDzcfSgnm2Keg6QulxbWW5br6Wd4ODsIO4A14lulISGvey4IjawQlpIKlKAPz9Of8AlUVZtK6dg6K1Rabow6t65FCoy3G9hjbOQErUBtyeT8/WsI1ouwMKbbXKchoUvAfeb8ULwRyMHGMnHHeg1XRe8TZXimfFZTEioSpLvJcKynCE57cJySe/KaK2eh9MwYOm4qYc5E1leXFPsDCXVk+Y8knPGPpjFFBsGdP2th4vRrdFQ7ncSEjv/HavhqNm8qjNGyJYD+/z+KMgox6cd80UUHgyWtWqcw0IYbKOykjO768dq74On3ZURwX6JGWrckt+FwAMDOcf7Z+1FFB3Qrci2NeFDZLTI7Iz5RzngdhRRRQf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">California Gold (Triplet)</div>
-                                    <div class="artist">Kaaze &amp; KARRA</div>
                                 </div>
                             </div>
                         </div>
@@ -720,7 +720,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Aug 2023, 12:08:26 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Aug 2023, 13:04:09 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
