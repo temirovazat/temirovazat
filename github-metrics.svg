@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7821 Commits
+                            7824 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -450,10 +450,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDCP/EAC0QAAIBAwIFAwMEAwAAAAAAAAECAwAEEQUhBhITMWEiQXEHI1EUFjKhQ4Hx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgQBBQYAA//EACARAAICAgMAAwEAAAAAAAAAAAECABEDIQQSExQVMUH/2gAMAwEAAhEDEQA/ALVFaWV5A83EuoXcc+QIrWAetwfyfbPn23pFfaZp1nbXawaIZ5LgN0ri9nDiNcdxj/vmn5hsTIs0k1x6XDMWjDDv4bNdLFhrtrcWvT6QiyQWBwycuDg42O3ufetKmJVF/wAmR5PLy9qEyRtOgubXlg0WN5isiCUXBALIBzNjP5IPmlX7Nv1QszW4Az/lGMAZz8Y962LTeFr8WsH6ezV1XqEGJ1kBDBd9j4qHcW0cSNHdBon9Uci8uOUdPJPztipGND+GF9nmRupFCYbPasmVOOcHG24xRVwv9NgDycrbr2OKK8vOXI5YqahxPxmsVhG9irWcuAnJEAI9u5B758HPzUfg3iaz1FLhdW1NLaRF5ueZ3PVBzt8j8Css4o1JZ9Pj6LhiHzlTnA370l4fv7VNQB1QTmz351h/n2OMZ81wcKOg1E34XdS5no1ba5ezto9L16Jo2HOn3WX0nIBGcedqT3Atobhje6zpnO65ZSjt3Hjvt5qtfS/ibSLrOja5KEKfbs7pxy5QtkK2+AQxz8bZpB9QrabR9WWB50kCxqqlWzzAAb7VKZRsXEvgsclMNS2GHhu2meV7mfUWO/TjXpRj5Y5P9f7orOdBuZbu7jhVxhyc53GwzRQtmAOzHl4hqVmxvoY4THdq/U775FcpdUInYw5EfsCPb4ooquGVruXfQESdOsMlgtyupWBflDtb4cS591/jj+6gTXyTzqJ06ijCcxJPpHzRRRerGAUAOpe0vYdZSaSymRGeQFFa2VWjQZBXmXfBG2TRRRSoZl0DGvNTup//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDBAL/xAAxEAACAQIFAwEGBQUAAAAAAAABAgMEEQAFBhIhEzFBYRQiMlFxkQcVI4HBJFKhseH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRIQQSExQxMv/aAAwDAQACEQMRAD8AorLKzoxCmqaKmqKdnG/cpV/puUg+f47YnmVaVmmmeJi8puZKSqjJG89xcm3Nr38/7xWmW1SRO8sjMWHvAcEE+t8XrpCvgpdP/mlXMIw7CMhO7MQNrW/fxg7EXrlfsu4z9tNuIzoeopemUkHVib4E8Jf3lHPF/W1icR6t021FKJJlSKZPfWNASxkJuLEHx6nt4w/i1hG2oZJqkztRMwVA491lHxEADvax5/nEiq8wyyon6tROrG4Rf07hV+dvAxqkz+vkc5QHQBMpnMqOeOxfdGjcBbklubkknvc84MSL8S5KdUj9hlJZJChYdnW1wwP1Fvtgw9vCDoSGyxg2zHWmc50/mmXZm+dado4lppQY+lEF6aXYnc3kj+3i/wB8PqKq0rVjosyGGVW9nYXBKKq2U8dgQ3cH0xUmQzVUeaxLSHrLUW3KDYbhxc3HFu/7475I0p81SPM4IYyi7wCDtvbyAeRc8euAHIIbqRELwFZeysRLQpNO5JmMZloaKR3iiJMrlmVhsA2hAL3uDxY28C/bC6dod0ywirRvZ1REEEh2TA+8zcc38D74hdPqiGgVmhqpafaWeEKpTc3Ni4HPy5GNGXZ9mdZnEwjqqxokuywJISvB43Am5uDbvhvsIVORFPwLa2HWyOtc6fhbS6+zZbXDMBVJulkhJZk2txcfCL247X+ffBjg1ZnlfDRqIzNTgqzNUBitiVI6YX/N73wYWHrcBsYnfFdUSpIMSwflVHA1VRTu3P6iXBZR4ceCObFTzxcW7YVyUkFbXy/1gZ2YsNpuG83F+307jBgwCjeDLHbWBJJTUGWzUIhzKGrae1jIoW/pb/vbHrRop9M51PXzz1MdP0njWRFW6hiLXvx4wYMZalXJE49hcAGbvxB1llue5fRU0M9dUpHUCokSZETcArAC6jvz9APXBgwYCCJ//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">One More Night</div>
-                                    <div class="artist">BROHM &amp; Krstf</div>
+                                    <div class="name">Enjoy the Ride</div>
+                                    <div class="artist">Krewella</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgj/xAAuEAABBAEDAwMCBQUAAAAAAAABAgMEEQAFEiETMUEUIlEGYRUjMnGRJDNCRLH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwACBAX/xAAlEQABBAECBQUAAAAAAAAAAAABAAIDESEEIhITMUHwIzJCUdH/2gAMAwEAAhEDEQA/APQk36m0swuuzqzDLYAWXFJJATW6/sKo3kTq/wBYJg+lVHkJlsum3HG0ABlFA71AkE/qBoeL+MoyC2/q8rSHty9PTEbKo+z/AF+pxyD8cfO3m8mjp2l6pDdiyAVNRFBtXPt2VYSQD2CSB96GYGyvOBSXtu3Wri99SQWonXXq0RKAgErKSB2Bs/AojB76kgMsKfe1eMhkCysoI2g1RPx3HfM4ZLc+bIhTGlnTDHa3Rig/2Urr9V8mxR7cV3xrImRzrjukaoh16CpLDbjXT4SjgoBO6+eOAOwF4DO4fSIbxdMrV0/UulxmFOTNUY2WPeQQEjgc/Fkj+cMzFlSJuqz9N1Hc/EYTHLzBb7IABTyDzZq6rx3wyvOJ7gKbviCUml4O6EYvTSZnSQ6tsOHqHcA0Wu3g2nzxzk1+VEYWwh6O0qS4VhPcr4AUKsciiPjKXFmmPqEnXVLT6Msp2U1+b1x7zfH6f8APnxfOWD8QYfeC+msthHVS5dFbqikhJFcDun9/GFjSbCU94aAfLSuroW5pchtn+qkqaQpLbThC3bIRtH7/APMcqTHf0uS27FMiRHCVltfBU4psCjf8YxQ8vT3H9VcKPT9JAb2ItZeASVXxymztH38DOn9QYTJfXbPSet/cpvkkISLvxzYA84K3EEZVg4cAc04XGsqL2kPRozSn5aFI3NNrIddLike08UKCTffgeMMYerOlzZ+rqcSYzmz0xQ0C4VgJCt3HIJJrvVeMMRIGXvtPjEhHpnCocWM07CET1MlKOmG96V0oe3buHgKrzlpZhsqgIjiS8m2wkuJX7xXAN+DQwwzKyeTOfLXbm0UJI2+Ul9WaTKjuxw+8hDg272lUU/dPweMTLaQhlvrrTSdm7iwKAJP7gYYYwaiQPJtJOhgdE1pb0/FEahEbkwzHMqS2CAAtCqKaINj4JrDDDEGV57rWNJDXtX//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Papaoutai</div>
+                                    <div class="artist">Stromae</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -464,17 +471,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHAwUIAQT/xAAsEAACAQMDBAEDAwUAAAAAAAABAgMEBREABiEHEjFBEyJRYWJxgRQVIzKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwUGBP/EACYRAAEEAAQGAwEAAAAAAAAAAAMAAQIEBREhMRITIjJBURQjgWH/2gAMAwEAAhEDEQA/AOpZpEiiaSVgqKMlj4A0jbg6gwUCzLSwF2ThXc4BP7ecaxdUdwNbzS2+PhZQZJWPgKPXkcnBx+RqTX6oS4Shx/lVMIfq+NAOfP39HGc8/jSO9iLjJyhuqPCcHaw0Sm7XTjR9YKhpu2akjYZwSCRp825vi33YKspFPKccMeD/ADqDQtbwr80rsjZzEi9x8fSFOf1Dznxz5Ossks8VqFdHJI1IGCt8bBWTJGCVzyeP+++NZB3zxkztm7f1O7OB1CtwjjwuuoeMaNJnTK9f3Kz/ANM0rTNTBQkr/wCzoc4J/PBGjVGEnNg028qHsglXK4pbsp91rqKgbnp46dGYyUgKlfIwzZx+dJ23a5Kl3oq9Y8EKoEhyWbwfPvAGrB1J2LVbgSKrtdUiVtOpCRTgmNwecHHKn9Q8fY6j1zlntlG1r3JSyWm4A4hnqDmFz3ZykwHb3euSDjSg9R4mkXLRWGGYqD4sK79zaev1ajeNZU2GmlfbxpmkjiKzrPCJQIXIywHnI4Pvju0tWS4mXbjW+0TXStmRF7/pjlTK855IYKfWM49nVH2TYKrcclQayuliSmZEVo4/mJL5wSR4Tjk5xrTpseGhvFJcrXU09DUzZd44H+SKVQe08qR2d2DxyPwNFGWAx/c3T4Q8WARzvOoTrbLPX9VY6IiVZ6qnqldHp6aPsBIx2tyeB5II96NedLaj4t43MOSxq4gFPaQcpjOfWMEAEaNMBTHOOYn0UrZYzEfn9z+1XdfFcrZR3SmenuFNFUQuMMkihgR+x0aNGWdSi/dFqWJqibaNwqrNJKCHhhcmGQfZkJxj9iNLjWndVmqla92l61I0WJKi2YICKMAGI4I/jOjRrDdqDON4z2TOndNDZ1UOnVHCtGbg0cscs2VVZozG6rn2pGRzo0aNEpV4VgsMeyx2iSKV5SfVf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC8QAAEDAwEHAwEJAAAAAAAAAAEAAgQDBREhBhIiMVFhcQcTQYEUJDIzQlOhscL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDMQQhQRITFP/aAAwDAQACEQMRAD8AfoQkDQ9abq+O1ro0QVAOJ4Ycn6Zwu9o9X5tGX7lx3a8c/iZgNx4xyVD42SrOH+qCdUx7kgAk4AHdK/bn1at9nbVi2QNmzRw+6fymH/X9LC7f+rUi9RHQrTSfDiuGKjt7jqDpkch2+Upq9dzySSmYuP7ME8zk6hotdptpbptBLdXukyrIdnhDjws7NbyA8IVA8oVi66QFEnwo9SST7dagwj9ypuZ8ZWptmx064PaY1AyQRo1kykNcH69PhYRrtein264TI9Zn2Su9lTeG7g657LEr8N/WjR3HY2529oEyFJY4DiLHtcP4Co5VKLRkH7rLDB+lzxrp8nd64TouE6q20RTMdv3AR2srVM6ufgA5PzqEqr9cGmQ5rye3dLxzctivk7pGYcMEAoXuu7edoQWoThy0cFLtddkabHrVAHhlRp3T0zqhCLXQfBi3m6NcwnUNPInl515rA3aQ6pWOgLCOiEJcEkT49lb4yEIQmFB//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Tell Me Why (Radio Edit)</div>
-                                    <div class="artist">Supermode, Axwell &amp; Steve Angello</div>
+                                    <div class="name">Lost Control (feat. Bianca)</div>
+                                    <div class="artist">Tyron Hapi</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAYHBAUI/8QAMBAAAgEDAwIDBwMFAAAAAAAAAQIDAAQFBhEhBxIxUYETFCIyQXGhFiNhQlJTkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAAGBQT/xAAkEQABAwQBBAMBAAAAAAAAAAABAAIDBAURIRIUMjNxE0Fhof/aAAwDAQACEQMRAD8An1tdWMduiTY/20w33kMpHd6Csi+tYmshkJLcY2xQdpYs0hkO/wBB4k8/atl09wC5nIzT3IJsrONppT5hQTt+KSNWa0vNRWdxFcJFGidq2yRKEEMfJK8eJPA3PlTC53DpRxj7ijlBR9Qcv7QmjH4y0v7eGWzuLib2zdsapCSzH+F33/FElnaQXBt7i4khn/xyxlG/0eawdCXsdrp0peASwM/cGSQq8RB4O48KdzmbvVFvi9P2zrdTLclbeVh3MC/mx52Ubn7UddeqwuwHfwK+200obyLdeykqdBHM6I3eoPj50U59TtIfpXJosTM9q6jtc+JP1opvTv8Alia8nOkLnHGRwaNZW46fyxY3pVqzI8B0sp+f57CB+TXMUU3zL/cgHrVhtdRCz6Y6rxjnmeBQg+7rvUVViNiPHbx2oheARUElKLX4dJq0nOkGaiVnURnYN6D/AIavnRu7weH1Pc5DJOyM6CK2lK/tQlvmJ+oJGw322A386gGPw7NoubPxht7XJpayMPorxkjf1Xb1plweZiSRbaVyryLwSeGqM/LH8grDMSxmMldFddJ7PI6XhurWWOYJL2h0O438qKkNq/vFs9lJKdpOB8XA8mFFKbXd4IoAx+ioFdYp3ScotgpZ99xdtp+QXgt2kYkOJIS/G/HgeaTru0wck8si5Uxo3xBEtSAvHgOaKKwXnzj0tNu1ErD0fttMXfTXV+CyGVUpfOhjZ4yhRwm6sPswBqPwWrTwLsx74j8w/pNFFT54wImP+zlbaRxMrmn8THiM2SircA+0j4Ox5ooorDjCpc3N0F//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDCP/EAC0QAAIBAwIFAwMEAwAAAAAAAAECAwAEEQUhBhITMWEiQXEHI1EUFjKhQ4Hx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAgQBBQYAA//EACARAAICAgMAAwEAAAAAAAAAAAECABEDIQQSExQVMUH/2gAMAwEAAhEDEQA/ALVFaWV5A83EuoXcc+QIrWAetwfyfbPn23pFfaZp1nbXawaIZ5LgN0ri9nDiNcdxj/vmn5hsTIs0k1x6XDMWjDDv4bNdLFhrtrcWvT6QiyQWBwycuDg42O3ufetKmJVF/wAmR5PLy9qEyRtOgubXlg0WN5isiCUXBALIBzNjP5IPmlX7Nv1QszW4Az/lGMAZz8Y962LTeFr8WsH6ezV1XqEGJ1kBDBd9j4qHcW0cSNHdBon9Uci8uOUdPJPztipGND+GF9nmRupFCYbPasmVOOcHG24xRVwv9NgDycrbr2OKK8vOXI5YqahxPxmsVhG9irWcuAnJEAI9u5B758HPzUfg3iaz1FLhdW1NLaRF5ueZ3PVBzt8j8Css4o1JZ9Pj6LhiHzlTnA370l4fv7VNQB1QTmz351h/n2OMZ81wcKOg1E34XdS5no1ba5ezto9L16Jo2HOn3WX0nIBGcedqT3Atobhje6zpnO65ZSjt3Hjvt5qtfS/ibSLrOja5KEKfbs7pxy5QtkK2+AQxz8bZpB9QrabR9WWB50kCxqqlWzzAAb7VKZRsXEvgsclMNS2GHhu2meV7mfUWO/TjXpRj5Y5P9f7orOdBuZbu7jhVxhyc53GwzRQtmAOzHl4hqVmxvoY4THdq/U775FcpdUInYw5EfsCPb4ooquGVruXfQESdOsMlgtyupWBflDtb4cS591/jj+6gTXyTzqJ06ijCcxJPpHzRRRerGAUAOpe0vYdZSaSymRGeQFFa2VWjQZBXmXfBG2TRRRSoZl0DGvNTup//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Don't Call Me Up</div>
-                                    <div class="artist">Mabel</div>
+                                    <div class="name">One More Night</div>
+                                    <div class="artist">BROHM &amp; Krstf</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -482,13 +489,6 @@
                                 <div class="infos">
                                     <div class="name">Just for a Moment (feat. Iselin)</div>
                                     <div class="artist">Gryffin</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QAMhAAAQMDAgQEBQIHAAAAAAAAAQIDBAAFEQYhBwgSMRMyQWEUIiNRcUKRFVJigaGisf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZYsZbziUNpUtajhKQMkmqD4ccuVwu8dmbqmUq1sOYUmM2nqeI/qzsn/J9q9fK3ouApbmqr34ISy4WYKXiAC4MdS9+5GQB7mqfRc4HUMTI5JHUMOAnGAc/jBH70Eaaf0lprVutrjpq2xZts/hrrqFSlS0vKkBKijPSUpCQCM7AnB/vXT3jlvnK0yxOs1wQ/cQgl2K5slZBI+RXpkDsf3rO4rWOFpfjTEf0jOkOTJ5Nylt9X0kIWrIQCk5UFEHIJ7EU/eE13nSoTbF0lKlPyEl8lQACFdyE4GycelBCN1tsm2zHosxhxiQyoocbcGFJUO4Ioqo+bPRTC7bH1TDaSiQ0tMeWUjzpPlUfcHbP2I+1FAwuAEWMeEdgSEJUFJWtW36utWaYbUFlK84KvsDSC5UdZMyrG/pmS6lMqMtT8cE+dtXmA9wd/wAGqFbVumgj28Szd+O2qJbp2ZnfCoJOyUtDoA/1zTi4FLcf6QtWTGXJY79whfSD/wAqdk3Vu28R9XGYvpWi5SXfm7qwtYI/PaqA4KR5kO8Mx3Un6MFTkopIKUuOq69yNs5G3r3oOk5iFtJ4SX/xsbobCc/zeInFFKrmx10w63G0pb3QtbbgkTSk5CSB8jZ998n7bUUE42K7zLPcY862yFx5TCgttxBwUmqf0JzHW5+K1H1fFdjyUgBUqMnrQv3KO6T+MiiigRPGS/Wa68TrvdbClD0GQ424kpQW0uHw09eRsclW+fU1sac4zXexaducO0xmYsyatA+JBKi0hKSB0g/q3O57UUUCymzHZUhx59xbrriipa1qyVE7kknuaKKKD//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Writing's On the Wall</div>
-                                    <div class="artist">Sam Smith</div>
                                 </div>
                             </div>
                         </div>
@@ -720,7 +720,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2023, 20:04:37 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Aug 2023, 21:05:28 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
