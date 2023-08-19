@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.34m added, 90.7k removed
+                                    2.06m added, 91.9k removed
                                 </div>
                             </section>
                             <section>
@@ -512,25 +512,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAARBRIxUQYTISJBI2GBFDIzkUJxsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAF/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAyExERIi/9oADAMBAAIRAxEAPwCdjwSpZUko7Rly5gD+q1/SKacVnQpJFx1HmujaO73qj4Sh/UYsH3gVsx7OFJNwpX8R+/8AK5Yzp2nOBwbir8YPFpplKuqUvLyqI/rx82pLimGyIElTExotuAXte4I3BGoq5dxbEZiRNZfjxY4V6wevdKb67X+aQYzIk4pAMiUwllcaQphIT1CkEXBvSKPI5Wx2RMyKlV+lFMX2zlNwaKxZjeE3tN9x3pxFdfw+MrsUhSlBQuLXKQazYaxzpQAKe3usT9wHgbmrPE48DGXmWnHixNZsEhfbe46Cx1oo+aiHdyEXi0uQp+Ihl11biu3lryZdyo7VZx+HFyOGkqfkFlf5lWTm5htrr0A22rKrhpqLipVdRvbM0g9TsPYX8mq6ESywEPOXA8qPS+w9gKOLHv8AU2bJwrPI5zBZecbUQSkkEg3FFOsRwtpM59CpiUjObekom3jYUUEgGJXeasOIQg2Auk6XOtqsOHUCUltvEEx+RlzONuKuSPAIIvrRRVPgUifaCR/iUeJJir5joTk/CoKHp+R7/F6VypzzGcMKaz9Eh5QOm4GvvRRQzWa8hw1LdkpjGIJfmKc5yHLAJ5iU5Qqwte19aKKKknu2X5on/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUDBAYBAgf/xAAtEAACAQMDAwIFBAMAAAAAAAABAgMEBREABiEHEjETQQgUFSIyFlFhgSMlcf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/EABkRAQEBAAMAAAAAAAAAAAAAAAABESExQf/aAAwDAQACEQMRAD8AZbO6LWiu2xZp6i6UHzdbRxVHpSUEbyfcoJwe4E+fONX63oTboaugRaqkKzyNE3+rQBR2M2fy85TH96xk9TQUFgtdOppTfjSU9XBWOkgniX0lcBZAe3geFIxgYOTrdbJ3mNzXnbghrSs9VHUGqTuYkSCJsNySBgkgYA0svazC2p+Ge11FRLL+oqqLvbPpxUiKi/wBngapUXw022olq0O5K4CGb0lxTJ9w7VOfP7tq1Y942yw7uNIlW9LIIGjqCzHFRMGADvl25wG9gT/Y03vHUqz1VBJTTzvSmrqfVcc4dVVQUyCCMsuDyMDzqZThjt5/D1btvbUu93i3BWzyUNK9QsTwIA5UZwSDxo1xuXdjJ01vPylXP6NWZYY4JpmaP0G+3CK2cEHJz3H+OONGtSVNiXbexLdvjZVNc6a8qKiG3xUlRH2YNOVUZyCeDgfkeCDxpF08orDad528WndlPLMkzw5eMqO51KjDYGRnABBxk6msdXeLttysh29bVqo/pNJS1Yjq3BlKr+KqCO5sZ4HgcYxnWdtNfb7ZaJqT6NT0lWcqr1Ct8zyn2nPn8+cYA/7qo9G3/sOi+uwXC4Xyks88IXt71SNXbOe5g3kk+dYazWqgl3jBtm6XITenI8lJI4V4JWkUM2SvPPtg441L1cju9yutqud4trz0CxqBJE5ZZCcOwkwSUYg8jjHtxqSese5Weittgs0Xygd2WrSGTtWMIAwUnJBIDA45zk6Drf8AY8jbPrXpNyU9yobbG7Rxo6N2KoJIUr4z+2jSiZrZtOkvlFLZyK+aCWnimLNgLIox9je4Hv50aBtsfrJbNp2KS30u1mYyxIk0iVXZ3uqdrP8AiSCefHjJ1BF1Ts8lzM8O2cTyqU9etuDSlcqQD3MMqBnPHuNGjUUzvnWO33q0U1HWWVwsEfb/AILm0RfwCD2oMjjGP21HZ+stJaaKjpksFK1NDK7rHFVdpXvQKfKccDk++dGjRPWe3h1AoNwJXyvaStVUKwy9ezohIxlU7QM6NGjQf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lost Cause
-Explicit content</div>
-                                    <div class="artist">Billie Eilish</div>
+                                    <div class="name">Eté 90</div>
+                                    <div class="artist">Therapie TAXI</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYEBQcDAgj/xAArEAACAQQBAgUEAgMAAAAAAAABAgMABAURIRITBjFBUWEHIkJxMoGhseH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAUC/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAxEhMQQSIv/aAAwDAQACEQMRAD8A+awnBHO6s8RYLNdqk7GMEEqSPX0Fe8J2Ted24RXiTR6T+R9BWo2UeIsIxHnLJJJpU6umIjanzAJ2NfJqW+/4/I6Zoebyhx9k8izfeEoJL9MfjpVlupIjL20bqKHWwD/z3pOGOmUTPLGyrCeluPy9q2m2x0tjdWmR8P4sRvLMI4WikWQ9Z9Cd0fUHxAkc0VjkMTj4Zgp6ntXVyH9S/Txs0AstTgyIr1VOe4mFzL0rz/JqKk5FVW4mKyIfu2Bs70efair02MzOdfk4nGCZo5VMZ5U7H796v8Zb3uYvFtYLjUhU7LtoH4J/v/NLMPUz/YpJ+Bume0mnxUtotrG0k6MJpdDY2OQv9f7oLtc7H8++8lvjbjNjNzWCZMKbJi5l7/COAAG378Ab+Kj+IwO21ymUuZZHI7iSMfTgaP64qFjgzZBmCiOK4Ys6FCB6kA6IBqBmJ+slEB7atrevOjBZmAzqUlUVCSNyrOpJNyHjzNFcJW+7Q3RVYEzS24zeA8/bYIX73AkeSUR9tY5TESVbZ+8A64+OfKttxX1B8MZG1QT5QYu6ezuQyLvtJMzbj/Hkgb5/dFFBfSrHJmj47SU+Ypy+P7K0kUx3huSvaOwG5ZTsnRGh+xyaRb/L211ayWxlXoPXo6P5MW8vP1ooo6aVQZE5utLNjEoc5NBcSpNDMpYIsZTpPoPPetUUUVaOTPfs/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQGBwECCAX/xAAyEAACAAQFAAYJBQAAAAAAAAABAgADBBEFBhIhMQcUFSJBcSMyUWGBkaGx0RNCVGOT/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAQL/xAAkEQACAgECBQUAAAAAAAAAAAAAAQIRAwQSBRMhMUEUMjNRcf/aAAwDAQACEQMRAD8AWdlRGZ2Cou5JNgBC3aFF/Mpv9l/MK5oUvlvE1UXY07gD4RWNNlV5mBysRUB5UwEpYc2Nj9Yl4cPMXcpZ8/KaVFlisJqNRxOgWTe+nWC1vZe8PrXUjHu1VOfKYv5ijaanpu8k1bs1lEz9qG/B8OInWRMlVGKz30yxZNr+fEH9In5APW7VdE/VgyhlIIPBHEEZ6p1C1Jceg9HsPZtBCbjTaHlO0mebmVgmXsSZlDBadzpPjtEZ6MK6rnZEzfRS9MxqamM6nDrcoSG1W9mwv5xJsyS2m5fxGWoLM0hwAOTtEC6N8SnYHUYqN0Y6UYMObX2MP6JWmS+JyqvshaTXlSTLNwGW1iOff9Y6j6DZ1LVdHtNPMsdaBaXMIb1iuwPyjlabMMyY5Y7liYsvolxrFMJSeDWPKw3Zlp2lhhMY8kE7j4cmGoK5UJ5nULLIxTfEqo/2Nx5wQs9R1pjPtvMOr5wRIye9l/D8cfw1IBFiAQYXaiprzGWlp9b7sSg7x9+0EEc249EzZxT6tCfZlCZhXsqk59b9FbfaGpWH0iKAKOmQjwVBb7QQRu5ryYoxfdDSqFUKoAUbACCCCBthEj//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">International Love (feat. Chris Brown)</div>
-                                    <div class="artist">Pitbull</div>
+                                    <div class="name">Reine</div>
+                                    <div class="artist">Dadju</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGBAcBAwj/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMABBEFEiETMUEGIlFhcYEHFJEyM0Khwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEiMTJB/9oADAMBAAIRAxEAPwDzFn3kUx02LrSBec8tj7UsRsS89qq9DsXWcTPjZDtLDHyO1OKthboRyWJa7hs5PYWYgHwAeRWFALe3eWO9heRw20YbAGO/3rYnp60tr31k91qxS3sYWwwdS4znheBkkj8VP/qRoR0n1XfKkDQ2kjrJCrn3KrrkAjx5HPPFF9jrRNyNaPGyxQush/pOScf7ori2i2uNwGM9/pRUOSOzpb5lCA5zxW4P006EdjeRXaJcdWItJ1I3k2gcE4TkDxuJHwB5rUNpJtuVbPY1e6FMkhjMAWCEc7VP9xvGfzVwy6Ip4/B2mjraatLIjQu/JRXXeCGyOR8j/lQ/q2TdqV+Ll3xPOjxyH3bgoKMRk/P17Vc6lqTQbYrQM79J2wn+WBnH81Cajpq3PpWTWzI6CO6ECxSPnBbLMq5+4P05+lGWpGi8IVQywpb8n3kY7dqKSEk0V1EU6MyPtmnekahJBqFuNxMcScr4JPNFFNMyLm/WC10+21C0zPuimLxuNykADcP4JP4qL9X3KR6dYWlm8q2sxa7kicEYkJKjvyQFAwfg0UUH6N0+BPrZhrXrfurYHBPTLHfx4xiiiikZH//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUBBAIGAwcI/8QAMBAAAQMDAgQCCQUAAAAAAAAAAQIDBAAFERIhBiIxQWGBExQVMnGRobHRB1FSYpP/xAAZAQADAQEBAAAAAAAAAAAAAAACAwQABQH/xAAeEQACAgIDAQEAAAAAAAAAAAAAAQIRAyESFDEEUf/aAAwDAQACEQMRAD8Amy2OBORDcuMlcdt18tvOhaQGk9uUjKs/yGw704jcKWH2+lhV3PszU4n1jKQcgApGMdDvzYwceNJoMl2OgtplTG0Z6NOEAeVXo6pMhXLcLl/qfzXdmp3fKkEo2M4NosMd1vNwQsHWlRdCQMZ2OFDA237+VcTUKM4mU4JNmQhtptxpKkNanVHGpIHbHN18KrqtciUjEqRLdSFZSHFFW3n3phCsMdJ2aeJztrwNqTKcV7LY1Y2yJ0KAW3G4aGFrDqQlTaUe5pzvgdc7bHFFTxFe7DwjGC7nOaYkKbK0Ruri8dMAeO2TtRU/ZrSD4xjplFgRMczic+ApnFfgtkco+OcV1omU49gB1XKQoY2+eBVpcwehKZUtTSFDBKVaT8Nt/lVOTA2vQoZI/ht3EnG3sW8WGBDajLZmvFDzkhwpDSdgNIG+Tk9RjtTy98aWzh+A5LnvpQkA6G0++4f2SD1P2rytfXhDvCmSoSEodK2HhkrCc5GSe32Nbnfrvw3dZJkzHp78nQEhxSwnA7ADGK56wqVpnvY9E/6lcXL4wvAnqtzMMpQGwU8y1pHTWrvjsABiio9QtkpQVGU6pkdApwZ88fiimL5XWiOScnbZWZ4scW5okFaArYEKyKymXJAbICgXTkcytgfvRRTY5ZSjtmTZrTaT6yXXHkLdX0xk4+lYqeUApPpmgf6JJ+tFFTXSB9MmDILrS2/SJKFA6wnA+tFFFNSMf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Brisé (Pilule Bleue)</div>
-                                    <div class="artist">GIMS</div>
+                                    <div class="name">Message In A Bottle (Colorblast Version)</div>
+                                    <div class="artist">Colorblast</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -541,10 +540,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUHBAYBAgP/xAAvEAABAwIFAgQEBwAAAAAAAAABAgMEABEFBhIhQRMxIlFhcQcjkaEUMjNSgbHR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADBBIRITFBUQUTImH/2gAMAwEAAhEDEQA/AJjMy1EeccdwxDiofA1HUjne43FiDfyO9qWzcMRh8J2QdV0DYGxBN7d6peX8MciuMKc1aSkJPsOxHrY29tqxPing7SMLjfhEj5i9am0D8yRbsPc9qbNbr3hCLsQJqWQGY82e2idJW51flpSggBKz2vyRVbwLKrqpcliSkMiM5oXYi6+QU+YI5pb8Pspw8Pw5tzEYDKpX6rae60nnUQbEenFbdCWWZMx1S1KMhzV4jcpSBYD+6AFxLnrCshAqAdjM1xlEGIGmY6kNJPAJ25uee1FeLklxQ8JIJoqW8X6znC4cOQ1HSpLusKPWsNkp3sQbf7Wj5tcYTmrCYKlPFIXaWU3BDajc6drWsBve5PcW3qhrSzHaSGSHEcFJG/8AJNSX4lZbW7jCsxMJd8CUpca1J2sLagRerS25I8Syk6uDKfh6YkiMpPTUtaHSls8FG/f1psjCYziT0S6dIsdX7vCbe25qGtZvmYSzFeahkthQ6pcvsn0qwQsejKwZiZDKem/ZSlK30m3almr1vx7jPLrDrsviPF4Qw0HNCjfV4Ljun6d6KQDMaCfFIQn6Cii/pf3FG38kjVm6SgFzrFlJ3OrfWPPTz7/el2KZziYlBdgvKLCXRZT6rrG242G4396KKZGtSOsmRx1nfKcdt6SwhzEWzHFtwhV1je9vp96qpjMSEPxm3UiE4LAJBBHqBwb0UVhvmM26q38HjiFWZDrXyDIPnHFpuCZgnYa4sqLK7IWU2ug7pO3mDRRRWywmNuOjv3IEA5n/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMEBQIGBwj/xAApEAABBAECBQMFAQAAAAAAAAABAAIDBBEFEiEiMUFRE2GBBiMyUnHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIREiEDBCL/2gAMAwEAAhEDEQA/APTUWMnHUpp6dFHbygpdm0yrAZZt2wfqMnz/AIpJgTPhLlwW4Kp263CbckZLtga0tG3myc5z7dFYVrMduASwkuYehIwhsBrCMoWAQssBuAfGFWa5rGn6a1kdqdokfxEbQXOx5wFN3ELRLunW7Gt2pZq+9jpTh2QeXssm3FaRXihGb9Oi3q/UWjTSSYtEODvy9I4afBx0WwUrNWaFr69qGZru7Xg5XJHaHaa266jRmrh9hznNc/i8Z4kcO6RT0nVYtRrPhrvj2tBkL3AAkEY+eqnnK9ou+vDG1I7WceyFA9Z/fKFajkolgKHNU+65zRnccoQtewToQaZOeUDj5WcdFoOX4/gQhKkh7JDmj4QhCcU//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Heart Goes (La Di Da)</div>
-                                    <div class="artist">Becky Hill &amp; Topic</div>
+                                    <div class="name">Ayo Technology</div>
+                                    <div class="artist">Milow</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -784,7 +783,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Aug 2023, 11:03:18 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 19 Aug 2023, 12:07:09 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
