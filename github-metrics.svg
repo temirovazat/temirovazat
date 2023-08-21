@@ -457,20 +457,6 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMEBQIGBwj/xAApEAABBAECBQMFAQAAAAAAAAABAAIDBBEFEiEiMUFRE2GBBiMyUnHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIREiEDBCL/2gAMAwEAAhEDEQA/APTUWMnHUpp6dFHbygpdm0yrAZZt2wfqMnz/AIpJgTPhLlwW4Kp263CbckZLtga0tG3myc5z7dFYVrMduASwkuYehIwhsBrCMoWAQssBuAfGFWa5rGn6a1kdqdokfxEbQXOx5wFN3ELRLunW7Gt2pZq+9jpTh2QeXssm3FaRXihGb9Oi3q/UWjTSSYtEODvy9I4afBx0WwUrNWaFr69qGZru7Xg5XJHaHaa266jRmrh9hznNc/i8Z4kcO6RT0nVYtRrPhrvj2tBkL3AAkEY+eqnnK9ou+vDG1I7WceyFA9Z/fKFajkolgKHNU+65zRnccoQtewToQaZOeUDj5WcdFoOX4/gQhKkh7JDmj4QhCcU//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ayo Technology</div>
-                                    <div class="artist">Milow</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUGBAcBAwj/xAAtEAACAQMDAwMDAwUAAAAAAAABAgMABBEFEiETMUEGIlFhcYEHFJEyM0Khwf/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAdEQACAgIDAQAAAAAAAAAAAAAAAQIREiEiMTJB/9oADAMBAAIRAxEAPwDzFn3kUx02LrSBec8tj7UsRsS89qq9DsXWcTPjZDtLDHyO1OKthboRyWJa7hs5PYWYgHwAeRWFALe3eWO9heRw20YbAGO/3rYnp60tr31k91qxS3sYWwwdS4znheBkkj8VP/qRoR0n1XfKkDQ2kjrJCrn3KrrkAjx5HPPFF9jrRNyNaPGyxQush/pOScf7ori2i2uNwGM9/pRUOSOzpb5lCA5zxW4P006EdjeRXaJcdWItJ1I3k2gcE4TkDxuJHwB5rUNpJtuVbPY1e6FMkhjMAWCEc7VP9xvGfzVwy6Ip4/B2mjraatLIjQu/JRXXeCGyOR8j/lQ/q2TdqV+Ll3xPOjxyH3bgoKMRk/P17Vc6lqTQbYrQM79J2wn+WBnH81Cajpq3PpWTWzI6CO6ECxSPnBbLMq5+4P05+lGWpGi8IVQywpb8n3kY7dqKSEk0V1EU6MyPtmnekahJBqFuNxMcScr4JPNFFNMyLm/WC10+21C0zPuimLxuNykADcP4JP4qL9X3KR6dYWlm8q2sxa7kicEYkJKjvyQFAwfg0UUH6N0+BPrZhrXrfurYHBPTLHfx4xiiiikZH//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Brisé (Pilule Bleue)</div>
-                                    <div class="artist">GIMS</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGBAcIA//EADAQAAEDAwMBBwMDBQAAAAAAAAECAwQABREGEiExBxMiQWFxgRQjUQgVkTJCscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QAJhEAAgIBAwMDBQAAAAAAAAAAAQIAAwQRITEFEhMUI0FRYZGx8P/aAAwDAQACEQMRAD8AezmdwPFI37e48VBI8KQVEnoBVi/G38JBKvwKxb/ZLqjTEr6Nthtp1ouKfKz3ilg+FKAOMcdSeSeAeKpDX3ELxrOgXdTOJUXQan6SVn2e02qOxclS/wBwUhaVKYQjaPbn/OKurFfNNazbMJm1JRJDe9yO6kYIHmFDrj4Ncsvy7vbbm6xKfkF7vPuNrWVBZz+OlVFo1auw32FKU09HKcK3jlW08KBT7ZFPU4/jBVgJQX9VszNLS52/vidLS9A6YXbi6IDDZI3b08YNFKrFqq3Xe1pRKnxX7VjKVNZCl+ih1B9KKiRXrwI3VfmKNrGI+24maqG68S2wtpDi8Jy4SBtKgDjHnjOKmf1H31y32O3W62KKHFukq2f2pSkeQ96es36HI1bDs8YKW+p3xK8klIJ+elLu0C0W2ZPZm3KUpuRDbddS117zjgZPQZA6VBiEIBHMXvDOwJPA/c58YkS4TjVwcgpe34UXXWyXFZHBBUM/xWNJj/vj6JG8MuBOfEMpPmRxzn/uKc3O+ruN5ktsREMsPf0tt8tp4x0/FNuyuzuSNQFxRUpuJ9x1zGE7sYSPcnn4o4cqddIt4fL7YOxjrRGkVWd2VLeUrvZSU/aPRGOSfn+RRWxn/p4yHHHlpOxO4pByce1FK291jliOZpMIelpWmrgT001Lt197SXnLXCaLNuYU8qc0eFFY2pSfXkn4qS7QdSNzJNyt0pjCms9y6k4Uk+fP49KKKPm1gWhR8CZvAua1XZ9yNppRmM+i5d4JSGWEnJcUM4HtTK7aydjWQWWzENoW73rr4GFun1P+vKiimqUDr3NEsi98dytZ01ETxdZXCHOS8XVOKSnarcTiiiiitWrHcQFebfWNFc/mf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Otra Noche Sin Ti</div>
@@ -478,17 +464,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAcDCAECBAUG/8QAKRAAAgEDAwMEAgMBAAAAAAAAAQIDAAQRBQYhBxIxMkFRYRMiCBRxgf/EABsBAAEFAQEAAAAAAAAAAAAAAAABAgMEBgUH/8QAIxEAAQQBAwQDAAAAAAAAAAAAAQACAxEEBRIhMUFRwSLh8P/aAAwDAQACEQMRAD8Aeq+kf5Wa0Z1jhaRzhFXuJ+gM0n93dUIu2ayks7u2hkwsMkchjlZ2XMZOCMA8Hz4rznA0ufPJMY4HUq7JkMiIa48lOPNGa+F2PvRrrQDJulV0+7trVLqaaQ9sbxP6ZAfYnxjOc14Wp9Z9Dku5tO0aUpd+mO7vYitv3fDDIbkcA4AyRnildpGU2Uxbbrv2SsmY9u4Hqmvmio4DI0EZnVUlKguqnIDY5APuM0VzXW00pVpcq0ljMkaq7tEyqrnCkleAfqquMs1xt64XWZbeS9uXVpFktw34ChJCofIHseTkZFWoA/UAjjGMVWvdey9wv1ATbNjLE9vdj+3FM0YwsIOCzH1DBOCB5OPnjSaDkBgkZurupYjA0l0zb8JiXVlYWnTm01K/tIRql4Yrpi3cFjuCOCqjAwmT2qRgGl1o+27TcnUHR7WWaIwK7y3WIv2ugn7kO3uSeM/HtTV6l7cuZenbR2NwoutLia4yQe2TCkuPr3I8+MGl/wDx+0+41zcWobiuLkNDZH8CBYQgdmX644GPs1diyrx5Zg/z9ekNMAgMZb8if3tWB/4KKKKxvVRLCjCgfA96ia2t2u1u2hjN0sZiWbsHeEJBKg/GQDiiilDiLpFKVlDKVYAqRgg+CK5tM06y0q1Frplpb2dsGLCKCMIuT5OBxmiinAkNq+EUuqiiimIX/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHAv/EACsQAAIBAwMDAwMFAQAAAAAAAAECAwAEEQUSIQYxQRMiYRVRkQcUI0Jxgf/EABgBAAMBAQAAAAAAAAAAAAAAAAABAwQC/8QAHBEAAwADAQEBAAAAAAAAAAAAAAECAxESIQQT/9oADAMBAAIRAxEAPwDvt9PHbw75lcjO3CjNK21aLdtWCUqSBk4GKsdTtdRaPLJYxiW4VlKoRnIzg1yX1OrfqKiNLpp4t2FKLhkZs4574xx5Ax4rF9H01jtQkzViwqp6Z2BYwxz/AG+ajmVtv8aRs+4ZEjEADyePNWolf0VIjbeV/BqGZWQY53VuMzWhfdxL+0QMIvWLdo92AMfPfmivc6l5MjGAKKBD4qCTnAHxVCLTbK0Z7uOJVl5ZpGYk47nk+Kubg/YnAqGZlkV0IzGw2kfHmgDH6n+qvTVq22Nprkjv6CkD/hOM040bVote0i31O1gmhinyVjl5YAEjnH+ZpTJ0J0w7oV0i3VFPuGW9w/PFLOvr+00PQ49N0dru2vGjVYEt3wUXsOTnJA8VJ1+a6tlp6yvlGplEi53Kck8ZorPdJa9Dq+gQ7Lx7u9hAS4f0TGpcZBxngn744zRVJapbRO05eht1bruraLJapo/T82rRyqxkeNiDGQRgYCnOfnFWtDvrjUdItby+spNPupVJe1kOWiOSME/fzRRTOSzLMAvtI4qN7mB445hDC96gIR5EztBPPPeiiipT8Y1Tn1CyWCATT3jKPqEvsZo/ahXORwfPzRRRRpLxCdN+s//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">GUY.exe</div>
-                                    <div class="artist">Superfruit</div>
+                                    <div class="name">What is Love</div>
+                                    <div class="artist">Aexcit</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUHBAYBAgP/xAAvEAABAwIFAgQEBwAAAAAAAAABAgMEABEFBhIhQRMxIlFhcQcjkaEUMjNSgbHR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADBBIRITFBUQUTImH/2gAMAwEAAhEDEQA/AJjMy1EeccdwxDiofA1HUjne43FiDfyO9qWzcMRh8J2QdV0DYGxBN7d6peX8MciuMKc1aSkJPsOxHrY29tqxPing7SMLjfhEj5i9am0D8yRbsPc9qbNbr3hCLsQJqWQGY82e2idJW51flpSggBKz2vyRVbwLKrqpcliSkMiM5oXYi6+QU+YI5pb8Pspw8Pw5tzEYDKpX6rae60nnUQbEenFbdCWWZMx1S1KMhzV4jcpSBYD+6AFxLnrCshAqAdjM1xlEGIGmY6kNJPAJ25uee1FeLklxQ8JIJoqW8X6znC4cOQ1HSpLusKPWsNkp3sQbf7Wj5tcYTmrCYKlPFIXaWU3BDajc6drWsBve5PcW3qhrSzHaSGSHEcFJG/8AJNSX4lZbW7jCsxMJd8CUpca1J2sLagRerS25I8Syk6uDKfh6YkiMpPTUtaHSls8FG/f1psjCYziT0S6dIsdX7vCbe25qGtZvmYSzFeahkthQ6pcvsn0qwQsejKwZiZDKem/ZSlK30m3almr1vx7jPLrDrsviPF4Qw0HNCjfV4Ljun6d6KQDMaCfFIQn6Cii/pf3FG38kjVm6SgFzrFlJ3OrfWPPTz7/el2KZziYlBdgvKLCXRZT6rrG242G4396KKZGtSOsmRx1nfKcdt6SwhzEWzHFtwhV1je9vp96qpjMSEPxm3UiE4LAJBBHqBwb0UVhvmM26q38HjiFWZDrXyDIPnHFpuCZgnYa4sqLK7IWU2ug7pO3mDRRRWywmNuOjv3IEA5n/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMEBQIGBwj/xAApEAABBAECBQMFAQAAAAAAAAABAAIDBBEFEiEiMUFRE2GBBiMyUnHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIREiEDBCL/2gAMAwEAAhEDEQA/APTUWMnHUpp6dFHbygpdm0yrAZZt2wfqMnz/AIpJgTPhLlwW4Kp263CbckZLtga0tG3myc5z7dFYVrMduASwkuYehIwhsBrCMoWAQssBuAfGFWa5rGn6a1kdqdokfxEbQXOx5wFN3ELRLunW7Gt2pZq+9jpTh2QeXssm3FaRXihGb9Oi3q/UWjTSSYtEODvy9I4afBx0WwUrNWaFr69qGZru7Xg5XJHaHaa266jRmrh9hznNc/i8Z4kcO6RT0nVYtRrPhrvj2tBkL3AAkEY+eqnnK9ou+vDG1I7WceyFA9Z/fKFajkolgKHNU+65zRnccoQtewToQaZOeUDj5WcdFoOX4/gQhKkh7JDmj4QhCcU//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Heart Goes (La Di Da)</div>
-                                    <div class="artist">Becky Hill &amp; Topic</div>
+                                    <div class="name">Ayo Technology</div>
+                                    <div class="artist">Milow</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC8QAAIBAwMDAwIEBwAAAAAAAAECAwAEEQUSIQYxQRMiUWFxBxUjgRYyM0KCocH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBEhBRITMRQiUWFx/9oADAMBAAIRAxEAPwCLQLbRjbx3F3bxypFbCRhu5eQPKShGRjKRt++01zDb6NNZ2dzHBFDPHE2YnmJFwRACGYZ9o9XIOMAik5InuQzqihB/dj/VXvSVu8N3JMQ/pBfdxgfvTe5SgLd0ExwLCAV4l+2kQSNFDBpyG2knYvcOW9VgJGKqoLDClMePrmpV6Zs4F9F4B6vq28qnfhniEbNIM543Y8cg4Fc6n1hpWiqkkd6l1LMucQHJQec57U29JTW3VekG7QPFBuI/TT3kqeTu7Yz5FL/ktv3HDYVYEQ9f6XmVrlrG0g2IVT+tgoFABOCQSWJ+CO9FaNqPScmPUSSaUNgrIDk4HYYPBPNFWXMdePcsvTaHGy2v5MY6ctmumMKsULng54+ua0i1tNM0ZIbXUrsGeVGG4uFGPgA/T5rPOnblLcOzMqyj+XPxUHW0eo65qdhcW7IoSNlkbPt25789jVsuxidCcsCtBX3+z+JadT/h3Y9QSxT6LNKbgTATwQx59NTwdxHAPnHfHitP6f1TTOk7rS+jYGuYpHhLRllDK/Jy2SfJHOBxS30hq/5bbQxyNDHqFzqELSOnu3pgBsnPwPt3ps/OrJ717m9t4hLu22/qQ7mRRnDAntkknjxSlrdcQ/xs7n67MvpHkgH6is6Enb7iB+wFFJv8RW9rd37PLdyxMyhElckbgPcVJzjPxxjH1oqPMRCFxLCNlZikDAk5YfbFextQkiVIo0EmeMF9q/5HvRRTze15mUqYqdiT2N6Y9Yke5KIrwoQI34yCQSB474pkfVTP7YzczAeHPA/5RRSPJQK51Nh06wtTz+5Df3SqhKwssvgMdwP3ooooWMVc6n//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Trois nuits par semaine</div>
+                                    <div class="artist">Indochine</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQIHBP/EADEQAAEDAgMECAYDAAAAAAAAAAEAAgMEEQUSMQYhQVETIlJxgZGhsQcUIzJhcpLB0f/EABgBAAIDAAAAAAAAAAAAAAAAAAAEAgMF/8QAHREAAgMAAwEBAAAAAAAAAAAAAAECAxEEEiExQf/aAAwDAQACEQMRAD8A4LTRjX+01ghDgHgHM3VKZquGlacxzSdkJ3s1VQ1wJYCHN+9h5LYrxvBC3so9s8KCiqKMQwxGGYVPGQydQj9bX9UwM0bW2Ovek2KUzaV8boZC42vpovDLWuBvcgqVryLiRo5Gtb8H8kzd1r33cUKadiNgLlCyZKW/DTUq3+kG9xcS5xJcVa/D6i6V73xxvL3WBfmGXuA5qIBNxa6cU20WK0rmGnlEZZpljA89287k7GbhJNIq5FUrIOMfDpWIQyybQSYY9ga2npulzG+Ykm1hwUvjMtPQu+vIGng3UnwU5W7Q4xWVnzc9ZMagsDDI0ZTlFyNAlkzpZJHPlL3vdq51yfVSna5+tCtXBcWtfg0qMVic4hkbyOd7ISZCrHFTBGeRGvetukf23efj7oQguMZ32tnd/Lw9lsZpTe8r9+vXP4/weSEIwDTiSfdCEIA//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">You &amp; I</div>
+                                    <div class="artist">Geoxor</div>
                                 </div>
                             </div>
                         </div>
@@ -720,7 +720,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2023, 16:06:09 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Aug 2023, 17:03:16 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
