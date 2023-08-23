@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7824 Commits
+                            7823 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -450,17 +450,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAQGAgUBAwf/xAAnEAABBAEDAwMFAAAAAAAAAAABAAIDEQQFEiETFDEVQWEiIzKh0f/EABoBAAIDAQEAAAAAAAAAAAAAAAACAQMFBAf/xAAeEQACAgICAwAAAAAAAAAAAAAAAQIRAzEFEiFBUf/aAAwDAQACEQMRAD8A83REWaenk+f0+PGi3dV+XtLnMhO6O7AaC48gkGzVgUQDzxAWvigxW6rJlNlaZHxjgOFVdE/pbAEEAikzKMN+bYRESl4UfO63av7aNkkh42vNAj3UhdWS98cD3wxmV4Fht1albEyK4uyrabpeVJmSMyqhxo3WWg/lzZAN+FbI2tZG1rAAwCgPhV6XIyNVznYgj6UbADI1wP1CwSCfYqxAAAAeAmm37OHj4Qj2UNfWcoiJDRCIiAMNn3g8UBRB+fH8WaIhkJVYREQSf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAvEAACAQMDAgQGAAcAAAAAAAABAgMABBEFEiEGMRMiQYEHFDJhodEVI0NRcZGx/8QAGAEBAQEBAQAAAAAAAAAAAAAABQYDAgT/xAAfEQACAgMAAgMAAAAAAAAAAAABAgADBBEhBRMSQYH/2gAMAwEAAhEDEQA/AFnT0skuvaeskspLzIMeKDxkegrV+momuOqL+1t5Wjl+WSYsDwMP2I+4NZt0SzrrKNNCgCRSSLyv1BSR25q10HqddJ13UZDbLdX00UUcao2NoH1E47DI9eeKMxK3tvCp0iKZjrXSxbgl4YnW4bxL0xFTtKleM+b9j/VSnxXglh0WzjmnZ/EmODu24wn555ptB8QfDZ/ntGlRVIBeKTv7MB/2p34h9Qad1EdLi0+6YCJmaeE+WRO2Cw5GMA4waUzq7K6iWHIXgMtlwCnZkrrk+7S9Oe4cC7RNpXxSmVPKnj3opRq1211cPKrEL2GJAOPT0oqfUgjsfKkHm5z9OTKNVZ9zeSCVjyuMBTntzTK0uLbpvp9NSvbhRql+fmJmyNw3YIUf2ABpN07M6rqzrCrz/wAOnWBDt87sNoA9iT98VE9WJNdRobydyUURhC5GNox6cVQ+GQexiOnUF8ttlVTwTXbHXxqWmb45lKnJZyfqG4jvU1qtr/P0nU/EESSXkkW4eo8I7R255/zWeabPc6P01D4cu60uiyNuOTE+447c4I/NUE2qLemxst4MUM7NG2eAwj49uPzXsy7jkV/BRwb3+TnxdCY7s1h6da/ZStcKSMyNu7Ab1/VFc4uleKJs7Sy8jyjHsRRUoecjbAg61EcV6CQuHzjHMi/qprrKYi5tmQ8MvI3A85+1FFOeMYjIEPzVHqjbSI4Lvpc2NwpG8OA+9RtO7IPIzwamunr7wtShguQDJFLgrnuQcetFFa0sRkWp9dmFyD4Vt9zThMkpDRHa3P8AWX9UUUVPFjGfWs//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Enjoy the Silence</div>
-                                    <div class="artist">Depeche Mode</div>
+                                    <div class="name">Be Mine</div>
+                                    <div class="artist">Ofenbach</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBgcECP/EACkQAAEDAwQABgMBAQAAAAAAAAECAwQABREGEiExBxMiQVFhFDJxkYH/xAAZAQACAwEAAAAAAAAAAAAAAAACBAADBQb/xAAoEQABBAEDAwIHAAAAAAAAAAABAgMEEQAFEkETFCFhgQYxMnGhseH/2gAMAwEAAhEDEQA/AKVdtHvWKG1Jtdzbn2GSfQ4HASk98Ee/1itH8O7xAiaXMK0WVS528IlyZJSEBZztIzzx0E4Hvk9msXk3ZtxouR4yWWfLzuKc7PknA5/uM040XrOPa1XeVZ7gYLv4ylTZDrZcCm1FCQG2sjK95HORgEk1lBtLyjafBzspCO0hBpx3cQbHFj7c5tWoJ1luvhlNe/PcQ/FQY0hEggOF1CsEEDjJV8EjBzmvPikuJeYUc4QnfhQGUqJ4IBHY47rr1HrG13C5u/gkyWFOKmqU1GKMKWhO8lOeCCDn2yTg+5Rs6ltofDqnpIeQo4C2wcg/yqkQhHUropoHLIT0Ux9r6wSeLH5yw3iLPbl25u4Rgtp5pCg64jepKeeSc9n+cD2oqDWoJLdvfSyWSpTmQ642FKAIyCM9ZB6ooR1R48YhO0ZhTpVs3X617Ylist21qTFm78NA+YgjAxjkd1y2e32y9SnEWmwXGd5YBcEZCllOTgHg8ZNbdpnTlsvmoLneFxXZ0ZvLpiPK3hayCQ2fkYHR+QKrzmhbXp1LT8fXUXSklccvXmKiVueaUo7kMttg7jgEjlRJrT7YtrUlVgjBl6olTTXSSkiuRf7zNpTdptsVK3rfcYkd5SkhRRt344Kc5/5jPzS5tuzypITEt0191SuAlJOT9YNONSeJs+4W52yMKS5ZWChuCFNJbU2lAwHNoz6j2eT+x+jU7c1b50FmS+w+pTiSUrU6vIIGDx1jINC6EtiyTkguOzlFDaWwR5+n+Z3TYNxXbozkNthMZ4ob3qeQkJIGQCM5Bx9Cio2uxtuSluxlsLdjKO1txZAUewfr+EUVGmF7QW0WD6jENS1RsSFIdlJbUnxVHHdhk6iecl2+HfHbSZGCfIQFAEcft2Dg9gjqs68R7Ixp2/qtjcxM6U2gLkyAT6lr9WDn3AI+e6KKQjy3np2xarG2/ewMe1iIzFbSGk1eVOr/AKOkF62NNNrUhxkqST3kHnGP9oorQli28X+HlETABzj+5WhlbaLla5T8ZxXpJON24AZChnkE9H/aKKKQZdWBV/LOte0WFKV1XmwVHnP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAv/EACsQAAICAQMEAQIGAwAAAAAAAAECAwQRAAUSBiExQRMHIhRCUXGBoTJhkf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEFBP/EABsRAAMAAwEBAAAAAAAAAAAAAAABAhESITFB/9oADAMBAAIRAxEAPwDi3S+zpu0lwSSMorw/MQuMleQUnB84LA9u+O/rTbQ+mk+437NauLPOtK8MwbgoVlYqRknHcq2D74k+NLXQt2xt+7pYqyJHJxeP71ypDqVII99j/wB0+1Otuotg3KxfggglrzRRVeVmMqjfGvESDBB5YJLHOCSc62b3XV4Z8avj9Fm90P8Ag7UVeZ50lkhnmWJuHPEPMSDGfIKHtnuAces0x0rTG3Pda5N8KHiey55fEJOJGex4n377edXp+t5bW4ULVgVX3CkxaO06uQ5aUyNkZxgklfH+OR/vUEe9Tw7faoyVoZYrNh7THk4BZlwBgHDKOxAIIzoE7YzSTC6l2Q7HNFFJITK3ISRtgNGy4yCPI8+fB9E6NS9Wb3Z3hqcdhFSKqrrEOTOVVjniCxJCj8q+APGjTZzjpz2lnhHsargkjvrb3WQ2oadLJc2bCoXz3C+wP67apfT1ZbG/wwQcTJ90nFsYZVUll7j2uRrW64t0qu6F9riKpXnSVVOAyNjHHt6zg/r50NV8GROejzFtXQx6KZxTl+R2EBk+NjIJP57D9/HrSH0vVgr7z+D3VDKsNloVjf8AMPX7gDvjXRNs65WahJfVYsfCM1yDz5AefGP50l9K2dv3KSza3K6m33pWd/kZgGiYgAspb7T2GOJx+oOdK6hrPf1C6XrrUmu0IlgeFebxqMKy+yB6OjVn6pdfQ7j03tfTmz2vxVaCFDcvNHwksy4zjuMhAfXs/sNGmQ6a6hNpJnLqViWnais15DHLE3JWB7/1rSu7nFYtTy/EOMjcuJ0aNG1lgKmgfdppq/w5WJPBwT4/TWbPL9xWMgqPYGNGjV4I6ZCSWOSTo0aNWCf/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bad Habits</div>
-                                    <div class="artist">Ed Sheeran</div>
+                                    <div class="name">Wolves</div>
+                                    <div class="artist">Selena Gomez &amp; Marshmello</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Somewhere Only We Know</div>
+                                    <div class="artist">Keane</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -471,17 +478,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAuEAABAwMDAgMIAwEAAAAAAAABAgMEAAURBhIhEzEHIkEUFSNRYYGh0TJxkbH/xAAYAQEBAQEBAAAAAAAAAAAAAAAEBQIGA//EAB4RAQACAwADAQEAAAAAAAAAAAEAAgMRIQQSMXGB/9oADAMBAAIRAxEAPwDQgoJBUogJHJJpeLIZdbC2ylae25Ks1VdbXb3XbHXdinEtNKfWgHG4AgY/OftUV4b6kXepbgXEXGS43u75SSDjvjvwftiubrv+Tr8lS3GaPvHoPzTWXLZYHxnEN7u29WK5+1lrXU8HWUxmHKkKjCSWWWCMKB3YAwKvGs5N8cu8KLD9ljmQD1nnhu2kEDYhOeT3NIKtDbPDHU9k7NCdVx37/Wiq1pR6WIzsSattbjIBCmwQnkkcA8gcdvSimYn2ruUqV5PesEp+KXG0uoENQLZUBvyrASM+pJxUN4VrKmI6HkFt1srbSnOcpCBz/po8WpT0J6D0VEBbSgofMZFM/C5xbl9a6hOek4f+VJF3DWVOR9e2rM14ix50xlAbjbUqDX8nHid28jtx885zVa1XczdLjelyGXHYlvIchqbX01NKXg7iRyeP1UJq28ttavkyH3drXVdxk/XAxWlaUt8G46NjGVHacQ+k71YwVgE4yRyaTWllmK0V0PYz8Pr0zd2JDjLSmlNNoacSo58wKuc0VLWLTETT6JS7Yw+hqQoLVvJUM/QminY0qaI/AnppeyV1ho8alfiqclGO0ylSTtTlRyc8Z4pa0aXt9gzJj9VbyEHLjivT14HHpRRUmslt35OadWhMqWwsedbmTt78k1vuj2/Z9H2lkgJKWBkCiin0fhGeMCbZZHZDXunp9RHUwPLvUT+h/Xaiiit4cYD+zXi4K4ixVeu5/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBA//EADYQAAEDAwMDAQMJCQAAAAAAAAECAwQABREGEiEHMUETJFGRFBUWIiMnYXHRMkJikqGiwcLh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMFBAEG/8QAJREAAgEDBAIBBQAAAAAAAAAAAQIDAAQREiExQQVxBhNRkbHw/9oADAMBAAIRAxEAPwDnRzpppudoKFOu1oYnPyz6yHXs79pABTwcYCgrHnFOw6UaMPH0bhf3/rR0Xc+6zTYBHEb/AGVTgq9QWMhclsrT3Sg5P9KHfqrkUSlAAuaWEdItEqaAGmoQczyTvxj+apTHR7QxThenIRP4BX61BZ19GgTVCTLS7vcBcSDnYO3Hu4p8t94t89sOxJzDqD5Q4DREMBkimXFhLAASmx7xWV9YOl2jbJ0wv1xtlgix5zEfe28kq3JO4DI5xRV91tvcaZ0p1PHjlTnsu3dkAftJ+NFczUmeJ42wRisL0TdrqrStsipdlORm2tqG0Z2gbj4H+abGJU2Rblo9CShOw7QhpXJ+FLek470DRVomiWlKVsbkpCiCOSMVZW24XWfHRi5Jgq9Ta2JCwQo+OwzW62MLRllOoilWt1fXE4SFAqr3nod4rNI0aXE1QGx6pdcWUKQoHJJ8fnmnNHzlCI9mmNOq4x6ShuHwqHe03O1arE24SUvXVpaXuwUBjkYzwRjxWh2XXHy6KJUxhaEqJHI4JTjPGOe493emW0DYJfYV6Kb5FceKjCW0X1S54B4/dJGo5t2e0dd0TA80wWCcrRgKG4cf95op06kXu1y+nd6Qzt9d6N9X7Ip/eHkiiskxXVsKweQvZ7tlkmTS2OKy+y3u0RtKQbeu8BsvNAuo5UGl5PChjt+VeEhywojIWm+MKWAdyEpPBz4yKKKFX2Vu8/n3UWOea1jaGJyFO/o56PIqO1dbWVlgzmnRwhMhSSkFOc9j2APuq1sesbRbpbrMrbLgqyFNKUSjcBgKH4/xDBxRRRPOzNirtndvAFK4JPOfX9xUHUuroTtsuse1PKYYmp2KYDilZGQcHI5888UUUV1nzikeSu2uJdTgfav/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Where Are You Now</div>
-                                    <div class="artist">Lost Frequencies &amp; Calum Scott</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwMECAL/xAAwEAACAQMCAwUHBQEAAAAAAAABAgMABBEFIRIxQQYHExRxIiNhkaHB4VFigbHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAMBBAUC/8QAHhEAAgMAAwADAAAAAAAAAAAAAQIAAxESITEEQVH/2gAMAwEAAhEDEQA/AObdPm0lLQreWksk5Rl41kIAbOzY67dK3ILjQRapE9hM0wGGm8Rtzjnw5wN6RQoHYDOKkdtpiWdms94nvJN4UzuR+p/b/dE7hfZYpqazyLTYhbYyxvI++ADHjP1+1ZlsHVRxLvw5I6/mmemXSLccEwBibZhU5PZC51BF8mpRlXi9tcqy8x7Q5H5g7UJtzoy2PjHNEqyeDw88sUUy1yBre4eKRVDxkq2B1BxRSA6ITV4YmsCEuUJ5emcfHHX0pjeahdXt07X0plmbYsfhsMY6YpfbNgjljO+1Z0iYyEAE8O4OOlSwG6ZFTMBxEmvdzoi61rccTkJDGDJI/LCjf8VemjRm3u0jaYOJPYH2AOeXT/hVV92cBtbOaZlJR2XjAOCyjfHp/gq01ubTyaPIbaxg2cySHGF2J35DI+tZz61h/JsLxSoD7nP3eTD5PtZrFrjhKXT/ACJyPoaK897Gp2eq9ttSvNNnS4t5eD3iAhWYIA2M9Miir6KeImS9mMZDoztW5ZXTW9ykuA4U7qeTDqD8KKK7Yb1BRipBElr9vLuKPw9Nsra1iAwqnMmMcufM/wAVHNU1nUNVkDahcyzY5KThV9FGwoorha1BwRmtZxrGK5t6KKKQQCJ//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ignite (feat. Alan Walker, Julie Bergan &amp; SeungRi)</div>
-                                    <div class="artist">K-391</div>
+                                    <div class="name">I Don't Wanna Know</div>
+                                    <div class="artist">Mindtrix</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -720,7 +720,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2023, 15:04:28 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 23 Aug 2023, 16:05:13 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
