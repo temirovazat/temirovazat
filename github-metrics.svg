@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2381 users
+                            Followed by 2380 users
                         </div>
                     </section>
                     <section>
@@ -450,10 +450,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgQHCP/EACsQAAEDAwMEAQQCAwAAAAAAAAECAwQABREGITESEyJBURQVI2EHM3GRof/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAIGAf/EACERAAICAgIBBQAAAAAAAAAAAAECABEDMQQhQQUSEyJR/9oADAMBAAIRAxEAPwDzPMWtya+rulRUtRKic535rFCXFj8aVrPAxVdbtNP37Vcm3d2G0Y/dL7yVdDXhtkHHs0rgRmY7s6HOd7ZS6GupBx5Aq4z62oJehGFxkkXFvVLjqSpS3UKUPE9Zzjj5rNMyUnxRJfGfQcNPWbciXZpF0T2TFiL+mDZOCorz0rA9HYHB5OfiksLuw7lHcbI7jawoZOxritd/ss+IrR8GZRZL7klnLzqiFADKifdFWOk9JfdmLpMmLRFMdxtxpOf7cq8gkE4KQPdFT3iT4Wi616jkw79cpsZcmO7KT1OCKrBKuoHbbYcnBHNLbi99tulyZhqBQ8oYc2Kvk7/vJFaS4anJjw7mAlRGRuTT/T1shJnx1SnVK6lhPmNk5OMn5oTsqWdx3jcfJyCFHQvcsdMMxbRZpsSS20Yly7p61HPbCUkJR0nkgqznOc7VzxVpfizWVPuHsFwDvIHVgZ5xzXYZl5gXaHf4jSGgcKkMKSBkhLif9bVEkeSFICXEoWCRnYgHjNI487qxJ8zQ5fTcGXFQ6K6lXab0zbpC7ZdIyJKrolLSFDxSAM5yDkg5I4NFM7XaNNa2mR1p+ot09lOS0l4I7ZznqTnZRziinQetzPOlN9hOJxbfBcjtvqvzMd5Y82lsrJQfe4ztxv7rVQ46xLHakF5KFeKwSAr945ooo4F7iCuV1LPSun7zqN+4OWhhACkltxx1QSEBR3wSc+vQNVLv8WuWm2rl37UjUPGPCNHXIOT62IP/ACiihlRccXI1Xc2dJ23RqfGULnPIUPzSUOMZVz4gEjH+STRRRUIlA5Isz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAcFBgMECP/EADEQAAEDAwMCAwYGAwAAAAAAAAECAwQABREGEiEHEzFBYRQiMlGBkQgVJEJxoRZSsv/EABgBAAMBAQAAAAAAAAAAAAAAAAIEBQED/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxEhBBIFMUFRYf/aAAwDAQACEQMRAD8AVhOKyiG+tnulJSg/CT5/xTK6GR4VznXCBL0q1fFEJd77pSEx0gEYJUP3H18vSmfrvSVrkaVXJXZY9muKH22YyG3UnulSkpCeOOcnjxGKrLyUW4I418yUtWKzYd/k5pg2WTNQspWlKv27hxWrNsN1jk74Lyh/s2N4/qmndUWjSerLbYbp31yy405NLIGxptQzsBPJURg5GAB4ZNX7WNnj2CUpqOr9KtHdbKjykHPBP08flQ+U5lYcPSujqKs99aG1gMfU5Ukb21qQ4lSFDxSoYI+lFSeuLu3d9QPvx8dhADaFY+IDz+/9UUoXlKnLIGYYJjn/AA/6ht9os+o2LimUr2hbePZh72AlXgQQQalOqSrdM08zMgWbV6LsHWfyx+VvUyHVLSUkArIJIzjil50ucSIdzwRvK08emDTb1ROkudGIMt+YGnos5Cm3lkDthClbftgUK9n5BVtDW5xquQ5VvYkR3odymf5H1E0FqFd9S80hlMeOQwcbUtoA3jcSvn3geVY5Aqs9ZNWzr7amZEmK9bUPvojPsq+NhHJKT68HP2q49Kb/ADL1AuWqNVXmTNtFnXlgyEIbaL+MZTgDJAVgZ81jHNQOuUR7zofUs65LbS44gykKPADgOUgf8+uaX59icUjJ7bA16hWE2lABrO4m9QW/Tca3SF2y4ynpKNnbS4BhRzheQBwPMc/zRVPJzRRZlELLDAuku2SC9BeU05jB8wR8iDwambx1Avl00gjTc5yO5AQ/7QFdvDm7JOMg4xyfKiimHMTrrUHvjc1Ljru7ytDRNJfpWbPHc7u1lrat1WScrVn3uVZ8ByB8qqjkh5xsNredU0nwQVEpH08KKKXbccUTFRRRWQp//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Liar</div>
-                                    <div class="artist">Camila Cabello</div>
+                                    <div class="name">Radiate (feat. Mees van den Berg)</div>
+                                    <div class="artist">ElementD &amp; Chordinatez</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -464,10 +464,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYEBQcBAgj/xAAsEAACAQMDAwIEBwAAAAAAAAABAgMABBEFEiEGMVETQRQyYYEHIlJicaGx/8QAGQEBAQEAAwAAAAAAAAAAAAAABAMCAQUG/8QAHhEBAAICAwEBAQAAAAAAAAAAAQACAxEEITETI0H/2gAMAwEAAhEDEQA/ANVluXWRsFu/mhriVRkSNn+az2DX5LBJLaMAzMzMu48KfHnvT3pGkukAbWNXjXUpF3/DYysSnkA47HHmpWo12z1ByMfQnbOJbyVVZjKwUZLEnisx6g6y1DUZxJZzSJp6sVjUZBlwcFz748CtVtdGGppKt1+Wx+WRsZ3ftA98+Kouu+lxHCZdPjt7W1tIWknjM4MoGeDsXt/dawJvbJc3JR/MYnaTrGr3EqwpeTemi5fJwuPfNFVFlJdQvbRwqPhpc5x3ZjjGT96KWpOhviRlCmoXV3rSxQFl3TBs/rbOQPotehdM6bsdW6hk6kW/lSS6RTLZxLuUSAANhh8wyKXIfwvsUlaWO+kSdjlsRjb3z5zVzYaLcdP3sRstQLxvtWSNiFbb5HkfTNDzcql+qMYVtXt9jvdOtpGqQqqyKMRoOREPJ8tSzrXSK6hZ3m+6jj+JjCNLuycZJPHueTVvHc2rBA8yeqRlhuHjPH+12Sa1kfbFIHYjcAGB4oH3sW3K1dGh99iWnSFsujx2R4dSGEg7g4wMfainUoCKK5+93+yrWlvSC43irCBQw5NFFGYfMupJ9NdtRJ4x7YoorENS7uR3XAI4xRRRVwjBZ//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAQDAQIFBgcI/8QAMhAAAQMDAQQIBAcAAAAAAAAAAQIDBQAEERIGMXSyISIlNVFhcaEVQYGxBxM0QlJy0v/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/8QAHREAAgICAwEAAAAAAAAAAAAAAAECAxESBCExQf/aAAwDAQACEQMRAD8A9CQUTGrhI9So+zUpVu2SSykknSPKnHImLQkExlof62yT9hVdn+4o3hmuQUntJPtRBbZTpVdupK0IJx1RvJqukuzdKU56xJzHxII7LY+lmP8ANSNxUU4nUIy0Hy61skH3FYC220S/a6hbgPhWCNXVx4g1moOYEmXkqYUytvGOnIUMbwfaqTT8FOqyCzJEU1ERqYa/UmPswoMOEEMpBB0nyop2d7kkeGc5TRUaHTJ4LYDuKN4ZrlFc7/GCIkk3bE3YhT1q22G30JHWbwSQrzHTg+FdCgD2HHcM1yCn94wRkGo47LAarnTZujz7GO3a1NONIUUHCsD5+lds2cYU3ZIU4lYcIydas+1KvbLWXxBq5tmw0kHrtJ6E+o8PTdWeZbDSAkZI86MIa+nRy+VG9LVC073JIcM5ymiqTh7EkOHc5TRTZhSujSoqUkU39gE39qIkMNjSX2QMfkbj+/OvH0raLWVtlNKTdyFkFEEHRcJx98+NFFFCnh/C43kbnvW33g/qBvxj+XtTCJaNSlKfiNoQBjpfTn70UUgaIUmpaPVDX6U39oVG3cAAfTknSfOiiii2a1QWD//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Wake up Where You Are</div>
-                                    <div class="artist">State of Sound</div>
+                                    <div class="name">For You (feat. Park Avenue)</div>
+                                    <div class="artist">Rich Edwards</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -479,17 +479,17 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUHBgIECP/EADAQAAIBAwMCAwcDBQAAAAAAAAECAwAEEQUSIQYxE0FhByIyUXGBkRQVoUJScsHw/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIxEAAgIBAwUAAwAAAAAAAAAAAQIAAwQREiEFEzFBUSJxgf/aAAwDAQACEQMRAD8A8sIjOwVAWY8ADnNOtH6euNQJIBCqRuI7D6mmfs9hgF+088ayO4MUQb+kkctxVl1Nf2vT7ex0pLa0igChpTGApfz3k98n8UvHx95G7xKOPhq9fdc8CSWHpK3dGClpXzjgEc/c8/ik+p9NyQFv05YkDOxv55qg398+Fe506KW4GUYoCi/PcdvB+vb61w6zkRrmQ2Zge3ljTBh95QSozjgc5qo+LTYgWsc+5h20ZiFHEj5BBIIwRRTbWrZRieMHBOGyMc0VGvqNLlGh2UqdDHPTk3g6dAyKm5XJZsgEDPzNb7WOrl1nQporhz+sJVt0Y4c/P0qWdMXcEF/CLyPxoFcMYycBx5r96pukz6BJAWi0u3t3Vtp8a6clxtA7bcYyCfvjtTKcjVAhErY7NcmxB+4tjj1A2EMVwkptRFvaYn4EPlu744+H/VOOlrSyv764ieMmzZF2uDnGT5evemkdvYavpVtaXIgEqKI1bxGGDxnnHAOD6e9Ws0yLQtBt5pI7Wyij+COGOdnZ5CRjuM9vxTcaw1vr8lHp3Trce3u3r+P85kL65so7CGWNHUr4m0Y74HmaK63tIvIpNauLe2ACCZ3Kg52ZPC59BRQuqZAvyCwGnqRM9gb2CjxMeCQeODTvSNels5F8ULIg/uXP/fmiip6MVPELXa9R3IdDH8nXbLGEtbKziPHvgSEj7FsfxS6+6xvZ09wky7cCY8Ff8QO1FFbNe/2b25+RaNHYmLZrfSm0eS4/cpn1PcuIDEcNn4ju9OaKKKPCT//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECBAj/xAAsEAABAwMCBAUEAwAAAAAAAAABAgMEAAUREiEGIjFBExRRYXFCgZHBBxUj/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAfEQACAgMAAwEBAAAAAAAAAAAAAQIRAxIhBDFRIkH/2gAMAwEAAhEDEQA/AJfjy1/28UMsgF1KsoJG33pSs1pcilxt1JDrJGoJ3wcZGftTdY7sm4SvAdjPtrUNSSpBwfWpu8ybbaLVJkSy0kMtqWElWCpWCcfJqic4XsjmPDKqYmXfhxm6QGyhZC2lZ6DuNwd6Q71ZVwykxUL0YOSrAP4z0qwGb9JuENuHDtbypDxwqQCGkI5sAkq2Hx19KTOLW5f+rjsxMhTZQhSG21ABKwSlWo4647gE+mN6iy+Rhl2+sph4+RWmvQlSnlgEBJNFTNtt7cw6Xnmm1q6p6n8CiuRfDPn8PSbcVDyFFvLZxpGNsCkH+UbHITaJUyM4EIZb8ReTusgjGSdgN6sqXMt9qZS7MeDaVHA2ySfisS4do4gta2XNMmO4OZJGU9dtj70MpWu+h8X8RSsa8Li2WTdZKHm4SZCFIi+JyuyFJCUpKwMqH1KPQdAM5rj4pKpjrUaO87r8Tzksuua0eOoYITgAaQNhtThx/wAHTpcGDHtrw8my8jWgEJ0JzzLA+o499qhE2e6yZ0mTMcaQiWoKDahhaABjBI26fqpZYFzX0hkMre2y6xBft8pctamXgCrYhsbeuKKtCXbbfbYoWsEuDY43NFN1f0Q6JhfDkp2Subd5zrhbwpCAQc4HfbGM9hXejiAxIrcaIBpSnmUU834Heiiij+l0c1rVGz91dcj6n1FB7D2pVvd1bwnW4dlc2n90UUDdIOSFp6+oW455hTpCVcuRj7j2ooopTkzUj//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dance Till We Die</div>
-                                    <div class="artist">Masove &amp; Nora Van Elken</div>
+                                    <div class="name">Far Behind (feat. Panama)</div>
+                                    <div class="artist">Nils Hoffmann</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYHAf/EAC0QAAEDAwIDCAEFAAAAAAAAAAIBAxEABBIFIRMUQQYiMVFhcZGxMkJSU6HB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUCAwQA/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxEhBBIFQRQxkf/aAAwDAQACEQMRAD8AWc1K0bhGRJ016finytPODdFp3HtraD8jLZE8/Ws+2bYgJEIKqr4oe3xFPtOcZUbbeAV8s4WPilb2H1HdfBQ6bcRec1Fi6TjG6Dsd3qm/9Vf6CqXDDo3CAbsJ33fCOsetVrhtbi5mpeZO7fVQ6oL7PKt2bD+bhIZEJSiAipM/NV2P3HXM1U8YUt3AzOhMX9owKNIS9yEWU+qKylvpbtwCOI6eCrExRWIso9xj8Vm31nKtKuhvbjl5RsscslKU9vCrByyHJIuxT1TKsro+rNWbrpLshJvHXyXetbp+oW+pCSNN8Zxoe9J45IvVE9KbsSu8RBWivrO47b8hbsHxL+4IuiQsfdKs9oNRFwW2CUWcoGfGPeq1w2JMDNwD/TITHpVfcOH+5cF/j/3rQWtW+xJvbZXjqfydI0ntWYCaHieGxKg7T7zRWDZNm0sEUHVJ01yxj8em9FUNxKyc4mseTuQAEiYQJ5iOJiaVLzjjBji4SKO8iXSiimOMxICRLRvVXFbyyJVJN1iok1Z8skzTfpRRRAELMRrM8Z1EiA1UkkVTux40UUVxUSIcz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMB/8QALBAAAgEDAgQFAwUAAAAAAAAAAQIDAAQRBSESEzFRBhRBcYEiYZEjMkKhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAQIFAP/EACARAAEEAwACAwAAAAAAAAAAAAEAAgMRBCExEhNBUZH/2gAMAwEAAhEDEQA/AOVjpxkPSn9jpClsY3HUVLeFr510OzKXADrMRKTuQuSRnPfpVXa6wnmNQRpIokhZUZycbsuBntvjHzWcXfC1I8MvYH3Vpg2n20K/quobGcev4qZ8U3XkSsFoBzSSWYjOF9Pmn1h4h0Wa5ls4roM3lyrTKhKk59D1JwemKV+M4YS0S26iYPCVEiNsrrITk99jigvcQNI8eNG4UNlKLK6hvLZebJElxnhKcWM/cUVN3NnM00USwyyGRsIEG7+2aKlsxraXlwg11XSU2eoPFpU9moGJZFcvnfb0/wAptbXSLYJJOzJLPzWkmQDjZVwBudwc7bYqZgcdK23M/Nt7eMDHKUr75YmmCFSGct6ec/U4ivLO153lwvEzJMioe0gHCv3wPeulvdalGrKwVJXB2lb6zlic8I3HXqcCpU/uHenGt30sd/fm3e3RSTEyqMNgZXJ7n81QtTkWVryOq+lr11rqOZLmVzDccIVuWSMEDGQRsAaKk7y+mnlkkkkOXOWwcAn2oqBEolyGudaEfhrXA8To3MmEZA2ypOT8UUUcrLC8lMII4blT0/gdqyahKrXDOswlZyWYgEYJ96KK6kRpPFyW0eSMv/VFFFALzad9baX/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Naked Soul (feat. Liel Kolet)</div>
-                                    <div class="artist">Last Heroes &amp; Liel Kolet</div>
+                                    <div class="name">Worth Fighting For</div>
+                                    <div class="artist">Rico &amp; Miella &amp; TELYKAST</div>
                                 </div>
                             </div>
                         </div>
@@ -721,7 +721,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Aug 2023, 01:03:29 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Aug 2023, 02:05:27 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
