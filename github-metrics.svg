@@ -255,12 +255,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 15 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 42.6 characters per line of code written</li>
+                        <li>Has approximately 41.6 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -331,8 +331,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -407,8 +407,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -438,17 +438,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 24.677232595165727%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">31%</span>
+                                <div class="bar" style="width: 27.19338287028298%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">34%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.18164712693588073%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.21828290975237247%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.08756694167028513%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.08305733358502222%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -472,38 +472,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwAEEQUSIQYxQQcTUWEicRQy0f/EABgBAQEBAQEAAAAAAAAAAAAAAAUGBAcD/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAEQMhBBIUIjFhQf/aAAwDAQACEQMRAD8AaiwLAA0yXQEZYMybRKoIO3IBOODzwa4jcZr3O4xOyIHcKSq5xuPgZ8VzNcxB2LnQnBPo1Ip6bV43cTrxkj8e4wD89+cY+qWaj0/sguH90YiZwOOGAx9+e37rnpvWZbu+l0zXY7Sz1YMzRQRS7hJGPIJ8g5yPjn5w21629rTbiQOsRWMtvIyF471obMceQIV3PFfIX1TKdZtcEjFFKrbXBKZI7yRpG3Ha+OMUU6qZFFEQ9smJjdzaFkQHOyvb+fFBE8jgKiKWYk+ByagrllA4qD1Fp02o6Df2UEvtzTwtGrHsCR5qVUKzhWNCMvYUkCZvcQPH66QXJuUkWG6t0JVsmR3iDNtx3UZOT2x+6v3qz1KtjpLadbqHuLpCGIP9F/01mvp7qFt03pmowzW5XXEuGjZ3QHYAAMBu/wA8U6lspL/fe6kW/PlQ4/J/38D6qh5WNe4RnHigAH2DcZCcR6T5N7+TPdPjnmlICkL5Y0VZtRCLkIoVR4FFIjkFtjUzHjBdHc2NSw24AqWgUrl2AooqI/ZSGVGXp/SYdYutS2K95M5kLSEkA/IHYHik+s3KsrkSA/WKKKZ45OQgubmPJSClFSmX82SeaKKKcRRUJdjc/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Make Me Move (feat. Karra)</div>
-                                    <div class="artist">Culture Code</div>
+                                    <div class="name">I Believe</div>
+                                    <div class="artist">KAMRAD</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBgcBAwUI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhEzEGB0FxgSJRYQgUFaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQIAAwQF/8QAHxEAAwABBAMBAAAAAAAAAAAAAAECAxESIUEEEyIx/9oADAMBAAIRAxEAPwCoNP1aGR7KB9NsY1SRN00cZ6jAEZyc859qkvmXbacvinUo9IaN7SOTMLRNldpAPBHpkmoNpz9G9SRZJEeM7g0a5YY9a7FhfRl445ZQ1owKjemTkZwMDsOfSsdxpatdHS8fJ8OK7L6/SzbLFa6tf3QXqTFbeNj32LyfjJ/qoX5sqvh3VL3T7TT7aW1mna5y4P0MxwRwRxn/AGrQ8JeG9b8M6bZRWtrBJkAtGZCOGPJzjkjiqe83vESXWrSwXNtDIApEzQvuHVBGRnPYHjFUTk9lJadhrFs1pVxoQDUdXV45YpdLsUlP0l9jBlPtnAPxRXHu5kmLSbSsjElvq4orcpMFVzww68m53RtpPfFOBLGBHsjfpKd20tnHbPamKtgU40zpNewLc3BtoSwDTbS2wffA5PtRaIqZ6CXzns/4awELzG+gm2OpBI6ZyPngL7VRXivVf3+r3hiVkiaeRlUjBwzFsn5NMQztOypPAjYO187AfnHf3rn5yckkn70kYkq3DXle3ajbgsrMOy4zzRSDxj8/mirigW1YzgUUUAmt6Svf1oooiv8ATcW3Ko4ytFFFQY//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUGBwgBAgP/xAAqEAACAQMDBAECBwAAAAAAAAABAgMABREEIUEGEjFREwciJCUyQ2GBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAIBAwQF/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAwQFERJBISMxUf/aAAwDAQACEQMRAD8AzpB+upDbnK4+4/7Udj2YU8tzq08CnO7CtlfiCZzcObBf2as6jjRPoJpFRR3pp42zzkb1le8zfIWPNacvFyWb6ZroCo7BpAQ2fPBGKy1cWXtwCc75qYdhsxFc97xZdYTIdR0Ync7miuN5ooyTq+aZ2tvxcJ9Gl8UUk00cUKNJK7BVRRksx2AA5Oad6Xp+/LrBELPcROP2zp3Dc8YzwaLDcER1nZwwlm6vqfNgXSFz2/Hiqh1rAyvj2ak8tmv7RyK1t1ncmA6/C2VJxgEY2zkUnl6cvryMos9wZh5A07HHHqnQoTHWsdEzBmay53bsxEeaK9OjRuyOCrqSCCNweaKkc+kc0mm1Ec0EjRzRMHR0O6sDkEH3mpPZequonnSBr3cTGSR2mdj588/zRRRu8AzbH82KJbkkdzSyvr45tQskiZeRdQwZiFwCTyce6qC69T39NS35xru5dsiU5wOM+tzt43Ps0UU9N9mmixvvIzz7CV1C6sfAZGZpXmmeWZ2eR2Ls5OSxJySf7oooqTrE/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lay All Your Love On Me</div>
-                                    <div class="artist">ABBA</div>
+                                    <div class="name">Whatever It Takes</div>
+                                    <div class="artist">Imagine Dragons</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMEBQYHAgj/xAAtEAABAwMDAgQFBQAAAAAAAAABAgMEAAURBhIhEzEHQVFxFCJhkbEjMkKB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAfEQACAgIBBQAAAAAAAAAAAAAAEQEhAhIxAxMiI0H/2gAMAwEAAhEDEQA/APnWxxo0y7xI85/oRnHAlxzIG0e5p2pLSu0agk25BU4EkFslJBUgjKTyB5EfSrPSAZhXZ2fOQFt29lUhLahw44CAgH6ZIqtuM6Tcp78uVJW/KfeLi3nT8ylHkn6e1H1kukN05aGLkp9Mxclsoxt6CEKJPPcKUn08s1YyNMQkuoQmVOws7UjoNElQGT2c9K6R4A6Zs2obdqBF8YckONFlTZbfW0obt+f2kZ7eeazPifpJ7TVls94h3GW6zOccQltxwksqSVAgHPIwPfms8u46mjfCelr5RLMBMs8uIw6681tabVsJKhnPlwDRUd2ZKejKS9KecQSPlWskZ9jRVYxkrkjPV+vgk/HvL6qFJAbeQnkjB2pOfz+KYGnIcxtuU0tpa0dQBacZSex58sVAcdWtLQUrhsbU8dhnOKmzLnKmzESJzynnUNpbQVJHCB2HarM6OkeD12Ta71dI8duRKek7PhUsupb3qClYyScdj2PtWh8cnPiPDHTK0kDZPeSU+h/U/wArj0OTIaW7KispTsCSSkkbOcZrRah1lO1LpKDZX4sVJiSFPh5DhC1k7shQIwTlWcj7UlYmYVDeQUrIAwfvRTnozzeQ62pPvxRTBnhSRtPNMSrPNFFAFjaZPReWlQ3JWnaR6imGC0uUhW4iOVp3jzCc84/qiiqMp5NbcmdKM22QIVwmKfQ2ottuIBBV/EZz2ooopFyf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC8QAAEDAwMCBQIGAwAAAAAAAAECAwQABREGITESQQcTImGhMnEWIyQ0UpHB0fD/xAAaAQACAwEBAAAAAAAAAAAAAAADBAIFBgAB/8QAJxEAAgIBAwIFBQAAAAAAAAAAAQIAAxEEBTEhkQYSE0FRIiNh0fD/2gAMAwEAAhEDEQA/AMJtFpjP29hxbCVKUnJJ70ybsEM8xUfNNNKwvMsUJXGUf5NWFi2glOerFbOimr01JUcTI6rcGSxl8x5lWVpeIhlLq4jQQr6T1c/Nefh234/bNfP+60NtOU4Wylak7J6gCAMYGxFcE24fxH9UQVV+6jtEX3Rhwx7zNr1YoTNolOtR0BaEZBHbeirnq+F0aYuSgnhon5oqk3NUWwBVHHxL/Z9S19RYn3kvQkJh7R0BwOtdZQlv6xlJUo74z2qxJZjJtceap8IbWlLpKQFdKQR1A49s7c1k2i7gpFikpD76FsNIcaU255eFdRTjI3xhR70+0fKamxxEdXNAE9tDLcZWOsFK1KCiQT2B2wd6QO43KPpOOB2jCbLprX+9k9Sen5/Uu0p5mNqeLHCluxXehr8tJIUV79Q+22e/NPbNaZDt+nw5qEJaU5+lV5g44AUMenOQcn3rK7DqBV0VElyG1svw1FLQbVhOUoKgog5PPO++a0rSEuZqyLDnpjNeaGiXXC0Up8xPcZPOMb8UNNxvJJJ4jWt8P6GpKzWnK9f75nDWumpFv8OtSvXV5syWo4V5beSG1HhOe/HV7A0U18Vm7nI8MJ0kKSYDtsQ+tKzk9WMFWc7nGBRQWve3BYydOjq0+VrGBMM0xK05GskJEuSyl1XrfQXFZUc7A4PG323phbJOmIj7bjV3S2lDhfACiPXjAHHGM+9FFQxmF6g5Bk6KrSDIWGb7GQ2QTg55P1bH3A/41Pg3XSggNW9d4y20np8xcohRO++ccb8DFFFeAAQj2PYAGPEY+JmpdNXzS7oTe48iREt5jRYqHD0lRI9WMbq278UUUVw6SBJJyZ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Apologize (feat. One Republic)</div>
-                                    <div class="artist">Timbaland</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAsEAABBAEDAwMDBAMAAAAAAAABAgMEEQUAEiEGEzEiQVEUYXEVMjORQlKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAJBEAAQQBBAICAwAAAAAAAAAAAQACAxEEEhMhMUFhgfCRobH/2gAMAwEAAhEDEQA/AIhL85ESO3mxKcixm9sVDvhpaymuCflXtqzxExuLGXAYKktIUJC3o6t7ilgpUNjgFADckAgcbVeKvSfqDHTnsU+JYn06FKivbAveqwfVfI4A8G7r20p6TwsxxU515JJUwUIcDiwG1jlKiPfkE7bq/tpmy70Zrof1aefiOxZd2+h2q1D+Ik49a3XC64wQD3HfW0pfKLITRv8A2HFjkjSTL5SFDajsx4Eky1J3OiO6q1lQAs8/u5okULu9bxuHmOYwxWX0SGpW9huO6rtpSUqCkbFJpRAs0FEgDUhNw8rpx1xM+GqQpaVJSys0Qk2N1ggqIPN3zQ1NBHG23A8n2r8fNmlaBXAv72qeZ0u5KaTK/UWOyW9qiXEqKAlveQDdKNWPzo0dJ9Oplu4CFPyYQJiXHtptTjSSeEC+CtVUKJ5+/GjSjNawU88pJowSHOkq/Vq9zsx7IdOYtiMt1QYYQZJQfSlTZAQU/kFRscggXreWirRK+lizI/aQrultpoqc2qPhwggAHd45PxzqQbzmUQ2xCqIlyY1tcbBSSlJUCApQFJPpB48asujm57OPkv4jHY2dLjOlCVbtzgG3+QKr1HduTftXA86OGDYbYPBUWfBut1dDwtzsF9NHjrxWLervd1lF2tKiBZG7gigTXxXF65t1plEZjO2ov9mK0Irf1LVr4JJsCq5JHPgDXQM51D1GjHtsy4zUBxhQ7fKtxUAa3cChXxwdTOdhInykZHLOJEnsoVIVHTtSt2yU2PcbE8n8aaBkUh1eQKU2CyTHIa83Z/F/CTpekuJgMpakKGLbOxzeUqRatwI+CFH/AKdGmcPMIjxJZW43veK1AlvcBSaVuryaFpA839tGpGnIBLWxg17WhkZMEbg17vtpfhcp09IjNet9Mwgh0shTaVCzdD8FP96fY5ePwy0P46RNTLRXpZetSVUSoECuL+fOjRqu64HSaVxfQcbu/wBJ5E6za6jaYYyTbtrYdUt0cBCBuKhYTdEBAs3yfGpXLQHYqZQhzIU1hp5bKEqVtKyrcBSfPsr+j8jRo0YaGPoeVhmZ2O/VGp3I47tMxWZbPZlpS5ZFpLqv8SeeRfHgVo0aNaUYAb0rWN3Rrd2V/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">One More Night</div>
-                                    <div class="artist">Maroon 5</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDBv/EAC4QAAICAQMDAwEHBQAAAAAAAAECAxEEAAUhEhMxBkFRYRQVIiNxgaEyM5HB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAgEQACAgIDAAMBAAAAAAAAAAABAgADBBESITEFEyJR/9oADAMBAAIRAxEAPwBXacVMfBUx9ogqSvWL6jV1586axcLKsTTxr0ujI/ICJxxVnSMc0axO3bVceNSQqdLBz8WBeu2NjTyRiORutQFZlSv8ce2k/UAPYUXbOgI7hpjYyH8z7VN4MiA9C/QE8fvqbkRtnZpM9RwE8VZJ9vP+9OQbf2Y3cs4UgjpuqrngaxMFx2kEgHCmgxF8a0qqDMOzETOLs20ZiK7SPhZYUh50cp4rk6NLwFG26eSZeuQRkyBxYKk1+pJ8fJ0aJkYYd+QbUdi5xrTiy7muNtLiNVaOJJ3tHR5ehh+H481X0q9O7J3cSMK0VhWKueqw3wRR+Pb201sGP94QTb9uuRBLjZEvbiRyW+zt4BWh8XzRvzpfeN4RdwMGIjS7cGCo8MdKzAVIVF/02L4vm61Jc4luJ8lW+PCoHU9yqsox4u5Yfya815+dQN1jlzMhYOovMjHsxgf3GI4Jr/qvV/cNpXJOLmbKjZG3z44MkccnWyyWQbW7qj5HuNRMPcG2f1DGuXAU67iZpDZTq9wfbwBz7aZVYHGxB3oU/J8/s55WJmbfkSzSTpJJaHtgHpYKb8n3/avro036hzYYCzTAsGP0B/k6NFyKBc3JjEUXmleKiQWGTBtYxfT0MEuDJ+FhM5Dj+QLBFfNfppradw3OHcIINyihxcGFS2PBFHaxMeOGA55JJNnmtGjRrqlXsRFFzsNEytueNkTNBkbTJ2suCRjKoJRmWjVeOb554OvM7/nzZ8hjVWyc91p/y66aPkgcX4HOjRro0oqrsDuc7IdmYKT1I/q2bIbGxsDHDHtxJHI5PlgALGjRo1FvZQHqf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Never Forget You</div>
-                                    <div class="artist">Zara Larsson &amp; MNEK</div>
+                                    <div class="name">Work from Home (feat. Ty Dolla $ign)</div>
+                                    <div class="artist">Fifth Harmony</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -511,6 +497,20 @@
                                 <div class="infos">
                                     <div class="name">Numb</div>
                                     <div class="artist">Marshmello &amp; Khalid</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQMHCAH/xAAtEAABAwMCBAUEAwEAAAAAAAABAgMRAAQFEiEGEzFBFCJRYaEjMkJxM4GRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB4RAQACAgMAAwAAAAAAAAAAAAEAAgMRBCExEkFR/9oADAMBAAIRAxEAPwBWzvE2Sfuy9crDwCSkNqKgnfr9pB+aoG8ni7nUcjYJVcFe6UNuOJKQOsl4GZ9qkvp8VchtJ8yjA8pPwOtWGCwDZu3lONXKgmIi2WpJMbjpIqZ37M+fk1xHfsoudw74iRjnTMyjw5AE6Yj607Qe/wCR9oxZJ/CMN67O0ZW6FfwusKQkpg7kh0ment7+r0MdiDkSyAsvBzdjkr1hUfbETS7xJw2k3rfJbugCkkzbLSkH/JNPR9MoObqwXNbiRduNuL1IZQwTH02yrSBHuSfmivckybe8caWSVIIB2I7eh6UVGbq2E2S/YfW5fNhsp1FYCZBO/bpvW6eG03DVpk1Oc7UG0kkOADVyvxnofftXPbN4pm4S4kjUkyJmPjen3gjJ2l9e3DNyykBbUJJcUkJgbkJB9Kfpqc3m1sWMmt6ilwui+vOJWl2bi1XhWVlQV5177wfXet48Wt3Rax/JLoWWlgEuAwrQmdUdT/2ufMdfuY3ItXduAVNqnSSQFDuDG/SnrjbMWjN5b+HYRpLIJhxShKgCCQT6enWgO5ZzVyFMYfruJN63zMq42+tKPOQohJEHvsd6KyYtleUzjSVJEuEq6HT0269qKPZsoNagynCt9qkW107bucxlZQsAgEeh2NFFIkkLGmTHMewMem5TlbFS9AUbeVh2e6ft0z/dRkXSnr5ly5UFjUgK1DbSIEfqKKKHyBU2MdbTIW1ws29q79RxvQlHX9ge0UUUUYrPx9l7Zn//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bloodstream</div>
+                                    <div class="artist">Paradigm &amp; Scott Rill</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQcGAf/EAC0QAAIBAwMDAgMJAAAAAAAAAAECAwAEEQUSMQYhQRMiUWFxBxQVFkJigaHh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMAAgQF/8QAHxEAAwACAgIDAAAAAAAAAAAAAAECBCEDETJBBRIx/9oADAMBAAIRAxEAPwD3S+lry/i9SHYg/ecVFqXTF7ZReo21h52ng1ssUcW1hHtAJx2pGazCI/qhXjOc7vhXSXyFOu/Ql4KS69mQaX0/c6jexxd0TlnI4FaHY2NppSLHa24zwW5ZjT8KwxL7jtUdh9KcgW2nZZIgN6+aRk5Vc2vxD8fGnh3S7YvbW9wzAyKir8PNFW0LhsgMDt5xRWRI0Oyo6gvU0dJbqSOaaWGNpDDGmS2OB24rN5vtD6oiitvxPS9MurfUJRFF91lZWiLDsGJyDjj61tt5p8Mgk9aMe8jdjtuxx35rltS6TsJr6KVIoU9N/UGV9ysM4IP8+aTTteJolxerOc0zWIpJ2t76JoO42NuyMjkGp72C4SJtSs50URZO4N7dvwI81YflvTrchXaV1znDvkk5ySe1WlvaWq7oo0xGR7h4IoL70uqRZ1C8diumaxb3NmJIHDSkZkUfp/z50VMdK0e1ZZYbZFmOe6k5+fmimy2lsRSTekXE19uYgtnzikby8CNGjkBm7n5UUVGXSXZAZDvHGK8acJuLY45zRRQAzjuotXlW8MEaqoABEwYgccYxj+6KKKIZP//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Teenage Dream</div>
+                                    <div class="artist">Katy Perry</div>
                                 </div>
                             </div>
                         </div>
@@ -742,7 +742,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Sept 2023, 12:08:36 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Sept 2023, 14:09:02 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
