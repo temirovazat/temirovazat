@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2381 users
+                            Followed by 2380 users
                         </div>
                     </section>
                     <section>
@@ -487,17 +487,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQcGAf/EAC0QAAIBAwMDAgMJAAAAAAAAAAECAwAEEQUSMQYhQRMiUWFxBxQVFkJigaHh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQMAAgQF/8QAHxEAAwACAgIDAAAAAAAAAAAAAAECBCEDETJBBRIx/9oADAMBAAIRAxEAPwD3S+lry/i9SHYg/ecVFqXTF7ZReo21h52ng1ssUcW1hHtAJx2pGazCI/qhXjOc7vhXSXyFOu/Ql4KS69mQaX0/c6jexxd0TlnI4FaHY2NppSLHa24zwW5ZjT8KwxL7jtUdh9KcgW2nZZIgN6+aRk5Vc2vxD8fGnh3S7YvbW9wzAyKir8PNFW0LhsgMDt5xRWRI0Oyo6gvU0dJbqSOaaWGNpDDGmS2OB24rN5vtD6oiitvxPS9MurfUJRFF91lZWiLDsGJyDjj61tt5p8Mgk9aMe8jdjtuxx35rltS6TsJr6KVIoU9N/UGV9ysM4IP8+aTTteJolxerOc0zWIpJ2t76JoO42NuyMjkGp72C4SJtSs50URZO4N7dvwI81YflvTrchXaV1znDvkk5ySe1WlvaWq7oo0xGR7h4IoL70uqRZ1C8diumaxb3NmJIHDSkZkUfp/z50VMdK0e1ZZYbZFmOe6k5+fmimy2lsRSTekXE19uYgtnzikby8CNGjkBm7n5UUVGXSXZAZDvHGK8acJuLY45zRRQAzjuotXlW8MEaqoABEwYgccYxj+6KKKIZP//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EAC0QAAEEAQMDAwMDBQAAAAAAAAECAwQRAAUSISIxQRNRYTJxoQZCgRQzUsHx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgYD/8QAJBEAAgICAQMEAwAAAAAAAAAAAQIAAwQRIQUSUQYTFGExQZH/2gAMAwEAAhEDEQA/ANC0B1h/SyxLdaDlb2QDykeO3iicj1GM5I0t2K1JaWlZTtbCCTQN0DVePOL2hQFsNh6Y2spWOhoAnd96F46aeyiBGXJlOpQ2UbSktkAHxQ73eN77Uq2SZkMHGuyCqov1M5kaO+rYzIS7ulvISEqR0oSnq4I+1ds9aZ+nIaJMuTILoZQpYQqqskUee23j6uPjNJQtuY22pmQ2ttYO1sppRrjz2/3idq0bVHZslmW4qPGoqUGQdhBoJsn6vtY++cfk1unfviNRi2JZ7QU929a+4lPa5rrkmVJclONNoXYSlNtJ8BI8fmycManf0jMmrUQ6yxA9NKkk/S5x2SmuDfe/Pk4ZC2IyhlOwZDU2BiGXkS5mqbEQKZdCvVV/bTdbRfk/J8ZXJS6AkJKz1cUOFVz2+Afzlyn+n1ONHXGbWsbeksgdA/xUn9p+DRzqjRYzUYJcaLit+4lxsq2n2AFgc883Z/iluTi222E+fP4mm6V13EwcNalG2/fEonHJikncpe5XYlWy64Ht/wByJtZdf9JDyFKPVtCr6fHx3/jL2Vo0zUlWjVylgdmygHjyKUM50QW4UBccT3PWpREj0bA7fFfnKLhVpoM4E6N6hyTs0Uj+QiQnXtLdZcaJQpQLZ3USqqPA5qh3NAn4GGJU/TNSVLcTE1Nt526C2VrSeRdGyQDz7jDGlOOtK9qnczeTmPlWm2xeT4j2rTH4ry5DkiIzIbSouNNVbo8g1wT572MuWIkfY2X3FlZAKve/bDDLXVpcAXG4Fiu1BYVmdMNmM2+F+kLNiyeayLUosVSVNFKQVJ3UhP7fcexwwyiVIp0o1CjkWMu2O9zLnp6tJksIU0ElVpLgO3pI4AFnzz8eBhhhhoAgRdhwDP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Teenage Dream</div>
-                                    <div class="artist">Katy Perry</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Make Me Move (feat. Karra)</div>
-                                    <div class="artist">Culture Code</div>
+                                    <div class="name">Numb</div>
+                                    <div class="artist">Marshmello &amp; Khalid</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -505,6 +498,20 @@
                                 <div class="infos">
                                     <div class="name">In Your Eyes (feat. Alida)</div>
                                     <div class="artist">Robin Schulz</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwAEEQUSIQYxQQcTUWEicRQy0f/EABgBAQEBAQEAAAAAAAAAAAAAAAUGBAcD/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAEQMhBBIUIjFhQf/aAAwDAQACEQMRAD8AaiwLAA0yXQEZYMybRKoIO3IBOODzwa4jcZr3O4xOyIHcKSq5xuPgZ8VzNcxB2LnQnBPo1Ip6bV43cTrxkj8e4wD89+cY+qWaj0/sguH90YiZwOOGAx9+e37rnpvWZbu+l0zXY7Sz1YMzRQRS7hJGPIJ8g5yPjn5w21629rTbiQOsRWMtvIyF471obMceQIV3PFfIX1TKdZtcEjFFKrbXBKZI7yRpG3Ha+OMUU6qZFFEQ9smJjdzaFkQHOyvb+fFBE8jgKiKWYk+ByagrllA4qD1Fp02o6Df2UEvtzTwtGrHsCR5qVUKzhWNCMvYUkCZvcQPH66QXJuUkWG6t0JVsmR3iDNtx3UZOT2x+6v3qz1KtjpLadbqHuLpCGIP9F/01mvp7qFt03pmowzW5XXEuGjZ3QHYAAMBu/wA8U6lspL/fe6kW/PlQ4/J/38D6qh5WNe4RnHigAH2DcZCcR6T5N7+TPdPjnmlICkL5Y0VZtRCLkIoVR4FFIjkFtjUzHjBdHc2NSw24AqWgUrl2AooqI/ZSGVGXp/SYdYutS2K95M5kLSEkA/IHYHik+s3KsrkSA/WKKKZ45OQgubmPJSClFSmX82SeaKKKcRRUJdjc/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">I Believe</div>
+                                    <div class="artist">KAMRAD</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC8QAAEDAwMCBQIGAwAAAAAAAAECAwQABREGITESQQcTImGhMnEWIyQ0UpHB0fD/xAAaAQACAwEBAAAAAAAAAAAAAAADBAIFBgAB/8QAJxEAAgIBAwIFBQAAAAAAAAAAAQIAAxEEBTEhkQYSE0FRIiNh0fD/2gAMAwEAAhEDEQA/AMJtFpjP29hxbCVKUnJJ70ybsEM8xUfNNNKwvMsUJXGUf5NWFi2glOerFbOimr01JUcTI6rcGSxl8x5lWVpeIhlLq4jQQr6T1c/Nefh234/bNfP+60NtOU4Wylak7J6gCAMYGxFcE24fxH9UQVV+6jtEX3Rhwx7zNr1YoTNolOtR0BaEZBHbeirnq+F0aYuSgnhon5oqk3NUWwBVHHxL/Z9S19RYn3kvQkJh7R0BwOtdZQlv6xlJUo74z2qxJZjJtceap8IbWlLpKQFdKQR1A49s7c1k2i7gpFikpD76FsNIcaU255eFdRTjI3xhR70+0fKamxxEdXNAE9tDLcZWOsFK1KCiQT2B2wd6QO43KPpOOB2jCbLprX+9k9Sen5/Uu0p5mNqeLHCluxXehr8tJIUV79Q+22e/NPbNaZDt+nw5qEJaU5+lV5g44AUMenOQcn3rK7DqBV0VElyG1svw1FLQbVhOUoKgog5PPO++a0rSEuZqyLDnpjNeaGiXXC0Up8xPcZPOMb8UNNxvJJJ4jWt8P6GpKzWnK9f75nDWumpFv8OtSvXV5syWo4V5beSG1HhOe/HV7A0U18Vm7nI8MJ0kKSYDtsQ+tKzk9WMFWc7nGBRQWve3BYydOjq0+VrGBMM0xK05GskJEuSyl1XrfQXFZUc7A4PG323phbJOmIj7bjV3S2lDhfACiPXjAHHGM+9FFQxmF6g5Bk6KrSDIWGb7GQ2QTg55P1bH3A/41Pg3XSggNW9d4y20np8xcohRO++ccb8DFFFeAAQj2PYAGPEY+JmpdNXzS7oTe48iREt5jRYqHD0lRI9WMbq278UUUVw6SBJJyZ//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Work from Home (feat. Ty Dolla $ign)</div>
+                                    <div class="artist">Fifth Harmony</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -516,18 +523,11 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgFBgQHAQID/8QALRAAAQIFAwIFAwUAAAAAAAAAAQIDAAQFESEGEjFBUQcTFCJxFYGxCDJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESEDMRL/2gAMAwEAAhEDEQA/AFcCj3NrWxA3uUsJSCok2A7mJrSVAd1JV0U9mblJPckqU/Nu7G0ADqfnHH+Ruqg/p6eaqMpOzOqaM9Iy7iHHw3uUb4O0Wwfm+e0ZlNR9GotmpqzoetUfT8rVqjLFhuZ3FLasKCBb3W5tmKtfMN74vLlqnNyRliqXlZBCZda5pnZ7FH3BN8m4sc4x94Wmv6PqFOnZgyYE9I+YQzMMEELT0Ngcdu1+LxPn0+sbNz5uOlY6nt8wRl1WmzNLmUsTaUhxSEuDYsKBSRcZGL9LdDBFsJmGDybGJejV2qyc/ImWqk5Lhl4LQW1k7VXvfbfJ+YiOtxcQJO1QVm4N4TVjWDseLEghematVnJ+ZTVZWnesEu0EnITsCxcZAOTz+IU17XFfdqXrfWhtzf5hQ22kNk3ubptYgnNjjJ7wyeqtXSz2jlVBSg5NrpjiUNlRW2GHUJuRgXUrCbH9tjg8lRAf7iXJKnhubeWTepdT1HURY+olizG7YGmgi243PGYIgybGCK0ienp0jnaLWJx/EEEMCws6vqiKH9OulTaWFSqHCgbktq5Tcj7XwQMAxWtpBPHPMEEFJeBbfp1OSfzBBBAB/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Avec toi
+                                    <div class="name">Cool for the Summer
 Explicit content</div>
-                                    <div class="artist">OBOY</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC8QAAEDAwMCBQIGAwAAAAAAAAECAwQABREGITESQQcTImGhMnEWIyQ0UpHB0fD/xAAaAQACAwEBAAAAAAAAAAAAAAADBAIFBgAB/8QAJxEAAgIBAwIFBQAAAAAAAAAAAQIAAxEEBTEhkQYSE0FRIiNh0fD/2gAMAwEAAhEDEQA/AMJtFpjP29hxbCVKUnJJ70ybsEM8xUfNNNKwvMsUJXGUf5NWFi2glOerFbOimr01JUcTI6rcGSxl8x5lWVpeIhlLq4jQQr6T1c/Nefh234/bNfP+60NtOU4Wylak7J6gCAMYGxFcE24fxH9UQVV+6jtEX3Rhwx7zNr1YoTNolOtR0BaEZBHbeirnq+F0aYuSgnhon5oqk3NUWwBVHHxL/Z9S19RYn3kvQkJh7R0BwOtdZQlv6xlJUo74z2qxJZjJtceap8IbWlLpKQFdKQR1A49s7c1k2i7gpFikpD76FsNIcaU255eFdRTjI3xhR70+0fKamxxEdXNAE9tDLcZWOsFK1KCiQT2B2wd6QO43KPpOOB2jCbLprX+9k9Sen5/Uu0p5mNqeLHCluxXehr8tJIUV79Q+22e/NPbNaZDt+nw5qEJaU5+lV5g44AUMenOQcn3rK7DqBV0VElyG1svw1FLQbVhOUoKgog5PPO++a0rSEuZqyLDnpjNeaGiXXC0Up8xPcZPOMb8UNNxvJJJ4jWt8P6GpKzWnK9f75nDWumpFv8OtSvXV5syWo4V5beSG1HhOe/HV7A0U18Vm7nI8MJ0kKSYDtsQ+tKzk9WMFWc7nGBRQWve3BYydOjq0+VrGBMM0xK05GskJEuSyl1XrfQXFZUc7A4PG323phbJOmIj7bjV3S2lDhfACiPXjAHHGM+9FFQxmF6g5Bk6KrSDIWGb7GQ2QTg55P1bH3A/41Pg3XSggNW9d4y20np8xcohRO++ccb8DFFFeAAQj2PYAGPEY+JmpdNXzS7oTe48iREt5jRYqHD0lRI9WMbq278UUUVw6SBJJyZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Work from Home (feat. Ty Dolla $ign)</div>
-                                    <div class="artist">Fifth Harmony</div>
+                                    <div class="artist">Demi Lovato</div>
                                 </div>
                             </div>
                         </div>
@@ -759,7 +759,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2023, 13:03:17 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Sept 2023, 14:08:00 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
