@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.57m added, 93k removed
+                                    2.55m added, 24.5k removed
                                 </div>
                             </section>
                             <section>
@@ -549,35 +549,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Love Thru the Night (feat. Morgan Perry)</div>
-                                    <div class="artist">Mike Ault</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUGBwgBAgP/xAAqEAACAQMDBAECBwAAAAAAAAABAgMABREEIUEGEjFREwciJCUyQ2GBkf/EABgBAQEBAQEAAAAAAAAAAAAAAAIBAwQF/8QAIBEAAgIBBAMBAAAAAAAAAAAAAQIAAwQFERJBISMxUf/aAAwDAQACEQMRAD8AzpB+upDbnK4+4/7Udj2YU8tzq08CnO7CtlfiCZzcObBf2as6jjRPoJpFRR3pp42zzkb1le8zfIWPNacvFyWb6ZroCo7BpAQ2fPBGKy1cWXtwCc75qYdhsxFc97xZdYTIdR0Ync7miuN5ooyTq+aZ2tvxcJ9Gl8UUk00cUKNJK7BVRRksx2AA5Oad6Xp+/LrBELPcROP2zp3Dc8YzwaLDcER1nZwwlm6vqfNgXSFz2/Hiqh1rAyvj2ak8tmv7RyK1t1ncmA6/C2VJxgEY2zkUnl6cvryMos9wZh5A07HHHqnQoTHWsdEzBmay53bsxEeaK9OjRuyOCrqSCCNweaKkc+kc0mm1Ec0EjRzRMHR0O6sDkEH3mpPZequonnSBr3cTGSR2mdj588/zRRRu8AzbH82KJbkkdzSyvr45tQskiZeRdQwZiFwCTyce6qC69T39NS35xru5dsiU5wOM+tzt43Ps0UU9N9mmixvvIzz7CV1C6sfAZGZpXmmeWZ2eR2Ls5OSxJySf7oooqTrE/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Whatever It Takes</div>
-                                    <div class="artist">Imagine Dragons</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDAf/EAC8QAAEDAwMCBQIGAwAAAAAAAAECAwQABREGITESQQcTImGhMnEWIyQ0UpHB0fD/xAAaAQACAwEBAAAAAAAAAAAAAAADBAIFBgAB/8QAJxEAAgIBAwIFBQAAAAAAAAAAAQIAAxEEBTEhkQYSE0FRIiNh0fD/2gAMAwEAAhEDEQA/AMJtFpjP29hxbCVKUnJJ70ybsEM8xUfNNNKwvMsUJXGUf5NWFi2glOerFbOimr01JUcTI6rcGSxl8x5lWVpeIhlLq4jQQr6T1c/Nefh234/bNfP+60NtOU4Wylak7J6gCAMYGxFcE24fxH9UQVV+6jtEX3Rhwx7zNr1YoTNolOtR0BaEZBHbeirnq+F0aYuSgnhon5oqk3NUWwBVHHxL/Z9S19RYn3kvQkJh7R0BwOtdZQlv6xlJUo74z2qxJZjJtceap8IbWlLpKQFdKQR1A49s7c1k2i7gpFikpD76FsNIcaU255eFdRTjI3xhR70+0fKamxxEdXNAE9tDLcZWOsFK1KCiQT2B2wd6QO43KPpOOB2jCbLprX+9k9Sen5/Uu0p5mNqeLHCluxXehr8tJIUV79Q+22e/NPbNaZDt+nw5qEJaU5+lV5g44AUMenOQcn3rK7DqBV0VElyG1svw1FLQbVhOUoKgog5PPO++a0rSEuZqyLDnpjNeaGiXXC0Up8xPcZPOMb8UNNxvJJJ4jWt8P6GpKzWnK9f75nDWumpFv8OtSvXV5syWo4V5beSG1HhOe/HV7A0U18Vm7nI8MJ0kKSYDtsQ+tKzk9WMFWc7nGBRQWve3BYydOjq0+VrGBMM0xK05GskJEuSyl1XrfQXFZUc7A4PG323phbJOmIj7bjV3S2lDhfACiPXjAHHGM+9FFQxmF6g5Bk6KrSDIWGb7GQ2QTg55P1bH3A/41Pg3XSggNW9d4y20np8xcohRO++ccb8DFFFeAAQj2PYAGPEY+JmpdNXzS7oTe48iREt5jRYqHD0lRI9WMbq278UUUVw6SBJJyZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Work from Home (feat. Ty Dolla $ign)</div>
-                                    <div class="artist">Fifth Harmony</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Cool for the Summer
-Explicit content</div>
-                                    <div class="artist">Demi Lovato</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Make Me Move (feat. Karra)</div>
@@ -585,10 +556,40 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAQIDBv/EAC4QAAICAQMDAwEHBQAAAAAAAAECAxEEAAUhEhMxBkFRYRQVIiNxgaEyM5HB8P/EABcBAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAgEQACAgIDAAMBAAAAAAAAAAABAgADBBESITEFEyJR/9oADAMBAAIRAxEAPwBXacVMfBUx9ogqSvWL6jV1586axcLKsTTxr0ujI/ICJxxVnSMc0axO3bVceNSQqdLBz8WBeu2NjTyRiORutQFZlSv8ce2k/UAPYUXbOgI7hpjYyH8z7VN4MiA9C/QE8fvqbkRtnZpM9RwE8VZJ9vP+9OQbf2Y3cs4UgjpuqrngaxMFx2kEgHCmgxF8a0qqDMOzETOLs20ZiK7SPhZYUh50cp4rk6NLwFG26eSZeuQRkyBxYKk1+pJ8fJ0aJkYYd+QbUdi5xrTiy7muNtLiNVaOJJ3tHR5ehh+H481X0q9O7J3cSMK0VhWKueqw3wRR+Pb201sGP94QTb9uuRBLjZEvbiRyW+zt4BWh8XzRvzpfeN4RdwMGIjS7cGCo8MdKzAVIVF/02L4vm61Jc4luJ8lW+PCoHU9yqsox4u5Yfya815+dQN1jlzMhYOovMjHsxgf3GI4Jr/qvV/cNpXJOLmbKjZG3z44MkccnWyyWQbW7qj5HuNRMPcG2f1DGuXAU67iZpDZTq9wfbwBz7aZVYHGxB3oU/J8/s55WJmbfkSzSTpJJaHtgHpYKb8n3/avro036hzYYCzTAsGP0B/k6NFyKBc3JjEUXmleKiQWGTBtYxfT0MEuDJ+FhM5Dj+QLBFfNfppradw3OHcIINyihxcGFS2PBFHaxMeOGA55JJNnmtGjRrqlXsRFFzsNEytueNkTNBkbTJ2suCRjKoJRmWjVeOb554OvM7/nzZ8hjVWyc91p/y66aPkgcX4HOjRro0oqrsDuc7IdmYKT1I/q2bIbGxsDHDHtxJHI5PlgALGjRo1FvZQHqf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIEBgcBAwUI/8QAKxAAAgEDAwIFAwUAAAAAAAAAAQIDAAQRBRIhEzEGB0FxgSJRYQgUFaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQIAAwQF/8QAHxEAAwABBAMBAAAAAAAAAAAAAAECAxESIUEEEyIx/9oADAMBAAIRAxEAPwCoNP1aGR7KB9NsY1SRN00cZ6jAEZyc859qkvmXbacvinUo9IaN7SOTMLRNldpAPBHpkmoNpz9G9SRZJEeM7g0a5YY9a7FhfRl445ZQ1owKjemTkZwMDsOfSsdxpatdHS8fJ8OK7L6/SzbLFa6tf3QXqTFbeNj32LyfjJ/qoX5sqvh3VL3T7TT7aW1mna5y4P0MxwRwRxn/AGrQ8JeG9b8M6bZRWtrBJkAtGZCOGPJzjkjiqe83vESXWrSwXNtDIApEzQvuHVBGRnPYHjFUTk9lJadhrFs1pVxoQDUdXV45YpdLsUlP0l9jBlPtnAPxRXHu5kmLSbSsjElvq4orcpMFVzww68m53RtpPfFOBLGBHsjfpKd20tnHbPamKtgU40zpNewLc3BtoSwDTbS2wffA5PtRaIqZ6CXzns/4awELzG+gm2OpBI6ZyPngL7VRXivVf3+r3hiVkiaeRlUjBwzFsn5NMQztOypPAjYO187AfnHf3rn5yckkn70kYkq3DXle3ajbgsrMOy4zzRSDxj8/mirigW1YzgUUUAmt6Svf1oooiv8ATcW3Ko4ytFFFQY//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Never Forget You</div>
-                                    <div class="artist">Zara Larsson &amp; MNEK</div>
+                                    <div class="name">Lay All Your Love On Me</div>
+                                    <div class="artist">ABBA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBAYHBQH/xAApEAACAgEDAgUEAwAAAAAAAAABAgADEQUSEwQhMUFRYXEGFBYiQnKB/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACBAP/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAISEf/aAAwDAQACEQMRAD8A3jzMJA6nUK6mABBJ95KquRwGBBB95os0+Ub0MQZ5yj1Mbe1R5gD5hTyUTCQ+o62uogEjMI0s9fVcOctCv6iIBVbSo9MysXUPZaW5l2+m6QPtLS+OesAsf5TkrU6bT/yStdMXNg5SMZzOe2t8gxyk/wCynvSyrjlXt7xvpenvF5zem35h01nVbrNS/buxz8wlcKOGO61Mf2hEWHTZzbrdvK3dx4yK2rXbx+7bfEQhKNkFuvb1nUNp62qz588A95Ar1i5TuDuDCEjLpltrdosL7m7+PaEIRIVv/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Homegrown</div>
+                                    <div class="artist">Haux</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgFBgQHAQID/8QALRAAAQIFAwIFAwUAAAAAAAAAAQIDAAQFESEGEjFBUQcTFCJxFYGxCDJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESEDMRL/2gAMAwEAAhEDEQA/AFcCj3NrWxA3uUsJSCok2A7mJrSVAd1JV0U9mblJPckqU/Nu7G0ADqfnHH+Ruqg/p6eaqMpOzOqaM9Iy7iHHw3uUb4O0Wwfm+e0ZlNR9GotmpqzoetUfT8rVqjLFhuZ3FLasKCBb3W5tmKtfMN74vLlqnNyRliqXlZBCZda5pnZ7FH3BN8m4sc4x94Wmv6PqFOnZgyYE9I+YQzMMEELT0Ngcdu1+LxPn0+sbNz5uOlY6nt8wRl1WmzNLmUsTaUhxSEuDYsKBSRcZGL9LdDBFsJmGDybGJejV2qyc/ImWqk5Lhl4LQW1k7VXvfbfJ+YiOtxcQJO1QVm4N4TVjWDseLEghematVnJ+ZTVZWnesEu0EnITsCxcZAOTz+IU17XFfdqXrfWhtzf5hQ22kNk3ubptYgnNjjJ7wyeqtXSz2jlVBSg5NrpjiUNlRW2GHUJuRgXUrCbH9tjg8lRAf7iXJKnhubeWTepdT1HURY+olizG7YGmgi243PGYIgybGCK0ienp0jnaLWJx/EEEMCws6vqiKH9OulTaWFSqHCgbktq5Tcj7XwQMAxWtpBPHPMEEFJeBbfp1OSfzBBBAB/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Avec toi
+Explicit content</div>
+                                    <div class="artist">OBOY</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMEBQYHAgj/xAAtEAABAwMDAgQFBQAAAAAAAAABAgMEAAURBhIhEzEHQVFxFCJhkbEjMkKB0f/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAfEQACAgIBBQAAAAAAAAAAAAAAEQEhAhIxAxMiI0H/2gAMAwEAAhEDEQA/APnWxxo0y7xI85/oRnHAlxzIG0e5p2pLSu0agk25BU4EkFslJBUgjKTyB5EfSrPSAZhXZ2fOQFt29lUhLahw44CAgH6ZIqtuM6Tcp78uVJW/KfeLi3nT8ylHkn6e1H1kukN05aGLkp9Mxclsoxt6CEKJPPcKUn08s1YyNMQkuoQmVOws7UjoNElQGT2c9K6R4A6Zs2obdqBF8YckONFlTZbfW0obt+f2kZ7eeazPifpJ7TVls94h3GW6zOccQltxwksqSVAgHPIwPfms8u46mjfCelr5RLMBMs8uIw6681tabVsJKhnPlwDRUd2ZKejKS9KecQSPlWskZ9jRVYxkrkjPV+vgk/HvL6qFJAbeQnkjB2pOfz+KYGnIcxtuU0tpa0dQBacZSex58sVAcdWtLQUrhsbU8dhnOKmzLnKmzESJzynnUNpbQVJHCB2HarM6OkeD12Ta71dI8duRKek7PhUsupb3qClYyScdj2PtWh8cnPiPDHTK0kDZPeSU+h/U/wArj0OTIaW7KispTsCSSkkbOcZrRah1lO1LpKDZX4sVJiSFPh5DhC1k7shQIwTlWcj7UlYmYVDeQUrIAwfvRTnozzeQ62pPvxRTBnhSRtPNMSrPNFFAFjaZPReWlQ3JWnaR6imGC0uUhW4iOVp3jzCc84/qiiqMp5NbcmdKM22QIVwmKfQ2ottuIBBV/EZz2ooopFyf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Apologize (feat. One Republic)</div>
+                                    <div class="artist">Timbaland</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgIDBwj/xAAxEAABAwMDAgIHCQAAAAAAAAABAgMEAAUREiFBBjETIgcUFXGR4fAjMkJRYnKhsdH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQACESED/9oADAMBAAIRAxEAPwDy5TK2WtcwJOtDes+XWoAKHYneltNbEmO7OaamJWpJOE6TzQvDssnXlOnWeK3HT6s+hxR7rAONXI+hS+zQ2JbikPh3PBbPyNdEu1mssTp9KGH2EzFKTpUHcqJzvkf5VN6liLsFwZbbyVPMh468HuT/ABt76ybNVN/Nz60S8W+NDjpLKX9auVnbHwG9FQJU52SnS4lAH6QB/QordKiVkg4PfBplbLYZrSNKkhS16Bk75qNcIiokhbavwnB35p88gfa39P8AshcFiShwM3NpJbcC0nSsnZJHffHc7CkPUDD0q4uykqC/FPbnIAHzrTYokqXIKIxKcjSTzj38VYOqmkW9+3AhLZ8Ea0g8pUQN+Tjmp5A1W3pcVLWhSDhQIoptdJrEkqCQSFJHmKMHV9c80VRoEqS4pKSkfdPFSHBrSFJBDZ4JyaKKCd0ux2FESK3IZUftkJOB8aSeks6p8LYA+ANh+40UUgO9tq8CXzbf0z7GVIZvklVyDIV6sYuEleB5dWfz5oooos3/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Him &amp; I
+Explicit content</div>
+                                    <div class="artist">G-Eazy &amp; Halsey</div>
                                 </div>
                             </div>
                         </div>
@@ -820,7 +821,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Sept 2023, 22:05:42 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Sept 2023, 23:03:29 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
