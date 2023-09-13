@@ -487,24 +487,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAIFAQMEBgj/xAArEAACAQMEAAUCBwAAAAAAAAABAhEAAxMEBRIxFBUhQWEGMiNScZGSsfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8qUqdu29xwltGdj0FEmlxGtuVdWVh2GEGghStps3RayY3x/n4mP3qKIzsFRSzHoASaCFK2Xbb2nKXUZHHYYQaUFttZ1HlOpXbufijcXJjnnjg9R7T3HxUtaLngNEN1D5xdMZD+Jh9O59YmYn5iqa27W3DIzKw6IMGsOzO5Z2LMeyTJoOzlNzH1AC3M6PnHIzgwT/AB4cf9NcPRczo9w8pD5so+wTcw+vXv3xmP6qnzXMWLI+MevCTE/pUbbtbcMjMrDogwaC23IX12nTjcA3isjC3k+8W4HfvE9T8xSql3Z2LOxZj2SZNKCFKUoFKUoFKUoP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Moth To A Flame</div>
+                                    <div class="artist">Swedish House Mafia &amp; The Weeknd</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">New York City</div>
+                                    <div class="artist">Owl City</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcBAgQFBgMI/8QALBAAAQMDAgQGAQUAAAAAAAAAAQACAwQFERIhBgcxQRMUIjJRYSOBkaGxwf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAHBEAAwEAAwEBAAAAAAAAAAAAAAECEQMhMRJB/9oADAMBAAIRAxEAPwD5Ybo07g5+iqejI2d+6tWxtlufVskeB6WYRS3pC1SlazXHGduiLavtzmn2rDrKZ0BGQQCi5aBNqvDFRESjlVLPIu22y6y3aC7y+FE2FkjXBudw7H+qJl2nLbiSmsFwmNZE2SKZug5Gcbg5xkZOQOuyeHjJc0/UYTPV8C8PSnNHcYng9i1wP9KJebVnhs9wpIKaSORjoQ7Uw5HuP19LupOLaLxamSGutTKWSfzDGsbIJGH4btkDBcMbYz9KPOaHFDOJ7uKlgGGjSMNA2znfHckk/qqW3nZl4Yyk+zhkRFA3m0oqe2PpmPrKyaOTXh0ccWr07dDnr1+VgTBjZniF7nRgnS4jBI7bIib8AvS3WflWk5KIlCe/4/Ke4eLqxp09vnP8YREROP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">3am (feat. Julia Viktoria)</div>
+                                    <div class="artist">Landis</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgGAv/EADIQAAEDAwIEBAQFBQAAAAAAAAECAwQABREGEgcTITEyQVFxFCJhgQgjQoKhUpGiwfH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAUG/8QAJxEAAQMDAwQBBQAAAAAAAAAAAQACAwQREgUhQRMiI3GxMUJRYdH/2gAMAwEAAhEDEQA/AGNqlE2PBjm3IS66loflOdPXt6n70obxqW5pU4mXLVEGdqk55eMeXqKf2pVCHDbcUAo7djbeejiznCR71nDizwv1AuSi8Xm7NPSZZ6IQhQYZH9CfMAA9/PvQVUee+RAT6TrFPpuXVhDjwTx8qKbrGuDqC5IjynUnKVcwFxJ+igdw+xqcxom36sCg0pr4tAA5UlJCtvYYdRhX0+YKpU3DQuoYJKhCU+gfrjq3/wADrXacItQTIV3aTJLvxUJ1PReQraflIOf90LMoe5rrt5Wyauj10OjYwMlsSC39cH2vGpOD023uL5ZfjBHcvJ57WfTmNDI/cgUVq6Nb+asqcQppA7qSrP8A00Vo4hceJpRsq/i7bJjtpt8+DdGrY1bpAlPqU1zOaB4UYyOhPfzx/ObuNvFaTrCHFtDEYx48dfMUQ2UFSvYkmtZ6rQq46VubbCHXXOSotttOFClKHUDcOo6+nXFZpc0xc3Yfx11YmuPNJ3OLSytewdepV9Ae5o5Gm12i6enjgdN53Yj82uknDu12MpvbKmO9erfOUN48x0Pp0pm8LmZOttcBSI620jYlZUsq5Sc5UM48I2nGe2cZqDcnLJZpDcddyUhCBtSFQlkkEgnJ3d8jNX/BuRp+TOl2Fd4fJca3MvBgthYSStYIUSPQ/tz7QyVPYcmkD0f4t2ljpIJWzRy32PHK1LdZzFsjkI2cxPhR5J+vvRSJ1LcoDERyZBvSZriVnYW0ZSoEqJ+YEg+M0VbFL1Bey5+rijD/ABSgj0QrHSf4jtNOpS1eYk+3Lz49ofR/dOFf411I436Tu02NaLI/JuEydubGGFIQ2NqiSorAz0HYA5oooquRzYHub9QD8KhkTcgFkvV16t91SsMRZEeQleAlzBwPMeoNW/DNhNmgXbWExRSxAaXEjISer0h1BSE+wCsmiihrSXRBp+4gH0TukhYI9guEYkvsDDLriAe4SogH7UUUVYjIB4X/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">She Doesn't Mind</div>
                                     <div class="artist">Sean Paul</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUDBgECBAf/xAAuEAACAQMDAgQEBwEAAAAAAAABAgMABBEFEiExQQYTUWEUIiOBFTJCcZGhscH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBQT/xAAhEQACAgIBBAMAAAAAAAAAAAAAAQIRBBIDEyExcTJikf/aAAwDAQACEQMRAD8A8D0S606C4nOqQPLGygJsPKnPPf0qz/inhOSNBFpdxvWP5sZ5PUnr7f7VCUZO7PAp5pV3Bb6dcSOreYGAIU43KRwP5FZnLwqT27m5i5PTqMqr0PLbVfC/kxeZYOJuN/UqPXHPPT+6kudX8JSxFfgZ4mBBDJ+r1HJ71R+oJ45NMQ8EGhFgPrzMVbK9u3X9uvvQPFjd2/0fDNlO06S9EWtXFlcXpbTYmigwBg9z69T/ALRSvtRXXGOqpGVPk2lbGumRwhrp7hN6JESvs3Y0afHCba6eeRUAXhSeSe2KxabjaXgQEllA49jmorqH4VlDOrl13KV6ChL+NN+GbBLZba3JJMzZ3jPAHb70z1fToY7KzzKUaWESxgg7XB7g49ePTNIEbbIpOOeua7mmlYQRzTNIkKkRgn8q5zgfcmo4vyM631VC0jBNFbTEGU7RgZopghnZaTvDIQgB3HvWL2QlyjhDs4UjnA7c0UUCXew9m40zhfJJ5yakV/p7cdepooogC2aza+D10ud9MvL178KPLR1+Utkf8zRRRVgn/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Be There</div>
-                                    <div class="artist">Krewella</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bend &amp; Break</div>
-                                    <div class="artist">Keane</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -515,17 +522,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBA//EAC0QAAEDAgUDAgUFAAAAAAAAAAECAxEABAUSEyExBkFRImEUFTJCcQeBsdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAEQMSBCJRE3H/2gAMAwEAAhEDEQA/AOBs2DemMyTqGII4/f370liGHoTdNJSdMrnMVEQmO/4q/bvqbaJuGG9kwM0kD/GpDuIOjGU3ZAcU0oQlZ5A7H2rWdKEEkRJrCdS5W0blpAT9x4PH90pc23w1wttS0rCfuSdjVj5osSPh0zz9R5pNQ+OvSS25KyJS0nMriNhSghg3PmiwSUhThUCqCAkUVfLFuq2SrVzDLtvBB/FFP+M6SJp+qbAW+qGbYMsrV6QFTMePYHaoKcC+aNqNqptLzaAtSVGCe2UeTvMeN61+HW9tcMli5uTKFu6YK+yTtHnztsZpTCbVauonbhVmFWs5laaCQlMxtAMCYG4NXcigqGhadZg77DXmGdZpK1MA5Ssj7qcwCzdbcefWFtOtpBRl2UDMz7cV0HBbFVxZ3VpetPhC/WhttsqBXHeB34mvbrDbS207bSeGJLBDiUI7AkCZO1K1UGDpcxN9Y3aMNe00AsITypMkeYJ4orZ9WYI+q0YLaHNKCHAAQAviKKVm7HrD1PkbxHpfHOhWigItsSbvU6IllSktryhfpUe4B889uKe6O6ZxxyyuLi5tsrN4yFQ9mIMGQv0n+fNFFUxlYuq+zc4vGxtdj2VMB/Ti7btmcSxu7uEMKU3nSwrKtMmAjfcHKJkbGYO81rsd6D6O6XR81xXFsQS423n0lubvkHcTySfpMHvRRQtkbarmO6iif2cxxTrnpFvE1LtrXEAwq4KiDEJakmAJnNJ8/g0UUUYNSLmcKADP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcDBQYCBAj/xAAwEAACAQIGAgADBwUBAAAAAAABAgMEEQAFEhMhMQZBBxVRIjJCUmGRoRQWI3HB0f/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAQQFAP/EAB4RAAICAgMBAQAAAAAAAAAAAAECAAMEERIhQRMx/9oADAMBAAIRAxEAPwD5n0F1bSGLAXsBfj3jlFY3IBsOz9MT050yBjbT0QT6OGx4d4PLVeJVy7qRmvpoZrIyySSqz/Y0g2Km4Nwb3BBB4OFO/CQqg+xYyJQnI9zeb5jv227H7lv2tf33fi3vFdtuX0BG1D8Nuf2wxq34dVn9zUsNMG/o6muSCJ4oiQsZIGs8m3634xH5BRVFV8Rq6kkiaafe22libSrheNzjgCw+pt0eb4EWADc5aTz4b9mMrsor8tp6aeupnhiqdW0WI+1psG4BuLXHeDGs89oI6HJ6NNdNLMKlw0kL6tI0g6Sf5wYip/qgYx2bjLj3tUG3r2Y7L5UiradpgGhEiM6kcMAbkHGzo84qIcpRXpo5lR2jpJW5amDm4VG74Po3HvjGSynL2zB1WMgHejjJZrABr8knrrDwy7w+jXLkimiiDxuroW7B9kfUYcyqf2Zl+SadASgyjy6ogy+pinymjraikkaNZWY62jbUxVz+Iahbk256xkkqpqWhzs1tLtV0jKI3ZjdVYsWA9H1zh0UOS5dQwSxKiOXbUzW5J4/8wm/ivMieSyQwyBlWNAbH3a5vgDWp2IGJms1gAlPXTNP4vExRrLVkblxb7nXfffrBjhyw8Gi/J8wa9zzfbH6/8wYmsADQEvPa9rF2Pcm+H1elLnDrLp25U0NqUEfzhh0WbUlJVl9BJFl4NjpB6H0wYMNYTPyRybRltU+e0NPSPuwzbKpY/wCRb9W7tfCU8mzj5vndTXJEyRubRoxuVUdXPs4MGAWpVPUbh0JWSyjueV801ZH8vKEkVG+H4/LYjr/WDBgwSjUuaG5//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Wildlife</div>
-                                    <div class="artist">Jauz &amp; KARRA</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECBAP/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEABEFBhIhMQcTYUFRcRSBkRUiMlLw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAHxEAAgMBAQACAwAAAAAAAAAAAQIAAxEEIRIxE0FR/9oADAMBAAIRAxEAPwBAobLh2NTWG5bnToxejtlaApSdubgX4/29SWTsqT8wEiDHLmkXKr2A+52q5QMiyVvqiPxyzJGw7htv9/SsWuUHAfY0vKxGkSqNdPcXWFBAZOhCXF3XbSlRsCfHn0qGxTLsvDmEuyQ2Emw0hYKgTfkDccU5Y+T8TXFTAchyjICSngdtTd7/AMr2teofEenMxDyGg2Ap1ZQlPufB9qzXo/phnjP0IljdKrelFXDPOT5+Wyj66OUBy+lYN0q+CNqKYSxXGgxd6GQ4ZfOkCUTMvzoz50x2HEyCtCwFggW4J3FvxTIgzmsaxgOtKKGkJS2NRuSkC1z5pa9JZ8KFgj/eQhxali+oC6fxvXRnfG4xxF2K0EJivs6HeybcjcfNctbFN5XJ2nof8AYnz9R4fpoET9r6Rt/cce3xVRxfFHIGI6pa+83YoABAIBFtvNKKHEyskFpwrW7o16XHTx9qmsqY5BRibLThCYsdGhtClC1hxuaYvZQpxYvz87/Ia33PbrYW2Mq4VGZUVMvrXJStagVXIA4HAorl6u4jDn5fjOR0MlfcUg6Qm6dr882oqcjhq9AyB2Vuj4ximwvGH4DS0Mr0lXO1YfxR197uPLK1etFFNBF9bPYob7CgXfBASwp3u769Onmt2JxSsn0PmiirKgiClrA7NZ0supCQdvmiiioqjJb2Mx0z/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Sound of Walking Away</div>
-                                    <div class="artist">ILLENIUM &amp; Kerli</div>
+                                    <div class="name">Lovefool</div>
+                                    <div class="artist">twocolors</div>
                                 </div>
                             </div>
                         </div>
@@ -757,7 +757,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2023, 06:27:55 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Sept 2023, 07:41:22 (timezone Asia/Bishkek) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
