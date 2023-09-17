@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 2374 users
+                            Followed by 2375 users
                         </div>
                     </section>
                     <section>
@@ -487,24 +487,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwECA//EADMQAAEDAwIEBQIDCQAAAAAAAAECAwQABREhMQYSE1EUIkFhcQdSFSMyNEJEYnOBscHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECESEDEjEi/9oADAMBAAIRAxEAPwDTX3veoDjrj6Fw6Qw0kTJys/lJXgNjusjb4GvxSn6pcUOIaXbLbPMVf8Q82PN/TSfQ41ONfjU1llusrvEM6PGtZPT6SlOvKbUQhQzgKV74G2gz670s+Nv6YryJBf8AiS48TXNt6SpOAOVtpAIQj41396acZWti03BiPHU8UORmpCeskBWFoB1xpuSKueGOAIlmiB6eoSJTrZ3QeVPsB65715vH0/mcRsuXC0lAcZbCAhzI6pGgSCdBgf29K1U4Zi/ZkhwfIUQpIjR0NscxL4T+Y4pWPKVdgBsO9FdgIftUd23TmFxp0dZ6zSxggnUH3BGNaKFii63WVmXPcavNwTFaCsLQ0Oq+8d+VKU5CR8netWgvwLDbI3hoggW5tB/aHiHFq9CEAHJz3OKl7YhqwQ3ZH4e3HXIKBDjEc7xJ1JUfT4GKJ7Sp8pr8RnNrk8hU8hSVBmH9ocIOVKOwSCP9VW/yRpq84MXbw5eVhydIcRC5VtpiR5Cg7NXrgqWB5QMjIGmmpFdtNwu8KwS41vkOIckpSPEofUW4zaToGwRg7kZG/ofWl6oqIzjMGKhyRcX28rQ42AcalIUBolOmQgYA3VnamLtqeDD3jbmFLZa6ilO5S0lX2dyf+xR18wWOPUQV2cDNxkFTi3XcJSp5aipTh3ySd96KRXiUsSng6lTa+Y5SrQj2oqcoRptotLk51b0Vb6wPKZjiuZ1Y+1oH9I/mOp30GlNXbEISGGGUpXcnifCsNnyND95wk6k91nU7DG1FFV5xsiqn7JHzkvPwJ6rTw+lUm8v6SJ7g1GNwnsB32G2pqa4hivoUi3p8Vcp69FJaSpzGN8JH+TRRWW8eCytWkjxJZLx0XjJtklt6Az1JClDJDWQElXbGcdwMZ2oooorXRJfD/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBgcIAwn/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEAAURBhIxByFBE1FhCBQiMnGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwC8IvUS0K1lP03PS/bZUfHovzU+k1K7DIbUrG4jPHnkVM0lKkgjBBpjebRAvdudgXaGxMhujatl9AUkj+Hg/I71W94i3/pnBVM024q7aWjIKnrZLUpb0RAHLKwNykDyk5IHcZ4oi1gE5wCM0OKQhClLUEpSMknsAKzfK+p+yJiJdiWGR9+pXdLivx2kftuAyRntxn4qZ2Cz6i6lR0XDXKxC00+kKYscdKmlPp8KfUTuAPOwHJGM44ouJa51H02q+Q7TCku3B+S96HqwmVPMNKxwt1I2D+ZJHmipPbLdEtUBmFbYzMSGynY2yygIQgewAorNDrwKZXeUxBtsuXLUURmGVuuKxnCEglRx/BT4cVykMoeaW06hK21pKVJUMhQPYgj2rQ899D3LTsTV8Gbdg/8AYR5zLiZDqs7G0uKUo+mAcgkD8Rx8mteWvrloi53aJbrdOkyX5TyWWymMpKSpRAH7AEjJ8A8Gs7dSej7tm1cyzFivQdKzLmiJHmyXElSVuDuNo77MjsSOBzWk+m3R/S+hXkS4EdyVdQnb95KUFLTnnYAAlP8Agz80FjZzRStoHiipQgOJx+woC0nzRRS1qRGeoekIetrCLbLkOxi2+iSy+2AShxGcHB7Ed+KkrI2NoSpZUoAAqPJPvRRTTC9yfcUUUVNMf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Outside (feat. Ellie Goulding)</div>
-                                    <div class="artist">Calvin Harris</div>
+                                    <div class="name">Kiss from a Rose</div>
+                                    <div class="artist">Seal</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHBAUIAgP/xAArEAABAwIFAgUFAQAAAAAAAAABAgMRAAQFBhIhMRNRByJBYXEUIzKBkaH/xAAZAQACAwEAAAAAAAAAAAAAAAAFBgIDBwT/xAAjEQACAgMAAgAHAAAAAAAAAAABAgADBAUREiExMkFhcaHR/9oADAMBAAIRAxEAPwDmWxt7Z5K/qblTKp2AQVTWWcMtVvBLV4stxussnn2FbTLeAuYlcobbTKlHtVhw3K2F5Ytki+aTc4pcDS2g/ixqGyldzvMVDJd6UDBexiw9Qbk6R/TJLl/KjWLXXRtbh52BvDJmZ4j4rb4lkJ2zWdS1BCYP3W1CfaADVE8B8LZs8YxW6uUa8Qs5+3J0kKgSf92NW28w+wxyyUlxpvURsUjY/Hb4pT2e9sxsg1AD1+ZxvhgdB9GcTZmsLdq+ccskpaZMBLIKiU7CSSR6neiqh4nZVTh926EpETtRRfE2KX1BxBjoVPDPh4ZNtt39utcaeokH41CmfNtulLmIPtLdUUOqJCiPJCoge3HxFIGT79LaglStjVSZQzjCXg46hL1wypBSoxrXAhQPG8bjvT5fXXZrmI+YD9zTMXwNKuv0EWsvZlubcXKUNAO3JBWtO2oxEnvVMyJev3z9uguqQGVgkc6zzHsIHPvHrSll/Kj6XwXLdYAPqmB/adMAdsMKcumm7htdymVL0GUtgwInvt+qxvaFXdnK+xBOfQoYt3s0Pi4w2qCAPxopa8RMdTdvLCVeUbUVZrarFoAMVcgDzMkOV8UsbeU3rCnFlYKV6oAT6jkc9947GnjD8z4c00UOt9VKVgp88bRzzzNFFP7AlSOn394a1uTZ487M+yzpZsIeSgPa9+n59SRxXt3N+Fp6xZtnUdVXUWAd1H1kz6/G37oopXtw6vMy/YZDt8TEnNWO2tytP0SFtpCfNrMkn+/7t8UUUUSooRUAAixYxLdM/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBggE/8QAMRAAAQIFAwIFAgUFAAAAAAAAAQIDAAQFBhEHEiETMRQiQWGBUXEVFyMywWNyobLR/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgAB/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAwQREiExMlFx/9oADAMBAAIRAxEAPwC83BcT0hVnZZDqUpSEnBSD3GYxtzaqooU/SpZ6abU9OPbOilAKynBGRyAPMU9+/OIR6r1ByWvmcQlSgAhvt/YI531ZqC13VSJ1RUOikDPr5V5/mIyi18gryOu5RNSLUH18nYgvN3jLp+GoYyFzl/O544A3H9PH8RAG7kW4SUqOPvD6g1xxZmhlSylkqHPb3hNbcpG7MZOHWV2J0BJT6ZhwJC8kjPbEETq1ri6txSkuVq2uBIG5OM5EEWMXINinl5Em30GttTBazzAb1BqAPohr/QRzlqdM9atMtj9qG9w+6if+CLjr5UWmNTKowp7pr6bHOP6aTEOuuqSv4tLeHlWpvY350vpURuPpwQcevzHVpq0tqMWNugD8j+mVttmnSoWFbg0keU+wjT0G45UeJQoOdR1spbPGAcHv9PjmJ2rK/DhTXRcWkKUnbgZ9vaNLR5MtKS4cjHrGXRfMLXY3rLFb0+n8w6A0wlQQXGkcnOQT39oIy1lzb8xqVbi18bp1pJwMAgHjiCNU1AgmAy2JYb+R9rjpvd1xak1GpUWjOTUi42ylDqXm0hRS2AeCoHuPpE+ldEb8E2p9+hP78kpX12vKMHjG/wCIIIZK9mLrYdCe+a0hv1YlVqoM06lrgo8QzkDPOMqjU0nTO7kMBExQ3WiOx6rR/wAboIIG9Kkdwi3sDHVp6c3ZT71o1Qfp6RKMzSFvL6iAUpzknGefiCCCPUrCiYtsLnZn/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">You Spin Me Round (Like a Record) [Radio Edit]</div>
-                                    <div class="artist">S.Tandy &amp; Marc Korn</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQUAAwAAAAAAAAAAAAAAAAMEBQYHAQII/8QAMRAAAgEDAwMCBAQHAQAAAAAAAQIDBAURAAYhBxJBMVETFCJxCCMyYRY0Q2KBkbHx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgQFBgMH/8QAJxEAAgEEAQIFBQAAAAAAAAAAAQIDAAQFETETIRJBUWFxBqGx8PH/2gAMAwEAAhEDEQA/ANUusdyuF+qFtu4K1I5Kh4VhStVFR1BJVQE44wcEk8ftqvbu2/NaoEuG47tUyTKfyWkrEMpZlEeFwg4y4JPr9K540/3RFU2G63aa10yvPXOs0Yf+myEMZByM8luM5xnxpC9VNVvOog+ahVIo0XtgA7l7/LAkZ5z58Y86cnjWOPqbAGuam2GT6UxM29g8Dz9q7Uu1o7eTBZ9xXmFnHdL8J4sk+GJKcnHuc41M11JcLVYrre6ncm4JY6OlmkMSPGQ7BMgKAhOf8HB1Fja0tLF809RGrxjuYsx9PvrOeo+3Kq62O4VlgrKiGuf8+SASt2TsBjuAzgSdoKhvIJHqcjLYuykupWuIbnqKvIA13+fOmrjMAOEnjKluCTuluifVmq3d1FpbXdrncqOEozwpUVquJ5QeIiBGucjJ8cr5yBo1Vvwj7Jlue8ZtwXO2pJbKCHMEk6H+YLDtaPPBKhX55wcedGrtM16a3vQU1Zb5hUIkjrH3KpfGCCMH9/t51XdmhA9UrEfHGMA+vb/7pt1Dr56qorYaanaqFCF+NEjHIBwVbjkkE+g8jTCSiqLfND82rU9SY1kZMjvUH3weP9/to8liWyNi1t4/CW4+xqCL1UuTMF2F/lWepoKXlbpVvMZGGI3ftUnx9I1AbltMVDMj0ZKIykmPuzg6ex3K3UcEbrTNNVevcwBOfv7apfUHd62W0Vdzr2Dz/DPwIFHqfQceFyRkn/pGoP09i8jaXvVkdhEoIO9AN5DSj80ORvbe4iEUKgyNrWu+vk1dOkV6v1RQz0VVZAltpqmSKnqUZYwyd5APb54yeOfvnRqg/hX6oXbctxqtsX4mqaCmNTTVIUAqobDK/v8ArXHsBjRq8xBYkVcRWVAvoK1e37Xmp92VcnwnNBNN83LO8g/NfOUiCg57VOWJ4zx641FdZ2aanoorbHVz3CKZcillRewEg/WDycqGx499GjRtKznZPApjD2sazFQOx7/vtXCWupVVlks0yoeOx50OP7sqffjGkLvsO33/AG9ek/h6mS8VETvSTVDiQmUIQq/qwFzj6eFzyRkaNGvPrbIXTZBY2kJHbkk869a6m2hRSyIAfYarHugvRndVp6m0tw3Pb6y10dChqFkhnTtlkDYWMlWOQeSR5AweDo0aNbulq//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Landslide</div>
-                                    <div class="artist">Vicetone &amp; Youngblood Hawke</div>
+                                    <div class="name">Feel</div>
+                                    <div class="artist">Robbie Williams</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -512,6 +505,13 @@
                                 <div class="infos">
                                     <div class="name">Sound of Walking Away</div>
                                     <div class="artist">ILLENIUM &amp; Kerli</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCAwUHAQQI/8QALRAAAgEEAgAFAwIHAAAAAAAAAQIDAAQFERIhBjFBUWEHEyIycRUzQkSRobH/xAAYAQEBAAMAAAAAAAAAAAAAAAAGBQIDBP/EACARAAICAwEAAgMAAAAAAAAAAAECAAMEERIhBTEyQWH/2gAMAwEAAhEDEQA/AHqUR3do8J/qUqa0v4n+lU096GtHEiu3Wx2K2dZZSKO3SSRjtyFVQNsxPkAB2T8Cly/z2eyoefCNZY2wj/vLtwxJ1yA4jZB13rXkR33VF0rxwevB/ZEqstyGBTe4n2P0kyD3rQXkimIDZ0COXxTh4b+nkWEv0uucSKnYjjU9n0JJqVj4kzdxBaRXmRsIbsyhJpIYuXBQhaTls8Qw/Ee2216Vj8L42ziLI2cxjXFmjIrXNuAHVnP4gJv89gqegCOQ6o5kKX/Ftxdh2BfGGo53icdstFUzXUM8P3IpOSn40QfYg9g/BoqSUIMvIoI3PP8Akslm7bKWl61wjC3bnCpbShv296utLDMeIbVbs5MW8U9yLdUiUhFccQN66XojW/MLUriM3EX22XkD6GutbR5HBgG2tBNAZFdtDTEK6trfr+n18tn3pxkLV0GcbgX4+0EcHyWReBs1OFY5IfbZU4sZSem4Fd99fzP+1C6scx4bhS9XLtKYtbicsyaYkeW+xtRsfIql87lFxht7W2voZ2gELSK2taEa9a78o/8Adcucpl7dILq3McICqxG+TBewP81w2GkD6lhFX9emW+DcpnpMxczR3Rmjmbnc8v0k+/XQP7UUwY+BrO2SKGMRxj0FFS7OXbYEq0E1pokzC4m/R2XlokGtoYC5sZrdRIqE/NFFIXPVezAgHF2hGWP+ECAhrePZ+KweVFgeRijRR8CiijOSSWjTCUcxJzuSt7VDxIBooorZWg1M7LGDaE//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Something Stupid</div>
+                                    <div class="artist">Jonas Blue &amp; AWA</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -757,7 +757,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Sept 2023, 16:03:59 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Sept 2023, 17:02:39 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
