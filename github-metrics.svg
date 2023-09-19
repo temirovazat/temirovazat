@@ -487,24 +487,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcEAv/EAC0QAAIBAwMBBwIHAAAAAAAAAAECAwAEEQUSITEGExVBcYGRFDI1QlFhYsHE/8QAGgEAAQUBAAAAAAAAAAAAAAAAAAECAwQFBv/EAB8RAQACAgIDAQEAAAAAAAAAAAEAAgMRBCESEzEFgf/aAAwDAQACEQMRAD8Az+KyB9a7Y9NJ8x8U0s7EtjIPxTOS1it4XeRwCkZlK55KjqQKVz96JEcQDaSv+FnFRS6cw/KDVkt4bnv4oriKOMSsUXZIGKNt3bX44OOa82kL3MkkUgjWRVWQFH3K6NnBB9qPbruBx6vWpUpbfapUoPXHNFWi604DqefSilM5B4jG2nyWjEZZFqTVbaG4e47mRHxp8oOD0O5awm31u6jKlZ2GP2FWzRu211FIv1UaXCbSvCgHB8v0NZ7w82O3kO5ue3Dmp460zYF0seJ8kfiX+al+jaeEeEsRjw6Hy/k1K9N7VtJZSXJ7xGdt5Lw52tjGVI6ccdKXXHbK0gZu5lUAIsagk/aOlVr5MiNam2Wsf5/jYvfo/kst7AuTyKKzu/7bwAEs59jRRXFyU+R16cYe7Eyu2v7dICs0G+QnhsngfP8AVc4vXVyUZseRzg0UV0oDOcLJGEPaPUILCSzhuZFt5GDsuep9etcT6jcP90rH3oopPXWrsPsmc2S4DZ6kDzljlic+tFFFP1Imf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBQYHAwH/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMRAAQFBhIhMVEHEyJBcTJhkRQzQmKx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAX/xAAhEQABAwUAAgMAAAAAAAAAAAABAAIDBBESITETQUKx0f/aAAwDAQACEQMRAD8Ax3RuHRkHAhSZ6Vf9UaOYxeOsHVIA85Sk9O0VBeEcHJAcHgf7Wu+MLKnMXpphtPqeuVo4H9RUTqzGtEPq34hfS5UufvawHI4llCyUACo9Ng2oxxV0zuJxrJfKMoHm0qCdwA6+4+arTFss5I2u9IWlXKln0wOZJ7RVMtU3Ihp4gp6V5iBKjcpi2re3ZW1cNuqcSVKQkEFs9jIj8TRT3M3iL24efDLLG8/tMI2oTxHA9qKSyY22lvu02Vj8G1BWZ2yPpHX5rXfHK9exmI0rd28ec1fK2iJn0CRWA6Ay6cRePXaklexA2omJM96k9W6/zOp7tj9a6lFtbKKmbdsQlBgSe5PHUmuXJSSur/N8QLfS6gnYIGs6dqZ1ZqhCnFMosWG1B4qWjbCyogD24P2ppoTUasff5p64BCbyxctitDAcUiekT8RJqs3WRbfCF3KFuOIPoIPTtz2pOIyq7FTg8pC0uRM8H81RNDkHWG0MRGAaeJhcvr2BM+np0orvmkMwm4Zcb2uyfLTMo+aKpjuW6CRJEMlDWV0GmXEH+f3ro08mSaKKpeELWgEr0vgpmehApS7gdaKKDEIwbJzaOW7jDpeJ3D6RE0UUVuaCzhcr/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Just Stay</div>
-                                    <div class="artist">Mauve</div>
+                                    <div class="name">Talking to You (feat. Rynn)</div>
+                                    <div class="artist">R3HAB</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcBBP/EACwQAAIBAwMDAgQHAAAAAAAAAAECAwAEEQUGEhMhMRRBIlFhkQcjMkJSgbL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRAyFB/9oADAMBAAIRAxEAPwDCNv7fv9dMw060ubnpFVYQR8yGbPHP2P8AQptPsHX8J6XRdVd38dSDhntk4ye+B9qV6FASsgdriMPxI6chQMvxd+x7jIq6Q7XYRBxPfM7sBgXLDJ9s96DMmUqxVgQwOCPrQoyQMgZ+ZrYr78NtJtYo3EzXDhHM+GYDn3I4n3GPn70gO1dKMK8YpebKCPzTQVzd+3Bt17RPWLctMrFgE4lcY7jucqc5B9/lRTffmyJtt6dY3eI1WTKyDrBmzntgecUVjnE1rl/Za6TFrbWMh5NFCt6EMMj06/7lrShrmnxPCvU5gMM8R4rGdJultml5uRyAHmndhqNk11bR3Nx07d5FWVk8qmfiI+uK2ya6zuqWTVryaG9BHXCxwjlgxjIIHfGD58VNLqjCJURETAAyTk063dPsK60LpaFcpDdxSI8QkbIYZ+IE4z475zVHur6zNzL05k6fUPHBOMZoI95X9zfehe6uHmPBv1HP7qKX65cRTrbCF1YIGzj6nNFAvhkEZOYo5M/zB7fY1G55MTgLn2HgUUVPquU0s9StIbGO3uNItbl1kMhnZ3V2BxhSQcYGD7e9FFVEGp3VtdSI1rYxWaqCCscjPy79s8iaKKKD/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAQDBQEGAgcI/8QALxAAAQMCBQEHAgcAAAAAAAAAAQIDBAARBRIhMUETBhUiUWFx0RQjJDRScoGTof/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhEhMUMVH/2gAMAwEAAhEDEQA/ALCMkJAApsBIBKiABuTVfBmR5Bc6LqVBBso8bXpCY5Hm41BbdcLsVbavt3OUrBsLj5q+OPJ7JTdIfcxiN1ujDSuY7r4WRcfyo6VzgSnnpTrckxUKSm4ZbczrT+47UiZjKcUBRlaYjXSSCALW4A96gwuRA74U7h4AY+nOaySLqz+tXioOLpCO01sv3EjyoqMPIdSFJI8rc0VzWVo68kzXIclfSQVsKV1EhPOluaWXii3XGVIIQ+EkLsOdzatmVCStG4t71RYjhay64luSy2ct7qcI5oYMzi2x8mO0kQRMRZkSJS5AU6hlOcBZ0VwNBSS+0DcG0pDBClK6YbvtfW+1tqwmDKZSkd4YbcC1zJIv/lISsDnO2UiXhwR1C4PxKbem4o+RPdv2Dpj8Nlmdoo6I6HW19VZIHTsQRzfbTSiqJzDsSyDLMw6xVf8AMt/NFRcx+J7XUwyNmWf6x8VVy8JQ5i7byGUJbdjLZeWlIuLEFFvI6r1t78UUU0dCPZUIwad3zrHfXh2cJ8Smicv6t7+u19K2lmDGbYbYLLbiUJCbuISSffSiigEjMCHchUSPYbfaT8UUUVjH/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Just Dance</div>
-                                    <div class="artist">Gaullin</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQYI/8QAJRAAAgIBAgYCAwAAAAAAAAAAAAECAxEEIQUSE0FRgTGRIkKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAAIDAAAAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwD1SAR2SfK1XhzWNgJAAAATT+ABQ41bLT8Otug5J14l+PjO5SjPUSfDZKueL5uyxr9VjKT9G28Nbh57Y+ixlULfHPWcVnLVSqr0utiuZpylCTfpLt7Lur1nSsqVvUrrlDKcoNvm8PHc1N/K+gs93/C7QWi0rzRB8koZ3xL59gmBlAAAAAAAAH//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Glad You Came</div>
-                                    <div class="artist">VIZE</div>
+                                    <div class="name">Muy Tranquilo</div>
+                                    <div class="artist">Gramatik</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -515,10 +508,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QAMhAAAQMDAgQEBQIHAAAAAAAAAQIDBAAFEQYhBwgSMRMyQWEUIiNRcUKRFVJigaGisf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZYsZbziUNpUtajhKQMkmqD4ccuVwu8dmbqmUq1sOYUmM2nqeI/qzsn/J9q9fK3ouApbmqr34ISy4WYKXiAC4MdS9+5GQB7mqfRc4HUMTI5JHUMOAnGAc/jBH70Eaaf0lprVutrjpq2xZts/hrrqFSlS0vKkBKijPSUpCQCM7AnB/vXT3jlvnK0yxOs1wQ/cQgl2K5slZBI+RXpkDsf3rO4rWOFpfjTEf0jOkOTJ5Nylt9X0kIWrIQCk5UFEHIJ7EU/eE13nSoTbF0lKlPyEl8lQACFdyE4GycelBCN1tsm2zHosxhxiQyoocbcGFJUO4Ioqo+bPRTC7bH1TDaSiQ0tMeWUjzpPlUfcHbP2I+1FAwuAEWMeEdgSEJUFJWtW36utWaYbUFlK84KvsDSC5UdZMyrG/pmS6lMqMtT8cE+dtXmA9wd/wAGqFbVumgj28Szd+O2qJbp2ZnfCoJOyUtDoA/1zTi4FLcf6QtWTGXJY79whfSD/wAqdk3Vu28R9XGYvpWi5SXfm7qwtYI/PaqA4KR5kO8Mx3Un6MFTkopIKUuOq69yNs5G3r3oOk5iFtJ4SX/xsbobCc/zeInFFKrmx10w63G0pb3QtbbgkTSk5CSB8jZ998n7bUUE42K7zLPcY862yFx5TCgttxBwUmqf0JzHW5+K1H1fFdjyUgBUqMnrQv3KO6T+MiiigRPGS/Wa68TrvdbClD0GQ424kpQW0uHw09eRsclW+fU1sac4zXexaducO0xmYsyatA+JBKi0hKSB0g/q3O57UUUCymzHZUhx59xbrriipa1qyVE7kknuaKKKD//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAQFAQIDBgf/xAAwEAACAQMDAgIHCQAAAAAAAAABAgMABBEFEiETMVHRFCRBYXGBsTJCY3Jzg5Oh4f/EABkBAAMAAwAAAAAAAAAAAAAAAAIEBQEDBv/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMREiExBFH/2gAMAwEAAhEDEQA/APYYbCzOhQs1tDuESHPTGc4HuqeLS3zn0eHA9vTHlVmMINEhEj7V6adu54HAqLPdBZNpRwoHG1SQPn41F+YNrdzp6SSCJzrbWq49XgbP4Y4/rvQ9rakHFtBn9MeVJR3ErKzbeFGfsnP1pmK5DybdrjuORxxT66Jl6t7krV7OAW0xWGIHa3ZB4UU3qvNrN+U/SiqVbErBCECW7k40q3XwC/Spp+Va6prNtFapGJFJXGcc9hUm31q2uHVY5gGY4AIxzUeivBGKaX4bkr7Uzyq5+FZDKpG7O33Vrqll6Lp8czS5mbLEq3Axj21FtNQeVwjbWB+8P8pulRZ2IQHNeSx3UJOojAeBGKKSnu4BIULEuSAuO3f2miqSpgyLEmdY162nhld4+rKWkbMaRNlRk9+MVL6V5geq3P8AG3lRRWn5s4+SvXa3ATMi37RCJoLtox2QoxA+Xal2srknItJ1/aPlRRTgRfyC1zDyPaWby3uYVS2uSWkUMzRNgDPw4oooomUb5ErLCTs//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Writing's On the Wall</div>
-                                    <div class="artist">Sam Smith</div>
+                                    <div class="name">Want You (feat. Sara Skinner)</div>
+                                    <div class="artist">Subtact</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -526,6 +519,13 @@
                                 <div class="infos">
                                     <div class="name">Wherever You Go</div>
                                     <div class="artist">INNA &amp; Reynmen</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMEBQYI/8QAJRAAAgIBAgYCAwAAAAAAAAAAAAECAxEEIQUSE0FRgTGRIkKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAGREBAAIDAAAAAAAAAAAAAAAAAAERAhIh/9oADAMBAAIRAxEAPwD1SAR2SfK1XhzWNgJAAAATT+ABQ41bLT8Otug5J14l+PjO5SjPUSfDZKueL5uyxr9VjKT9G28Nbh57Y+ixlULfHPWcVnLVSqr0utiuZpylCTfpLt7Lur1nSsqVvUrrlDKcoNvm8PHc1N/K+gs93/C7QWi0rzRB8koZ3xL59gmBlAAAAAAAAH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Glad You Came</div>
+                                    <div class="artist">VIZE</div>
                                 </div>
                             </div>
                         </div>
@@ -757,7 +757,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2023, 06:28:26 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2023, 07:42:08 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
