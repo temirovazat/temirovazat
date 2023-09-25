@@ -32,8 +32,8 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -41,8 +41,8 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -487,24 +487,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QAMhAAAQMDAgQEBQIHAAAAAAAAAQIDBAAFEQYhBwgSMRMyQWEUIiNRcUKRFVJigaGisf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZYsZbziUNpUtajhKQMkmqD4ccuVwu8dmbqmUq1sOYUmM2nqeI/qzsn/J9q9fK3ouApbmqr34ISy4WYKXiAC4MdS9+5GQB7mqfRc4HUMTI5JHUMOAnGAc/jBH70Eaaf0lprVutrjpq2xZts/hrrqFSlS0vKkBKijPSUpCQCM7AnB/vXT3jlvnK0yxOs1wQ/cQgl2K5slZBI+RXpkDsf3rO4rWOFpfjTEf0jOkOTJ5Nylt9X0kIWrIQCk5UFEHIJ7EU/eE13nSoTbF0lKlPyEl8lQACFdyE4GycelBCN1tsm2zHosxhxiQyoocbcGFJUO4Ioqo+bPRTC7bH1TDaSiQ0tMeWUjzpPlUfcHbP2I+1FAwuAEWMeEdgSEJUFJWtW36utWaYbUFlK84KvsDSC5UdZMyrG/pmS6lMqMtT8cE+dtXmA9wd/wAGqFbVumgj28Szd+O2qJbp2ZnfCoJOyUtDoA/1zTi4FLcf6QtWTGXJY79whfSD/wAqdk3Vu28R9XGYvpWi5SXfm7qwtYI/PaqA4KR5kO8Mx3Un6MFTkopIKUuOq69yNs5G3r3oOk5iFtJ4SX/xsbobCc/zeInFFKrmx10w63G0pb3QtbbgkTSk5CSB8jZ998n7bUUE42K7zLPcY862yFx5TCgttxBwUmqf0JzHW5+K1H1fFdjyUgBUqMnrQv3KO6T+MiiigRPGS/Wa68TrvdbClD0GQ424kpQW0uHw09eRsclW+fU1sac4zXexaducO0xmYsyatA+JBKi0hKSB0g/q3O57UUUCymzHZUhx59xbrriipa1qyVE7kknuaKKKD//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMCBAYFB//EAC0QAAEDAwMBBgYDAAAAAAAAAAECAxEABCEFEjFBBhMUI1FhIjKRobHBBzNi/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIDBAX/xAAkEQACAgEDAgcAAAAAAAAAAAABAgARIQMSEwQxBRRBQlFxwf/aAAwDAQACEQMRAD8A8HtE3Qbbc8xSFf6MkcGDTbi8WwshFw6pwY3JVhXQHmlPhPg07i2p5GEgKCpRHWDgj8VqND0nsRc6XaP6z2lvbO8KJftWrJS9pCzISqIMo2xPWZMVvK3uM1rCi5mG9QcDfmLcWqI+YifQzzins6gt9SUuOOpcKQhJQTPMge3pgVs7Xs7/ABsWmxc9s78ObfjKLFe0GeRKJj2rm6hp3Yuz0a5u9K1++utVbKVMW7tsUIWlRykmPmSOTIBPFMXU9hFGpnsZn78lLC0tuOOASkOKUZJxmegHHv8AgpQLb1l5tsgAYbO5QIHKpzEZ+poobj6Qsqk20qPOhxHKglPwglU7q0igws2neqYhPdqRxO0IlUx7gc1wn3FlpDFztcfBClFQ/rEcT+qdpCtLSCrUNx83CYJhEHqOskfShxclC6lrR67yyFim66x9TusC0Dzu5TUOPBxBxE7Jj9VXtCnxFt3Jb8L3KtsFM95tzM9Z9faqSX9IUz8TaEvRg7THyRxHO7NR1BOm3LqGdM8vcvkpJVEGeffAAOaB6baCS0mHjm5gvFWf24q2WpNupNyWlNLKtiFBRVM+qek/fpRSwpplgoYc71ZIWhCk7dp6mZ9MY/VFJxFsyiXN4FyNo5clQDhdWDgyDFSVaLOHW3C7kxH0BooqcfMXcRgRbdopxKQW1hxYxiBPQRHWpN2yWm2y81c71jfKMbeY6e00UUpYk1DeZC8JfulPJaWmeQUnP2ooopHNGhCGIn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Writing's On the Wall</div>
-                                    <div class="artist">Sam Smith</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAQDBQEGAgcI/8QALxAAAQMCBQEHAgcAAAAAAAAAAQIDBAARBRIhMUETBhUiUWFx0RQjJDRScoGTof/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAE/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhEhMUMVH/2gAMAwEAAhEDEQA/ALCMkJAApsBIBKiABuTVfBmR5Bc6LqVBBso8bXpCY5Hm41BbdcLsVbavt3OUrBsLj5q+OPJ7JTdIfcxiN1ujDSuY7r4WRcfyo6VzgSnnpTrckxUKSm4ZbczrT+47UiZjKcUBRlaYjXSSCALW4A96gwuRA74U7h4AY+nOaySLqz+tXioOLpCO01sv3EjyoqMPIdSFJI8rc0VzWVo68kzXIclfSQVsKV1EhPOluaWXii3XGVIIQ+EkLsOdzatmVCStG4t71RYjhay64luSy2ct7qcI5oYMzi2x8mO0kQRMRZkSJS5AU6hlOcBZ0VwNBSS+0DcG0pDBClK6YbvtfW+1tqwmDKZSkd4YbcC1zJIv/lISsDnO2UiXhwR1C4PxKbem4o+RPdv2Dpj8Nlmdoo6I6HW19VZIHTsQRzfbTSiqJzDsSyDLMw6xVf8AMt/NFRcx+J7XUwyNmWf6x8VVy8JQ5i7byGUJbdjLZeWlIuLEFFvI6r1t78UUU0dCPZUIwad3zrHfXh2cJ8Smicv6t7+u19K2lmDGbYbYLLbiUJCbuISSffSiigEjMCHchUSPYbfaT8UUUVjH/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Muy Tranquilo</div>
-                                    <div class="artist">Gramatik</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBQYHAwH/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMRAAQFBhIhMVEHEyJBcTJhkRQzQmKx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAX/xAAhEQABAwUAAgMAAAAAAAAAAAABAAIDBBESITETQUKx0f/aAAwDAQACEQMRAD8Ax3RuHRkHAhSZ6Vf9UaOYxeOsHVIA85Sk9O0VBeEcHJAcHgf7Wu+MLKnMXpphtPqeuVo4H9RUTqzGtEPq34hfS5UufvawHI4llCyUACo9Ng2oxxV0zuJxrJfKMoHm0qCdwA6+4+arTFss5I2u9IWlXKln0wOZJ7RVMtU3Ihp4gp6V5iBKjcpi2re3ZW1cNuqcSVKQkEFs9jIj8TRT3M3iL24efDLLG8/tMI2oTxHA9qKSyY22lvu02Vj8G1BWZ2yPpHX5rXfHK9exmI0rd28ec1fK2iJn0CRWA6Ay6cRePXaklexA2omJM96k9W6/zOp7tj9a6lFtbKKmbdsQlBgSe5PHUmuXJSSur/N8QLfS6gnYIGs6dqZ1ZqhCnFMosWG1B4qWjbCyogD24P2ppoTUasff5p64BCbyxctitDAcUiekT8RJqs3WRbfCF3KFuOIPoIPTtz2pOIyq7FTg8pC0uRM8H81RNDkHWG0MRGAaeJhcvr2BM+np0orvmkMwm4Zcb2uyfLTMo+aKpjuW6CRJEMlDWV0GmXEH+f3ro08mSaKKpeELWgEr0vgpmehApS7gdaKKDEIwbJzaOW7jDpeJ3D6RE0UUVuaCzhcr/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Talking to You (feat. Rynn)</div>
-                                    <div class="artist">R3HAB</div>
+                                    <div class="name">21 Reasons (feat. Ella Henderson)</div>
+                                    <div class="artist">Nathan Dawe</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -515,17 +501,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAAoEAABAwMDAgYDAAAAAAAAAAABAgMRAAQSBSExEyIUFUFRcZEGYYH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEBQECAwb/xAAeEQACAwEAAgMAAAAAAAAAAAAAAQIDESEEBSIxsf/aAAwDAQACEQMRAD8A8k/LFWhuyFW7jD+0pWjE/VUODCwAhUK9ZqbVNavr8LDqg53laXFJ74MACefTj3pJm+Jch1tDm/qBUyMJJHtVdX9P8GEW5yEKEfNYcUUKirVtNmpIWtwpURsgJ2H1VddNAElC0n9TTKJasJnsKUuxIMt6K0UaKVhENtDdtXdStfMJ8KHkl0SR2z3QRvx7b1fana6MnT1eXsOr1BTaBmVwkLLi8tidxgUD5BNcbbD1gH+1YWqGyvdoT80HiZeipWpPcO1Rp+jeNbU40ry1Lb4cwcOZVK+mT3Txhx/aHLH8e8GQ2y+q46ThSnJUFYX25GeIB4iubDaMNgoH42pZxIg9s12qkB8utxa6Y1VTJvbo2qQi36qukmTsiTjyZ49zRSr8+3NFLSBqIkwRAgxTtq5g5MiKKKDhVrk0uFuh9k22yldbL9Y4x9zNLOAqKiCDRRWY8Zpc3NfIgUwt0gIiPmiiilpvCZLjxH//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAv/EADEQAAECBQMCAwUJAAAAAAAAAAECAwAEBQYRByExEkETUYEiVmGS0RQXIzJCcYLB8f/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAQIDBv/EACURAAICAgEDAwUAAAAAAAAAAAECAAMEEQUSIVETFDEyQVKRwf/aAAwDAQACEQMRAD8ApNXtR7so9+3BKUuv1CWl2ZkttshQ6EAAfl24347esIR1bv73qqQ/kn6Rpeo9uMT133W7ONpbafm1Hxc5KAhOSsAcHG2/PEc/OtlDqkgEgHAOI6BKVCKSB3EUY+Yt1jop+k6jt97V/e9VS+ZP0j0NW7996al8yfpCMAryMSZJgPzTLbqy22tYClkZ6QTjOIv6Vf4iEs5A2TNt0j1Cu+q33bsrU7hnpqWmJroWwpQIWnByVbbDbAHeCJ1j0F6lXtZyJRlkSbU6A8v9a14V7ZPJGMY7CCFefWEsAA+0z4/LTJrNgPbcl6vVL7HdVTlEpWpU08Q4G+W2dgVfAlW/pGcTLLDCHkOMTiWtwV+KEjcOAHZPfrTxxt5Qx69019y/6nNOtrda8QdPcYwNvhGRT6HH5jAbQ2EAJCRgYH9wzNZdF34gfHFKS/R32Tv9xveYQqorLMs68lbZXgu8nfBzgbZPHbmLCXcYmJgN+AEBC+kqWtzABKwdgdjhQwPP9ozZTLiThQGRyOcRc0GWfW6pLcup5DiShafC6sDnI8jE+gTD7ckKpPadAaZ1ZqrXVSEuILbzL4T4Ss5wAehQzz3GYIqtDaAqn3dKO/ipSpe+RjOAdj6wQFyIIdQfEUcWa1Fgp+Or+CN9621Wpu6qs+1R519hT3U2UIT0rGBg87xlVY0nuJ+aU4zbVVUDueADBBFkzrAijQm1PH1pc7qSNnzKBvTC6HHylq3KsCk7p8IHHrDRRtN7uZfBmqBUygJ4CEjJ7Z9qCCLe+sHwBCrsRLB0sTNP0/tyvSNw0t2apE/LoD2X1LUOgDB3/wAggggLLva1gWkYGFXjoVTfcz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Say It Right</div>
-                                    <div class="artist">Sunlike Brothers &amp; Micano</div>
+                                    <div class="name">Bum Bum</div>
+                                    <div class="artist">Bodybangers, Alex Parker &amp; Alis Shuka</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAcDBv/EAC0QAAEDAwMDBAEDBQAAAAAAAAECAwQABREGEiETMUEUIlFxMjVCkVKBweHx/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQABQYCB//EACgRAAIBAwMDAgcAAAAAAAAAAAECAwAEERIhMQUTYRRRIkGBsdHh8P/aAAwDAQACEQMRAD8ArTn1dCOi3WxDjiGQp07iSs/OPnmmVotci5pUWrcEpBxucASB998nPxnip6fiquEVlpvKdx96h32gD/laFqPRs26aM9HDkpgtqKS6Ug7ukOSE4Pc+c+KwQkklkMcewHNeh3t4tuBvufesp1c7C03bWpahDnKddLIbjqB2kDJ3K8Y4rizKblWpiXEt6tzhI2FIJyO4Hjvj+1VpkXThnQdPxW1uQ23Nzr5aUhwrxtVgnGcD3YIIJTgd81u190xFh2BppxYeQhCd7gQEZ4ACgB28UxIrrB3F3xzn8UhH1JlmCynY8VidsdEhuULpDVFWlkraS33C/AVn/FFO9RJZahuYB6zRLZVjuO/+6KHDKsya2FaGJ230EgV20m4I8dQ3YJa3D5/bmtgRqy1NMNoXLjEKSApCnRkE9gRyefHHg1hDMpUdmOtnC3GkhSm+25JABFegTf7lJleptbsRl+WpI6ceHu9yEkJySeDglPHjyKLZukEzs55+VUvUrAzkMeN/7g1c1XZoF/1Q1erXdIcforQ+tOAsbgUhKu4BSoAn6HYk4r1D2o0OaTEVU2PMfRH9zgdTk+w5IHfblOBnnPBFJW4mo2oqencUJWltKQhMVsDakHanj9o3HA8fNIBfbpDZLb/oVutFLbUZ6CNxKOUgY8BXPPIPOecF9pIXBjwRq8Uh6RR8eoHT5/VVdSu+pamJwPaEk4HnbRS59xwtyesjDj251RA4Sc/iP5/gUVXx2jWw7cgwfNaGzuI5o9cDBl9wc0ouLDq48N+LcGG3FN7VJBO9sg+fupQnFMe8yw0+D+aF/l9+KKKhUOoJpyQFGKg8Z+9WjdJZP6okH+oYzUGpQZlIkh5Mh/cFKW65ziiipGBG4ZeRQJYEljaNhswwfrTS43Rq4xXip1iOWmyUtpJPVUTjA+Diiiij3EzStk130bpNvaW+iLOM1//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBQMGB//EAC0QAAEEAAMECQUAAAAAAAAAAAEAAgMRBAUSITFBcQYTIjJRUmGBoRQjYpGx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIREgQTMVFxkf/aAAwDAQACEQMRAD8A+E5Tl2Qz9FsXicbjjHmbXO0M1gFprsAM3vDjsLhWitt3srmWC6PYbUyPFTvc9v23xvbIGn8gP5fuvM2paC7ugk+gQtMtM1jZXiN5ewHsuI02OXBUCGxsNg8ktCcHRnV9VJq1dZs0Vu9bRc7RAdsLLHE4ukhbKeAcTXwtB2aQvjLJMBGD4xyPb8XXwsqkO02VhwTdnohqZwjgqrxGgcZh3OqTCh8dVpdK678Qd45KJp8vewiLL3sf5vqCR+iFn0p2jdaYE35dL4i0wjBuIvryu4e/FFUhFpHGTydi1Ie4CrNIipLoa3X3jfNC5x3uNc0RC2QiIhD/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Sénégal Fast Food</div>
-                                    <div class="artist">Amadou &amp; Mariam</div>
+                                    <div class="name">Ferrari</div>
+                                    <div class="artist">James Hype &amp; Miggy Dela Rosa</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAcIBQYE/8QAMhAAAQMDAgQEBQIHAAAAAAAAAQIDBAAFEQYhBwgSMRMyQWEUIiNRcUKRFVJigaGisf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCZYsZbziUNpUtajhKQMkmqD4ccuVwu8dmbqmUq1sOYUmM2nqeI/qzsn/J9q9fK3ouApbmqr34ISy4WYKXiAC4MdS9+5GQB7mqfRc4HUMTI5JHUMOAnGAc/jBH70Eaaf0lprVutrjpq2xZts/hrrqFSlS0vKkBKijPSUpCQCM7AnB/vXT3jlvnK0yxOs1wQ/cQgl2K5slZBI+RXpkDsf3rO4rWOFpfjTEf0jOkOTJ5Nylt9X0kIWrIQCk5UFEHIJ7EU/eE13nSoTbF0lKlPyEl8lQACFdyE4GycelBCN1tsm2zHosxhxiQyoocbcGFJUO4Ioqo+bPRTC7bH1TDaSiQ0tMeWUjzpPlUfcHbP2I+1FAwuAEWMeEdgSEJUFJWtW36utWaYbUFlK84KvsDSC5UdZMyrG/pmS6lMqMtT8cE+dtXmA9wd/wAGqFbVumgj28Szd+O2qJbp2ZnfCoJOyUtDoA/1zTi4FLcf6QtWTGXJY79whfSD/wAqdk3Vu28R9XGYvpWi5SXfm7qwtYI/PaqA4KR5kO8Mx3Un6MFTkopIKUuOq69yNs5G3r3oOk5iFtJ4SX/xsbobCc/zeInFFKrmx10w63G0pb3QtbbgkTSk5CSB8jZ998n7bUUE42K7zLPcY862yFx5TCgttxBwUmqf0JzHW5+K1H1fFdjyUgBUqMnrQv3KO6T+MiiigRPGS/Wa68TrvdbClD0GQ424kpQW0uHw09eRsclW+fU1sac4zXexaducO0xmYsyatA+JBKi0hKSB0g/q3O57UUUCymzHZUhx59xbrriipa1qyVE7kknuaKKKD//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Writing's On the Wall</div>
+                                    <div class="artist">Sam Smith</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcBBP/EACwQAAIBAwMDAgQHAAAAAAAAAAECAwAEEQUGEhMhMRRBIlFhkQcjMkJSgbL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRAyFB/9oADAMBAAIRAxEAPwDCNv7fv9dMw060ubnpFVYQR8yGbPHP2P8AQptPsHX8J6XRdVd38dSDhntk4ye+B9qV6FASsgdriMPxI6chQMvxd+x7jIq6Q7XYRBxPfM7sBgXLDJ9s96DMmUqxVgQwOCPrQoyQMgZ+ZrYr78NtJtYo3EzXDhHM+GYDn3I4n3GPn70gO1dKMK8YpebKCPzTQVzd+3Bt17RPWLctMrFgE4lcY7jucqc5B9/lRTffmyJtt6dY3eI1WTKyDrBmzntgecUVjnE1rl/Za6TFrbWMh5NFCt6EMMj06/7lrShrmnxPCvU5gMM8R4rGdJultml5uRyAHmndhqNk11bR3Nx07d5FWVk8qmfiI+uK2ya6zuqWTVryaG9BHXCxwjlgxjIIHfGD58VNLqjCJURETAAyTk063dPsK60LpaFcpDdxSI8QkbIYZ+IE4z475zVHur6zNzL05k6fUPHBOMZoI95X9zfehe6uHmPBv1HP7qKX65cRTrbCF1YIGzj6nNFAvhkEZOYo5M/zB7fY1G55MTgLn2HgUUVPquU0s9StIbGO3uNItbl1kMhnZ3V2BxhSQcYGD7e9FFVEGp3VtdSI1rYxWaqCCscjPy79s8iaKKKD/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Just Dance</div>
+                                    <div class="artist">Gaullin</div>
                                 </div>
                             </div>
                         </div>
@@ -757,7 +757,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Sept 2023, 05:04:12 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Sept 2023, 06:28:45 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
