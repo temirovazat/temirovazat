@@ -450,10 +450,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAgEDAgUDBAIDAAAAAAAAAQIDAAQRBRIGEyExQRQiYVFxgZEVoTLB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADESExBBITQf/aAAwDAQACEQMRAD8A8126K8QYMN3kYp/oFpHc3sUNxIIoXJDSHpt6Hr+6Q2oy46DJ+ao9Ph2orFgM9MZzU9zYJZ46+0urXS9BiTatxEW3d+c5BHX46dPv4+1JdYsFN3Klq55I/wAcHcO3189a0WdqzN7V9mAen0rddmCwtxJcHYp6L1zmua1utglnzwcmQ95psyKMMMj4oqjeaC9gMtsyuoOG8EH5FFMPIZRhmCgMS8HaTaajYXcN1G/OHu9igOR4wT2/FYLHntJshUEbsKpPX8/NOeHdTn0sP6K609GZSrFoS7MPOSRWmBYv5u3nnki5nMXcIYtg++O3emf2BYn9iIgKqAMzudg4O4Z9Bpkr3QDTSxBQOgKuR2ye4z+qg+NxBo/Glj6oSzafFs56RJld+csOvgjB+avbDiBEsI1kD8qKRWGfr/yuO8UcQXWoarc3U0iCF5jhWIZlXsFI+O1cymh/oSeY9xzviPuLbSxstZmu9H9P6C5iRtkTDCt56f3RSK/4jtHtOYli0jIwjJ3gA/gf6oqlKbCOoZNY/ciPR30pN/qonk9oxucgZ89qZ6dqlkusJLDaQxooDsCWYZH1yaKKvKg7snVyAMlHq3HpmtjbpLZW6t3225z/AGTXKLu6JuJWGHy5O4jv+KKK3UijqB5VjcQe9nkQI0gVfgUUUU3qJMbGPJM//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUGBwgEAv/EAC4QAAEEAQMDAwIFBQAAAAAAAAECAwQFEQAGIQcSMRMiUUFhCCMycYEUFZGhsf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAQMEBf/EAB8RAAICAgMAAwAAAAAAAAAAAAECAAMRIQQiMRIyYf/aAAwDAQACEQMRAD8Ak34ba6JS7KbuL2zipnWOHUNOvpT6TQGE8E+SBn9tSm/6n7DlFUBrdNaqS5lCfTWSkn47wO0fvnWbuhfTO+m9RIj8yG61UwHlInPB3sB9nLQIOSTkAgfQnT+1/DPYv2jru372vXTFauxcju9VsZ/SQkEKI+QRn7aIRYzU7Zl7msDMKJElT7bLyPSUtR7nu1ZQEEYXhKhnOASPpqWwaLbr8OSaqpYZDsFT6XH3C+wyW1pQSFJVlQUDk/BxjGoLvDZcqj3k1G25LTGaiR2kOTHF896APecnyT4A8ePGm2wtxvW0SLBn3CpNg4iQh5l5bLcWMyg+O0IyQo9vtHBPPBGdI7fEZjKM6irce05tW3OsW0xkVaH1IbxIS4pIK1BKDgnJ4I+vjzo1Lt7MVzdRMZe3IZE8trcTDbCUNYcdSvCUhPI9ue4nJIHA5GjUrsZgZxdJplhs/dVztrc8wR0SnBHWVK7/AM0k9q+f1IIwM/cfBxem5NxQ9h7Sfsbqaz6KUdsVhtKUB049qW0An/uAOdMrHalJY30e6lQWV2sdJQ3I8KAII5+h4UfI1VO7ui9fY3qJamZq2O4ksIdPp5+w57f2BA00WZu3bdWtjaLt5y3Gl2RU+hvJwEZwnGfpx/rV89POkNkz02RYVNlHjW9k22+sSme9DYGSkJI55SoZ8g/GrYgdN6GXXhNxTxJa8JH5qB7EgYSlOPAA4xnTq2tIG34jEdQUhtKQ2wwwMlXaOEoGfgaz2XVgdvJYqMTqZPtun29KmwH91hLmF0oaTKje9CvCU5wMj+QNGtEUlxfW1gLa0djVFKwoparmiHZDxwQC6vwn57U/50auRlYZU6isCD2iyLuO73LY1xgNviF6TEh5MX2JS4FH1GXFKwe1aMKT4UMpyME48wqqdVWy415dsPpmpbjtR3JCi6hppwuJ5A9xwTlRIyO0HOMk0aW4ZrYfklPsJaMdP9JCnSWk+qp0+oQDjJwBjP8AA1UVpvR6rvVN7ohKCZsnsixQe95trkBTYSnK+72jAJwQeRlI0aNYOHUjp3GZZY5Da1OiOp21MyC2Xahw49nqIcktIPgrGClJIzxyRo0aNcfkWvxbmrpOBmbEUWqGb2f/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Strong</div>
-                                    <div class="artist">London Grammar</div>
+                                    <div class="name">Memories (feat. Kid Cudi)</div>
+                                    <div class="artist">David Guetta &amp; Kid Cudi</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQGAQMFAv/EADAQAAEDAwIEAwYHAAAAAAAAAAECAwQABRESIQYTMUEiUWEjMnGBkaEHFEJSsdHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAcEQEBAAMBAAMAAAAAAAAAAAABAAIRITESImH/2gAMAwEAAhEDEQA/AL+k7jOENKAllx55w6W20D3j8e1ab/dm7Na5E55tS2mSnUlB8RyQNs7d6kH+PrTcmfy78SWG1KG4WEn6g5rk44L262WQVSty+hvWmPC1YOWuYc9fPoTj5U3a7gie2v2a2Xm1aXWnB4kH/d6Ts9ohXKKFtc9pGcALfX9iDXciWUQWOTHcRoBJ3UpRz8TvSXHUhd3iitaF5Pbrj+f6oqa90T+J8xLdreiuLCEPJBGe6gQQPtUizwubjwu3drYtBQy2ovtknOpONQJ7HqR6Yq247sk67LQYraHGEp0ufuT0OoD0pE8Ly4fCsmLZXXeYr2jidWC7tgitDMxAHtmm2puHdUXhSEuKtCMMhzUsZ1EjJz61yLfxNfbyzeW7ekOvRmgW8BKUleRlKflk5JB9BS3APFlvat4tt6cLD7eUlLydtPlVqw8wqIyu1pabaUfAxHATn0OBjpWT9V2TO+XO4bhTodmjJu0gvTFrKlb7IBBwkeYA79zminmbnGuC9LCxzG1YW33QcEbjtRT9PK8eTcd1bDpUAlST+knbpispcCHCtDKBntk4ooo1GiRm263T3Nc22RXuvvDz601bkRbakCFAZaA2HjUrH1ooo/I+JJuQGVX526oQlp55sNuJSdlYOx+Paiiiq3BiX//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Rocket Man (I Think It's Going To Be A Long Long Time) [Remastered 2017]</div>
+                                    <div class="artist">Elton John</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -464,17 +471,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgMECAL/xAAvEAABAwMDAgQFBAMAAAAAAAABAgMEAAURBhIhMUEHE1FxFCIyocFCUmGBkeHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQUD/8QAIREAAQQDAAIDAQAAAAAAAAAAAQACAxEEEiExYQVBUaH/2gAMAwEAAhEDEQA/AEvprTk3U16btttaCnVpKitSsIaSOq1HsBTWh+EOnRHbjvXiXMuCnEpUIxSkJ9SEkEkY9cVp+D8tu26b1bLaSkztjTbaVHko+Ykf2QPemTpGTEYt5kSm2/jbugpeUnO7bjBAI+kUMrjfFn5k0rZDRpoSE1voJ+wQ2bnAfVNszy/LS+pvYtpf7XE9unBHBqpxVNRnV/ERm5KMY2qUoAHPXKSM9xXXmprYzd/Dm/2+3seYXGglAKslTowU8k+uK581louFpGwRTPlKk3yUohLbCsMtJHKiSRlR5A4wM880cT9xTvKYw8ps8Y2PT49qnvSYT0Zxpq2RYzisYeDjqinB7AqI59qKwuNFOU7ClQ6g+tFdNaTmqmdL6gcsV0U+lrzYzo2PMbsBSevB7EHkHmmNbr/a0qjriXlDMVxJO2VHKnQrPKdjee/ckZpNbznnOcfap7RTLUnUMZMhaG2kZcUtasJAHck0btSNl2nxopWncXxNGRqq7RnXmIbyVxyrcklspz2zjPHFUXxAnSp71vdmKSVeUpIwOPqP+qsU7VunIbqm0efMWOq2kgJPsSfxVX1dqK0Xm2IbixpTMptzcgrwRg8KBIP8D/FEC0VQWH8bjStmDzFq3v5z+2q6tGVBCRycH6cde1FaapC9iRk/LwDk9PT2oqFb5YpS0yLMiEkXJLpfBVja1kAdu4z3rJ59i+HdbWh5t4EpSUMds4zyrg45x60UUujI9rUlJs6Y6jGlzXHf0pWwlIPuc8ff81G7gScEbff/ALNFFE1xKuq+14HPQdueKKKKu1F//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAAAAIFAQMEBgj/xAArEAACAQMEAAUCBwAAAAAAAAABAhEAAxMEBRIxFBUhQWEGMiNScZGSsfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A8qUqdu29xwltGdj0FEmlxGtuVdWVh2GEGghStps3RayY3x/n4mP3qKIzsFRSzHoASaCFK2Xbb2nKXUZHHYYQaUFttZ1HlOpXbufijcXJjnnjg9R7T3HxUtaLngNEN1D5xdMZD+Jh9O59YmYn5iqa27W3DIzKw6IMGsOzO5Z2LMeyTJoOzlNzH1AC3M6PnHIzgwT/AB4cf9NcPRczo9w8pD5so+wTcw+vXv3xmP6qnzXMWLI+MevCTE/pUbbtbcMjMrDogwaC23IX12nTjcA3isjC3k+8W4HfvE9T8xSql3Z2LOxZj2SZNKCFKUoFKUoFKUoP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Steal the Moon</div>
-                                    <div class="artist">DubVision</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Bend &amp; Break</div>
-                                    <div class="artist">Keane</div>
+                                    <div class="name">Moth To A Flame</div>
+                                    <div class="artist">Swedish House Mafia &amp; The Weeknd</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -485,10 +485,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAgEDAgUDBAIDAAAAAAAAAQIDAAQRBRIGEyExQRQiYVFxgZEVoTLB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADESExBBITQf/aAAwDAQACEQMRAD8A8126K8QYMN3kYp/oFpHc3sUNxIIoXJDSHpt6Hr+6Q2oy46DJ+ao9Ph2orFgM9MZzU9zYJZ46+0urXS9BiTatxEW3d+c5BHX46dPv4+1JdYsFN3Klq55I/wAcHcO3189a0WdqzN7V9mAen0rddmCwtxJcHYp6L1zmua1utglnzwcmQ95psyKMMMj4oqjeaC9gMtsyuoOG8EH5FFMPIZRhmCgMS8HaTaajYXcN1G/OHu9igOR4wT2/FYLHntJshUEbsKpPX8/NOeHdTn0sP6K609GZSrFoS7MPOSRWmBYv5u3nnki5nMXcIYtg++O3emf2BYn9iIgKqAMzudg4O4Z9Bpkr3QDTSxBQOgKuR2ye4z+qg+NxBo/Glj6oSzafFs56RJld+csOvgjB+avbDiBEsI1kD8qKRWGfr/yuO8UcQXWoarc3U0iCF5jhWIZlXsFI+O1cymh/oSeY9xzviPuLbSxstZmu9H9P6C5iRtkTDCt56f3RSK/4jtHtOYli0jIwjJ3gA/gf6oqlKbCOoZNY/ciPR30pN/qonk9oxucgZ89qZ6dqlkusJLDaQxooDsCWYZH1yaKKvKg7snVyAMlHq3HpmtjbpLZW6t3225z/AGTXKLu6JuJWGHy5O4jv+KKK3UijqB5VjcQe9nkQI0gVfgUUUU3qJMbGPJM//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Can Be (feat. Crysta)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Strong</div>
+                                    <div class="artist">London Grammar</div>
                                 </div>
                             </div>
                         </div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Sept 2023, 18:11:22 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Sept 2023, 19:09:53 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
