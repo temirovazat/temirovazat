@@ -450,13 +450,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwECA//EADMQAAEDAwIEBQIDCQAAAAAAAAECAwQABREhMQYSE1EUIkFhcQdSFSMyNEJEYnOBscHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECESEDEjEi/9oADAMBAAIRAxEAPwDTX3veoDjrj6Fw6Qw0kTJys/lJXgNjusjb4GvxSn6pcUOIaXbLbPMVf8Q82PN/TSfQ41ONfjU1llusrvEM6PGtZPT6SlOvKbUQhQzgKV74G2gz670s+Nv6YryJBf8AiS48TXNt6SpOAOVtpAIQj41396acZWti03BiPHU8UORmpCeskBWFoB1xpuSKueGOAIlmiB6eoSJTrZ3QeVPsB65715vH0/mcRsuXC0lAcZbCAhzI6pGgSCdBgf29K1U4Zi/ZkhwfIUQpIjR0NscxL4T+Y4pWPKVdgBsO9FdgIftUd23TmFxp0dZ6zSxggnUH3BGNaKFii63WVmXPcavNwTFaCsLQ0Oq+8d+VKU5CR8netWgvwLDbI3hoggW5tB/aHiHFq9CEAHJz3OKl7YhqwQ3ZH4e3HXIKBDjEc7xJ1JUfT4GKJ7Sp8pr8RnNrk8hU8hSVBmH9ocIOVKOwSCP9VW/yRpq84MXbw5eVhydIcRC5VtpiR5Cg7NXrgqWB5QMjIGmmpFdtNwu8KwS41vkOIckpSPEofUW4zaToGwRg7kZG/ofWl6oqIzjMGKhyRcX28rQ42AcalIUBolOmQgYA3VnamLtqeDD3jbmFLZa6ilO5S0lX2dyf+xR18wWOPUQV2cDNxkFTi3XcJSp5aipTh3ySd96KRXiUsSng6lTa+Y5SrQj2oqcoRptotLk51b0Vb6wPKZjiuZ1Y+1oH9I/mOp30GlNXbEISGGGUpXcnifCsNnyND95wk6k91nU7DG1FFV5xsiqn7JHzkvPwJ6rTw+lUm8v6SJ7g1GNwnsB32G2pqa4hivoUi3p8Vcp69FJaSpzGN8JH+TRRWW8eCytWkjxJZLx0XjJtklt6Az1JClDJDWQElXbGcdwMZ2oooorXRJfD/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Outside (feat. Ellie Goulding)</div>
-                                    <div class="artist">Calvin Harris</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAgEDAgUDBAIDAAAAAAAAAQIDAAQRBRIGEyExQRQiYVFxgZEVoTLB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADESExBBITQf/aAAwDAQACEQMRAD8A8126K8QYMN3kYp/oFpHc3sUNxIIoXJDSHpt6Hr+6Q2oy46DJ+ao9Ph2orFgM9MZzU9zYJZ46+0urXS9BiTatxEW3d+c5BHX46dPv4+1JdYsFN3Klq55I/wAcHcO3189a0WdqzN7V9mAen0rddmCwtxJcHYp6L1zmua1utglnzwcmQ95psyKMMMj4oqjeaC9gMtsyuoOG8EH5FFMPIZRhmCgMS8HaTaajYXcN1G/OHu9igOR4wT2/FYLHntJshUEbsKpPX8/NOeHdTn0sP6K609GZSrFoS7MPOSRWmBYv5u3nnki5nMXcIYtg++O3emf2BYn9iIgKqAMzudg4O4Z9Bpkr3QDTSxBQOgKuR2ye4z+qg+NxBo/Glj6oSzafFs56RJld+csOvgjB+avbDiBEsI1kD8qKRWGfr/yuO8UcQXWoarc3U0iCF5jhWIZlXsFI+O1cymh/oSeY9xzviPuLbSxstZmu9H9P6C5iRtkTDCt56f3RSK/4jtHtOYli0jIwjJ3gA/gf6oqlKbCOoZNY/ciPR30pN/qonk9oxucgZ89qZ6dqlkusJLDaQxooDsCWYZH1yaKKvKg7snVyAMlHq3HpmtjbpLZW6t3225z/AGTXKLu6JuJWGHy5O4jv+KKK3UijqB5VjcQe9nkQI0gVfgUUUU3qJMbGPJM//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Strong</div>
@@ -471,10 +464,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECBAP/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEABEFBhIhMQcTYUFRcRSBkRUiMlLw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAHxEAAgMBAQACAwAAAAAAAAAAAQIAAxEEIRIxE0FR/9oADAMBAAIRAxEAPwBAobLh2NTWG5bnToxejtlaApSdubgX4/29SWTsqT8wEiDHLmkXKr2A+52q5QMiyVvqiPxyzJGw7htv9/SsWuUHAfY0vKxGkSqNdPcXWFBAZOhCXF3XbSlRsCfHn0qGxTLsvDmEuyQ2Emw0hYKgTfkDccU5Y+T8TXFTAchyjICSngdtTd7/AMr2teofEenMxDyGg2Ap1ZQlPufB9qzXo/phnjP0IljdKrelFXDPOT5+Wyj66OUBy+lYN0q+CNqKYSxXGgxd6GQ4ZfOkCUTMvzoz50x2HEyCtCwFggW4J3FvxTIgzmsaxgOtKKGkJS2NRuSkC1z5pa9JZ8KFgj/eQhxali+oC6fxvXRnfG4xxF2K0EJivs6HeybcjcfNctbFN5XJ2nof8AYnz9R4fpoET9r6Rt/cce3xVRxfFHIGI6pa+83YoABAIBFtvNKKHEyskFpwrW7o16XHTx9qmsqY5BRibLThCYsdGhtClC1hxuaYvZQpxYvz87/Ia33PbrYW2Mq4VGZUVMvrXJStagVXIA4HAorl6u4jDn5fjOR0MlfcUg6Qm6dr882oqcjhq9AyB2Vuj4ximwvGH4DS0Mr0lXO1YfxR197uPLK1etFFNBF9bPYob7CgXfBASwp3u769Onmt2JxSsn0PmiirKgiClrA7NZ0supCQdvmiiioqjJb2Mx0z/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Bend &amp; Break</div>
-                                    <div class="artist">Keane</div>
+                                    <div class="name">Fractures (feat. Nevve)</div>
+                                    <div class="artist">ILLENIUM</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -489,6 +482,13 @@
                                 <div class="infos">
                                     <div class="name">Rocket Man (I Think It's Going To Be A Long Long Time) [Remastered 2017]</div>
                                     <div class="artist">Elton John</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBA//EAC0QAAEDAgUDAgUFAAAAAAAAAAECAxEABAUSEyExBkFRImEUFTJCcQeBsdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAEQMSBCJRE3H/2gAMAwEAAhEDEQA/AOBs2DemMyTqGII4/f370liGHoTdNJSdMrnMVEQmO/4q/bvqbaJuGG9kwM0kD/GpDuIOjGU3ZAcU0oQlZ5A7H2rWdKEEkRJrCdS5W0blpAT9x4PH90pc23w1wttS0rCfuSdjVj5osSPh0zz9R5pNQ+OvSS25KyJS0nMriNhSghg3PmiwSUhThUCqCAkUVfLFuq2SrVzDLtvBB/FFP+M6SJp+qbAW+qGbYMsrV6QFTMePYHaoKcC+aNqNqptLzaAtSVGCe2UeTvMeN61+HW9tcMli5uTKFu6YK+yTtHnztsZpTCbVauonbhVmFWs5laaCQlMxtAMCYG4NXcigqGhadZg77DXmGdZpK1MA5Ssj7qcwCzdbcefWFtOtpBRl2UDMz7cV0HBbFVxZ3VpetPhC/WhttsqBXHeB34mvbrDbS207bSeGJLBDiUI7AkCZO1K1UGDpcxN9Y3aMNe00AsITypMkeYJ4orZ9WYI+q0YLaHNKCHAAQAviKKVm7HrD1PkbxHpfHOhWigItsSbvU6IllSktryhfpUe4B889uKe6O6ZxxyyuLi5tsrN4yFQ9mIMGQv0n+fNFFUxlYuq+zc4vGxtdj2VMB/Ti7btmcSxu7uEMKU3nSwrKtMmAjfcHKJkbGYO81rsd6D6O6XR81xXFsQS423n0lubvkHcTySfpMHvRRQtkbarmO6iif2cxxTrnpFvE1LtrXEAwq4KiDEJakmAJnNJ8/g0UUUYNSLmcKADP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wildlife</div>
+                                    <div class="artist">Jauz &amp; KARRA</div>
                                 </div>
                             </div>
                         </div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2023, 18:11:57 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2023, 19:09:51 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
