@@ -450,11 +450,18 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQD/8QALRAAAgEEAQIEBQQDAAAAAAAAAQIDAAQFESEGEhQxQYETIlFScQcVI5EyobH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEAwIFBgf/xAAkEQACAQMDAwUAAAAAAAAAAAAAAQIDESEEIjEFEkETIzJRYf/aAAwDAQACEQMRAD8Ad4HEqLcdgIAH9Uoz9v43Mw40aESL3sdckmq/ByBLcLsaIqU6gyAt+pZZbe3FwqoFbjWmGydH1rz/AEs25t+ToKn6Kc7014CASxuzKfQitB6Aea8wNul6C5RCFk3yV3obqFzvUK3VmqSWMqNzwdgD39a7f026k8NkJbK4MjW0qbTnYRgf+Gn1FOdLdyg9lfBeZrHRogZQNelFdV/cRTWhCEMGorVOTXBZLGTKcT1S9xGYoFEYOwrud/6FN7LwkEaPcMzTM3Pmdg+dZnhbeVJggVy6knyqjvb5obb452EiPa3586dOhFS7YeS17q7H2T+HeTyooD26NqMv9T5n2171O4u+/YMsLiRfER8qwXjj66rlw1/PevMIkeSRzsBRvivabp3NyOzhURD82nPl/VJjFQ2TZJ5V0XsHVGPyH8dhOpk+wjRB/BorFLuZhdsGYxzI5BI41+KKxfTU8pmPrJYaL3C3QlYgx/J99PL20sb2yCShZF/yYA0UUOe2eBXKyMelMbbw2XbZ2wgXZAGufc+ZpzNbhIW7tbHJooqVST7m2SX0Yd15apDmJe0r3H5z2/Siiiuj079tA6nyZ//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAMEAQUGAgj/xAAtEAABBAAGAQMDAwUAAAAAAAABAgMEEQAFBhIhMQcTIkEUMlFCYXEIJGKBkf/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAgEQACAgICAgMAAAAAAAAAAAABAgAREiEDMRMiQVHB/9oADAMBAAIRAxEAPwD6M1fqJjTOT/XyWXXwXEtIaboFSj+5NDgE8/jEM7VcWPpBjPmGHZDUlLRYZFJWtThCUpsmhyoWSaw1xkjmfZIYrT7bKkrDlO/YurG1X4HOKec6YlZjoVnJlzW2pDSEW4E+xWzoH5rgc/t1gA3sxmoJY2ZYd1hDa0K5qdbD4jttFamON+8K2FHdXu4u6+eseMn1pBzLQzmp0svNRmmnVuMqorSWyQpNg0eR3dYwzpqQNBIyJyW2h1LXph1tPs2hVgV+KoE4rxtKyl+PX9PPzGmHXm1th2Om0tpUboXRI5I+O8TLMHr4+4JRrLU2+k8+TqHLFyRGdiPNPKYeYcUlRQsUa3JJBFEGx+cMUPG2nJeltODLJslmQpLqloU0kgAKokG+zu3H/eGHXrc1wqsQpsTk/wCpRcgeOfTjIfKVy2vVU2DsSkWffX6bA/HNYxPdVK8D5UG3pb4ciRg46oHcUp2lW/8Ax9pB56+cdd5Iz+ZpvTDk7LoKZ0guJaDbgUUJB7UrbzVA9fJGKmd6rmQfGjeoWMr/AL1yOysQ3QabUspB3ULoXfV8Yx6ZCg0YcbBWBO5opC3U+ClJZclSXfpvTK0AlVepSvz7ALF39o7w0nPejeFpEiL9RKktNPhKG7sEqNBJ5O0WOeeBjoYWp5j3jZrUCMrUmYuPvTDANbr2iuL2/q6usYg6pkHxzJ1A7lpbkx47zgipBAcKN1bbF0qr6+cYjIK42235KOSykKKsyLxDmzmcaQQ/I3+sh5aFJN0kcEBJPYog9ns4Ym8V6ok6u0k3mc2CmC96q2ihAUEK2n7k7gDXx/IOGHIF+ooSByGm7m71Fk7edQPp1urZUk70OJF7VfBIPf8AGKk/TLE7TDWTvyHtrSUhDw7Ck9GuiP2wwwAUch3FwF5VuSQdPNxtMtZM5IddQhNeqeDd310Bfxjw5ptiRpiRks59x5qQFBxxPsPJvgfH8YYYn4U8nnr2qrlQ7KNGR6F0yjSmTKy9uY7LSp1Tu9wBNXQoAddf9JOGGGHYkmzFZzyHJuzP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Mask Off
+                                    <div class="name">Way 2 Sexy (feat. Future &amp; Young Thug)
 Explicit content</div>
-                                    <div class="artist">Future</div>
+                                    <div class="artist">Drake</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAtEAABBAECBgEDAwUAAAAAAAABAgMEEQUAIQYSEzFBUSIVI3FCgZEUMmGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEIRIxBUFRcYETImGhsfD/2gAMAwEAAhEDEQA/AFoRix8Qw4nF4x4NxmiQqGgmumLJNX3Pf3p53H4mTBfyTWCiNlPKpLZZHy2TuPjXf2QKP41rx+VdaxETlhPTehFaUphpSQp4dMAgnluqJ9/g6SYzk3ILnmRincdEeabXHQt8lQ33Kh2IIFDYVXbSaWQ0qCM/FUG+IpeBebBCQI8in+LJnDi0xOlAgxnSA2lBhtoSK7J5v1E+6G+tSuFA3hTKONxzaJASWSpCAGyQa9/xqNnsLmMeZkiXHBWFKQ0K52pABrbbZSdxYO+3itdyJEt/AIQ+2UY5ppvpyOdQHPQBBUn1avHjRw6pKR6ZEDelHbNWn3qkqhXLcYrk8vCx7WAyTTmPxjkxuMsuFthKekooJ8pG1Cx6N0dGrZlRmMdxCFNJcclQFoC2RfOlLalAgA7C97HYeBo1louiSNj5rBaZUBrEEdxVLA4RpvF4t+PJSt5cZoPNqbWByloWLur8aZyDMbKxJLMeFGjCPaW3UOFVfLek+tjse/Nel8Zk4quH8amBJdMv+mZ5k9ADlpsXSiaP8C9OOMyImDgJLqqLam1blQtPKCPkbB9gUL7aXZavLglRMTgY6eKK69a8PbLRSY3PnH7UziLI/Xgyt+Qtltk/baKLANd/7tuwHjv71obmITAYisvyI6LSp0BIKVqSCEqomx3NiyD4A1hkcuhicGGj8U7OKJJAPgVfjTpyMVICkr6hT+ltV9waNE9rrVAWaG0ltJ2/ulSg7eJCHVIIS5sYn6mp6nRFhTZHWc6q474txugq2VJIAB2ABA/fRrzMLdmcP5Z8R5CkBh5JPVCAPtk0Bfj8G/8AGjSPrafaDEfIq83ZvqQkqM9xn9qfwvkcfITiGPqURlQjpSpReR8ftAGxf/P967HOzManEEt5nHEx0qKEIkglV13sAeL96NGny4pWZpW+tGmTpSJkc+9fOXJsBx5bhyUFPMboOpPgDvzDWbGThtvgCbjihSQkrDyQqwb7XVfvo0aGpIAIpS14rcvrbYWqUyMQOVUpE7GO8Ly1N5CCXUJf+JkovlLW1C9zfoaNGjUPQCSOldU88qRX/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Don't You Wanna Play?</div>
+                                    <div class="artist">Seeb &amp; Julie Bergan</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -465,24 +472,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcFBggCAwT/xAAuEAACAQMDBAAFAgcAAAAAAAABAgMEBREABiEHEjFBExRRYXEIMiJCUmJygZH/xAAYAQEBAQEBAAAAAAAAAAAAAAABAwIABP/EABwRAAMBAQADAQAAAAAAAAAAAAABEQIDEiExQf/aAAwDAQACEQMRAD8Aitx3ffl46r7wtdn3dcrfS0Us8kESyHtIVlARRnj93n1qdtdJvOlkqoLhvG+3GYqGheGdokHIGMgknPeD44wdTQsFquHUu/NKokqZK6QcoTz7GcY01rPtS201MqR08QVf5VAAH/NUSX1jBLU9LvCWYSS7nvkUPaCYzWuOWRXALfYsF8ZOD+DHXij31PVYtm+7nQJ2k9s9S7hm/pBOMH39wR4zrRr2WhRSBTxY/wABrJv6k6ySDdMNHFDElIi8lFGWLff7ADWdPKBYb+HW1t1b3tvWnb237pu653ClkrYFlV5GCyK3JVlOjVP6TW+eHqvtR50ZZI7pGkgPnIOjQFZse3wxDcNyfsXvNQ3OOdWoRuqj5f4aj3ke/wDWlnbLnTw70vkSu/eKtwwZiQDn0PWmJRTI6hu9s/nS3Ucn7PqkU/APxQGbHPbrOXWzbltr7lQ07q/z7yJCoQcY/u4+n0OtHPMuPOlj1NozPJBUsUj7JkeN/eQeR+MaltPUhflvxtFZsnb9Jbt1baRcmshuKNOWOSzFs5/B0a87fWSR9Vtrsrr8OevijYZ8jOQcaND8k/RGX2V7dKbqpuqe5LhY4Wmop6+SSKRHVkdSeCP4vGmJa90bugt/cKJnnC/tI9/Tg6NGsdOabtLZn6V3c936i3K3s1O9bBUs3EUMYVVXP1z9NLuvp+oktFJSVgucrM7SBmn8EgD2320aNHPCQdNOw46X7d3FSdTts3C8080dNT18Uks08y4RQeSSW8aNGjXohKn/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBAv/EADEQAAECBQEGAwcFAAAAAAAAAAECAwAEBQYREgcTFCFRsyUxQRYmYWSUwdIyVIGR4v/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAAIREiEx/9oADAMBAAIRAxEAPwDjd0XDXEXXWkN1qqJQmefSlKZtwADeKwAMwk1cVeKh43VfrHPyjy6W/eyuH59/uKhNoAKGY2CzW1wqlfVae+FYqerjCnVxbgON3nGdUZ5y4a8CfHKr9Y5+UaVysSp2epp3DtCYTPl3e89RG7xjpiMW5gk5ipylete4K2u6aKhytVRSVTzAUkzbhBG8TkEZgifa4PtZQ8Dlx7HcTBBSRMXanF01rrxz/cVCEkGxMtGYTqaCsqTzGR0yOcVboaKrqrXI445/uKhZmVUfQwzLBZ7XTzKlIl0gas/rX54xEifS0ZlxUujQyTlKck6R0yeZimuVcDGAD59ISXKL9Uk/xCc06N92oj3qoh+eY7iYIdtZgpuii5/fMdxMEBJDd7c2KJmKzPTc/UShL0w47oZYUogKUT5nA9YsSuyK3mQneuVJ0/BAT9jBBGwti1FWyy19zp3VS/v/ADE6Z2Q286k7lypNH4oCvsIII7yacpDWxUMVeQmpGpFQZmG3Sh5hSCQlQPmM9IIIIGn3PPy//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Battleground (feat. Laurell) [Radio Edit]</div>
-                                    <div class="artist">MIKVH</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Fly by Wire</div>
-                                    <div class="artist">Anevo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EACwQAAIBAgUEAQMEAwAAAAAAAAECAwQRAAUSITEGE0FRIgcUYRUjMqFxkcH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQMB/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxEEEiExQf/aAAwDAQACEQMRAD8A2VJLDl9alPPBqDorK/FiSRvfb+74cp84+1lh+5VHpyWUsFs172GxN8RdUqWaKn7ypqQONUZsgHJ1AXB/rHOj8nStSWRpjHqjIplilLMUJIDMRsCbXxC5easIMHuMutZm+yzfPaQ61jjPcF9I0nge/Q/OK6fO5bgzQLHEf4sUJDbXFrc3P42xcL0ApzR6oZjoSVVZwVNyQANrEb7eb4zubdPVHTz0k9PVRVcdbMY/tpUEKiwNyunb8nji9sb3UBV3J2pgThM8Fv1CZYZIY43Kdy4udS2PHo38esGLPIrz1M7rGqxMxj1BNmKC3I/76wYjX8qu2gZFJcVGAyfPI/v62OgmcRU7w6WbT8tLXBKsBsfxiP6bxKiVUVAZ1ptazK4XUSxLAg3HoKbf4wnnFVfM1kSEMYR23Y34I+NiON7722t7w/091NNR1T0rUVTWrJoYyQhQE8FQDueL384rc9orI39gLKyx9fk3scNX2LCrq9YsNRhFztY+MZDrqqOWZTE8sxqZnk0xx1Eahm2AOm9tJsCb384foOqVr5IRLlNdROryR6J7BviLhtvBv5tjB/VjNsn6khosqWCdawy/tSyIS6i9iQvBHxO5tbnDrXRx4bM01Ts0PS1XJWu7EkQiLuKq20g30+CdXHNyPWDFX9PKf9NoftgytEsRjTXtJ8TubcEWI3GDEu1grZErpkdOGzGpQLHD2WBEplkYFr240niw49jDlP0/OZJXbtKYyXptDEHWrWRmN7cAG2DBgnHezoA006KlVyRJanKc7zGOUV2YcoFZCdIfbxa43839/wCln6Z1MqwpDS06qq2DfMKRdrMbn+Xja/vBgw0uR7EwCj5E8ohrMqqpzUKFh0lVHcLab77X58XA8+9rGDBiJ2dLmyUeepfCf//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Closer (feat. Halsey)</div>
-                                    <div class="artist">The Chainsmokers</div>
+                                    <div class="name">Just for a Moment (feat. Iselin)</div>
+                                    <div class="artist">Gryffin</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -490,6 +483,13 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Ferrari</div>
                                     <div class="artist">James Hype &amp; Miggy Dela Rosa</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcDBP/EADAQAAEDAwQBAgQEBwAAAAAAAAECAwQABREGEiExQRMUByIygRVRYaEXJEJxgoOR/8QAGgEAAQUBAAAAAAAAAAAAAAAABAABAgMGBf/EACYRAAICAQIGAQUAAAAAAAAAAAECABEDBCEFEhMiMVFBYXGBsdH/2gAMAwEAAhEDEQA/AN3RDiqf9QR2N/hWwV2chxSklyOzu8HaP24pGv02LGuN7n3Bc1UKJbUzEtR5K28BBc34SlQGSNndVdpv+n7kxdFSbXdWHYEJNxWzLkqcLjBSSFJw4oZOOjisrqOMtiZlXESFNWK+n9EO6fszTvZskEFpB/umoKhx2+47Q/wFZnbblp246buF7d0q/FgxIvu97oaKnUbSrCdiyQcDpWO68dt1fpWZJ09EgtXth29KUltDUt1HtylSkYcAcwDlCuBnqqV45kJbmwnbzRBra/1F0x7mrGLCUk74jJ/1iil2EHYWpHGWZ855hmKFLbkPeqnetR24yM5AQrz/AFUV1NJrV1eIZQCAZE4yDEye/BusiTapd1jRUzrXIiKfWQn09/p7SckAn6iBnOOeq9MD4eMwGLnH09eo8O33WO2zIZaioWFFLKm1KSrdxuJCiB5H6mkvTsrR+oVyE6vhRnVKCVtLQC76KuUqBKMkApDZ5G3j8xV1b9OaMs91claduUCFHdQlBKJ7yXcdnACuMkDrHFZjXPkV2UMyn1ygqfHzcIZe47S7t3w5uELTMqxM3yCzBksKju+3tCGluAtKRuUoKyVZKVZ7OMeah/ClqNcXbharoYk0z0T23FRw4G1JaWkJCSrBG9xS/vj9asG9Txozb7bU0SB6n8vtZkO/LuP1KV2duOj3muVh17E9Z9F2fbBCjs9vGXkfMfqHJzjb47zXLObidM6m789o3v8AEkMaepNth6bOuCvxUtyFultYRgFYbAb3bexyhR4PmikDXN1iRLjMes4cchOqQvKXFpDZOSSQvlOVFWQMDATgc0VrdA1adAB8faEY1JXYxVtlrscWU6hlyIpZO4hcpOwH/mTTBAudmYUpBnRueCkOYT9j3+woooooHPdLgaFCSfaS8+XmSxIjnG1KXPlHPZ8mlO92W6FwlD7ThV0As7vvRRSA5BYjg3K0WW9Ftxp5xbbJxuSXuPz5BOKKKKfqGSoT/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Shiny Happy People</div>
+                                    <div class="artist">R.E.M.</div>
                                 </div>
                             </div>
                         </div>
@@ -510,7 +510,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2023, 12:08:56 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 13:04:23 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
