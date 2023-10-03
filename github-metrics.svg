@@ -33,17 +33,17 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -450,17 +450,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAAUGBwMCBAj/xAAzEAABAgUDAQYDCAMAAAAAAAABAgMABAUGERIhQQcTIjEyUWFxocEUFSMlQlJy0ZGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAIDAf/EACURAAICAgEDAwUAAAAAAAAAAAECAAMEESEFEiIUMWEVMkGR4f/aAAwDAQACEQMRAD8AQyfSG42JZDKpK3XiE4K1rJUT657PML6x0wuOlSi52cZtdKEZ2ShWTtjGNOPffmPout1eRokqXZ1waz5Gk7rWfQD6naMSv+9R2a5upEkLVpYlUHwA3xn/AKTHKEd/JuBHYwqdFm4AkHMWjWJ1pTSWKC1rAOtlvQRz5gNo5NdLa66hK0vSGFHb8VX+fL4RRNzd5sUVVfdtF1NCQntFPL1I7nrknOPfTiNBs+v026aEp6moKHG+65LKPebUR8x6HmJc6r9slGNh3ntU8zK5XpxWnWVyKfuXUchLyydRPjsrTmCNp1ykuUobWO0HmSlOojfwzxBGJsP4hf0qiRoTMT80qYm3HXnV+ZxZyfnE5OKpdJ6r2s/dCPyNvDjmtGpGcqwVDkBWgn2jSWW5dkYSkKPxhNeFsS10yCWJhRZeaJUy8kZKDyCOQfSCrMgtx7Ca5mObaSqe8vHGbUvutvS71Sr10yM68T2bCnE02S0JyAVI0pyM8lRyRtGI2NKy1P6m3RIUCaW7RWi4226FZ1pDgCd+eRnkbx3boN+yVBNvM3OxLUAagW23SgaVHJBwnUQc+GcGGVvSMha1OMpTHC9MOHU/MKTgrPAA4AiqobOFEVYWFatodxoCVr77Uk13cF39KR9YIm9SnlFS3QOTmCCBirry5Mf909A9RqGgDTMqV8GVfUQtnuosk6CGZlaR/BX9QQRRGCnehEJ6ld8RI/d0s8SXJxf+qv6jxRdEg2kn7QtXsEHf5QQQV6xwNACUPUbviJqrcy58FvWWmP2Jzv8AE8wQQQWvU7EGgo/X9iqx3sbuZjuf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fly by Wire</div>
-                                    <div class="artist">Anevo</div>
+                                    <div class="name">In My Mind (feat. Mi Manchi)</div>
+                                    <div class="artist">LVNDSCAPE</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAQFBgcIAQP/xAArEAABAwMCBAUFAQAAAAAAAAABAgMEAAURITEGEhNRByJBYXEUMkKBkVL/xAAZAQEAAwEBAAAAAAAAAAAAAAAEAAEDBQL/xAAdEQEAAgIDAQEAAAAAAAAAAAABAAIDEQQhMRJB/9oADAMBAAIRAxEAPwDLdKoKQuQ0DplQFJgCdgSfiveKlaHULKSEpUMk/NU+T1X2Xx4cP3KPZn5yBFEGOnKEuAhxZBwRvpoM5q0OBuJ3r7wcq9Q46WXuqtstKPPgJwAdMZqgp12kv8P3NhkdNEXlSspOArm2/dXf4BM/R+HEFxXn6rri9PnaihOmujXsl1iVe5URT95Qw0VE8qW+3of3vRTzJkBbClN/YU5Boq2ZbZia08W2+22tDCeHLbJmhODJfQVknXXlOnbbA096R3/jC43yImLIQw1ETycrLDYQkFIUAcD18xz307UwNxXnD5UE0tTZ5vT5+gop9qX8r+TnNgkoskph+xOx3MuzXZSXEN7JV5cAq79gPTWtL+HLDkawx4/RajgNgqQ2CU5yTkf2srWK3yi+hJHSdT52ivRKlDXBPpWnbDfBBixPr7jBBLY50s+Yo02GN9fasHHYtoI/Hlo07SPvHQnM8GXNECQmPK6RKXv8p/Ip7HG3Y0VCeOeKDd2RDiBYipPMonRTmNvgZ/tFLx8NTduoDLzgtqvcpzh6FZ5FtbTLlJhyUrwolKlZTjfTPr8YxpvT2piFGf6UOU3KYV9qhnmGnrkAb9qKKTjhMkURmmicFsFVOLKgnAQjB96KKQQzOOLPMVHeiiiosgT/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBQMGB//EAC0QAAEEAAMECQUAAAAAAAAAAAEAAgMRBAUSITFBcQYTIjJRUmGBoRQjYpGx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIREgQTMVFxkf/aAAwDAQACEQMRAD8A+E5Tl2Qz9FsXicbjjHmbXO0M1gFprsAM3vDjsLhWitt3srmWC6PYbUyPFTvc9v23xvbIGn8gP5fuvM2paC7ugk+gQtMtM1jZXiN5ewHsuI02OXBUCGxsNg8ktCcHRnV9VJq1dZs0Vu9bRc7RAdsLLHE4ukhbKeAcTXwtB2aQvjLJMBGD4xyPb8XXwsqkO02VhwTdnohqZwjgqrxGgcZh3OqTCh8dVpdK678Qd45KJp8vewiLL3sf5vqCR+iFn0p2jdaYE35dL4i0wjBuIvryu4e/FFUhFpHGTydi1Ie4CrNIipLoa3X3jfNC5x3uNc0RC2QiIhD/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Can't Stop Loving You (2016 Remastered)</div>
-                                    <div class="artist">Phil Collins</div>
+                                    <div class="name">Ferrari</div>
+                                    <div class="artist">James Hype &amp; Miggy Dela Rosa</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -478,17 +478,17 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGBAcIA//EADAQAAEDAwMBBwMDBQAAAAAAAAECAwQABREGEiExBxMiQWFxgRQjUQgVkTJCscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QAJhEAAgIBAwMDBQAAAAAAAAAAAQIAAwQRITEFEhMUI0FRYZGx8P/aAAwDAQACEQMRAD8AezmdwPFI37e48VBI8KQVEnoBVi/G38JBKvwKxb/ZLqjTEr6Nthtp1ouKfKz3ilg+FKAOMcdSeSeAeKpDX3ELxrOgXdTOJUXQan6SVn2e02qOxclS/wBwUhaVKYQjaPbn/OKurFfNNazbMJm1JRJDe9yO6kYIHmFDrj4Ncsvy7vbbm6xKfkF7vPuNrWVBZz+OlVFo1auw32FKU09HKcK3jlW08KBT7ZFPU4/jBVgJQX9VszNLS52/vidLS9A6YXbi6IDDZI3b08YNFKrFqq3Xe1pRKnxX7VjKVNZCl+ih1B9KKiRXrwI3VfmKNrGI+24maqG68S2wtpDi8Jy4SBtKgDjHnjOKmf1H31y32O3W62KKHFukq2f2pSkeQ96es36HI1bDs8YKW+p3xK8klIJ+elLu0C0W2ZPZm3KUpuRDbddS117zjgZPQZA6VBiEIBHMXvDOwJPA/c58YkS4TjVwcgpe34UXXWyXFZHBBUM/xWNJj/vj6JG8MuBOfEMpPmRxzn/uKc3O+ruN5ktsREMsPf0tt8tp4x0/FNuyuzuSNQFxRUpuJ9x1zGE7sYSPcnn4o4cqddIt4fL7YOxjrRGkVWd2VLeUrvZSU/aPRGOSfn+RRWxn/p4yHHHlpOxO4pByce1FK291jliOZpMIelpWmrgT001Lt197SXnLXCaLNuYU8qc0eFFY2pSfXkn4qS7QdSNzJNyt0pjCms9y6k4Uk+fP49KKKPm1gWhR8CZvAua1XZ9yNppRmM+i5d4JSGWEnJcUM4HtTK7aydjWQWWzENoW73rr4GFun1P+vKiimqUDr3NEsi98dytZ01ETxdZXCHOS8XVOKSnarcTiiiiitWrHcQFebfWNFc/mf//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Otra Noche Sin Ti</div>
+                                    <div class="artist">J Balvin &amp; Khalid</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBQcDBP/EADAQAAEDAwQBAgQEBwAAAAAAAAECAwQABREGEiExQRMUByIygRVRYaEXJEJxgoOR/8QAGgEAAQUBAAAAAAAAAAAAAAAABAABAgMGBf/EACYRAAICAQIGAQUAAAAAAAAAAAECABEDBCEFEhMiMVFBYXGBsdH/2gAMAwEAAhEDEQA/AN3RDiqf9QR2N/hWwV2chxSklyOzu8HaP24pGv02LGuN7n3Bc1UKJbUzEtR5K28BBc34SlQGSNndVdpv+n7kxdFSbXdWHYEJNxWzLkqcLjBSSFJw4oZOOjisrqOMtiZlXESFNWK+n9EO6fszTvZskEFpB/umoKhx2+47Q/wFZnbblp246buF7d0q/FgxIvu97oaKnUbSrCdiyQcDpWO68dt1fpWZJ09EgtXth29KUltDUt1HtylSkYcAcwDlCuBnqqV45kJbmwnbzRBra/1F0x7mrGLCUk74jJ/1iil2EHYWpHGWZ855hmKFLbkPeqnetR24yM5AQrz/AFUV1NJrV1eIZQCAZE4yDEye/BusiTapd1jRUzrXIiKfWQn09/p7SckAn6iBnOOeq9MD4eMwGLnH09eo8O33WO2zIZaioWFFLKm1KSrdxuJCiB5H6mkvTsrR+oVyE6vhRnVKCVtLQC76KuUqBKMkApDZ5G3j8xV1b9OaMs91claduUCFHdQlBKJ7yXcdnACuMkDrHFZjXPkV2UMyn1ygqfHzcIZe47S7t3w5uELTMqxM3yCzBksKju+3tCGluAtKRuUoKyVZKVZ7OMeah/ClqNcXbharoYk0z0T23FRw4G1JaWkJCSrBG9xS/vj9asG9Txozb7bU0SB6n8vtZkO/LuP1KV2duOj3muVh17E9Z9F2fbBCjs9vGXkfMfqHJzjb47zXLObidM6m789o3v8AEkMaepNth6bOuCvxUtyFultYRgFYbAb3bexyhR4PmikDXN1iRLjMes4cchOqQvKXFpDZOSSQvlOVFWQMDATgc0VrdA1adAB8faEY1JXYxVtlrscWU6hlyIpZO4hcpOwH/mTTBAudmYUpBnRueCkOYT9j3+woooooHPdLgaFCSfaS8+XmSxIjnG1KXPlHPZ8mlO92W6FwlD7ThV0As7vvRRSA5BYjg3K0WW9Ftxp5xbbJxuSXuPz5BOKKKKfqGSoT/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Shiny Happy People</div>
                                     <div class="artist">R.E.M.</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Angel Wings (feat. Avianna Acid)</div>
-                                    <div class="artist">Mike Ault</div>
                                 </div>
                             </div>
                         </div>
@@ -509,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2023, 05:04:23 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2023, 06:28:39 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
