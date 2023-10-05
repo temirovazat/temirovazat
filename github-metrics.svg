@@ -466,10 +466,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAMEBQIGBwj/xAApEAABBAECBQMFAQAAAAAAAAABAAIDBBEFEiEiMUFRE2GBBiMyUnHB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAcEQACAgIDAAAAAAAAAAAAAAAAAQIREiEDBCL/2gAMAwEAAhEDEQA/APTUWMnHUpp6dFHbygpdm0yrAZZt2wfqMnz/AIpJgTPhLlwW4Kp263CbckZLtga0tG3myc5z7dFYVrMduASwkuYehIwhsBrCMoWAQssBuAfGFWa5rGn6a1kdqdokfxEbQXOx5wFN3ELRLunW7Gt2pZq+9jpTh2QeXssm3FaRXihGb9Oi3q/UWjTSSYtEODvy9I4afBx0WwUrNWaFr69qGZru7Xg5XJHaHaa266jRmrh9hznNc/i8Z4kcO6RT0nVYtRrPhrvj2tBkL3AAkEY+eqnnK9ou+vDG1I7WceyFA9Z/fKFajkolgKHNU+65zRnccoQtewToQaZOeUDj5WcdFoOX4/gQhKkh7JDmj4QhCcU//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Angel Wings (feat. Avianna Acid)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Ayo Technology</div>
+                                    <div class="artist">Milow</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -481,24 +481,10 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDBAL/xAAxEAACAQIFAwEGBQUAAAAAAAABAgMEEQAFBhIhEzFBYRQiMlFxkQcVI4HBJFKhseH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRIQQSExQxMv/aAAwDAQACEQMRAD8AorLKzoxCmqaKmqKdnG/cpV/puUg+f47YnmVaVmmmeJi8puZKSqjJG89xcm3Nr38/7xWmW1SRO8sjMWHvAcEE+t8XrpCvgpdP/mlXMIw7CMhO7MQNrW/fxg7EXrlfsu4z9tNuIzoeopemUkHVib4E8Jf3lHPF/W1icR6t021FKJJlSKZPfWNASxkJuLEHx6nt4w/i1hG2oZJqkztRMwVA491lHxEADvax5/nEiq8wyyon6tROrG4Rf07hV+dvAxqkz+vkc5QHQBMpnMqOeOxfdGjcBbklubkknvc84MSL8S5KdUj9hlJZJChYdnW1wwP1Fvtgw9vCDoSGyxg2zHWmc50/mmXZm+dado4lppQY+lEF6aXYnc3kj+3i/wB8PqKq0rVjosyGGVW9nYXBKKq2U8dgQ3cH0xUmQzVUeaxLSHrLUW3KDYbhxc3HFu/7475I0p81SPM4IYyi7wCDtvbyAeRc8euAHIIbqRELwFZeysRLQpNO5JmMZloaKR3iiJMrlmVhsA2hAL3uDxY28C/bC6dod0ywirRvZ1REEEh2TA+8zcc38D74hdPqiGgVmhqpafaWeEKpTc3Ni4HPy5GNGXZ9mdZnEwjqqxokuywJISvB43Am5uDbvhvsIVORFPwLa2HWyOtc6fhbS6+zZbXDMBVJulkhJZk2txcfCL247X+ffBjg1ZnlfDRqIzNTgqzNUBitiVI6YX/N73wYWHrcBsYnfFdUSpIMSwflVHA1VRTu3P6iXBZR4ceCObFTzxcW7YVyUkFbXy/1gZ2YsNpuG83F+307jBgwCjeDLHbWBJJTUGWzUIhzKGrae1jIoW/pb/vbHrRop9M51PXzz1MdP0njWRFW6hiLXvx4wYMZalXJE49hcAGbvxB1llue5fRU0M9dUpHUCokSZETcArAC6jvz9APXBgwYCCJ//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fly by Wire</div>
-                                    <div class="artist">Anevo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAQFAQIDBgf/xAAwEAACAQMDAgIHCQAAAAAAAAABAgMABBEFEiETMVHRFCRBYXGBsTJCY3Jzg5Oh4f/EABkBAAMAAwAAAAAAAAAAAAAAAAIEBQEDBv/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMREiExBFH/2gAMAwEAAhEDEQA/APYYbCzOhQs1tDuESHPTGc4HuqeLS3zn0eHA9vTHlVmMINEhEj7V6adu54HAqLPdBZNpRwoHG1SQPn41F+YNrdzp6SSCJzrbWq49XgbP4Y4/rvQ9rakHFtBn9MeVJR3ErKzbeFGfsnP1pmK5DybdrjuORxxT66Jl6t7krV7OAW0xWGIHa3ZB4UU3qvNrN+U/SiqVbErBCECW7k40q3XwC/Spp+Va6prNtFapGJFJXGcc9hUm31q2uHVY5gGY4AIxzUeivBGKaX4bkr7Uzyq5+FZDKpG7O33Vrqll6Lp8czS5mbLEq3Axj21FtNQeVwjbWB+8P8pulRZ2IQHNeSx3UJOojAeBGKKSnu4BIULEuSAuO3f2miqSpgyLEmdY162nhld4+rKWkbMaRNlRk9+MVL6V5geq3P8AG3lRRWn5s4+SvXa3ATMi37RCJoLtox2QoxA+Xal2srknItJ1/aPlRRTgRfyC1zDyPaWby3uYVS2uSWkUMzRNgDPw4oooomUb5ErLCTs//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Want You (feat. Sara Skinner)</div>
-                                    <div class="artist">Subtact</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAAUGBwMCBAj/xAAzEAABAgUDAQYDCAMAAAAAAAABAgMABAUGERIhQQcTIjEyUWFxocEUFSMlQlJy0ZGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAIDAf/EACURAAICAgEDAwUAAAAAAAAAAAECAAMEESEFEiIUMWEVMkGR4f/aAAwDAQACEQMRAD8AQyfSG42JZDKpK3XiE4K1rJUT657PML6x0wuOlSi52cZtdKEZ2ShWTtjGNOPffmPout1eRokqXZ1waz5Gk7rWfQD6naMSv+9R2a5upEkLVpYlUHwA3xn/AKTHKEd/JuBHYwqdFm4AkHMWjWJ1pTSWKC1rAOtlvQRz5gNo5NdLa66hK0vSGFHb8VX+fL4RRNzd5sUVVfdtF1NCQntFPL1I7nrknOPfTiNBs+v026aEp6moKHG+65LKPebUR8x6HmJc6r9slGNh3ntU8zK5XpxWnWVyKfuXUchLyydRPjsrTmCNp1ykuUobWO0HmSlOojfwzxBGJsP4hf0qiRoTMT80qYm3HXnV+ZxZyfnE5OKpdJ6r2s/dCPyNvDjmtGpGcqwVDkBWgn2jSWW5dkYSkKPxhNeFsS10yCWJhRZeaJUy8kZKDyCOQfSCrMgtx7Ca5mObaSqe8vHGbUvutvS71Sr10yM68T2bCnE02S0JyAVI0pyM8lRyRtGI2NKy1P6m3RIUCaW7RWi4226FZ1pDgCd+eRnkbx3boN+yVBNvM3OxLUAagW23SgaVHJBwnUQc+GcGGVvSMha1OMpTHC9MOHU/MKTgrPAA4AiqobOFEVYWFatodxoCVr77Uk13cF39KR9YIm9SnlFS3QOTmCCBirry5Mf909A9RqGgDTMqV8GVfUQtnuosk6CGZlaR/BX9QQRRGCnehEJ6ld8RI/d0s8SXJxf+qv6jxRdEg2kn7QtXsEHf5QQQV6xwNACUPUbviJqrcy58FvWWmP2Jzv8AE8wQQQWvU7EGgo/X9iqx3sbuZjuf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">In My Mind (feat. Mi Manchi)</div>
-                                    <div class="artist">LVNDSCAPE</div>
+                                    <div class="name">Enjoy the Ride</div>
+                                    <div class="artist">Krewella</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -506,6 +492,20 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Don't You Wanna Play?</div>
                                     <div class="artist">Seeb &amp; Julie Bergan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBAUBAgj/xAAsEAACAQMDAgQFBQAAAAAAAAABAgMABBEFEiETMQYiQVEUcZGhwSRCYbHR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwQFAgH/xAAfEQACAgEFAQEAAAAAAAAAAAAAAQIDIQQREjFBUWH/2gAMAwEAAhEDEQA/APMlrbyT3CRRIzPK20KByTV6005pIJjGFLLg4JA/up9AkS11eznlBKJIGwPxVm5gU3G0A8soNU1xXZFdc1Lj4bFt4BSfSLe/fV7eOOVumylO0mQCgO7BOT+e1K2t6Y9hOsLEMQzKCCDnBxzg8U7XVvEEFgI7lozN1BFvbaZCow+PfHFKMzLHeRls5BbcSc5PNdzhFLAdGodklkyJFKrtOAT2FFTTqxmbdkkcDn0xRU+xoJ4GXVJLO6v/AIu3uepHJMQqMm11QdiwAxyPaon2vqSBT5TIoHy4rBtZiXUs3NalrLH8bG7OQQ2cD3pYSM62lxz+Dg9yF1eSBJEeEMBGynkyBfNn1xg+1I9+u3UWU84cj70yQ3MR8cDULK1U2wkJS3IOCNuME/fvmlvWCbfV5g+BIkp3LnIBzyM0ljj4Bpa+E0l8RVnjdB1f2lsA/X/KKhuLhmXbk7QeBngUUDkjTSe2Tsi2qadHIs7m+MpVodnlCY4bd759K4hl/UKxPO4GiivIs6mt0NSaxaNPcQdJBFJdpMrkDKqFkBHy8y/SlbUpkmvZpEztZywyf5oopZ9E9NajPHwqPz60UUUDKz//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">On My Own (feat. Karra)</div>
+                                    <div class="artist">Far Out</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAvEAACAQMDAgQGAAcAAAAAAAABAgMABBEFEiEGMRMiQYEHFDJhodEVI0NRcZGx/8QAGAEBAQEBAQAAAAAAAAAAAAAABQYDAgT/xAAfEQACAgMAAgMAAAAAAAAAAAABAgADBBEhBRMSQYH/2gAMAwEAAhEDEQA/AFnT0skuvaeskspLzIMeKDxkegrV+momuOqL+1t5Wjl+WSYsDwMP2I+4NZt0SzrrKNNCgCRSSLyv1BSR25q10HqddJ13UZDbLdX00UUcao2NoH1E47DI9eeKMxK3tvCp0iKZjrXSxbgl4YnW4bxL0xFTtKleM+b9j/VSnxXglh0WzjmnZ/EmODu24wn555ptB8QfDZ/ntGlRVIBeKTv7MB/2p34h9Qad1EdLi0+6YCJmaeE+WRO2Cw5GMA4waUzq7K6iWHIXgMtlwCnZkrrk+7S9Oe4cC7RNpXxSmVPKnj3opRq1211cPKrEL2GJAOPT0oqfUgjsfKkHm5z9OTKNVZ9zeSCVjyuMBTntzTK0uLbpvp9NSvbhRql+fmJmyNw3YIUf2ABpN07M6rqzrCrz/wAOnWBDt87sNoA9iT98VE9WJNdRobydyUURhC5GNox6cVQ+GQexiOnUF8ttlVTwTXbHXxqWmb45lKnJZyfqG4jvU1qtr/P0nU/EESSXkkW4eo8I7R255/zWeabPc6P01D4cu60uiyNuOTE+447c4I/NUE2qLemxst4MUM7NG2eAwj49uPzXsy7jkV/BRwb3+TnxdCY7s1h6da/ZStcKSMyNu7Ab1/VFc4uleKJs7Sy8jyjHsRRUoecjbAg61EcV6CQuHzjHMi/qprrKYi5tmQ8MvI3A85+1FFOeMYjIEPzVHqjbSI4Lvpc2NwpG8OA+9RtO7IPIzwamunr7wtShguQDJFLgrnuQcetFFa0sRkWp9dmFyD4Vt9zThMkpDRHa3P8AWX9UUUVPFjGfWs//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Be Mine</div>
+                                    <div class="artist">Ofenbach</div>
                                 </div>
                             </div>
                         </div>
@@ -526,7 +526,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2023, 11:05:01 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2023, 12:09:27 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
