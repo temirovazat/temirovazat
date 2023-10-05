@@ -466,17 +466,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGBAcIA//EADAQAAEDAwMBBwMDBQAAAAAAAAECAwQABREGEiExBxMiQWFxgRQjUQgVkTJCscHR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQCBQYH/8QAJhEAAgIBAwMDBQAAAAAAAAAAAQIAAwQRITEFEhMUI0FRYZGx8P/aAAwDAQACEQMRAD8AezmdwPFI37e48VBI8KQVEnoBVi/G38JBKvwKxb/ZLqjTEr6Nthtp1ouKfKz3ilg+FKAOMcdSeSeAeKpDX3ELxrOgXdTOJUXQan6SVn2e02qOxclS/wBwUhaVKYQjaPbn/OKurFfNNazbMJm1JRJDe9yO6kYIHmFDrj4Ncsvy7vbbm6xKfkF7vPuNrWVBZz+OlVFo1auw32FKU09HKcK3jlW08KBT7ZFPU4/jBVgJQX9VszNLS52/vidLS9A6YXbi6IDDZI3b08YNFKrFqq3Xe1pRKnxX7VjKVNZCl+ih1B9KKiRXrwI3VfmKNrGI+24maqG68S2wtpDi8Jy4SBtKgDjHnjOKmf1H31y32O3W62KKHFukq2f2pSkeQ96es36HI1bDs8YKW+p3xK8klIJ+elLu0C0W2ZPZm3KUpuRDbddS117zjgZPQZA6VBiEIBHMXvDOwJPA/c58YkS4TjVwcgpe34UXXWyXFZHBBUM/xWNJj/vj6JG8MuBOfEMpPmRxzn/uKc3O+ruN5ktsREMsPf0tt8tp4x0/FNuyuzuSNQFxRUpuJ9x1zGE7sYSPcnn4o4cqddIt4fL7YOxjrRGkVWd2VLeUrvZSU/aPRGOSfn+RRWxn/p4yHHHlpOxO4pByce1FK291jliOZpMIelpWmrgT001Lt197SXnLXCaLNuYU8qc0eFFY2pSfXkn4qS7QdSNzJNyt0pjCms9y6k4Uk+fP49KKKPm1gWhR8CZvAua1XZ9yNppRmM+i5d4JSGWEnJcUM4HtTK7aydjWQWWzENoW73rr4GFun1P+vKiimqUDr3NEsi98dytZ01ETxdZXCHOS8XVOKSnarcTiiiiitWrHcQFebfWNFc/mf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Otra Noche Sin Ti</div>
-                                    <div class="artist">J Balvin &amp; Khalid</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Angel Wings (feat. Avianna Acid)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Fly by Wire</div>
+                                    <div class="artist">Anevo</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -487,18 +480,24 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAgEDAgUDBAIDAAAAAAAAAQIDAAQRBRIGEyExQRQiYVFxgZEVoTLB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADESExBBITQf/aAAwDAQACEQMRAD8A8126K8QYMN3kYp/oFpHc3sUNxIIoXJDSHpt6Hr+6Q2oy46DJ+ao9Ph2orFgM9MZzU9zYJZ46+0urXS9BiTatxEW3d+c5BHX46dPv4+1JdYsFN3Klq55I/wAcHcO3189a0WdqzN7V9mAen0rddmCwtxJcHYp6L1zmua1utglnzwcmQ95psyKMMMj4oqjeaC9gMtsyuoOG8EH5FFMPIZRhmCgMS8HaTaajYXcN1G/OHu9igOR4wT2/FYLHntJshUEbsKpPX8/NOeHdTn0sP6K609GZSrFoS7MPOSRWmBYv5u3nnki5nMXcIYtg++O3emf2BYn9iIgKqAMzudg4O4Z9Bpkr3QDTSxBQOgKuR2ye4z+qg+NxBo/Glj6oSzafFs56RJld+csOvgjB+avbDiBEsI1kD8qKRWGfr/yuO8UcQXWoarc3U0iCF5jhWIZlXsFI+O1cymh/oSeY9xzviPuLbSxstZmu9H9P6C5iRtkTDCt56f3RSK/4jtHtOYli0jIwjJ3gA/gf6oqlKbCOoZNY/ciPR30pN/qonk9oxucgZ89qZ6dqlkusJLDaQxooDsCWYZH1yaKKvKg7snVyAMlHq3HpmtjbpLZW6t3225z/AGTXKLu6JuJWGHy5O4jv+KKK3UijqB5VjcQe9nkQI0gVfgUUUU3qJMbGPJM//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Shyer</div>
+                                    <div class="artist">London Grammar</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGBwT/xAAvEAACAQMDAgQGAAcAAAAAAAABAgMABBEFEiEGMRMiQYEHFDJhodEVI0NRcZGx/8QAGAEBAQEBAQAAAAAAAAAAAAAABQYDAgT/xAAfEQACAgMAAgMAAAAAAAAAAAABAgADBBEhBRMSQYH/2gAMAwEAAhEDEQA/AFnT0skuvaeskspLzIMeKDxkegrV+momuOqL+1t5Wjl+WSYsDwMP2I+4NZt0SzrrKNNCgCRSSLyv1BSR25q10HqddJ13UZDbLdX00UUcao2NoH1E47DI9eeKMxK3tvCp0iKZjrXSxbgl4YnW4bxL0xFTtKleM+b9j/VSnxXglh0WzjmnZ/EmODu24wn555ptB8QfDZ/ntGlRVIBeKTv7MB/2p34h9Qad1EdLi0+6YCJmaeE+WRO2Cw5GMA4waUzq7K6iWHIXgMtlwCnZkrrk+7S9Oe4cC7RNpXxSmVPKnj3opRq1211cPKrEL2GJAOPT0oqfUgjsfKkHm5z9OTKNVZ9zeSCVjyuMBTntzTK0uLbpvp9NSvbhRql+fmJmyNw3YIUf2ABpN07M6rqzrCrz/wAOnWBDt87sNoA9iT98VE9WJNdRobydyUURhC5GNox6cVQ+GQexiOnUF8ttlVTwTXbHXxqWmb45lKnJZyfqG4jvU1qtr/P0nU/EESSXkkW4eo8I7R255/zWeabPc6P01D4cu60uiyNuOTE+447c4I/NUE2qLemxst4MUM7NG2eAwj49uPzXsy7jkV/BRwb3+TnxdCY7s1h6da/ZStcKSMyNu7Ab1/VFc4uleKJs7Sy8jyjHsRRUoecjbAg61EcV6CQuHzjHMi/qprrKYi5tmQ8MvI3A85+1FFOeMYjIEPzVHqjbSI4Lvpc2NwpG8OA+9RtO7IPIzwamunr7wtShguQDJFLgrnuQcetFFa0sRkWp9dmFyD4Vt9zThMkpDRHa3P8AWX9UUUVPFjGfWs//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Be Mine</div>
+                                    <div class="artist">Ofenbach</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcFBggCAwT/xAAuEAACAQMDBAAFAgcAAAAAAAABAgMEBREABiEHEjFBExRRYXEIMiJCUmJygZH/xAAYAQEBAQEBAAAAAAAAAAAAAAABAwIABP/EABwRAAMBAQADAQAAAAAAAAAAAAABEQIDEiExQf/aAAwDAQACEQMRAD8Aitx3ffl46r7wtdn3dcrfS0Us8kESyHtIVlARRnj93n1qdtdJvOlkqoLhvG+3GYqGheGdokHIGMgknPeD44wdTQsFquHUu/NKokqZK6QcoTz7GcY01rPtS201MqR08QVf5VAAH/NUSX1jBLU9LvCWYSS7nvkUPaCYzWuOWRXALfYsF8ZOD+DHXij31PVYtm+7nQJ2k9s9S7hm/pBOMH39wR4zrRr2WhRSBTxY/wABrJv6k6ySDdMNHFDElIi8lFGWLff7ADWdPKBYb+HW1t1b3tvWnb237pu653ClkrYFlV5GCyK3JVlOjVP6TW+eHqvtR50ZZI7pGkgPnIOjQFZse3wxDcNyfsXvNQ3OOdWoRuqj5f4aj3ke/wDWlnbLnTw70vkSu/eKtwwZiQDn0PWmJRTI6hu9s/nS3Ucn7PqkU/APxQGbHPbrOXWzbltr7lQ07q/z7yJCoQcY/u4+n0OtHPMuPOlj1NozPJBUsUj7JkeN/eQeR+MaltPUhflvxtFZsnb9Jbt1baRcmshuKNOWOSzFs5/B0a87fWSR9Vtrsrr8OevijYZ8jOQcaND8k/RGX2V7dKbqpuqe5LhY4Wmop6+SSKRHVkdSeCP4vGmJa90bugt/cKJnnC/tI9/Tg6NGsdOabtLZn6V3c936i3K3s1O9bBUs3EUMYVVXP1z9NLuvp+oktFJSVgucrM7SBmn8EgD2320aNHPCQdNOw46X7d3FSdTts3C8080dNT18Uks08y4RQeSSW8aNGjXohKn/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Battleground (feat. Laurell) [Radio Edit]</div>
                                     <div class="artist">MIKVH</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwQD/8QALRAAAgEEAQIEBQQDAAAAAAAAAQIDAAQFESEGEhQxQYETIlFScQcVI5EyobH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEAwIFBgf/xAAkEQACAQMDAwUAAAAAAAAAAAAAAQIDESEEIjEFEkETIzJRYf/aAAwDAQACEQMRAD8Ad4HEqLcdgIAH9Uoz9v43Mw40aESL3sdckmq/ByBLcLsaIqU6gyAt+pZZbe3FwqoFbjWmGydH1rz/AEs25t+ToKn6Kc7014CASxuzKfQitB6Aea8wNul6C5RCFk3yV3obqFzvUK3VmqSWMqNzwdgD39a7f026k8NkJbK4MjW0qbTnYRgf+Gn1FOdLdyg9lfBeZrHRogZQNelFdV/cRTWhCEMGorVOTXBZLGTKcT1S9xGYoFEYOwrud/6FN7LwkEaPcMzTM3Pmdg+dZnhbeVJggVy6knyqjvb5obb452EiPa3586dOhFS7YeS17q7H2T+HeTyooD26NqMv9T5n2171O4u+/YMsLiRfER8qwXjj66rlw1/PevMIkeSRzsBRvivabp3NyOzhURD82nPl/VJjFQ2TZJ5V0XsHVGPyH8dhOpk+wjRB/BorFLuZhdsGYxzI5BI41+KKxfTU8pmPrJYaL3C3QlYgx/J99PL20sb2yCShZF/yYA0UUOe2eBXKyMelMbbw2XbZ2wgXZAGufc+ZpzNbhIW7tbHJooqVST7m2SX0Yd15apDmJe0r3H5z2/Siiiuj079tA6nyZ//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Mask Off
-Explicit content</div>
-                                    <div class="artist">Future</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -527,7 +526,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2023, 17:04:02 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2023, 18:11:56 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
