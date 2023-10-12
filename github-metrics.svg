@@ -466,10 +466,11 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDBAL/xAAxEAACAQIFAwEGBQUAAAAAAAABAgMEEQAFBhIhEzFBYRQiMlFxkQcVI4HBJFKhseH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRIQQSExQxMv/aAAwDAQACEQMRAD8AorLKzoxCmqaKmqKdnG/cpV/puUg+f47YnmVaVmmmeJi8puZKSqjJG89xcm3Nr38/7xWmW1SRO8sjMWHvAcEE+t8XrpCvgpdP/mlXMIw7CMhO7MQNrW/fxg7EXrlfsu4z9tNuIzoeopemUkHVib4E8Jf3lHPF/W1icR6t021FKJJlSKZPfWNASxkJuLEHx6nt4w/i1hG2oZJqkztRMwVA491lHxEADvax5/nEiq8wyyon6tROrG4Rf07hV+dvAxqkz+vkc5QHQBMpnMqOeOxfdGjcBbklubkknvc84MSL8S5KdUj9hlJZJChYdnW1wwP1Fvtgw9vCDoSGyxg2zHWmc50/mmXZm+dado4lppQY+lEF6aXYnc3kj+3i/wB8PqKq0rVjosyGGVW9nYXBKKq2U8dgQ3cH0xUmQzVUeaxLSHrLUW3KDYbhxc3HFu/7475I0p81SPM4IYyi7wCDtvbyAeRc8euAHIIbqRELwFZeysRLQpNO5JmMZloaKR3iiJMrlmVhsA2hAL3uDxY28C/bC6dod0ywirRvZ1REEEh2TA+8zcc38D74hdPqiGgVmhqpafaWeEKpTc3Ni4HPy5GNGXZ9mdZnEwjqqxokuywJISvB43Am5uDbvhvsIVORFPwLa2HWyOtc6fhbS6+zZbXDMBVJulkhJZk2txcfCL247X+ffBjg1ZnlfDRqIzNTgqzNUBitiVI6YX/N73wYWHrcBsYnfFdUSpIMSwflVHA1VRTu3P6iXBZR4ceCObFTzxcW7YVyUkFbXy/1gZ2YsNpuG83F+307jBgwCjeDLHbWBJJTUGWzUIhzKGrae1jIoW/pb/vbHrRop9M51PXzz1MdP0njWRFW6hiLXvx4wYMZalXJE49hcAGbvxB1llue5fRU0M9dUpHUCokSZETcArAC6jvz9APXBgwYCCJ//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEECAP/xAAuEAACAQMCBQIGAQUAAAAAAAABAgMABBEFIQYHEjFBE1EUFSJhcaGBUmOCkfD/xAAYAQADAQEAAAAAAAAAAAAAAAADBQYCBP/EACMRAAICAQQCAgMAAAAAAAAAAAECAAMEESExQQUiEhMyM3H/2gAMAwEAAhEDEQA/ALBicqoCE1p6iktxKOklV7YxXpZyDBznaorzR4ml4c4beazlRb+4YJArrkn+ogfjzUBiK1jite5dGwVA2HqYvda0vTXiguJFuJmbKrFhiBnHvjvt3qeaEbXUrZZLN0dcb74K/Yg9q5LTUpJZfiHjJf8AtjC/xntV68kZpNSv2lkWaKSziKuZBkMjHZc9u4z77VZV4VVVe7ewk/lZjZDEgbS0PkCOvXC4yd8ZyKKfQyrtlhv2AorYvZRoIoahWOplPWOsRFSJXCgHc/bGc1BLHRV461e51fXrmX5WkjQ2yIegsgPj2H7J3rXe8X4CaSZSU6G6hnBxg1hdaWx0LTLZWRC0IlIB2BJLkfsUq8Xh/Biy8mPr8lbK/fgR7qvKJI7zq0W+VtLmjLR+suXR/CkjuMZ3/VNOCNUfgniGTQNYMLG7jhZJ48nozt0tkgYHfIFPOB+I49R0WNVIJjwFYnvjuP8AvzSbmHp9vqfMfQ4bUhru5tFB2+kDqIU/jHV/qmWVW9V4VvxYHT+iL67VavQciXfCqW6F3U/QPAopZFM1nBBYwK7oiCMyE5ZgBiiuIY9p4MAchNZzdJGJrd7SVGKynpJXbbz2qDcaQzWF5JCAohib00w2WVQBjP8AFFFE8ax+0r1pC2/qJkh5c8aaVo0B+aztE8Yz9KE+qPC4Hn7/AH9qcckdVbWOY/xHVcypZwv6HUclYVHRGrD/AC9+9FFOL3LLv1OFuJ03YsxLOkeGc92HmiiilD5dinQTSY6Ebz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Enjoy the Ride</div>
-                                    <div class="artist">Krewella</div>
+                                    <div class="name">Cabeza
+Explicit content</div>
+                                    <div class="artist">OBOY</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -480,10 +481,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQgE/8QALhAAAQMDAwIFAwQDAAAAAAAAAQIDBAAFEQYSISJBBxMxUXEUYYEykbHwI0Kh/8QAGgEAAgIDAAAAAAAAAAAAAAAABAUBAwACB//EACcRAAICAgECBAcAAAAAAAAAAAECAAMEERIhYQUGIjETFjJBUZHh/9oADAMBAAIRAxEAPwBX3biQrIr2MQEuJAySVDOO9MOndOfVvNNz1hDjnLbCE73VD3wPT81SIvhpHU0ovSX4KFp2q8tfWoffPArpOb41j4p0zRAivYdIJCkIUqQAAVKJ4A5JFbz7U69S1MhwoIwVIcVhKAOMqJ/vtXQGnLBZ9PMCPaIwDqv1SFJCnFH7qP8AAwKyrxoS1Sbs9d5st8FxPUFkbAr39Oe3H2pP8002WkcdAex9z+v7Cnwzx5AyfwdM/QRENpUFyCP8bh53E89IJ4/poppc2W55TmlG3ZUogtvz5KypLIBztA9ATxwBnHzRSjI8wXLYQlZbvqX0eDJZWHtvVSfsTHSBGi29bz0aOFy3f1KA6l+wz2H/AAUra18SLbYT9I6gvXENpW+2ydzUfIyN7hwPwOSO3NTbVni9tjogaXdSu45OFMoWtKlHjak+ijg5yenNQ7Ulxuj1xfReH5DkvfucS6vPXj59qUmkGzlYdmX1K7VcgNCdWQfE7Tzl0jxLdLTLfWguuKbCilCQMnnGM9se9JmptauTbs9tV5iHB/orKUgcBIOcZxycVzzDuEiLHeS0pSGnulwpyN/cJJH74ra0PAfuF2LvnCNCZQpT0h1RCEpx3II/bI+aPx1pDfTsweytkBJbp+JQp+rrdpxlceGhSJS21FRZOSHCOCe2B+TRUin+Up7bFdWtG4hJcG3jPHfiipstJaRXhUhfWAT3mrbFy1BCbYny3GiQH22hkbvUlZ5zimSy6Blz1hx2QtyU6TuBa8wgH1Jz3x37UUUywsKk1G5hszM7LtUcAegnq1JpSy6PitrurT8lbiuhBUQMj44JpYvWrEzI7cONGEe3tg7WkYGVfwPn1ooobKyGq9CAAHtNMJfjJzs6ncVgrknAooopZuMp/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUGBwEDAgQI/8QALRAAAQMDAgQEBgMAAAAAAAAAAQIDEQAEBRIhBhMxQRQiYaEVQlFxgbEjMpH/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAgQGA//EACYRAAEDAwIGAwEAAAAAAAAAAAEAAgMEBRESIRMxQUJRcSKB0ZH/2gAMAwEAAhEDEQA/AI7iMFw65j0uZe7yKbzmGWbZkEaO3mUYk+1dJjhtbilqabUGtW09YnbbvU4Viykw23qUO0b1i4uW8Uxz0pdcXpIhCCY2Me9a51aQScndJXYQ0ETizBf0CjuR4IbaZPhbxt19KC4pJ2BT08p6Ez61DbjFQqFHSPqe1Wrm8db3+Aa1NhD/ADAGm3N1q0mVBJHQwN/pFRy8QzesIuGEANlAHXqR1J9aEornNxnwzHPj0rduhZWQB5CrvL2lqm2ZDBHORPMPm/kM7RIgQKKaZe3AUaKQNa1u2VGS2YdsvRqrRhpzVJnvCZj3pRfWrD91s48SuUctLMAHoNu9SS5bEE96V3b6WWit1aWwjdK1Doe3vWfp6iXVoDzv6/FC72+KojdO/oMn6Vd51ejicxcuzZWqlW7vJ1BtYUQo6Z+YzvII/fLAY+1+BJU/dPpUtalEeHA09O2r81tRlMU1j20quEu5K6DXNOk+REypP3kfk04vNC2AWQC2oSCOlGSRSCZzi4g7ePxJ2fSaUaDsCR/FXmdtLBDLihdPl+PKjkCCdup1fftRW3iC385J60VAmQdxS5YFfi+WoAqcSn0M0tv0sKZWC40uR/UgkfqiiuzCQ4EI18QewtdyKofD8L/GbvN2wywaylo5rZbKllHLJIAIKdtx1B77064XyF1jbt3D5i6YL4ICUjXIV2iUwQfQ0UVeqvnK8Ht5I6znhxRFvdsfrr7WeIkt6HV+JZUofIAqT/oj3oooqoVocr//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Anything (feat. Karra)</div>
-                                    <div class="artist">Villms</div>
+                                    <div class="name">Whenever, Wherever (Radio Edit)</div>
+                                    <div class="artist">Stockanotti, Marc Korn &amp; KYANU</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Angel Wings (feat. Avianna Acid)</div>
+                                    <div class="artist">Mike Ault</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgMECAL/xAAvEAABAwMDAgQFBAMAAAAAAAABAgMEAAURBhIhMUEHE1FxFCIyocFCUmGBkeHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQUD/8QAIREAAQQDAAIDAQAAAAAAAAAAAQACAxEEEiExYQVBUaH/2gAMAwEAAhEDEQA/AEvprTk3U16btttaCnVpKitSsIaSOq1HsBTWh+EOnRHbjvXiXMuCnEpUIxSkJ9SEkEkY9cVp+D8tu26b1bLaSkztjTbaVHko+Ykf2QPemTpGTEYt5kSm2/jbugpeUnO7bjBAI+kUMrjfFn5k0rZDRpoSE1voJ+wQ2bnAfVNszy/LS+pvYtpf7XE9unBHBqpxVNRnV/ERm5KMY2qUoAHPXKSM9xXXmprYzd/Dm/2+3seYXGglAKslTowU8k+uK581louFpGwRTPlKk3yUohLbCsMtJHKiSRlR5A4wM880cT9xTvKYw8ps8Y2PT49qnvSYT0Zxpq2RYzisYeDjqinB7AqI59qKwuNFOU7ClQ6g+tFdNaTmqmdL6gcsV0U+lrzYzo2PMbsBSevB7EHkHmmNbr/a0qjriXlDMVxJO2VHKnQrPKdjee/ckZpNbznnOcfap7RTLUnUMZMhaG2kZcUtasJAHck0btSNl2nxopWncXxNGRqq7RnXmIbyVxyrcklspz2zjPHFUXxAnSp71vdmKSVeUpIwOPqP+qsU7VunIbqm0efMWOq2kgJPsSfxVX1dqK0Xm2IbixpTMptzcgrwRg8KBIP8D/FEC0VQWH8bjStmDzFq3v5z+2q6tGVBCRycH6cde1FaapC9iRk/LwDk9PT2oqFb5YpS0yLMiEkXJLpfBVja1kAdu4z3rJ59i+HdbWh5t4EpSUMds4zyrg45x60UUujI9rUlJs6Y6jGlzXHf0pWwlIPuc8ff81G7gScEbff/ALNFFE1xKuq+14HPQdueKKKKu1F//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Steal the Moon</div>
+                                    <div class="artist">DubVision</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -491,21 +506,6 @@
                                 <div class="infos">
                                     <div class="name">Fly by Wire</div>
                                     <div class="artist">Anevo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEECAP/xAAuEAACAQMCBQIGAQUAAAAAAAABAgMABBEFIQYHEjFBE1EUFSJhcaGBUmOCkfD/xAAYAQADAQEAAAAAAAAAAAAAAAADBQYCBP/EACMRAAICAQQCAgMAAAAAAAAAAAECAAMEESExQQUiEhMyM3H/2gAMAwEAAhEDEQA/ALBicqoCE1p6iktxKOklV7YxXpZyDBznaorzR4ml4c4beazlRb+4YJArrkn+ogfjzUBiK1jite5dGwVA2HqYvda0vTXiguJFuJmbKrFhiBnHvjvt3qeaEbXUrZZLN0dcb74K/Yg9q5LTUpJZfiHjJf8AtjC/xntV68kZpNSv2lkWaKSziKuZBkMjHZc9u4z77VZV4VVVe7ewk/lZjZDEgbS0PkCOvXC4yd8ZyKKfQyrtlhv2AorYvZRoIoahWOplPWOsRFSJXCgHc/bGc1BLHRV461e51fXrmX5WkjQ2yIegsgPj2H7J3rXe8X4CaSZSU6G6hnBxg1hdaWx0LTLZWRC0IlIB2BJLkfsUq8Xh/Biy8mPr8lbK/fgR7qvKJI7zq0W+VtLmjLR+suXR/CkjuMZ3/VNOCNUfgniGTQNYMLG7jhZJ48nozt0tkgYHfIFPOB+I49R0WNVIJjwFYnvjuP8AvzSbmHp9vqfMfQ4bUhru5tFB2+kDqIU/jHV/qmWVW9V4VvxYHT+iL67VavQciXfCqW6F3U/QPAopZFM1nBBYwK7oiCMyE5ZgBiiuIY9p4MAchNZzdJGJrd7SVGKynpJXbbz2qDcaQzWF5JCAohib00w2WVQBjP8AFFFE8ax+0r1pC2/qJkh5c8aaVo0B+aztE8Yz9KE+qPC4Hn7/AH9qcckdVbWOY/xHVcypZwv6HUclYVHRGrD/AC9+9FFOL3LLv1OFuJ03YsxLOkeGc92HmiiilD5dinQTSY6Ebz//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Cabeza
-Explicit content</div>
-                                    <div class="artist">OBOY</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgDBwEFBgT/xAAuEAABAgQEBQIGAwAAAAAAAAABAgMABAURBhITIRQxUWFxB0EVFiIjMoGxwfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAIBEAAgICAgIDAAAAAAAAAAAAAAECAxExEiETQRQiUf/aAAwDAQACEQMRAD8Av0xi9wrLYkd/eOc9Ra+7hnC79VZaS8WnEJKSojZRte4HUiF/pGNqy9jSbrrM06hxZAUyFFTRb9kFPTuORMRqhKyWNDXWxqjyYzyFPkfW02k9nL/1E3sL2jQIxLKjCfxwhRZyZtM/lmvbL5vtC/VjHNcl8Zy1ccmnFLTdOgFFLWkebYT07nckRvik08ehfkQ5Rj+jQ+xgjmvTqvuYmws1VXmUtF1xaQkKJ2SbcyOoMESWvt0yzx6NtXKbJVakTUjVGg9Juo+4k9BvfyCLwsMvTqEzilRppmpeR1MqUOOhx29+dwAEjtv5hrFpC0KSb2UCIWmoS7WHfUifRMSrpLeUNttoAL7i905Adjtc7fzGOTi8oeFcbOpaLcbwax8uZ1z76aafvaR8Xvblf/WikZul0FzFBVUDNTdPSuziW3Q25e/PkQodtvMXlw9e+TuL4Z/4lra3w7UGbQ/HRvyzW+rztFQOUNeKcW0wU2XeabmnC3NApBMuUEZwu3I5SOfv3ha52yTUhnRSlmO0MNQJCRplFlJSktpbkUNgtJHQ738m94I2CUJbaCUCyUgBI7QRQkH6jzOyEm9OtTb0qw5NtCzbymwVoHZRFx+oIIARniF8fw/DPaWlqcRtkve2Xre2/SJGmWW1rW202hbhzLUlABWepI5nzBBABKfx5QQQQAf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Getaway (feat. Angel Taylor)</div>
-                                    <div class="artist">Tritonal</div>
                                 </div>
                             </div>
                         </div>
@@ -526,7 +526,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2023, 20:04:52 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Oct 2023, 21:06:26 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
