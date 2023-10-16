@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8044 Commits
+                            8045 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -259,7 +259,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 50 commits)</small>
+                    <small class="h-details">(computed from last 51 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -360,8 +360,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 3.3333333333333335px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -406,8 +406,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -442,17 +442,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 36.370562661401266%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
+                                <div class="bar" style="width: 35.2472166916678%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">44%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.5743081838178843%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 3.0513677894449747%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.6015890777360258%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.166016637119869%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -476,17 +476,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUGBwEDAgQI/8QALRAAAQMDAgQEBgMAAAAAAAAAAQIDEQAEBRIhBhMxQRQiYaEVQlFxgbEjMpH/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAgQGA//EACYRAAEDAwIGAwEAAAAAAAAAAAEAAgMEBRESIRMxQUJRcSKB0ZH/2gAMAwEAAhEDEQA/AI7iMFw65j0uZe7yKbzmGWbZkEaO3mUYk+1dJjhtbilqabUGtW09YnbbvU4Viykw23qUO0b1i4uW8Uxz0pdcXpIhCCY2Me9a51aQScndJXYQ0ETizBf0CjuR4IbaZPhbxt19KC4pJ2BT08p6Ez61DbjFQqFHSPqe1Wrm8db3+Aa1NhD/ADAGm3N1q0mVBJHQwN/pFRy8QzesIuGEANlAHXqR1J9aEornNxnwzHPj0rduhZWQB5CrvL2lqm2ZDBHORPMPm/kM7RIgQKKaZe3AUaKQNa1u2VGS2YdsvRqrRhpzVJnvCZj3pRfWrD91s48SuUctLMAHoNu9SS5bEE96V3b6WWit1aWwjdK1Doe3vWfp6iXVoDzv6/FC72+KojdO/oMn6Vd51ejicxcuzZWqlW7vJ1BtYUQo6Z+YzvII/fLAY+1+BJU/dPpUtalEeHA09O2r81tRlMU1j20quEu5K6DXNOk+REypP3kfk04vNC2AWQC2oSCOlGSRSCZzi4g7ePxJ2fSaUaDsCR/FXmdtLBDLihdPl+PKjkCCdup1fftRW3iC385J60VAmQdxS5YFfi+WoAqcSn0M0tv0sKZWC40uR/UgkfqiiuzCQ4EI18QewtdyKofD8L/GbvN2wywaylo5rZbKllHLJIAIKdtx1B77064XyF1jbt3D5i6YL4ICUjXIV2iUwQfQ0UVeqvnK8Ht5I6znhxRFvdsfrr7WeIkt6HV+JZUofIAqT/oj3oooqoVocr//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAYHCAECBQn/xAArEAABAwQBAQgBBQAAAAAAAAABAgMEAAUGERIhBwgTIjFBUWGRFBUyUnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A07XfiuV6vKbmbLjF2uiUBa4cV2QlJHQlKSQPyKCF2HOJKsquUW/qagoVPVBhxXFhJISdch08xUeJ9fQ1ZFYexHP37P2hwcju7oeWZXKYVp3yQ70WoD2UB1BH+Vt5l1uQw28wtLjTiQtC0nYUkjYIPxqg86UpQKi3aozIkdnGRtQ+XjKhL6JGyU+qgPvjupTUJ7U86t2F2lCZ6JK5NwbeajJZQFeYJ9VbI0NkUGHRHS9kqmnwkx3dcfjiR0r6H2qM1DtcKLHRwYZYQ22j+qUpAA/ArBEe2mVAiFDB/c2nuXihekeGB/Hjr131+tVtzBsshZbbnX4DT7X6cpbcQ8ADsj6JHtQSSlKUCqS7yttyuYrGJWGW2TOkRlyA94DQc4BQRrYPzo9aUoKPtGZZzPvK7ZbbE5IujPNC2G2wVp4nzDWumjWhu73EyVmz3qRmFvkQZsiUgoQ+2EFSUo1sAe1KUFr0pSg//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Whenever, Wherever (Radio Edit)</div>
-                                    <div class="artist">Stockanotti, Marc Korn &amp; KYANU</div>
+                                    <div class="name">Always</div>
+                                    <div class="artist">Gavin James</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMBBQYEAgj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBESITETIkEFUWFxkaGxBiMy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABkRAQEBAQEBAAAAAAAAAAAAAAABAhFBEv/aAAwDAQACEQMRAD8A+YuuCGHRiGYxHkDjGO7nk45+TVx6PbJfXLzTxIlrHp1BdskDgb+eTVPaQNcTrGmBnkngDyTWgM6QwpBBtEnHyfJPzSkDd8jTp6uXvOqY4gurIjC9gHsBnist/Kb1bj1Bp1ihdWUR6sbgqck88n9VY3MIs/QbT1E3UDvcax0Fzrj04wWyMb58E1k1cvG8bb6u4fWq67Bzmy9Q84ZmboxDVq2AOBn238eKKRmig6rKAC2j0AjqN/s5/FeHnKSDfb61zCRjuTikSMSeTS6Pz7Vne3ZltY47cSdFFGrUc93k/ANcLq0TAMpVsA4/IqLRZHnRYnCSE7EtgfemiKSaeRZ3KSrt37b+1EyZR35HB3oqWUqGRgQ674/dFawaw3Or75pUmM9pJ+tFFTUJnIxzTZJ5JW/tlZsDA3ooqYTq7sgnNFFFSf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In Your Eyes (feat. Alida)</div>
-                                    <div class="artist">Robin Schulz</div>
+                                    <div class="name">Angel Wings (feat. Avianna Acid)</div>
+                                    <div class="artist">Mike Ault</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCAwUHAQQI/8QALRAAAgEEAgAFAwIHAAAAAAAAAQIDAAQFERIhBjFBUWEHEyIycRUzQkSRobH/xAAYAQEBAAMAAAAAAAAAAAAAAAAGBQIDBP/EACARAAICAwEAAgMAAAAAAAAAAAECAAMEERIhBTEyQWH/2gAMAwEAAhEDEQA/AHqUR3do8J/qUqa0v4n+lU096GtHEiu3Wx2K2dZZSKO3SSRjtyFVQNsxPkAB2T8Cly/z2eyoefCNZY2wj/vLtwxJ1yA4jZB13rXkR33VF0rxwevB/ZEqstyGBTe4n2P0kyD3rQXkimIDZ0COXxTh4b+nkWEv0uucSKnYjjU9n0JJqVj4kzdxBaRXmRsIbsyhJpIYuXBQhaTls8Qw/Ee2216Vj8L42ziLI2cxjXFmjIrXNuAHVnP4gJv89gqegCOQ6o5kKX/Ftxdh2BfGGo53icdstFUzXUM8P3IpOSn40QfYg9g/BoqSUIMvIoI3PP8Akslm7bKWl61wjC3bnCpbShv296utLDMeIbVbs5MW8U9yLdUiUhFccQN66XojW/MLUriM3EX22XkD6GutbR5HBgG2tBNAZFdtDTEK6trfr+n18tn3pxkLV0GcbgX4+0EcHyWReBs1OFY5IfbZU4sZSem4Fd99fzP+1C6scx4bhS9XLtKYtbicsyaYkeW+xtRsfIql87lFxht7W2voZ2gELSK2taEa9a78o/8Adcucpl7dILq3McICqxG+TBewP81w2GkD6lhFX9emW+DcpnpMxczR3Rmjmbnc8v0k+/XQP7UUwY+BrO2SKGMRxj0FFS7OXbYEq0E1pokzC4m/R2XlokGtoYC5sZrdRIqE/NFFIXPVezAgHF2hGWP+ECAhrePZ+KweVFgeRijRR8CiijOSSWjTCUcxJzuSt7VDxIBooorZWg1M7LGDaE//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Something Stupid</div>
+                                    <div class="artist">Jonas Blue &amp; AWA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUEBgcBAwj/xAAtEAACAQMDAgYBBAMBAAAAAAABAgMEBREAEiEGQQcTIjFRYYEUMqHBFiNCcf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwQA/8QAHhEAAgMAAgMBAAAAAAAAAAAAAAIBAxESMRMhIjL/2gAMAwEAAhEDEQA/APUFfUrSUkkzZ9OBwu7knA478nSx7sUQ7qiHI35PkMB6SB3b7B/850hr+uIoa2KkmWOJJnKeYXKlRg8jjg/Gqj1h1s1iiKwrLUttBHmVrbto288D29P5yfnUptXrSy0tMbhpst0eA7Zp4A5LBf8AS2Dt9/8Ar+9cm5uFjPnQ+sqqkQkjLZx7N9azO0dYVt26Cl6lo6aoasWpWhNGKt/LO4qpfgZ3YfOfkalf5FKiyQ0jz1DRZVmW4FiPfgkDj3/GB8a6bVXs5aWb8mqUNQKqkimVsh1zkDHPfjtz20axifxdutL1DZLTRWalqIKuoWmkkWdmaIfJwPfGTz8aNMrxMbAjVss5Iuoqe19U9TtRK7PDRosqFCQXOcZ+fnVc8R6SA9V3Y1yH9GkMRVSccgew/OtWsHhWlnuouEV3ZpnjaOcCnCrKC24cbvTj247ag9TeDtJc556hby1F5wCNiAEfXu3zrN4m02RfXxwQ+C+avwsrHpgFKXdnC9sBUJA+8fzqrVjWi1vI1LGBJVQyrJtBZnJx+7Hb7OtS6e6HpbB0K/Ttu6pSIS1BqGqwiBypUBgBu4zj9wOdKU8FqWqiEjX8z7uVlSlXkfGd3I01lTNEYLReqNPLoRdK2+01N/ggs8EMZi21UjxnIwp5xjjOTj8nRp7afBSotV2a4UHVlVBJtCokdIoVQO2N2CPo8aNUrrxfolddravRqHU8N4ns8sfTlTTUtyLJsmqE3oq7huyvf05/Oq7DQ9eSOsddcLI0G71PHCx3Lu7oR74x3/nnRo1Yznctq6kRKLZJaS0an9QGjG12ycbcJlRj+vbnMY2/rxYljgudmhKlQreSWTaBz6AoPPGMMMDOc5GDRoQGZ9Fo6dS6RWiBL9LBNcV3eZJAMI3JxgYHbHbRo0aID//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Levitate (From the Original Motion Picture “Passengers”)</div>
+                                    <div class="artist">Imagine Dragons</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -497,24 +511,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUHBAYBAgP/xAAvEAABAwIFAgQEBwAAAAAAAAABAgMEABEFBhIhQRMxIlFhcQcjkaEUMjNSgbHR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADBBIRITFBUQUTImH/2gAMAwEAAhEDEQA/AJjMy1EeccdwxDiofA1HUjne43FiDfyO9qWzcMRh8J2QdV0DYGxBN7d6peX8MciuMKc1aSkJPsOxHrY29tqxPing7SMLjfhEj5i9am0D8yRbsPc9qbNbr3hCLsQJqWQGY82e2idJW51flpSggBKz2vyRVbwLKrqpcliSkMiM5oXYi6+QU+YI5pb8Pspw8Pw5tzEYDKpX6rae60nnUQbEenFbdCWWZMx1S1KMhzV4jcpSBYD+6AFxLnrCshAqAdjM1xlEGIGmY6kNJPAJ25uee1FeLklxQ8JIJoqW8X6znC4cOQ1HSpLusKPWsNkp3sQbf7Wj5tcYTmrCYKlPFIXaWU3BDajc6drWsBve5PcW3qhrSzHaSGSHEcFJG/8AJNSX4lZbW7jCsxMJd8CUpca1J2sLagRerS25I8Syk6uDKfh6YkiMpPTUtaHSls8FG/f1psjCYziT0S6dIsdX7vCbe25qGtZvmYSzFeahkthQ6pcvsn0qwQsejKwZiZDKem/ZSlK30m3almr1vx7jPLrDrsviPF4Qw0HNCjfV4Ljun6d6KQDMaCfFIQn6Cii/pf3FG38kjVm6SgFzrFlJ3OrfWPPTz7/el2KZziYlBdgvKLCXRZT6rrG242G4396KKZGtSOsmRx1nfKcdt6SwhzEWzHFtwhV1je9vp96qpjMSEPxm3UiE4LAJBBHqBwb0UVhvmM26q38HjiFWZDrXyDIPnHFpuCZgnYa4sqLK7IWU2ug7pO3mDRRRWywmNuOjv3IEA5n/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFCAQGCQL/xAA1EAABAwMCAwUGBAcAAAAAAAABAgMRAAQFBiESE0EHIjFRYQgUFRYjkRckUnEnM1VikrGz/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAiEQACAgEEAQUAAAAAAAAAAAAAAQIRAxITITFRBCIyQfD/2gAMAwEAAhEDEQA/AEJi8Ze3pQ4bbIm0VMvW9qp3ceUQDvt47VK/LaOKeVqGI/pKpn/OrUezQn+EGM7x/n3H/U00+WT4FX3qLy06K6OLOf6dPSk8xnPJPSMWo9T/AHeUff038L060ELPJz6lAnhT8KIkec8e1Xc+Zsaq+urV9523W1fpxyS4Cea8pIICYnb1MVLPW5T4rM0N9LsLwtHPrKY25s1FSbbIJsxH1bi2U1ueh8QN/XeirWe0YB+FeThZMPsAiZg8wUVSM1JWI4NcCi7M+0zMaT0i/jLBVvyllamONriKHFKEqnrtOx2mmrontRtcL2epQ6v33NpeUfd1FSeIKXE8UEeG8UgtP4C4yGCtrphxIb41cXdUSIMdBTBxPZne5DFfEbbJWobHRSVhU9dorHmyY49ujVi54atDUzXIf0y7mw/btXgvxfhCVyA4kECJG/2rc7rL2uQ0xcLbukc9dgHT3uFQ42yUn9zB8PKkE52eaiVjxdO5xgY0XAtVJ+oYJ6xHhWevscvlLUg5+zJQkHvJXEdK5yej5z7N3qJwmkoLr9QoMpnblnSmVx6lLcRkFsrcUtZMKQqZ36nzoo1zh3Mda3KQ4Hm2XEpKw2pIJn1FFdzDUo2jlZZe41K2zOStbZLFtkLllgTDaHCE77nb96zWNVagtWuVb5rItt/pTcKA/wB0UU2iL7RNN+SXXra5VhBaHKalL4HHByEsc39XBExPrPrUSrVuolklecyRJEH8yrcfeiihtwf0HU/JF3WSvLhhbb9084hauJQWsmT5n1ooop0qFs//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Heart Goes (La Di Da)</div>
-                                    <div class="artist">Becky Hill &amp; Topic</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Fly by Wire</div>
-                                    <div class="artist">Anevo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Angel Wings (feat. Avianna Acid)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Hero</div>
+                                    <div class="artist">AFROJACK &amp; David Guetta</div>
                                 </div>
                             </div>
                         </div>
@@ -535,7 +535,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2023, 16:07:56 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Oct 2023, 17:03:59 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
