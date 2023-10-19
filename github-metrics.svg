@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            1867 Pull requests opened
+                            1868 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -259,7 +259,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 42 commits)</small>
+                    <small class="h-details">(computed from last 41 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -325,8 +325,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -370,8 +370,8 @@
                             18
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -421,13 +421,13 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">8</span>
-                                <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">6</span>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -442,17 +442,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 35.06253710172955%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 35.06744641407366%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">44%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 3.035379992251368%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.035804993683004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.6000816102394806%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.6003056470904915%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -476,34 +476,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEGBwQFCP/EAC4QAAEDAwIFAgQHAAAAAAAAAAEAAgMEBREGIQcSIjFBExQyUYHBI2Fyk6Gx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAgMFBv/EAB0RAAMBAQADAQEAAAAAAAAAAAABAgMEERIxIUH/2gAMAwEAAhEDEQA/APlVd7LbK6PmEtPjGd5mg/2uBWTRGlKnVNxdDE8Q08WDNM4ZDR4AHkn5KN3OcuqfhIlEO36z9PKbbZSXD1abpIz+Oz5Z233Um2SjvNTfvN/1aXf+HNtoHww0ra+UEdU/MHb/AKQNlQ9WaYrdOTwipa4wTtLopCMc2O4I8EfdUY9eWz8SxjXj0yn2pfhX0REyKkrd+B9ugqtKTzMyJxUuD3MOHDpbj6LCCrfw61tVaMuMkkcfuKKcATQE4zjs4HwQlO7GtsXMfRnk1WWipm46gqKqz0/uZGiZrezx0u+vgqicVrzR3fRFFI0n1/cjDH/EzpOfsvaunE3TF4trhVyVkTXfFTthy4/lzZx/KyLWGoWXupjZR0/tbdBkQw5y7fu5x8krK4eS1aq5aa/pqdXVm8mk/LZXERF0BhBERAE52UIiACIiAP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Yellow</div>
-                                    <div class="artist">Coldplay</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMBBQYEAgj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBESITETIkEFUWFxkaGxBiMy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABkRAQEBAQEBAAAAAAAAAAAAAAABAhFBEv/aAAwDAQACEQMRAD8A+YuuCGHRiGYxHkDjGO7nk45+TVx6PbJfXLzTxIlrHp1BdskDgb+eTVPaQNcTrGmBnkngDyTWgM6QwpBBtEnHyfJPzSkDd8jTp6uXvOqY4gurIjC9gHsBnist/Kb1bj1Bp1ihdWUR6sbgqck88n9VY3MIs/QbT1E3UDvcax0Fzrj04wWyMb58E1k1cvG8bb6u4fWq67Bzmy9Q84ZmboxDVq2AOBn238eKKRmig6rKAC2j0AjqN/s5/FeHnKSDfb61zCRjuTikSMSeTS6Pz7Vne3ZltY47cSdFFGrUc93k/ANcLq0TAMpVsA4/IqLRZHnRYnCSE7EtgfemiKSaeRZ3KSrt37b+1EyZR35HB3oqWUqGRgQ674/dFawaw3Or75pUmM9pJ+tFFTUJnIxzTZJ5JW/tlZsDA3ooqYTq7sgnNFFFSf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">In Your Eyes (feat. Alida)</div>
-                                    <div class="artist">Robin Schulz</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcI/8QALBAAAgEDAgUDBAIDAAAAAAAAAQIDAAQRBRIGEyExQRQiYVFxgZEVoTLB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMEAgX/xAAeEQACAwACAwEAAAAAAAAAAAABAgADESExBBITQf/aAAwDAQACEQMRAD8A8126K8QYMN3kYp/oFpHc3sUNxIIoXJDSHpt6Hr+6Q2oy46DJ+ao9Ph2orFgM9MZzU9zYJZ46+0urXS9BiTatxEW3d+c5BHX46dPv4+1JdYsFN3Klq55I/wAcHcO3189a0WdqzN7V9mAen0rddmCwtxJcHYp6L1zmua1utglnzwcmQ95psyKMMMj4oqjeaC9gMtsyuoOG8EH5FFMPIZRhmCgMS8HaTaajYXcN1G/OHu9igOR4wT2/FYLHntJshUEbsKpPX8/NOeHdTn0sP6K609GZSrFoS7MPOSRWmBYv5u3nnki5nMXcIYtg++O3emf2BYn9iIgKqAMzudg4O4Z9Bpkr3QDTSxBQOgKuR2ye4z+qg+NxBo/Glj6oSzafFs56RJld+csOvgjB+avbDiBEsI1kD8qKRWGfr/yuO8UcQXWoarc3U0iCF5jhWIZlXsFI+O1cymh/oSeY9xzviPuLbSxstZmu9H9P6C5iRtkTDCt56f3RSK/4jtHtOYli0jIwjJ3gA/gf6oqlKbCOoZNY/ciPR30pN/qonk9oxucgZ89qZ6dqlkusJLDaQxooDsCWYZH1yaKKvKg7snVyAMlHq3HpmtjbpLZW6t3225z/AGTXKLu6JuJWGHy5O4jv+KKK3UijqB5VjcQe9nkQI0gVfgUUUU3qJMbGPJM//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Shyer</div>
-                                    <div class="artist">London Grammar</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBAUCA//EAC8QAAEDAwMCBAYBBQAAAAAAAAECAwQABREGEiETQQcUIjEVMlFhcYHRCBYzYrH/xAAYAQEAAwEAAAAAAAAAAAAAAAAEAAIDAf/EAB8RAAICAgIDAQAAAAAAAAAAAAECABEDIQQSIjFBUf/aAAwDAQACEQMRAD8Alfi0qK14lXxElt/qCQndtcGPkTxjGfbvmrX/AE4ORLDpe5uXBQhpclIU2p90HqhSBhSTwMdvsQaV9e2mXqTxF1A9BtdznNRXExVGHEi7U+lK8Er5J5+YjOOM4rTEtjll0pKiOWu6x5kt1LLMaUltyR0wj1KbQjjbyrtwTmmhfZg8hDjoTLYq5O3qO2uNuYYdTuAUMLP5+lESOqKrHVLv+h/mkK8as+FR7Y/FhTURHWvMAlOdycgqBOffB/A/5o094iR16glSpEaYmBHjuKTlnAKQRtOD6sng/ukF2UEKNCYY+NQ9x0cuNuelOMR5LTj7X+RttYUpHbkA8c0UtaHtDFwaFzbhNQnHFKWlKSlSlJV3VgZCvqDRUVzW9TmQIDVxau1itbep7w/f9YyrWZL6XY8aJdRH2N7Ej1JPfIJyO1fByBBajWedBnvXRmR1G1Py3xJUle1JSjcOfYL4z7kn7VP9d9J3Xd8Xbt7rpdR5ovsRFgObBwgvHdjGPbjNMehEORLBHEdhXVXfG5kkrUztCEJTuKENEpSACOKgamqpGQle1zFqWxTLTrGM9OekKi2ZKJkeOGQ4lLKXcAHJwRuPP0BqrXfzf9yi4toAgIiON7VLylSlJKicH356dZnrMNSeIslN+jOpt0eKWY7AdIEra4CpTgGMpyoYGcHArs6zKWNGaifZUlRi9VKW0Y+ZTYSEY7H1JwPxRmLBuwicbKQFI3J54R6yv92vDbd3SEdZlbqUNN8bMY3k/QkDHbg/UZKbI+n/AIFdtIKYbS2r4Wq1SvsUIDicftCx+6KRjWxKMisbMV9VaUu91vciUyxpZ1hZAaMy3Fx4JAHCld/4rdoTw9d+E3ljVDDEcLlOKirtmGUhC2wklIHsOPZWTxRRSM2JQbH2A4+ZmBB+SnRbW0ZDV8eLnm2GlstkKGFIXjIUO/KQfzXHu1tYnx5Mcyp4Q9I8y4EOAZOANpAHKcJ9v3nNFFEx+RYn9iOxAue7lHE+RBfdL6FRHS8gDgKJSpPOe2FGiiitwNSpJn//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">MORE (feat. Lexie Liu, Jaira Burns, Seraphine &amp; League of Legends)</div>
-                                    <div class="artist">K/DA, Madison Beer &amp; (G)I-DLE</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQgGAv/EADIQAAEDAwIEBAQFBQAAAAAAAAECAwQABREGEgcTITEyQVFxFCJhgQgjQoKhUpGiwfH/xAAXAQEBAQEAAAAAAAAAAAAAAAADBAUG/8QAJxEAAQMDAwQBBQAAAAAAAAAAAQACAwQREgUhQRMiI3GxMUJRYdH/2gAMAwEAAhEDEQA/AGNqlE2PBjm3IS66loflOdPXt6n70obxqW5pU4mXLVEGdqk55eMeXqKf2pVCHDbcUAo7djbeejiznCR71nDizwv1AuSi8Xm7NPSZZ6IQhQYZH9CfMAA9/PvQVUee+RAT6TrFPpuXVhDjwTx8qKbrGuDqC5IjynUnKVcwFxJ+igdw+xqcxom36sCg0pr4tAA5UlJCtvYYdRhX0+YKpU3DQuoYJKhCU+gfrjq3/wADrXacItQTIV3aTJLvxUJ1PReQraflIOf90LMoe5rrt5Wyauj10OjYwMlsSC39cH2vGpOD023uL5ZfjBHcvJ57WfTmNDI/cgUVq6Nb+asqcQppA7qSrP8A00Vo4hceJpRsq/i7bJjtpt8+DdGrY1bpAlPqU1zOaB4UYyOhPfzx/ObuNvFaTrCHFtDEYx48dfMUQ2UFSvYkmtZ6rQq46VubbCHXXOSotttOFClKHUDcOo6+nXFZpc0xc3Yfx11YmuPNJ3OLSytewdepV9Ae5o5Gm12i6enjgdN53Yj82uknDu12MpvbKmO9erfOUN48x0Pp0pm8LmZOttcBSI620jYlZUsq5Sc5UM48I2nGe2cZqDcnLJZpDcddyUhCBtSFQlkkEgnJ3d8jNX/BuRp+TOl2Fd4fJca3MvBgthYSStYIUSPQ/tz7QyVPYcmkD0f4t2ljpIJWzRy32PHK1LdZzFsjkI2cxPhR5J+vvRSJ1LcoDERyZBvSZriVnYW0ZSoEqJ+YEg+M0VbFL1Bey5+rijD/ABSgj0QrHSf4jtNOpS1eYk+3Lz49ofR/dOFf411I436Tu02NaLI/JuEydubGGFIQ2NqiSorAz0HYA5oooquRzYHub9QD8KhkTcgFkvV16t91SsMRZEeQleAlzBwPMeoNW/DNhNmgXbWExRSxAaXEjISer0h1BSE+wCsmiihrSXRBp+4gH0TukhYI9guEYkvsDDLriAe4SogH7UUUVYjIB4X/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">She Doesn't Mind</div>
@@ -511,10 +483,38 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC8QAAIBAwMDAwIEBwAAAAAAAAECAwAEEQUSIQYxQRMiUWFxBxUjgRYyM0KCocH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBEhBRITMRQiUWFx/9oADAMBAAIRAxEAPwCLQLbRjbx3F3bxypFbCRhu5eQPKShGRjKRt++01zDb6NNZ2dzHBFDPHE2YnmJFwRACGYZ9o9XIOMAik5InuQzqihB/dj/VXvSVu8N3JMQ/pBfdxgfvTe5SgLd0ExwLCAV4l+2kQSNFDBpyG2knYvcOW9VgJGKqoLDClMePrmpV6Zs4F9F4B6vq28qnfhniEbNIM543Y8cg4Fc6n1hpWiqkkd6l1LMucQHJQec57U29JTW3VekG7QPFBuI/TT3kqeTu7Yz5FL/ktv3HDYVYEQ9f6XmVrlrG0g2IVT+tgoFABOCQSWJ+CO9FaNqPScmPUSSaUNgrIDk4HYYPBPNFWXMdePcsvTaHGy2v5MY6ctmumMKsULng54+ua0i1tNM0ZIbXUrsGeVGG4uFGPgA/T5rPOnblLcOzMqyj+XPxUHW0eo65qdhcW7IoSNlkbPt25789jVsuxidCcsCtBX3+z+JadT/h3Y9QSxT6LNKbgTATwQx59NTwdxHAPnHfHitP6f1TTOk7rS+jYGuYpHhLRllDK/Jy2SfJHOBxS30hq/5bbQxyNDHqFzqELSOnu3pgBsnPwPt3ps/OrJ717m9t4hLu22/qQ7mRRnDAntkknjxSlrdcQ/xs7n67MvpHkgH6is6Enb7iB+wFFJv8RW9rd37PLdyxMyhElckbgPcVJzjPxxjH1oqPMRCFxLCNlZikDAk5YfbFextQkiVIo0EmeMF9q/5HvRRTze15mUqYqdiT2N6Y9Yke5KIrwoQI34yCQSB474pkfVTP7YzczAeHPA/5RRSPJQK51Nh06wtTz+5Df3SqhKwssvgMdwP3ooooWMVc6n//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAtEAABBAECBgEDAwUAAAAAAAABAgMEEQUAIQYSEzFBUSIVI3FCgZEUMmGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEIRIxBUFRcYETImGhsfD/2gAMAwEAAhEDEQA/AFoRix8Qw4nF4x4NxmiQqGgmumLJNX3Pf3p53H4mTBfyTWCiNlPKpLZZHy2TuPjXf2QKP41rx+VdaxETlhPTehFaUphpSQp4dMAgnluqJ9/g6SYzk3ILnmRincdEeabXHQt8lQ33Kh2IIFDYVXbSaWQ0qCM/FUG+IpeBebBCQI8in+LJnDi0xOlAgxnSA2lBhtoSK7J5v1E+6G+tSuFA3hTKONxzaJASWSpCAGyQa9/xqNnsLmMeZkiXHBWFKQ0K52pABrbbZSdxYO+3itdyJEt/AIQ+2UY5ppvpyOdQHPQBBUn1avHjRw6pKR6ZEDelHbNWn3qkqhXLcYrk8vCx7WAyTTmPxjkxuMsuFthKekooJ8pG1Cx6N0dGrZlRmMdxCFNJcclQFoC2RfOlLalAgA7C97HYeBo1louiSNj5rBaZUBrEEdxVLA4RpvF4t+PJSt5cZoPNqbWByloWLur8aZyDMbKxJLMeFGjCPaW3UOFVfLek+tjse/Nel8Zk4quH8amBJdMv+mZ5k9ADlpsXSiaP8C9OOMyImDgJLqqLam1blQtPKCPkbB9gUL7aXZavLglRMTgY6eKK69a8PbLRSY3PnH7UziLI/Xgyt+Qtltk/baKLANd/7tuwHjv71obmITAYisvyI6LSp0BIKVqSCEqomx3NiyD4A1hkcuhicGGj8U7OKJJAPgVfjTpyMVICkr6hT+ltV9waNE9rrVAWaG0ltJ2/ulSg7eJCHVIIS5sYn6mp6nRFhTZHWc6q474txugq2VJIAB2ABA/fRrzMLdmcP5Z8R5CkBh5JPVCAPtk0Bfj8G/8AGjSPrafaDEfIq83ZvqQkqM9xn9qfwvkcfITiGPqURlQjpSpReR8ftAGxf/P967HOzManEEt5nHEx0qKEIkglV13sAeL96NGny4pWZpW+tGmTpSJkc+9fOXJsBx5bhyUFPMboOpPgDvzDWbGThtvgCbjihSQkrDyQqwb7XVfvo0aGpIAIpS14rcvrbYWqUyMQOVUpE7GO8Ly1N5CCXUJf+JkovlLW1C9zfoaNGjUPQCSOldU88qRX/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Trois nuits par semaine</div>
-                                    <div class="artist">Indochine</div>
+                                    <div class="name">Don't You Wanna Play?</div>
+                                    <div class="artist">Seeb &amp; Julie Bergan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQI/8QAMBAAAgEDAwMCBQEJAAAAAAAAAQIDAAQRBRIhBjFBE1EHFCJhgXEjM1JikaGxwdH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAv/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMEERIFEyFBIjFRsf/aAAwDAQACEQMRAD8AxHwpvoNNNzOxPr3EixoBjcxxwOOPBNVyyvmkDEudwIBweN2MnH6V5s0S7lh1COaVl2xCWb9mAAWVMjgceas+harHDp9u07rEogQkscAu3jP4q3jMCuvyZ3q2ORYbB7m/tmVE4+lf1812wOVYHfJt8J/DSKwuFklSPJJQBm/PP/KdRSbRxRGGpNQ/sYfJvrVmdDnKyQ3R3qZGOMDuM98iiu3pBFudU3ARs0LggOM4z3I9jRSNt71NxQ6mgwRyq2SZ4n9dpryRmmDzSArkdm3KQfsPFWjpd47gzhkUxokZQEc/uwf91D5YWa53OSi7lBkbJA+/vW56X6rbS7z5a/iaeNlSP1Yz4BIDY88H+1d4doU6b3C9Tx2uT4fcsWjut9YwTpwZQrZH2pleWs8jI6XkkEaKxbaqkE+5yPFY/ofUQ5htoZQywxtuA5+oNj/BzXbr+srqkg0awuAiSkC6nDY2p5QfzHtx2qlxLEakBMZhYV9D+TWfC++lNtcatcTtDDJMZM7MjZnCj7Ahc58ZorAat141tZSaRodvGYDMq+oGxlExgduxIP4ope3D7jlmmixcS3t7A1JRf6bDFDOwOVKgLxjtjxnj+ppBBDKs7NDKUaM7lIPbnFFFDy6lVl0JU1uU7prUrnV5rizujHHK0AQ3ECbHIJ2889/qzSSEy6HNc26lHmG6Ay47e5X2OKKKp0eSNxaitRe6AeNCM+k7NbrULfeqsGlUYbt3ANFFFd2E8oS9iG0J/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Where I'm Headed</div>
+                                    <div class="artist">Lene Marlin</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEGBwQFCP/EAC4QAAEDAwIFAgQHAAAAAAAAAAEAAgMEBREGIQcSIjFBFDITUYHBI2Fyk6Gx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAgMFBv/EAB0RAAMBAQADAQEAAAAAAAAAAAABAgMEERIxIUH/2gAMAwEAAhEDEQA/APlVd7bbK6PmEtPjGd5mg/33XArJojSlTqm4uhieIaeLBmmcMho8ADyT8lG7nOXVPwkSiHb9Z+nlNtsri4CWm6SM/js+Wdt91Jtko7zU37zf9Wl3/hzbaB8MNK2vlBHVPzB2/wCkDZUPVmmK3Tk8IqWuME7S6KQjHNjuCPBH3VGPXls/EsY249Mp9qX4V9ERMipK3fgfb4KrSk8zMicVLg9zDhw6W4+iwgq38OtbVWjLjJJHH6iinAE0BOM47OB8EJTuxrbFzH0Z5NVloqZuOoKiqs9P6mRoma3s8dLvr4KonFa80d30RRSNJ+P6kYY/3M6Tn7L2rpxN0xeLa4VclZE13up2w5cfy5s4/lZHrDULL3URso6f0tugyIYebLt+7nHySsrh5LVqrlpr+mp1dWbyaT8tlbREXQGEEREATnZQiIAIiIA//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Yellow</div>
+                                    <div class="artist">Coldplay</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAUGAgf/xAAsEAABBAEDAwMDBAMAAAAAAAABAgMEEQUAEiEGEzEiQVEUYXEVMjORQlKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQF/8QAJBEAAQQBBAICAwAAAAAAAAAAAQACAxEEEhMhMUFhgfCRobH/2gAMAwEAAhEDEQA/AIhL85ESO3mxKcixm9sVDvhpaymuCflXtqzxExuLGXAYKktIUJC3o6t7ilgpUNjgFADckAgcbVeKvSfqDHTnsU+JYn06FKivbAveqwfVfI4A8G7r20p6TwsxxU515JJUwUIcDiwG1jlKiPfkE7bq/tpmy70Zrof1aefiOxZd2+h2q1D+Ik49a3XC64wQD3HfW0pfKLITRv8A2HFjkjSTL5SFDajsx4Eky1J3OiO6q1lQAs8/u5okULu9bxuHmOYwxWX0SGpW9huO6rtpSUqCkbFJpRAs0FEgDUhNw8rpx1xM+GqQpaVJSys0Qk2N1ggqIPN3zQ1NBHG23A8n2r8fNmlaBXAv72qeZ0u5KaTK/UWOyW9qiXEqKAlveQDdKNWPzo0dJ9Oplu4CFPyYQJiXHtptTjSSeEC+CtVUKJ5+/GjSjNawU88pJowSHOkq/Vq9zsx7IdOYtiMt1QYYQZJQfSlTZAQU/kFRscggXreWirRK+lizI/aQrultpoqc2qPhwggAHd45PxzqQbzmUQ2xCqIlyY1tcbBSSlJUCApQFJPpB48asujm57OPkv4jHY2dLjOlCVbtzgG3+QKr1HduTftXA86OGDYbYPBUWfBut1dDwtzsF9NHjrxWLervd1lF2tKiBZG7gigTXxXF65t1plEZjO2ov9mK0Irf1LVr4JJsCq5JHPgDXQM51D1GjHtsy4zUBxhQ7fKtxUAa3cChXxwdTOdhInykZHLOJEnsoVIVHTtSt2yU2PcbE8n8aaBkUh1eQKU2CyTHIa83Z/F/CTpekuJgMpakKGLbOxzeUqRatwI+CFH/AKdGmcPMIjxJZW43veK1AlvcBSaVuryaFpA839tGpGnIBLWxg17WhkZMEbg17vtpfhcp09IjNet9Mwgh0shTaVCzdD8FP96fY5ePwy0P46RNTLRXpZetSVUSoECuL+fOjRqu64HSaVxfQcbu/wBJ5E6za6jaYYyTbtrYdUt0cBCBuKhYTdEBAs3yfGpXLQHYqZQhzIU1hp5bKEqVtKyrcBSfPsr+j8jRo0YaGPoeVhmZ2O/VGp3I47tMxWZbPZlpS5ZFpLqv8SeeRfHgVo0aNaUYAb0rWN3Rrd2V/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">One More Night</div>
+                                    <div class="artist">Maroon 5</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECBAP/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEABEFBhIhMQcTYUFRcRSBkRUiMlLw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAHxEAAgMBAQACAwAAAAAAAAAAAQIAAxEEIRIxE0FR/9oADAMBAAIRAxEAPwBAobLh2NTWG5bnToxejtlaApSdubgX4/29SWTsqT8wEiDHLmkXKr2A+52q5QMiyVvqiPxyzJGw7htv9/SsWuUHAfY0vKxGkSqNdPcXWFBAZOhCXF3XbSlRsCfHn0qGxTLsvDmEuyQ2Emw0hYKgTfkDccU5Y+T8TXFTAchyjICSngdtTd7/AMr2teofEenMxDyGg2Ap1ZQlPufB9qzXo/phnjP0IljdKrelFXDPOT5+Wyj66OUBy+lYN0q+CNqKYSxXGgxd6GQ4ZfOkCUTMvzoz50x2HEyCtCwFggW4J3FvxTIgzmsaxgOtKKGkJS2NRuSkC1z5pa9JZ8KFgj/eQhxali+oC6fxvXRnfG4xxF2K0EJivs6HeybcjcfNctbFN5XJ2nof8AYnz9R4fpoET9r6Rt/cce3xVRxfFHIGI6pa+83YoABAIBFtvNKKHEyskFpwrW7o16XHTx9qmsqY5BRibLThCYsdGhtClC1hxuaYvZQpxYvz87/Ia33PbrYW2Mq4VGZUVMvrXJStagVXIA4HAorl6u4jDn5fjOR0MlfcUg6Qm6dr882oqcjhq9AyB2Vuj4ximwvGH4DS0Mr0lXO1YfxR197uPLK1etFFNBF9bPYob7CgXfBASwp3u769Onmt2JxSsn0PmiirKgiClrA7NZ0supCQdvmiiioqjJb2Mx0z/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Fractures (feat. Nevve)</div>
+                                    <div class="artist">ILLENIUM</div>
                                 </div>
                             </div>
                         </div>
@@ -535,7 +535,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2023, 09:06:17 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Oct 2023, 10:07:52 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
