@@ -483,17 +483,32 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAUGCAIEBwED/8QALxAAAgEDAgQCCQUAAAAAAAAAAQIDAAQRBRIGByFxIjETFCMyQVFhgZElM3Khwf/EABkBAAIDAQAAAAAAAAAAAAAAAAACAwQFBv/EAB8RAAIDAAICAwAAAAAAAAAAAAABAgMRBAUSMSEiUf/aAAwDAQACEQMRAD8AsgwQqckVGdZtwNzJ500uo5wfCTWuIfCzTsNoGTXDo06/r86QxndnIUE4+QphaShoyjedJr7mTwVY3RifUBsOB6ZYXI3H4YC5z9qk4hgUrKmMMAw6Y6VLZGUM8lhNGxWehbNaHJYL0NFb15fIiFVUZopFKQ+M8ueMYnU7F/ulMvFLs/swfzVVrrmdr093DPG9vDHF1NuieCT+WTn8EVJdE5wRKiJq2lSb93iktnyMfRW65+9ab6yyC1LSrC6n0KNVnJ45ikxn9XV8fD93NWQbV5Zc5qqVzrNtJxJFeZdLf14TZZeoXfny7V1O+5saBboxtEvbtwcYSLaCPnlquc6idngorRONZGGtvDsFlMJ5PaCiq26nze4jlut2kQxWUA91GjErN3J/wUVVXV2v8RI+XXpzdh6MjPn2rITMANpI70UV0JmGD5b3mJGa+jO6jBdgPqtFFAAZWyCWbb3zmiiigD//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAEGBwQFCP/EAC4QAAEDAwIFAgQHAAAAAAAAAAEAAgMEBREGIQcSIjFBFDITUYHBI2Fyk6Gx0f/EABkBAAIDAQAAAAAAAAAAAAAAAAAEAgMFBv/EAB0RAAMBAQADAQEAAAAAAAAAAAABAgMEERIxIUH/2gAMAwEAAhEDEQA/APlVd7bbK6PmEtPjGd5mg/33XArJojSlTqm4uhieIaeLBmmcMho8ADyT8lG7nOXVPwkSiHb9Z+nlNtsri4CWm6SM/js+Wdt91Jtko7zU37zf9Wl3/hzbaB8MNK2vlBHVPzB2/wCkDZUPVmmK3Tk8IqWuME7S6KQjHNjuCPBH3VGPXls/EsY249Mp9qX4V9ERMipK3fgfb4KrSk8zMicVLg9zDhw6W4+iwgq38OtbVWjLjJJHH6iinAE0BOM47OB8EJTuxrbFzH0Z5NVloqZuOoKiqs9P6mRoma3s8dLvr4KonFa80d30RRSNJ+P6kYY/3M6Tn7L2rpxN0xeLa4VclZE13up2w5cfy5s4/lZHrDULL3URso6f0tugyIYebLt+7nHySsrh5LVqrlpr+mp1dWbyaT8tlbREXQGEEREATnZQiIAIiIA//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Hurricane</div>
-                                    <div class="artist">Ofenbach &amp; Ella Henderson</div>
+                                    <div class="name">Yellow</div>
+                                    <div class="artist">Coldplay</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAMRAAAgEDAwEEBwkAAAAAAAAAAQIDAAQRBRIhMQYTMkEHIlFhgaGxFTNCQ1JTcZLR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEBQb/xAAgEQACAgICAgMAAAAAAAAAAAAAAQIRAxITITFBBDJR/9oADAMBAAIRAxEAPwDho9lYTwxmaF3kVMsAQoPxJ5PuFMotN0ruy00EqJkhWDBj04yB7xS+wVhBHtLAbQeD500iEhBBkcg9Rk81Juq8G/wycn2ScMQbW7dAg2OsuQRxwwFUKWEePuk/qKU2K57TWMYZeY3O3zOWf/Kfdn9Sh1eS+SKMxm1maEhnBLY/EAOQP5oWw8MbdNme4sIltZm7pMhGPhHsop7e2+LC5OPyn+hopTki6ONpE9YMO4i5HhH0ppEygE5qHg1UxgLz6vHWtT64Y7aZ+m1D16ZxSbn+DovF32YNcls2uwbmSaFoI2YSROYz4ZDtDjp1FKfRc8ydtHuLaRHtUijt5QDnKtgAjHsbHzpJbX82pamBMDHaZZWVlyGyDgc+dUvowmttFguYyhS4kWF97HqrJnb8G3VRKbhja9mPhx8/yISTpWz2G/2/Z11j9l/oaKmJ9cSS1mTd4kZflRUW7Ok4UeLlTB38sMc8d73j4dUf9fl5Y21guRdFpZUjund+WzGwLHzoorTgzkM0U3RhZ9SmdRJb3TIMDGxug+FNRdainrLHdZ2hfAckDp5UUUV+hMcddps62t3qJv43Mc6K7+sNpwATz1ooopcqvwV4Ntfsz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgECBAP/xAAsEAABAwIFAwMDBQAAAAAAAAABAgMEABEFBhIhMQcTYUFRcRSBkRUiMlLw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgQAAQMF/8QAHxEAAgMBAQACAwAAAAAAAAAAAQIAAxEEIRIxE0FR/9oADAMBAAIRAxEAPwBAobLh2NTWG5bnToxejtlaApSdubgX4/29SWTsqT8wEiDHLmkXKr2A+52q5QMiyVvqiPxyzJGw7htv9/SsWuUHAfY0vKxGkSqNdPcXWFBAZOhCXF3XbSlRsCfHn0qGxTLsvDmEuyQ2Emw0hYKgTfkDccU5Y+T8TXFTAchyjICSngdtTd7/AMr2teofEenMxDyGg2Ap1ZQlPufB9qzXo/phnjP0IljdKrelFXDPOT5+Wyj66OUBy+lYN0q+CNqKYSxXGgxd6GQ4ZfOkCUTMvzoz50x2HEyCtCwFggW4J3FvxTIgzmsaxgOtKKGkJS2NRuSkC1z5pa9JZ8KFgj/eQhxali+oC6fxvXRnfG4xxF2K0EJivs6HeybcjcfNctbFN5XJ2nof8AYnz9R4fpoET9r6Rt/cce3xVRxfFHIGI6pa+83YoABAIBFtvNKKHEyskFpwrW7o16XHTx9qmsqY5BRibLThCYsdGhtClC1hxuaYvZQpxYvz87/Ia33PbrYW2Mq4VGZUVMvrXJStagVXIA4HAorl6u4jDn5fjOR0MlfcUg6Qm6dr882oqcjhq9AyB2Vuj4ximwvGH4DS0Mr0lXO1YfxR197uPLK1etFFNBF9bPYob7CgXfBASwp3u769Onmt2JxSsn0PmiirKgiClrA7NZ0supCQdvmiiioqjJb2Mx0z/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Only You (feat. Alexis Donn)</div>
-                                    <div class="artist">DEXTER KING</div>
+                                    <div class="name">Fractures (feat. Nevve)</div>
+                                    <div class="artist">ILLENIUM</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC8QAAIBAwMDAwIEBwAAAAAAAAECAwAEEQUSIQYxQRMiUWFxBxUjgRYyM0KCocH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAjEQACAgIBBAIDAAAAAAAAAAABAgADBBEhBRITMRQiUWFx/9oADAMBAAIRAxEAPwCLQLbRjbx3F3bxypFbCRhu5eQPKShGRjKRt++01zDb6NNZ2dzHBFDPHE2YnmJFwRACGYZ9o9XIOMAik5InuQzqihB/dj/VXvSVu8N3JMQ/pBfdxgfvTe5SgLd0ExwLCAV4l+2kQSNFDBpyG2knYvcOW9VgJGKqoLDClMePrmpV6Zs4F9F4B6vq28qnfhniEbNIM543Y8cg4Fc6n1hpWiqkkd6l1LMucQHJQec57U29JTW3VekG7QPFBuI/TT3kqeTu7Yz5FL/ktv3HDYVYEQ9f6XmVrlrG0g2IVT+tgoFABOCQSWJ+CO9FaNqPScmPUSSaUNgrIDk4HYYPBPNFWXMdePcsvTaHGy2v5MY6ctmumMKsULng54+ua0i1tNM0ZIbXUrsGeVGG4uFGPgA/T5rPOnblLcOzMqyj+XPxUHW0eo65qdhcW7IoSNlkbPt25789jVsuxidCcsCtBX3+z+JadT/h3Y9QSxT6LNKbgTATwQx59NTwdxHAPnHfHitP6f1TTOk7rS+jYGuYpHhLRllDK/Jy2SfJHOBxS30hq/5bbQxyNDHqFzqELSOnu3pgBsnPwPt3ps/OrJ717m9t4hLu22/qQ7mRRnDAntkknjxSlrdcQ/xs7n67MvpHkgH6is6Enb7iB+wFFJv8RW9rd37PLdyxMyhElckbgPcVJzjPxxjH1oqPMRCFxLCNlZikDAk5YfbFextQkiVIo0EmeMF9q/5HvRRTze15mUqYqdiT2N6Y9Yke5KIrwoQI34yCQSB474pkfVTP7YzczAeHPA/5RRSPJQK51Nh06wtTz+5Df3SqhKwssvgMdwP3ooooWMVc6n//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Trois nuits par semaine</div>
+                                    <div class="artist">Indochine</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQGBQEHAv/EAC4QAAIBAwMBBgQHAAAAAAAAAAECAwAEEQUSITETIlFhcYEGQpGhFBUyM0FS0f/EABkBAQACAwAAAAAAAAAAAAAAAAQABQECA//EAB0RAAIBBQEBAAAAAAAAAAAAAAABAgMREyExEkH/2gAMAwEAAhEDEQA/APqC+j7Qsrgqa2bPXlV0gyuW4BzXjtlrJ2AMxz601BqsqzK6MwYHIOaKqSSsh+3s9r1W1uR2gEigIBl5GVFJJ/jJzjr5+VQOp6rLHK6KwIBIyOhpG212SeJkuMMTzk5z9ay9Uv4edp59aFWpuMtDKLutj02r7YXeR++o7q5+9FYNtpF5rSSfhxtRerE4oqZIR1Jm+IwbeSxgAM9yGYfJGNx+vT70/Z6xbmTEFmXHjI3+VEI3TJNOR3hjXEbMp8QasJzb4Cgl9Lq31WS6mZFswYUOHMYOQfDmmHs7SV1LGWMn5JVKn2zwfY1BW+rXcP7VxInoxFa0HxBfyRbZ7osn9ZBuB+tHqepLbO9Oajwumvfy20VYt65GAOnvRUnDrkE3dkTaw/UMll9s8iih4bdR3yJkD2mB1rjSnx4ooq3SRV3BZenNMC6ITGeKKKw4oypM4lwVJOeT50UUVo4onpn/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wildfire
+Explicit content</div>
+                                    <div class="artist">Fairlane &amp; Nevve</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -501,21 +516,6 @@
                                 <div class="infos">
                                     <div class="name">Into You</div>
                                     <div class="artist">Ariana Grande</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAMBAAAgECBQIEBAYDAAAAAAAAAQIDBBEABQYSIRMxB0FRYQgUgaEVIzJxkbEWIjP/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAf/EACARAAICAgIDAQEAAAAAAAAAAAECAAMEEhExEyFBUYH/2gAMAwEAAhEDEQA/AFD4J6apNRVmbfPQJMlPFGQHvxuaxIt52Bt74aFf4daZQzRvSFInVRAyFupckbiwtaw9Bzb3xUPhYzWgyjVmazZtO8dI9KsYj3DY8hkG0kHuRzb0ucaO1DX6bzOny6eiqItszmOI/pLsCC1r4r4d3CBCPUm5dvjJOx+epnPK9Jaen+co8wo2pZlV0inTqEh9/wDqTckEbLE8eeLDPobSSvK9HAxDMirHKW/LsDv54uSbefFjiLHT1k3iPLSAUzU8hkkUNNHuK82sl72t52xf6NKCmyOklqnUCRyDJbddrta/H39OcUMdUccy1h4lGQm4tI/omd/FvJsvyjNqH8Ii6dLPT7weRuO4i9iSRxbz9/bBhmfE9l9Dl+Q6dihkhGYC3Wi2fmhCp2ksOLX3cd+cGIGZqbTrB2VhG1U8gRdeFGYwZfTZ4ZVBldYek97MjKxa6+/Fvrhy/wCcrTR6dFNTLT09HAOihiDdSQgdRmubkG4I7c84zRkdW9PWqikBJSEb+h/eGCzGSEiapQ/JKIobycuN5PHqLcfthnFca8EdSfdUpfZpRqytqajVk1YzMKmSrL3FwQS/YemH5Dqakpsklg6lTJIqNHa4IUq36gRyePt38sJF6VBmDVokUlawR2vz2HP7X8/bFgZjGXgWdCstg7K1xxyefphjCsarYfpjtfHydfxy1DT6h6U8MRWRXiWRj3JEZB7d7m/PoBgxSNYnqQ0VQ0qtJKXDKO67QoFxgwhlMPIeRMy6mRKefJlyLZJTn8St/wBbt33g9r2ttuO3fFlXWGUpRmI5RBNKXDdZ1sVFwSoA4txb64MGOJaR0IJqwe5xGz6mNBNGKKJZXqesH8wN+638WH0xOfU9CZw65dAqAg7FFh53v9v4wYMErvdeoVHK9TjamzeDNZITTUiUwQG4U8EnBgwYWsc2MWMzsWPJn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Leave (feat. Luma)
-Explicit content</div>
-                                    <div class="artist">Dion Timmer</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAMBBQYEAgj/xAApEAACAQMDAwMEAwAAAAAAAAABAgMABBESITETIkEFUWFxkaGxBiMy/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABkRAQEBAQEBAAAAAAAAAAAAAAABAhFBEv/aAAwDAQACEQMRAD8A+YuuCGHRiGYxHkDjGO7nk45+TVx6PbJfXLzTxIlrHp1BdskDgb+eTVPaQNcTrGmBnkngDyTWgM6QwpBBtEnHyfJPzSkDd8jTp6uXvOqY4gurIjC9gHsBnist/Kb1bj1Bp1ihdWUR6sbgqck88n9VY3MIs/QbT1E3UDvcax0Fzrj04wWyMb58E1k1cvG8bb6u4fWq67Bzmy9Q84ZmboxDVq2AOBn238eKKRmig6rKAC2j0AjqN/s5/FeHnKSDfb61zCRjuTikSMSeTS6Pz7Vne3ZltY47cSdFFGrUc93k/ANcLq0TAMpVsA4/IqLRZHnRYnCSE7EtgfemiKSaeRZ3KSrt37b+1EyZR35HB3oqWUqGRgQ674/dFawaw3Or75pUmM9pJ+tFFTUJnIxzTZJ5JW/tlZsDA3ooqYTq7sgnNFFFSf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">In Your Eyes (feat. Alida)</div>
-                                    <div class="artist">Robin Schulz</div>
                                 </div>
                             </div>
                         </div>
@@ -536,7 +536,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Oct 2023, 18:10:21 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2023, 19:04:58 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
