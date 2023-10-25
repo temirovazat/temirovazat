@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7988 Commits
+                            8044 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -476,11 +476,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAARBRIxUQYTISJBI2GBFDIzkUJxsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAF/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAyExERIi/9oADAMBAAIRAxEAPwCdjwSpZUko7Rly5gD+q1/SKacVnQpJFx1HmujaO73qj4Sh/UYsH3gVsx7OFJNwpX8R+/8AK5Yzp2nOBwbir8YPFpplKuqUvLyqI/rx82pLimGyIElTExotuAXte4I3BGoq5dxbEZiRNZfjxY4V6wevdKb67X+aQYzIk4pAMiUwllcaQphIT1CkEXBvSKPI5Wx2RMyKlV+lFMX2zlNwaKxZjeE3tN9x3pxFdfw+MrsUhSlBQuLXKQazYaxzpQAKe3usT9wHgbmrPE48DGXmWnHixNZsEhfbe46Cx1oo+aiHdyEXi0uQp+Ihl11biu3lryZdyo7VZx+HFyOGkqfkFlf5lWTm5htrr0A22rKrhpqLipVdRvbM0g9TsPYX8mq6ESywEPOXA8qPS+w9gKOLHv8AU2bJwrPI5zBZecbUQSkkEg3FFOsRwtpM59CpiUjObekom3jYUUEgGJXeasOIQg2Auk6XOtqsOHUCUltvEEx+RlzONuKuSPAIIvrRRVPgUifaCR/iUeJJir5joTk/CoKHp+R7/F6VypzzGcMKaz9Eh5QOm4GvvRRQzWa8hw1LdkpjGIJfmKc5yHLAJ5iU5Qqwte19aKKKknu2X5on/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAtEAABBAECBgEDAwUAAAAAAAABAgMEEQUAIQYSEzFBUSIVI3FCgZEUMmGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEIRIxBUFRcYETImGhsfD/2gAMAwEAAhEDEQA/AFoRix8Qw4nF4x4NxmiQqGgmumLJNX3Pf3p53H4mTBfyTWCiNlPKpLZZHy2TuPjXf2QKP41rx+VdaxETlhPTehFaUphpSQp4dMAgnluqJ9/g6SYzk3ILnmRincdEeabXHQt8lQ33Kh2IIFDYVXbSaWQ0qCM/FUG+IpeBebBCQI8in+LJnDi0xOlAgxnSA2lBhtoSK7J5v1E+6G+tSuFA3hTKONxzaJASWSpCAGyQa9/xqNnsLmMeZkiXHBWFKQ0K52pABrbbZSdxYO+3itdyJEt/AIQ+2UY5ppvpyOdQHPQBBUn1avHjRw6pKR6ZEDelHbNWn3qkqhXLcYrk8vCx7WAyTTmPxjkxuMsuFthKekooJ8pG1Cx6N0dGrZlRmMdxCFNJcclQFoC2RfOlLalAgA7C97HYeBo1louiSNj5rBaZUBrEEdxVLA4RpvF4t+PJSt5cZoPNqbWByloWLur8aZyDMbKxJLMeFGjCPaW3UOFVfLek+tjse/Nel8Zk4quH8amBJdMv+mZ5k9ADlpsXSiaP8C9OOMyImDgJLqqLam1blQtPKCPkbB9gUL7aXZavLglRMTgY6eKK69a8PbLRSY3PnH7UziLI/Xgyt+Qtltk/baKLANd/7tuwHjv71obmITAYisvyI6LSp0BIKVqSCEqomx3NiyD4A1hkcuhicGGj8U7OKJJAPgVfjTpyMVICkr6hT+ltV9waNE9rrVAWaG0ltJ2/ulSg7eJCHVIIS5sYn6mp6nRFhTZHWc6q474txugq2VJIAB2ABA/fRrzMLdmcP5Z8R5CkBh5JPVCAPtk0Bfj8G/8AGjSPrafaDEfIq83ZvqQkqM9xn9qfwvkcfITiGPqURlQjpSpReR8ftAGxf/P967HOzManEEt5nHEx0qKEIkglV13sAeL96NGny4pWZpW+tGmTpSJkc+9fOXJsBx5bhyUFPMboOpPgDvzDWbGThtvgCbjihSQkrDyQqwb7XVfvo0aGpIAIpS14rcvrbYWqUyMQOVUpE7GO8Ly1N5CCXUJf+JkovlLW1C9zfoaNGjUPQCSOldU88qRX/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lost Cause
-Explicit content</div>
-                                    <div class="artist">Billie Eilish</div>
+                                    <div class="name">Don't You Wanna Play?</div>
+                                    <div class="artist">Seeb &amp; Julie Bergan</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -491,10 +490,19 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMC/8QAMhAAAgEDAgIHBQkAAAAAAAAAAQIDAAQRBRITISIxMkFRgZEUFSNxckJDUmGCkqGxsv/EABsBAAMAAgMAAAAAAAAAAAAAAAMEBQABAgYH/8QAIREAAgICAgIDAQAAAAAAAAAAAQIAAwQRITEFEhUzUUH/2gAMAwEAAhEDEQA/ANDp189xKkJQGR2Crg45n517k1DY+3hNkeJrJW9xJE4O8KfqFVtVuHkkju0ZcXC7zhhjf1MPXn8iK7OzANqJ14oeosOxK0eog9uNgPEc6aiuI5CArjJ7qyyXTsvSlCn6hVLSZlSVrmSRCkC8Tmw5nqUepHlWOQo3OFGMbH9Zcuo3t5XjkxuU4PfzorLyX0hkZzOM5zndRW1HHMFYgDEDqZBTcccs/BaPHR5HcD/VVbVpJtNlt2Vd0fx48Du6nHphv0UrsBHZpixmNtcRSKu/Z0sZ7Q7x5jIqRbsjYlLBsCvpujxOKDC554picrDpsMO07rg8Z88+iMhB/pvMV0a1HvH2SN+izDbIR92Rnd+3nXG9uUnnklCBEPJV/CoGFHoAKELDYQI41Rxq3Y9ngRNpSBjBY0V7Z1AHMDyopr2P7IhkkzylQsd8VbuOFJ9MUrNc6pAweG9Rx9oSRj+MCiioTXP+z1NPF4mvrEdXWb06a3wkbUUja3V1YbBGWz8843L4YP5Ui2oasq9KzTJHWpz50UUJbXU8GFs8fj2aDruNve28dnx5NQCThNz2/sjdrw3Zx18s9XfRRRTosbXchfF4+zx/Z//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAMBAAAgECBQIEBAYDAAAAAAAAAQIDBBEABQYSIRMxB0FRYQgUgaEVIzJxkbEWIjP/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAf/EACARAAICAgIDAQEAAAAAAAAAAAECAAMEEhExEyFBUYH/2gAMAwEAAhEDEQA/AFD4J6apNRVmbfPQJMlPFGQHvxuaxIt52Bt74aFf4daZQzRvSFInVRAyFupckbiwtaw9Bzb3xUPhYzWgyjVmazZtO8dI9KsYj3DY8hkG0kHuRzb0ucaO1DX6bzOny6eiqItszmOI/pLsCC1r4r4d3CBCPUm5dvjJOx+epnPK9Jaen+co8wo2pZlV0inTqEh9/wDqTckEbLE8eeLDPobSSvK9HAxDMirHKW/LsDv54uSbefFjiLHT1k3iPLSAUzU8hkkUNNHuK82sl72t52xf6NKCmyOklqnUCRyDJbddrta/H39OcUMdUccy1h4lGQm4tI/omd/FvJsvyjNqH8Ii6dLPT7weRuO4i9iSRxbz9/bBhmfE9l9Dl+Q6dihkhGYC3Wi2fmhCp2ksOLX3cd+cGIGZqbTrB2VhG1U8gRdeFGYwZfTZ4ZVBldYek97MjKxa6+/Fvrhy/wCcrTR6dFNTLT09HAOihiDdSQgdRmubkG4I7c84zRkdW9PWqikBJSEb+h/eGCzGSEiapQ/JKIobycuN5PHqLcfthnFca8EdSfdUpfZpRqytqajVk1YzMKmSrL3FwQS/YemH5Dqakpsklg6lTJIqNHa4IUq36gRyePt38sJF6VBmDVokUlawR2vz2HP7X8/bFgZjGXgWdCstg7K1xxyefphjCsarYfpjtfHydfxy1DT6h6U8MRWRXiWRj3JEZB7d7m/PoBgxSNYnqQ0VQ0qtJKXDKO67QoFxgwhlMPIeRMy6mRKefJlyLZJTn8St/wBbt33g9r2ttuO3fFlXWGUpRmI5RBNKXDdZ1sVFwSoA4txb64MGOJaR0IJqwe5xGz6mNBNGKKJZXqesH8wN+638WH0xOfU9CZw65dAqAg7FFh53v9v4wYMErvdeoVHK9TjamzeDNZITTUiUwQG4U8EnBgwYWsc2MWMzsWPJn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Maps</div>
-                                    <div class="artist">Maroon 5</div>
+                                    <div class="name">Leave (feat. Luma)
+Explicit content</div>
+                                    <div class="artist">Dion Timmer</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QALBAAAQMCBAUDBAMAAAAAAAAAAQIDBAARBRIxUQYTISJBI2GBFDIzkUJxsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwAF/8QAHBEBAAIDAQEBAAAAAAAAAAAAAQACAyExERIi/9oADAMBAAIRAxEAPwCdjwSpZUko7Rly5gD+q1/SKacVnQpJFx1HmujaO73qj4Sh/UYsH3gVsx7OFJNwpX8R+/8AK5Yzp2nOBwbir8YPFpplKuqUvLyqI/rx82pLimGyIElTExotuAXte4I3BGoq5dxbEZiRNZfjxY4V6wevdKb67X+aQYzIk4pAMiUwllcaQphIT1CkEXBvSKPI5Wx2RMyKlV+lFMX2zlNwaKxZjeE3tN9x3pxFdfw+MrsUhSlBQuLXKQazYaxzpQAKe3usT9wHgbmrPE48DGXmWnHixNZsEhfbe46Cx1oo+aiHdyEXi0uQp+Ihl11biu3lryZdyo7VZx+HFyOGkqfkFlf5lWTm5htrr0A22rKrhpqLipVdRvbM0g9TsPYX8mq6ESywEPOXA8qPS+w9gKOLHv8AU2bJwrPI5zBZecbUQSkkEg3FFOsRwtpM59CpiUjObekom3jYUUEgGJXeasOIQg2Auk6XOtqsOHUCUltvEEx+RlzONuKuSPAIIvrRRVPgUifaCR/iUeJJir5joTk/CoKHp+R7/F6VypzzGcMKaz9Eh5QOm4GvvRRQzWa8hw1LdkpjGIJfmKc5yHLAJ5iU5Qqwte19aKKKknu2X5on/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lost Cause
+Explicit content</div>
+                                    <div class="artist">Billie Eilish</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -510,14 +518,6 @@ Explicit content</div>
                                     <div class="name">Let Them Know
 Explicit content</div>
                                     <div class="artist">Mabel</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAMBAAAgECBQIEBAYDAAAAAAAAAQIDBBEABQYSIRMxB0FRYQgUgaEVIzJxkbEWIjP/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAf/EACARAAICAgIDAQEAAAAAAAAAAAECAAMEEhExEyFBUYH/2gAMAwEAAhEDEQA/AFD4J6apNRVmbfPQJMlPFGQHvxuaxIt52Bt74aFf4daZQzRvSFInVRAyFupckbiwtaw9Bzb3xUPhYzWgyjVmazZtO8dI9KsYj3DY8hkG0kHuRzb0ucaO1DX6bzOny6eiqItszmOI/pLsCC1r4r4d3CBCPUm5dvjJOx+epnPK9Jaen+co8wo2pZlV0inTqEh9/wDqTckEbLE8eeLDPobSSvK9HAxDMirHKW/LsDv54uSbefFjiLHT1k3iPLSAUzU8hkkUNNHuK82sl72t52xf6NKCmyOklqnUCRyDJbddrta/H39OcUMdUccy1h4lGQm4tI/omd/FvJsvyjNqH8Ii6dLPT7weRuO4i9iSRxbz9/bBhmfE9l9Dl+Q6dihkhGYC3Wi2fmhCp2ksOLX3cd+cGIGZqbTrB2VhG1U8gRdeFGYwZfTZ4ZVBldYek97MjKxa6+/Fvrhy/wCcrTR6dFNTLT09HAOihiDdSQgdRmubkG4I7c84zRkdW9PWqikBJSEb+h/eGCzGSEiapQ/JKIobycuN5PHqLcfthnFca8EdSfdUpfZpRqytqajVk1YzMKmSrL3FwQS/YemH5Dqakpsklg6lTJIqNHa4IUq36gRyePt38sJF6VBmDVokUlawR2vz2HP7X8/bFgZjGXgWdCstg7K1xxyefphjCsarYfpjtfHydfxy1DT6h6U8MRWRXiWRj3JEZB7d7m/PoBgxSNYnqQ0VQ0qtJKXDKO67QoFxgwhlMPIeRMy6mRKefJlyLZJTn8St/wBbt33g9r2ttuO3fFlXWGUpRmI5RBNKXDdZ1sVFwSoA4txb64MGOJaR0IJqwe5xGz6mNBNGKKJZXqesH8wN+638WH0xOfU9CZw65dAqAg7FFh53v9v4wYMErvdeoVHK9TjamzeDNZITTUiUwQG4U8EnBgwYWsc2MWMzsWPJn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Leave (feat. Luma)
-Explicit content</div>
-                                    <div class="artist">Dion Timmer</div>
                                 </div>
                             </div>
                         </div>
@@ -538,7 +538,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2023, 14:09:16 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Oct 2023, 15:06:04 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
