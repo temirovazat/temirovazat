@@ -465,20 +465,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcIAv/EAC4QAAEDAwIFBAIABwAAAAAAAAECAwQABRESMQYTIUFRFCJhcQcyCBVDgYKRof/EABkBAAIDAQAAAAAAAAAAAAAAAAEEAAMFAv/EACARAAICAgICAwAAAAAAAAAAAAECAAMRIQQSE0EUIjH/2gAMAwEAAhEDEQA/AM2b4VcG7W/zS5xrYXbYY8sow24eWTnuOo/5XXMThaKkbJNZH/EdNtlrtzFi9O7614pkJXowlCQTsTuTt0271njnta4QCaPjrC6md8L2J252tuYxjAylXXuKreKpioOqCl3Lv9TSf1+PuoFk4puFkhyY9ve0IfThWoA6T5Hg/NOf4p/HUni103i6tLNsQs6EnoZChv8A4g7+T080w171qe51AFR8BRuJVl4Ym3KP6xbZRG3Rndfz9UV0pOsHJRy2mEjR7dCQPb4FFBOSCPyNfGrHvMZIvGNshpCHJCVr8NnV/vtWafnm3scaR4l1tT7aZkFlaVtOHq6jfCSO46/eayBviRaUk805+DtVuufeUR2V8vLb2kJIdST7igJyM9CeYjfzVR4bqwZIullBH2zEOBAlT5iI7LK+YThWRgJ85zt0raJl5TbrVEhsOqPpmUtJKVY2GM9NqXlQ7u8hAahDnuj2kS2jzVEgApAPXP2c1RyIt5dtjk4xtcVKC5q5qP1GcnGc9jV5qLsC3qRLq6QeuyZ5vlzeedWvmKBUckhRyfs0UnSLi45saKbXCjESdyxzIOsjG9XMTiSYhtuO4+oR9SCsgalDToAIz3AbR3H6iiiucyuXyuLU+oC/53dDhOkKLCQU9cgAaumw222pdVxDNajSIcWU6IbmpOCf2Sc7j+570UUJCZSk9KKKKkE//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I'll Catch You</div>
-                                    <div class="artist">Angemi &amp; Becko</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAtEAABBAECBgEDAwUAAAAAAAABAgMEEQUAIQYSEzFBUSIVI3FCgZEUMmGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEIRIxBUFRcYETImGhsfD/2gAMAwEAAhEDEQA/AFoRix8Qw4nF4x4NxmiQqGgmumLJNX3Pf3p53H4mTBfyTWCiNlPKpLZZHy2TuPjXf2QKP41rx+VdaxETlhPTehFaUphpSQp4dMAgnluqJ9/g6SYzk3ILnmRincdEeabXHQt8lQ33Kh2IIFDYVXbSaWQ0qCM/FUG+IpeBebBCQI8in+LJnDi0xOlAgxnSA2lBhtoSK7J5v1E+6G+tSuFA3hTKONxzaJASWSpCAGyQa9/xqNnsLmMeZkiXHBWFKQ0K52pABrbbZSdxYO+3itdyJEt/AIQ+2UY5ppvpyOdQHPQBBUn1avHjRw6pKR6ZEDelHbNWn3qkqhXLcYrk8vCx7WAyTTmPxjkxuMsuFthKekooJ8pG1Cx6N0dGrZlRmMdxCFNJcclQFoC2RfOlLalAgA7C97HYeBo1louiSNj5rBaZUBrEEdxVLA4RpvF4t+PJSt5cZoPNqbWByloWLur8aZyDMbKxJLMeFGjCPaW3UOFVfLek+tjse/Nel8Zk4quH8amBJdMv+mZ5k9ADlpsXSiaP8C9OOMyImDgJLqqLam1blQtPKCPkbB9gUL7aXZavLglRMTgY6eKK69a8PbLRSY3PnH7UziLI/Xgyt+Qtltk/baKLANd/7tuwHjv71obmITAYisvyI6LSp0BIKVqSCEqomx3NiyD4A1hkcuhicGGj8U7OKJJAPgVfjTpyMVICkr6hT+ltV9waNE9rrVAWaG0ltJ2/ulSg7eJCHVIIS5sYn6mp6nRFhTZHWc6q474txugq2VJIAB2ABA/fRrzMLdmcP5Z8R5CkBh5JPVCAPtk0Bfj8G/8AGjSPrafaDEfIq83ZvqQkqM9xn9qfwvkcfITiGPqURlQjpSpReR8ftAGxf/P967HOzManEEt5nHEx0qKEIkglV13sAeL96NGny4pWZpW+tGmTpSJkc+9fOXJsBx5bhyUFPMboOpPgDvzDWbGThtvgCbjihSQkrDyQqwb7XVfvo0aGpIAIpS14rcvrbYWqUyMQOVUpE7GO8Ly1N5CCXUJf+JkovlLW1C9zfoaNGjUPQCSOldU88qRX/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Don't You Wanna Play?</div>
-                                    <div class="artist">Seeb &amp; Julie Bergan</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Fly by Wire</div>
@@ -486,17 +472,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwMECAL/xAAwEAACAQMCAwUHBQEAAAAAAAABAgMABBEFIRIxQQYHExRxIiNhkaHB4VFigbHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAMBBAUC/8QAHhEAAgMAAwADAAAAAAAAAAAAAQIAAxESITEEQVH/2gAMAwEAAhEDEQA/AObdPm0lLQreWksk5Rl41kIAbOzY67dK3ILjQRapE9hM0wGGm8Rtzjnw5wN6RQoHYDOKkdtpiWdms94nvJN4UzuR+p/b/dE7hfZYpqazyLTYhbYyxvI++ADHjP1+1ZlsHVRxLvw5I6/mmemXSLccEwBibZhU5PZC51BF8mpRlXi9tcqy8x7Q5H5g7UJtzoy2PjHNEqyeDw88sUUy1yBre4eKRVDxkq2B1BxRSA6ITV4YmsCEuUJ5emcfHHX0pjeahdXt07X0plmbYsfhsMY6YpfbNgjljO+1Z0iYyEAE8O4OOlSwG6ZFTMBxEmvdzoi61rccTkJDGDJI/LCjf8VemjRm3u0jaYOJPYH2AOeXT/hVV92cBtbOaZlJR2XjAOCyjfHp/gq01ubTyaPIbaxg2cySHGF2J35DI+tZz61h/JsLxSoD7nP3eTD5PtZrFrjhKXT/ACJyPoaK897Gp2eq9ttSvNNnS4t5eD3iAhWYIA2M9Miir6KeImS9mMZDoztW5ZXTW9ykuA4U7qeTDqD8KKK7Yb1BRipBElr9vLuKPw9Nsra1iAwqnMmMcufM/wAVHNU1nUNVkDahcyzY5KThV9FGwoorha1BwRmtZxrGK5t6KKKQQCJ//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgCBwMEBQb/xAAsEAABAwIEBAUFAQAAAAAAAAABAgMEABEFEiExBgcTcQgyQUKRFCM3gcJR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQIRMf/aAAwDAQACEQMRAD8AXqPEQ6hKly2GgfacxV8AVuRsMaeWEsonSV2GiGg2m+26jt+q1YWJyYTK24qkozqCirICq4IIsTqNRUJOIzJN+vJdXcAEZtCOwq1I4yyI8txgMdAt6KQXOob76qGnxTKeG7XluLX0mPfzSvq1BpoPDb+Nu017+am/AtMXoo1tRWJkQoO21SQdCPWpEqJyAHW2ldAYF3sTbSmb8Nz7SeXpaW62HVTXSlsqAURZOw3NLpGLjqW2NV2WbN37XNv1V18nEx3sHgsy4+HuvLk9TrLcQXmkix0GUkCwv5gRfapvwsXmmQyoqSl1tS0+YBYJHcUVWUQ4Y+3JdRDwYiO2XHHWpDBzi4FlkAWCvW5I/wBorLAXDCsJnYrI6GHRXX3T6ITevaQeUHF0jK4qG2wnf7joB+BRRWlrTB470Hkbj2VDr+IwWFp9qcy1HXtarS4a4HRw5w7FhMOmS+y85IDikhNlKRawHcCiipmdJ0cS4YiyIkGImM0WW2PpHQRYFoqQVJ7HJRRRSD//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ignite (feat. Alan Walker, Julie Bergan &amp; SeungRi)</div>
-                                    <div class="artist">K-391</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADAQAAIBAwEGAwYHAAAAAAAAAAECAwAEEQUGEiExQVETFGEHFXGBobEiIzIzQlJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEkEh/9oADAMBAAIRAxEAPwCasdkLJZpYrh3hkC70bMAUOOhwcjPc0wsbSSA+HBCGi/i4Jx9alItqhYzRzySr4vMZXJFY223d22oxi2tvHZ3H7gIGOuAOXxNTjPIr2ZXI+Nzqj0qxa5iIKOVbmMGqmaGDXbFI5EVL4LhH/wBdvgfpU7Z6pp7WyzPOkZ3clWOCPSmOianbXkpe0kO9GeRXHzqdP2FZfnh5h7Sn8vY29rIAJXkLEHmABj7mitPtlYPtcAM58urHjwyWY0V1Y+qnNv44Q500s2WZmPfNNdHW5F8qx3DxxnixAHHr96X+M6N+skV12t6wkwAePPhWwmj+0mmvrl4YrmTdiA/GQuM+mT3p5ZW93anPncoRjBYDj8jUfb36wu2GClunWqfZ63Oqxs8kZdYPzVJOOI5UWaxUhLtFb+du0aRnZkXcyGyccxzorHVr2W2v5FcHgeoopIKRokbPet6XTIDu4oorAdPvQ+SZsRNdk7mGgBwmOYPQ59KXrc3atvG4lZv7FiT8M0UUNZi887sDJKzAdzmiiihh/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Constellation</div>
-                                    <div class="artist">Far Out &amp; KARRA</div>
+                                    <div class="name">Là-bas</div>
+                                    <div class="artist">Jean-Jacques Goldman &amp; Sirima</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -504,6 +483,27 @@
                                 <div class="infos">
                                     <div class="name">Ep. 6 : Crush</div>
                                     <div class="artist">Nuit Incolore</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYFBwgEA//EAC8QAAEDBAEDAgUCBwAAAAAAAAECAwQABQYRIRIxQQcTIiMyUYFhoRQzNkJykbL/xAAXAQEBAQEAAAAAAAAAAAAAAAADAQIE/8QAHREAAgEFAQEAAAAAAAAAAAAAAQIAAxESITEEIv/aAAwDAQACEQMRAD8ArTB8RtlzsUKTKhpcccSSpRUeeSPBqUymwYxjcNhblmZkyXiQhsuqTwO6jzvVSuF3CLY/TS23GYCUhspSgDlaytWgKUMkZv156b5OgvBhxOm/baUUttjse3APPJ78mlDZNvkjfI12LPsQ/wCOVIECN0lRPsaUUAfbvv8AemfG28TmJWzebbGiP9Xy3EFYbI+x+I6P69qWvNMmF2VEyeh+722c9ZVbbckNIUEtKPCVFQHYHvSPYC5gozE2ntmmKWeDj0yZb4zQKEgpcbWVDuB99UVI+o+CxrPj82VbpT4aaAUtp07BGwBrQHOz5orCuCNGPiR2M3pTjFvuOI22ZdUrmBxgttsuHaGk7UFaT22e++9WNlVyj4/h9xlgD5TBbbQrQBUodKR+/akL0mntowe0NF1sKS2rjqG/rVUf64XUrt9qgIV8C3FvK0ePhGh/0a4RlUq4mdLgJTLCVOlsvPttRUuuLWQlKNbUpR4AAFaewe23CyYdBttz9gPMdWghROkklQB478kVm+1SZeP3a23P2SlxCkyWgsfWjZH+jojf5rRwyOFJs8e4iQhuK+gLQpxQT+OfIPFL7WawAGoPjUXJPYrer/8AQt530/yh2/yTRS76o5NbpWK3KLHlsuuuoASEK3/cD4oq+cNjyLVK5dleYvfoUK1xmn5SULQkgp545P2FMqMpxuU4hNwcjuhohSFOJKufPiiilZAdwVOJnPn+UWK6xWkxJMZ59pQCXUtrC+nXKdkAdPP6/ik43hpcdtl2WpbbW/bQSSEb5Oh45oopKSgKBMVRk15w3CbHdiOoQ4CojgaooopJFUAT/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Sleepwalking</div>
+                                    <div class="artist">The Chain Gang of 1974</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAmACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQI/8QAMBAAAgEDAwMCBQEJAAAAAAAAAQIDAAQRBRIhBjFBE1EHFCJhgXEjM1JikaGxwdH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAv/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMEERIFEyFBIjFRsf/aAAwDAQACEQMRAD8AxHwpvoNNNzOxPr3EixoBjcxxwOOPBNVyyvmkDEudwIBweN2MnH6V5s0S7lh1COaVl2xCWb9mAAWVMjgceas+harHDp9u07rEogQkscAu3jP4q3jMCuvyZ3q2ORYbB7m/tmVE4+lf1812wOVYHfJt8J/DSKwuFklSPJJQBm/PP/KdRSbRxRGGpNQ/sYfJvrVmdDnKyQ3R3qZGOMDuM98iiu3pBFudU3ARs0LggOM4z3I9jRSNt71NxQ6mgwRyq2SZ4n9dpryRmmDzSArkdm3KQfsPFWjpd47gzhkUxokZQEc/uwf91D5YWa53OSi7lBkbJA+/vW56X6rbS7z5a/iaeNlSP1Yz4BIDY88H+1d4doU6b3C9Tx2uT4fcsWjut9YwTpwZQrZH2pleWs8jI6XkkEaKxbaqkE+5yPFY/ofUQ5htoZQywxtuA5+oNj/BzXbr+srqkg0awuAiSkC6nDY2p5QfzHtx2qlxLEakBMZhYV9D+TWfC++lNtcatcTtDDJMZM7MjZnCj7Ahc58ZorAat141tZSaRodvGYDMq+oGxlExgduxIP4ope3D7jlmmixcS3t7A1JRf6bDFDOwOVKgLxjtjxnj+ppBBDKs7NDKUaM7lIPbnFFFDy6lVl0JU1uU7prUrnV5rizujHHK0AQ3ECbHIJ2889/qzSSEy6HNc26lHmG6Ay47e5X2OKKKp0eSNxaitRe6AeNCM+k7NbrULfeqsGlUYbt3ANFFFd2E8oS9iG0J/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Where I'm Headed</div>
+                                    <div class="artist">Lene Marlin</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Love Thru the Night (feat. Morgan Perry)</div>
+                                    <div class="artist">Mike Ault</div>
                                 </div>
                             </div>
                         </div>
@@ -524,7 +524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2023, 20:03:24 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Nov 2023, 21:04:00 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
