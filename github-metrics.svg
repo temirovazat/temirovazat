@@ -472,31 +472,31 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAQFAQIDBgf/xAAwEAACAQMDAgIHCQAAAAAAAAABAgMABBEFEiETMVHRFCRBYXGBsTJCY3Jzg5Oh4f/EABkBAAMAAwAAAAAAAAAAAAAAAAIEBQEDBv/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMREiExBFH/2gAMAwEAAhEDEQA/APYYbCzOhQs1tDuESHPTGc4HuqeLS3zn0eHA9vTHlVmMINEhEj7V6adu54HAqLPdBZNpRwoHG1SQPn41F+YNrdzp6SSCJzrbWq49XgbP4Y4/rvQ9rakHFtBn9MeVJR3ErKzbeFGfsnP1pmK5DybdrjuORxxT66Jl6t7krV7OAW0xWGIHa3ZB4UU3qvNrN+U/SiqVbErBCECW7k40q3XwC/Spp+Va6prNtFapGJFJXGcc9hUm31q2uHVY5gGY4AIxzUeivBGKaX4bkr7Uzyq5+FZDKpG7O33Vrqll6Lp8czS5mbLEq3Axj21FtNQeVwjbWB+8P8pulRZ2IQHNeSx3UJOojAeBGKKSnu4BIULEuSAuO3f2miqSpgyLEmdY162nhld4+rKWkbMaRNlRk9+MVL6V5geq3P8AG3lRRWn5s4+SvXa3ATMi37RCJoLtox2QoxA+Xal2srknItJ1/aPlRRTgRfyC1zDyPaWby3uYVS2uSWkUMzRNgDPw4oooomUb5ErLCTs//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Want You (feat. Sara Skinner)</div>
-                                    <div class="artist">Subtact</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EADAQAAIBAwEGAwYHAAAAAAAAAAECAwAEEQUGEiExQVETFGEHFXGBobEiIzIzQlJi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABEQIDEkEh/9oADAMBAAIRAxEAPwCasdkLJZpYrh3hkC70bMAUOOhwcjPc0wsbSSA+HBCGi/i4Jx9alItqhYzRzySr4vMZXJFY223d22oxi2tvHZ3H7gIGOuAOXxNTjPIr2ZXI+Nzqj0qxa5iIKOVbmMGqmaGDXbFI5EVL4LhH/wBdvgfpU7Z6pp7WyzPOkZ3clWOCPSmOianbXkpe0kO9GeRXHzqdP2FZfnh5h7Sn8vY29rIAJXkLEHmABj7mitPtlYPtcAM58urHjwyWY0V1Y+qnNv44Q500s2WZmPfNNdHW5F8qx3DxxnixAHHr96X+M6N+skV12t6wkwAePPhWwmj+0mmvrl4YrmTdiA/GQuM+mT3p5ZW93anPncoRjBYDj8jUfb36wu2GClunWqfZ63Oqxs8kZdYPzVJOOI5UWaxUhLtFb+du0aRnZkXcyGyccxzorHVr2W2v5FcHgeoopIKRokbPet6XTIDu4oorAdPvQ+SZsRNdk7mGgBwmOYPQ59KXrc3atvG4lZv7FiT8M0UUNZi887sDJKzAdzmiiihh/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Constellation</div>
-                                    <div class="artist">Far Out &amp; KARRA</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Fly by Wire</div>
-                                    <div class="artist">Anevo</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCAwUHAQQI/8QALRAAAgEEAgAFAwIHAAAAAAAAAQIDAAQFERIhBjFBUWEHEyIycRUzQkSRobH/xAAYAQEBAAMAAAAAAAAAAAAAAAAGBQIDBP/EACARAAICAwEAAgMAAAAAAAAAAAECAAMEERIhBTEyQWH/2gAMAwEAAhEDEQA/AHqUR3do8J/qUqa0v4n+lU096GtHEiu3Wx2K2dZZSKO3SSRjtyFVQNsxPkAB2T8Cly/z2eyoefCNZY2wj/vLtwxJ1yA4jZB13rXkR33VF0rxwevB/ZEqstyGBTe4n2P0kyD3rQXkimIDZ0COXxTh4b+nkWEv0uucSKnYjjU9n0JJqVj4kzdxBaRXmRsIbsyhJpIYuXBQhaTls8Qw/Ee2216Vj8L42ziLI2cxjXFmjIrXNuAHVnP4gJv89gqegCOQ6o5kKX/Ftxdh2BfGGo53icdstFUzXUM8P3IpOSn40QfYg9g/BoqSUIMvIoI3PP8Akslm7bKWl61wjC3bnCpbShv296utLDMeIbVbs5MW8U9yLdUiUhFccQN66XojW/MLUriM3EX22XkD6GutbR5HBgG2tBNAZFdtDTEK6trfr+n18tn3pxkLV0GcbgX4+0EcHyWReBs1OFY5IfbZU4sZSem4Fd99fzP+1C6scx4bhS9XLtKYtbicsyaYkeW+xtRsfIql87lFxht7W2voZ2gELSK2taEa9a78o/8Adcucpl7dILq3McICqxG+TBewP81w2GkD6lhFX9emW+DcpnpMxczR3Rmjmbnc8v0k+/XQP7UUwY+BrO2SKGMRxj0FFS7OXbYEq0E1pokzC4m/R2XlokGtoYC5sZrdRIqE/NFFIXPVezAgHF2hGWP+ECAhrePZ+KweVFgeRijRR8CiijOSSWjTCUcxJzuSt7VDxIBooorZWg1M7LGDaE//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Something Stupid</div>
                                     <div class="artist">Jonas Blue &amp; AWA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAtEAABBAECBgEDAwUAAAAAAAABAgMEEQUAIQYSEzFBUSIVI3FCgZEUMmGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEIRIxBUFRcYETImGhsfD/2gAMAwEAAhEDEQA/AFoRix8Qw4nF4x4NxmiQqGgmumLJNX3Pf3p53H4mTBfyTWCiNlPKpLZZHy2TuPjXf2QKP41rx+VdaxETlhPTehFaUphpSQp4dMAgnluqJ9/g6SYzk3ILnmRincdEeabXHQt8lQ33Kh2IIFDYVXbSaWQ0qCM/FUG+IpeBebBCQI8in+LJnDi0xOlAgxnSA2lBhtoSK7J5v1E+6G+tSuFA3hTKONxzaJASWSpCAGyQa9/xqNnsLmMeZkiXHBWFKQ0K52pABrbbZSdxYO+3itdyJEt/AIQ+2UY5ppvpyOdQHPQBBUn1avHjRw6pKR6ZEDelHbNWn3qkqhXLcYrk8vCx7WAyTTmPxjkxuMsuFthKekooJ8pG1Cx6N0dGrZlRmMdxCFNJcclQFoC2RfOlLalAgA7C97HYeBo1louiSNj5rBaZUBrEEdxVLA4RpvF4t+PJSt5cZoPNqbWByloWLur8aZyDMbKxJLMeFGjCPaW3UOFVfLek+tjse/Nel8Zk4quH8amBJdMv+mZ5k9ADlpsXSiaP8C9OOMyImDgJLqqLam1blQtPKCPkbB9gUL7aXZavLglRMTgY6eKK69a8PbLRSY3PnH7UziLI/Xgyt+Qtltk/baKLANd/7tuwHjv71obmITAYisvyI6LSp0BIKVqSCEqomx3NiyD4A1hkcuhicGGj8U7OKJJAPgVfjTpyMVICkr6hT+ltV9waNE9rrVAWaG0ltJ2/ulSg7eJCHVIIS5sYn6mp6nRFhTZHWc6q474txugq2VJIAB2ABA/fRrzMLdmcP5Z8R5CkBh5JPVCAPtk0Bfj8G/8AGjSPrafaDEfIq83ZvqQkqM9xn9qfwvkcfITiGPqURlQjpSpReR8ftAGxf/P967HOzManEEt5nHEx0qKEIkglV13sAeL96NGny4pWZpW+tGmTpSJkc+9fOXJsBx5bhyUFPMboOpPgDvzDWbGThtvgCbjihSQkrDyQqwb7XVfvo0aGpIAIpS14rcvrbYWqUyMQOVUpE7GO8Ly1N5CCXUJf+JkovlLW1C9zfoaNGjUPQCSOldU88qRX/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Don't You Wanna Play?</div>
+                                    <div class="artist">Seeb &amp; Julie Bergan</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYHAf/EAC0QAAEDAwIDCAEFAAAAAAAAAAIBAxEABBIFIRMUQQYiMVFhcZGxMkJSU6HB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUCAwQA/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxEhBBIFQRQxkf/aAAwDAQACEQMRAD8AWc1K0bhGRJ016finytPODdFp3HtraD8jLZE8/Ws+2bYgJEIKqr4oe3xFPtOcZUbbeAV8s4WPilb2H1HdfBQ6bcRec1Fi6TjG6Dsd3qm/9Vf6CqXDDo3CAbsJ33fCOsetVrhtbi5mpeZO7fVQ6oL7PKt2bD+bhIZEJSiAipM/NV2P3HXM1U8YUt3AzOhMX9owKNIS9yEWU+qKylvpbtwCOI6eCrExRWIso9xj8Vm31nKtKuhvbjl5RsscslKU9vCrByyHJIuxT1TKsro+rNWbrpLshJvHXyXetbp+oW+pCSNN8Zxoe9J45IvVE9KbsSu8RBWivrO47b8hbsHxL+4IuiQsfdKs9oNRFwW2CUWcoGfGPeq1w2JMDNwD/TITHpVfcOH+5cF/j/3rQWtW+xJvbZXjqfydI0ntWYCaHieGxKg7T7zRWDZNm0sEUHVJ01yxj8em9FUNxKyc4mseTuQAEiYQJ5iOJiaVLzjjBji4SKO8iXSiimOMxICRLRvVXFbyyJVJN1iok1Z8skzTfpRRRAELMRrM8Z1EiA1UkkVTux40UUVxUSIcz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Naked Soul (feat. Liel Kolet)</div>
+                                    <div class="artist">Last Heroes &amp; Liel Kolet</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAQFAQIDBgf/xAAwEAACAQMDAgIHCQAAAAAAAAABAgMABBEFEiETMVHRFCRBYXGBsTJCY3Jzg5Oh4f/EABkBAAMAAwAAAAAAAAAAAAAAAAIEBQEDBv/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMREiExBFH/2gAMAwEAAhEDEQA/APYYbCzOhQs1tDuESHPTGc4HuqeLS3zn0eHA9vTHlVmMINEhEj7V6adu54HAqLPdBZNpRwoHG1SQPn41F+YNrdzp6SSCJzrbWq49XgbP4Y4/rvQ9rakHFtBn9MeVJR3ErKzbeFGfsnP1pmK5DybdrjuORxxT66Jl6t7krV7OAW0xWGIHa3ZB4UU3qvNrN+U/SiqVbErBCECW7k40q3XwC/Spp+Va6prNtFapGJFJXGcc9hUm31q2uHVY5gGY4AIxzUeivBGKaX4bkr7Uzyq5+FZDKpG7O33Vrqll6Lp8czS5mbLEq3Axj21FtNQeVwjbWB+8P8pulRZ2IQHNeSx3UJOojAeBGKKSnu4BIULEuSAuO3f2miqSpgyLEmdY162nhld4+rKWkbMaRNlRk9+MVL6V5geq3P8AG3lRRWn5s4+SvXa3ATMi37RCJoLtox2QoxA+Xal2srknItJ1/aPlRRTgRfyC1zDyPaWby3uYVS2uSWkUMzRNgDPw4oooomUb5ErLCTs//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Want You (feat. Sara Skinner)</div>
+                                    <div class="artist">Subtact</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -524,7 +524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2023, 03:03:20 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2023, 04:03:41 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
