@@ -263,12 +263,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 51 commits)</small>
+                    <small class="h-details">(computed from last 56 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.5 characters per line of code written</li>
+                        <li>Has approximately 39.3 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -299,8 +299,8 @@
                             03
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 6.578947368421052px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
@@ -425,8 +425,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -446,13 +446,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 28.75435948154703%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 28.822418049177386%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">36%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">MAXScript</span>
-                                <div class="bar" style="width: 8.182811930664723%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 4.335774274957594%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
@@ -475,45 +475,45 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBwECBgP/xAAsEAACAQIEBQMDBQAAAAAAAAABAgMAEQQFEiEGEzFBYRQiUQcysSNScYGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAQEBAAMBAQAAAAAAAAAAAAEAEQISMQMh/9oADAMBAAIRAxEAPwC7UmWNrxoS3y1M4eTEyAFVLr4qO0SEnY2FRWfcY4XhtI4sRIQXa1wlwncFz2Hms9tsuolgllj12uxW4QHe1INhZkBMiFV+Sa5xuL8VHhziMO0LJoGkqNQ0363vvTuE4hfM5jDKTqYjlxql9gNzt2vUnMZ9UpNgoHtvqorHLYHpvRVRS7Rhd7G3Wqd48jnkyrMMZCsUwVS4DL7kudxYfcN/6q69IkAvsKqjjXLI/wBbL5pzh1cgrLzPuUG49o3tf5qOfpHHMS5H6QnkSMmJjSfCsb8uTcA+KsTD4hY3klgmcxyYjmxxyQhOWO6rYnboOgqEmySDLYvWIZTIii5jNgx8/u/w+abyDFY7N8zWKZlaC+j2LpaIDex7m4/nenzQ/D2n5iuvlZDxjSCPxRWy7ITfaitJXvpZmA0kWpDM+HcvzC5ngUuzBnbu1hsL9beOlFFAD7TqSj8OxJhTh5MRM2HvdV2v82Jt08VvgsvwuD1emhCFrFj3YjoT5tRRS6m1dnJ/X+KKKKcr/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcC/8QAMxAAAQMCBAQCBwkAAAAAAAAAAQIDBAARBQYSIRMxMmFBcQciUYGRocEUFRYkU2KCsdH/xAAaAQACAwEBAAAAAAAAAAAAAAACBAABBQMG/8QAJBEAAgEDAwMFAAAAAAAAAAAAAQIAAxESBCEiMUFxEyMyYfD/2gAMAwEAAhEDEQA/AONNxxWpEZNt7CmGTMt4jmgTVxZUWLHhpSp52QvSLKNtgBcmwJt2pwjJctzC4nEID8mUywXgSUMpUgrXrHgQlTe3Y0WUaQqegkfIcQ0CAQR51jecW4j1baRTuNlqROxpuFHUvQ84UtuvNlAKAeu3ssL2qyiej3DmXlIkYzqeK2UoKI5sC4o6b2VsdCSs72A914avYRhdOzHnsJzRmNukuqIPgO1FVOM5XTEjGaiWlcV6VwY6lpIW6jSFFzTc2G6fO/aihsTIKSn4i4k7Ghyo7lmXXEX/AEl897jl3qwyZiOIYTjC5ZmPNuvX4hdBUHbm51C4PPe4IIO4qVi4ihC+hw/yA+lP4mMTHCjShKtOyQpF/nSdVqh2julSinJTc+J0SNh7uJSZDiGlAvI0FxslRsrq9ZSirtz5bVnxjKuIcNhEh2TJhMaQlpxZSnSPAC+221+dqxwMXzHDhCSy000yOS+GSgfSvWL+lTHncPEN5GHkAWLgaso/Os/3i3EgTSeoCOQyH3J/MgmLlsJZbEaFHSUMspAUEAm5JNgCT2AFgABYUUjm5pmOBSVOJN/DSP8AKKfX17bkRTPRpsCR+8yVZaXqHEUGh+7n8Kf4Q9EbCV/a2Q6lYH5nVYD2hIBB99FFOYA9Z55XZehlV+MZSohY+9GVNhXDKLK6b9Q2tb+qjsZdZWoK47C1K3PAJ28wRb4UUUIRR2ltXqHYmJ+E44oCOeKo8kp6vh4+69FFFXac8jP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Say It Right</div>
-                                    <div class="artist">Narcus</div>
+                                    <div class="name">Inside the Lines (feat. Casso)</div>
+                                    <div class="artist">Mike Perry</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgDBwEFBgT/xAAuEAABAgQEBQIGAwAAAAAAAAABAgMABAURBhITIRQxUWFxB0EVFiIjMoGxwfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAIBEAAgICAgIDAAAAAAAAAAAAAAECAxExEiETQRQiUf/aAAwDAQACEQMRAD8Av0xi9wrLYkd/eOc9Ra+7hnC79VZaS8WnEJKSojZRte4HUiF/pGNqy9jSbrrM06hxZAUyFFTRb9kFPTuORMRqhKyWNDXWxqjyYzyFPkfW02k9nL/1E3sL2jQIxLKjCfxwhRZyZtM/lmvbL5vtC/VjHNcl8Zy1ccmnFLTdOgFFLWkebYT07nckRvik08ehfkQ5Rj+jQ+xgjmvTqvuYmws1VXmUtF1xaQkKJ2SbcyOoMESWvt0yzx6NtXKbJVakTUjVGg9Juo+4k9BvfyCLwsMvTqEzilRppmpeR1MqUOOhx29+dwAEjtv5hrFpC0KSb2UCIWmoS7WHfUifRMSrpLeUNttoAL7i905Adjtc7fzGOTi8oeFcbOpaLcbwax8uZ1z76aafvaR8Xvblf/WikZul0FzFBVUDNTdPSuziW3Q25e/PkQodtvMXlw9e+TuL4Z/4lra3w7UGbQ/HRvyzW+rztFQOUNeKcW0wU2XeabmnC3NApBMuUEZwu3I5SOfv3ha52yTUhnRSlmO0MNQJCRplFlJSktpbkUNgtJHQ738m94I2CUJbaCUCyUgBI7QRQkH6jzOyEm9OtTb0qw5NtCzbymwVoHZRFx+oIIARniF8fw/DPaWlqcRtkve2Xre2/SJGmWW1rW202hbhzLUlABWepI5nzBBABKfx5QQQQAf/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQgE/8QALhAAAQMDAwIFAwQDAAAAAAAAAQIDBAAFEQYSISJBBxMxUXEUYYEykbHwI0Kh/8QAGgEAAgIDAAAAAAAAAAAAAAAABAUBAwACB//EACcRAAICAgECBAcAAAAAAAAAAAECAAMEERIhYQUGIjETFjJBUZHh/9oADAMBAAIRAxEAPwBX3biQrIr2MQEuJAySVDOO9MOndOfVvNNz1hDjnLbCE73VD3wPT81SIvhpHU0ovSX4KFp2q8tfWoffPArpOb41j4p0zRAivYdIJCkIUqQAAVKJ4A5JFbz7U69S1MhwoIwVIcVhKAOMqJ/vtXQGnLBZ9PMCPaIwDqv1SFJCnFH7qP8AAwKyrxoS1Sbs9d5st8FxPUFkbAr39Oe3H2pP8002WkcdAex9z+v7Cnwzx5AyfwdM/QRENpUFyCP8bh53E89IJ4/poppc2W55TmlG3ZUogtvz5KypLIBztA9ATxwBnHzRSjI8wXLYQlZbvqX0eDJZWHtvVSfsTHSBGi29bz0aOFy3f1KA6l+wz2H/AAUra18SLbYT9I6gvXENpW+2ydzUfIyN7hwPwOSO3NTbVni9tjogaXdSu45OFMoWtKlHjak+ijg5yenNQ7Ulxuj1xfReH5DkvfucS6vPXj59qUmkGzlYdmX1K7VcgNCdWQfE7Tzl0jxLdLTLfWguuKbCilCQMnnGM9se9JmptauTbs9tV5iHB/orKUgcBIOcZxycVzzDuEiLHeS0pSGnulwpyN/cJJH74ra0PAfuF2LvnCNCZQpT0h1RCEpx3II/bI+aPx1pDfTsweytkBJbp+JQp+rrdpxlceGhSJS21FRZOSHCOCe2B+TRUin+Up7bFdWtG4hJcG3jPHfiipstJaRXhUhfWAT3mrbFy1BCbYny3GiQH22hkbvUlZ5zimSy6Blz1hx2QtyU6TuBa8wgH1Jz3x37UUUywsKk1G5hszM7LtUcAegnq1JpSy6PitrurT8lbiuhBUQMj44JpYvWrEzI7cONGEe3tg7WkYGVfwPn1ooobKyGq9CAAHtNMJfjJzs6ncVgrknAooopZuMp/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Getaway (feat. Angel Taylor)</div>
-                                    <div class="artist">Tritonal</div>
+                                    <div class="name">Anything (feat. Karra)</div>
+                                    <div class="artist">Villms</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBAv/EADEQAAECBQEGAwcFAAAAAAAAAAECAwAEBQYREgcTFCFRsyUxQRYmYWSUwdIyVIGR4v/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAAIREiEx/9oADAMBAAIRAxEAPwDjd0XDXEXXWkN1qqJQmefSlKZtwADeKwAMwk1cVeKh43VfrHPyjy6W/eyuH59/uKhNoAKGY2CzW1wqlfVae+FYqerjCnVxbgON3nGdUZ5y4a8CfHKr9Y5+UaVysSp2epp3DtCYTPl3e89RG7xjpiMW5gk5ipylete4K2u6aKhytVRSVTzAUkzbhBG8TkEZgifa4PtZQ8Dlx7HcTBBSRMXanF01rrxz/cVCEkGxMtGYTqaCsqTzGR0yOcVboaKrqrXI445/uKhZmVUfQwzLBZ7XTzKlIl0gas/rX54xEifS0ZlxUujQyTlKck6R0yeZimuVcDGAD59ISXKL9Uk/xCc06N92oj3qoh+eY7iYIdtZgpuii5/fMdxMEBJDd7c2KJmKzPTc/UShL0w47oZYUogKUT5nA9YsSuyK3mQneuVJ0/BAT9jBBGwti1FWyy19zp3VS/v/ADE6Z2Q286k7lypNH4oCvsIII7yacpDWxUMVeQmpGpFQZmG3Sh5hSCQlQPmM9IIIIGn3PPy//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">New York City</div>
-                                    <div class="artist">Owl City</div>
+                                    <div class="name">Just for a Moment (feat. Iselin)</div>
+                                    <div class="artist">Gryffin</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwMECAL/xAAwEAACAQMCAwUHBQEAAAAAAAABAgMABBEFIRIxQQYHExRxIiNhkaHB4VFigbHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAMBBAUC/8QAHhEAAgMAAwADAAAAAAAAAAAAAQIAAxESITEEQVH/2gAMAwEAAhEDEQA/AObdPm0lLQreWksk5Rl41kIAbOzY67dK3ILjQRapE9hM0wGGm8Rtzjnw5wN6RQoHYDOKkdtpiWdms94nvJN4UzuR+p/b/dE7hfZYpqazyLTYhbYyxvI++ADHjP1+1ZlsHVRxLvw5I6/mmemXSLccEwBibZhU5PZC51BF8mpRlXi9tcqy8x7Q5H5g7UJtzoy2PjHNEqyeDw88sUUy1yBre4eKRVDxkq2B1BxRSA6ITV4YmsCEuUJ5emcfHHX0pjeahdXt07X0plmbYsfhsMY6YpfbNgjljO+1Z0iYyEAE8O4OOlSwG6ZFTMBxEmvdzoi61rccTkJDGDJI/LCjf8VemjRm3u0jaYOJPYH2AOeXT/hVV92cBtbOaZlJR2XjAOCyjfHp/gq01ubTyaPIbaxg2cySHGF2J35DI+tZz61h/JsLxSoD7nP3eTD5PtZrFrjhKXT/ACJyPoaK897Gp2eq9ttSvNNnS4t5eD3iAhWYIA2M9Miir6KeImS9mMZDoztW5ZXTW9ykuA4U7qeTDqD8KKK7Yb1BRipBElr9vLuKPw9Nsra1iAwqnMmMcufM/wAVHNU1nUNVkDahcyzY5KThV9FGwoorha1BwRmtZxrGK5t6KKKQQCJ//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ignite (feat. Alan Walker, Julie Bergan &amp; SeungRi)</div>
-                                    <div class="artist">K-391</div>
+                                    <div class="name">Make Me Move (feat. Karra)</div>
+                                    <div class="artist">Culture Code</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcEAv/EAC0QAAEEAQMDAwMDBQAAAAAAAAECAwQRAAUSISIxQRNRYTJxoQZCgRQzUsHx/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUBAgYD/8QAJBEAAgICAQMEAwAAAAAAAAAAAQIAAwQRIQUSUQYTFGExQZH/2gAMAwEAAhEDEQA/ANC0B1h/SyxLdaDlb2QDykeO3iicj1GM5I0t2K1JaWlZTtbCCTQN0DVePOL2hQFsNh6Y2spWOhoAnd96F46aeyiBGXJlOpQ2UbSktkAHxQ73eN77Uq2SZkMHGuyCqov1M5kaO+rYzIS7ulvISEqR0oSnq4I+1ds9aZ+nIaJMuTILoZQpYQqqskUee23j6uPjNJQtuY22pmQ2ttYO1sppRrjz2/3idq0bVHZslmW4qPGoqUGQdhBoJsn6vtY++cfk1unfviNRi2JZ7QU929a+4lPa5rrkmVJclONNoXYSlNtJ8BI8fmycManf0jMmrUQ6yxA9NKkk/S5x2SmuDfe/Pk4ZC2IyhlOwZDU2BiGXkS5mqbEQKZdCvVV/bTdbRfk/J8ZXJS6AkJKz1cUOFVz2+Afzlyn+n1ONHXGbWsbeksgdA/xUn9p+DRzqjRYzUYJcaLit+4lxsq2n2AFgc883Z/iluTi222E+fP4mm6V13EwcNalG2/fEonHJikncpe5XYlWy64Ht/wByJtZdf9JDyFKPVtCr6fHx3/jL2Vo0zUlWjVylgdmygHjyKUM50QW4UBccT3PWpREj0bA7fFfnKLhVpoM4E6N6hyTs0Uj+QiQnXtLdZcaJQpQLZ3USqqPA5qh3NAn4GGJU/TNSVLcTE1Nt526C2VrSeRdGyQDz7jDGlOOtK9qnczeTmPlWm2xeT4j2rTH4ry5DkiIzIbSouNNVbo8g1wT572MuWIkfY2X3FlZAKve/bDDLXVpcAXG4Fiu1BYVmdMNmM2+F+kLNiyeayLUosVSVNFKQVJ3UhP7fcexwwyiVIp0o1CjkWMu2O9zLnp6tJksIU0ElVpLgO3pI4AFnzz8eBhhhhoAgRdhwDP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAcFBggCAwT/xAAuEAACAQMDBAAFAgcAAAAAAAABAgMEBREABiEHEjFBExRRYXEIMiJCUmJygZH/xAAYAQEBAQEBAAAAAAAAAAAAAAABAwIABP/EABwRAAMBAQADAQAAAAAAAAAAAAABEQIDEiExQf/aAAwDAQACEQMRAD8Aitx3ffl46r7wtdn3dcrfS0Us8kESyHtIVlARRnj93n1qdtdJvOlkqoLhvG+3GYqGheGdokHIGMgknPeD44wdTQsFquHUu/NKokqZK6QcoTz7GcY01rPtS201MqR08QVf5VAAH/NUSX1jBLU9LvCWYSS7nvkUPaCYzWuOWRXALfYsF8ZOD+DHXij31PVYtm+7nQJ2k9s9S7hm/pBOMH39wR4zrRr2WhRSBTxY/wABrJv6k6ySDdMNHFDElIi8lFGWLff7ADWdPKBYb+HW1t1b3tvWnb237pu653ClkrYFlV5GCyK3JVlOjVP6TW+eHqvtR50ZZI7pGkgPnIOjQFZse3wxDcNyfsXvNQ3OOdWoRuqj5f4aj3ke/wDWlnbLnTw70vkSu/eKtwwZiQDn0PWmJRTI6hu9s/nS3Ucn7PqkU/APxQGbHPbrOXWzbltr7lQ07q/z7yJCoQcY/u4+n0OtHPMuPOlj1NozPJBUsUj7JkeN/eQeR+MaltPUhflvxtFZsnb9Jbt1baRcmshuKNOWOSzFs5/B0a87fWSR9Vtrsrr8OevijYZ8jOQcaND8k/RGX2V7dKbqpuqe5LhY4Wmop6+SSKRHVkdSeCP4vGmJa90bugt/cKJnnC/tI9/Tg6NGsdOabtLZn6V3c936i3K3s1O9bBUs3EUMYVVXP1z9NLuvp+oktFJSVgucrM7SBmn8EgD2320aNHPCQdNOw46X7d3FSdTts3C8080dNT18Uks08y4RQeSSW8aNGjXohKn/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Numb</div>
-                                    <div class="artist">Marshmello &amp; Khalid</div>
+                                    <div class="name">Battleground (feat. Laurell) [Radio Edit]</div>
+                                    <div class="artist">MIKVH</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBQMGCAL/xAAvEAABAwMDAwIFAwUAAAAAAAABAgMEAAURBhIhMUFRBxMUIjJhcSNCoUOBkZLw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAERIf/aAAwDAQACEQMRAD8A5lh/A+0oS2pa3c/KWnEpTj7gg81JcixpT0di0xpvxDqwgB5xKtxPAAwBzmrfT8GMbrGakNe624tKVAHBx3x/arPXi4UXUTS7XBMOMw42ptIXuwPJJ6ng804l3avRHV8yEuQLWrakZKQ6gr/1BzS81FYp9huK4d0hvxHx/TebKFY84PanLE1NdbanMWW41x+1R8ea2qPfrVrnRb+n9WL+IuQG2HLWgFxtQHyqK85znj7jrzzWrOcUrlop/wA0VKmsFiQ42QdyFFJGOhHBorCbFp+b7d/gLSAMOjH57fzTvc0jb9UJadmpUl3akL24T3BAOT1JVjPjmud0ZSpKkkgpOcjtTg0z6gwERIzK3HmJjbaQ4t5e73185UlX7T04Pjr2pTz6jQbdZpl1iNsOPQUR0tsOPOnLayUngpwCcZGTxS+s94jRXVhMFple5PtOIRlf1jqfO3v3NOiSm3XiyqdmJJRJGMhvcQcdxx/3OMVp8j05jvykOQpbLbQVjepe0ZzhOd5ASDkckjGaQW2qH2pOobi8yB7TjylDjH5/misd9jLi3uew8kpdafWhSd4XghRH1Dg/kcGisllj29x3lRwnzUpNr+bASFDzniiitYkuK7Ih4Q04diTn21HKR9x4P3GDWSbdJTsdcd2W+Y6sfoqcKgO568kZ8k0UVBRuFHRCRiiiigv/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBA//EAC0QAAEDAgUDAgUFAAAAAAAAAAECAxEABAUSEyExBkFRImEUFTJCcQeBsdHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMABAUB/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAEQMSBCJRE3H/2gAMAwEAAhEDEQA/AOBs2DemMyTqGII4/f370liGHoTdNJSdMrnMVEQmO/4q/bvqbaJuGG9kwM0kD/GpDuIOjGU3ZAcU0oQlZ5A7H2rWdKEEkRJrCdS5W0blpAT9x4PH90pc23w1wttS0rCfuSdjVj5osSPh0zz9R5pNQ+OvSS25KyJS0nMriNhSghg3PmiwSUhThUCqCAkUVfLFuq2SrVzDLtvBB/FFP+M6SJp+qbAW+qGbYMsrV6QFTMePYHaoKcC+aNqNqptLzaAtSVGCe2UeTvMeN61+HW9tcMli5uTKFu6YK+yTtHnztsZpTCbVauonbhVmFWs5laaCQlMxtAMCYG4NXcigqGhadZg77DXmGdZpK1MA5Ssj7qcwCzdbcefWFtOtpBRl2UDMz7cV0HBbFVxZ3VpetPhC/WhttsqBXHeB34mvbrDbS207bSeGJLBDiUI7AkCZO1K1UGDpcxN9Y3aMNe00AsITypMkeYJ4orZ9WYI+q0YLaHNKCHAAQAviKKVm7HrD1PkbxHpfHOhWigItsSbvU6IllSktryhfpUe4B889uKe6O6ZxxyyuLi5tsrN4yFQ9mIMGQv0n+fNFFUxlYuq+zc4vGxtdj2VMB/Ti7btmcSxu7uEMKU3nSwrKtMmAjfcHKJkbGYO81rsd6D6O6XR81xXFsQS423n0lubvkHcTySfpMHvRRQtkbarmO6iif2cxxTrnpFvE1LtrXEAwq4KiDEJakmAJnNJ8/g0UUUYNSLmcKADP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Motto</div>
-                                    <div class="artist">Tiësto &amp; Ava Max</div>
+                                    <div class="name">Wildlife</div>
+                                    <div class="artist">Jauz &amp; KARRA</div>
                                 </div>
                             </div>
                         </div>
@@ -534,7 +534,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Nov 2023, 04:04:48 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Nov 2023, 05:05:44 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
