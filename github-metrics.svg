@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -480,31 +480,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYHAf/EAC0QAAEDAwIDCAEFAAAAAAAAAAIBAxEABBIFIRMUQQYiMVFhcZGxMkJSU6HB/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQUCAwQA/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxEhBBIFQRQxkf/aAAwDAQACEQMRAD8AWc1K0bhGRJ016finytPODdFp3HtraD8jLZE8/Ws+2bYgJEIKqr4oe3xFPtOcZUbbeAV8s4WPilb2H1HdfBQ6bcRec1Fi6TjG6Dsd3qm/9Vf6CqXDDo3CAbsJ33fCOsetVrhtbi5mpeZO7fVQ6oL7PKt2bD+bhIZEJSiAipM/NV2P3HXM1U8YUt3AzOhMX9owKNIS9yEWU+qKylvpbtwCOI6eCrExRWIso9xj8Vm31nKtKuhvbjl5RsscslKU9vCrByyHJIuxT1TKsro+rNWbrpLshJvHXyXetbp+oW+pCSNN8Zxoe9J45IvVE9KbsSu8RBWivrO47b8hbsHxL+4IuiQsfdKs9oNRFwW2CUWcoGfGPeq1w2JMDNwD/TITHpVfcOH+5cF/j/3rQWtW+xJvbZXjqfydI0ntWYCaHieGxKg7T7zRWDZNm0sEUHVJ01yxj8em9FUNxKyc4mseTuQAEiYQJ5iOJiaVLzjjBji4SKO8iXSiimOMxICRLRvVXFbyyJVJN1iok1Z8skzTfpRRRAELMRrM8Z1EiA1UkkVTux40UUVxUSIcz//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAQFBgcBAv/EADEQAAECBQEGAwcFAAAAAAAAAAECAwAEBQYREgcTFCFRsyUxQRYmYWSUwdIyVIGR4v/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwD/xAAaEQEBAQEAAwAAAAAAAAAAAAABAAIREiEx/9oADAMBAAIRAxEAPwDjd0XDXEXXWkN1qqJQmefSlKZtwADeKwAMwk1cVeKh43VfrHPyjy6W/eyuH59/uKhNoAKGY2CzW1wqlfVae+FYqerjCnVxbgON3nGdUZ5y4a8CfHKr9Y5+UaVysSp2epp3DtCYTPl3e89RG7xjpiMW5gk5ipylete4K2u6aKhytVRSVTzAUkzbhBG8TkEZgifa4PtZQ8Dlx7HcTBBSRMXanF01rrxz/cVCEkGxMtGYTqaCsqTzGR0yOcVboaKrqrXI445/uKhZmVUfQwzLBZ7XTzKlIl0gas/rX54xEifS0ZlxUujQyTlKck6R0yeZimuVcDGAD59ISXKL9Uk/xCc06N92oj3qoh+eY7iYIdtZgpuii5/fMdxMEBJDd7c2KJmKzPTc/UShL0w47oZYUogKUT5nA9YsSuyK3mQneuVJ0/BAT9jBBGwti1FWyy19zp3VS/v/ADE6Z2Q286k7lypNH4oCvsIII7yacpDWxUMVeQmpGpFQZmG3Sh5hSCQlQPmM9IIIIGn3PPy//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Naked Soul (feat. Liel Kolet)</div>
-                                    <div class="artist">Last Heroes &amp; Liel Kolet</div>
+                                    <div class="name">Just for a Moment (feat. Iselin)</div>
+                                    <div class="artist">Gryffin</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBwECBgP/xAAsEAACAQIEBQMDBQAAAAAAAAABAgMAEQQFEiEGEzFBYRQiUQcysSNScYGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAQEBAAMBAQAAAAAAAAAAAAEAEQISMQMh/9oADAMBAAIRAxEAPwC7UmWNrxoS3y1M4eTEyAFVLr4qO0SEnY2FRWfcY4XhtI4sRIQXa1wlwncFz2Hms9tsuolgllj12uxW4QHe1INhZkBMiFV+Sa5xuL8VHhziMO0LJoGkqNQ0363vvTuE4hfM5jDKTqYjlxql9gNzt2vUnMZ9UpNgoHtvqorHLYHpvRVRS7Rhd7G3Wqd48jnkyrMMZCsUwVS4DL7kudxYfcN/6q69IkAvsKqjjXLI/wBbL5pzh1cgrLzPuUG49o3tf5qOfpHHMS5H6QnkSMmJjSfCsb8uTcA+KsTD4hY3klgmcxyYjmxxyQhOWO6rYnboOgqEmySDLYvWIZTIii5jNgx8/u/w+abyDFY7N8zWKZlaC+j2LpaIDex7m4/nenzQ/D2n5iuvlZDxjSCPxRWy7ITfaitJXvpZmA0kWpDM+HcvzC5ngUuzBnbu1hsL9beOlFFAD7TqSj8OxJhTh5MRM2HvdV2v82Jt08VvgsvwuD1emhCFrFj3YjoT5tRRS6m1dnJ/X+KKKKcr/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Say It Right</div>
-                                    <div class="artist">Narcus</div>
+                                    <div class="name">Love Thru the Night (feat. Morgan Perry)</div>
+                                    <div class="artist">Mike Ault</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAUHBAYBAgP/xAAvEAABAwIFAgQEBwAAAAAAAAABAgMEABEFBhIhQRMxIlFhcQcjkaEUMjNSgbHR/8QAGAEAAgMAAAAAAAAAAAAAAAAABAUCAwb/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADBBIRITFBUQUTImH/2gAMAwEAAhEDEQA/AJjMy1EeccdwxDiofA1HUjne43FiDfyO9qWzcMRh8J2QdV0DYGxBN7d6peX8MciuMKc1aSkJPsOxHrY29tqxPing7SMLjfhEj5i9am0D8yRbsPc9qbNbr3hCLsQJqWQGY82e2idJW51flpSggBKz2vyRVbwLKrqpcliSkMiM5oXYi6+QU+YI5pb8Pspw8Pw5tzEYDKpX6rae60nnUQbEenFbdCWWZMx1S1KMhzV4jcpSBYD+6AFxLnrCshAqAdjM1xlEGIGmY6kNJPAJ25uee1FeLklxQ8JIJoqW8X6znC4cOQ1HSpLusKPWsNkp3sQbf7Wj5tcYTmrCYKlPFIXaWU3BDajc6drWsBve5PcW3qhrSzHaSGSHEcFJG/8AJNSX4lZbW7jCsxMJd8CUpca1J2sLagRerS25I8Syk6uDKfh6YkiMpPTUtaHSls8FG/f1psjCYziT0S6dIsdX7vCbe25qGtZvmYSzFeahkthQ6pcvsn0qwQsejKwZiZDKem/ZSlK30m3almr1vx7jPLrDrsviPF4Qw0HNCjfV4Ljun6d6KQDMaCfFIQn6Cii/pf3FG38kjVm6SgFzrFlJ3OrfWPPTz7/el2KZziYlBdgvKLCXRZT6rrG242G4396KKZGtSOsmRx1nfKcdt6SwhzEWzHFtwhV1je9vp96qpjMSEPxm3UiE4LAJBBHqBwb0UVhvmM26q38HjiFWZDrXyDIPnHFpuCZgnYa4sqLK7IWU2ug7pO3mDRRRWywmNuOjv3IEA5n/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAQFAgMGAQf/xAAtEAABBAECBgEDAwUAAAAAAAABAgMEEQUAIQYSEzFBUSIVI3FCgZEUMmGhwf/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQIG/8QAJxEAAQMDAgUFAQAAAAAAAAAAAQIDEQAEIRIxBUFRcYETImGhsfD/2gAMAwEAAhEDEQA/AFoRix8Qw4nF4x4NxmiQqGgmumLJNX3Pf3p53H4mTBfyTWCiNlPKpLZZHy2TuPjXf2QKP41rx+VdaxETlhPTehFaUphpSQp4dMAgnluqJ9/g6SYzk3ILnmRincdEeabXHQt8lQ33Kh2IIFDYVXbSaWQ0qCM/FUG+IpeBebBCQI8in+LJnDi0xOlAgxnSA2lBhtoSK7J5v1E+6G+tSuFA3hTKONxzaJASWSpCAGyQa9/xqNnsLmMeZkiXHBWFKQ0K52pABrbbZSdxYO+3itdyJEt/AIQ+2UY5ppvpyOdQHPQBBUn1avHjRw6pKR6ZEDelHbNWn3qkqhXLcYrk8vCx7WAyTTmPxjkxuMsuFthKekooJ8pG1Cx6N0dGrZlRmMdxCFNJcclQFoC2RfOlLalAgA7C97HYeBo1louiSNj5rBaZUBrEEdxVLA4RpvF4t+PJSt5cZoPNqbWByloWLur8aZyDMbKxJLMeFGjCPaW3UOFVfLek+tjse/Nel8Zk4quH8amBJdMv+mZ5k9ADlpsXSiaP8C9OOMyImDgJLqqLam1blQtPKCPkbB9gUL7aXZavLglRMTgY6eKK69a8PbLRSY3PnH7UziLI/Xgyt+Qtltk/baKLANd/7tuwHjv71obmITAYisvyI6LSp0BIKVqSCEqomx3NiyD4A1hkcuhicGGj8U7OKJJAPgVfjTpyMVICkr6hT+ltV9waNE9rrVAWaG0ltJ2/ulSg7eJCHVIIS5sYn6mp6nRFhTZHWc6q474txugq2VJIAB2ABA/fRrzMLdmcP5Z8R5CkBh5JPVCAPtk0Bfj8G/8AGjSPrafaDEfIq83ZvqQkqM9xn9qfwvkcfITiGPqURlQjpSpReR8ftAGxf/P967HOzManEEt5nHEx0qKEIkglV13sAeL96NGny4pWZpW+tGmTpSJkc+9fOXJsBx5bhyUFPMboOpPgDvzDWbGThtvgCbjihSQkrDyQqwb7XVfvo0aGpIAIpS14rcvrbYWqUyMQOVUpE7GO8Ly1N5CCXUJf+JkovlLW1C9zfoaNGjUPQCSOldU88qRX/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">My Heart Goes (La Di Da)</div>
-                                    <div class="artist">Becky Hill &amp; Topic</div>
+                                    <div class="name">Don't You Wanna Play?</div>
+                                    <div class="artist">Seeb &amp; Julie Bergan</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQDBQcG/8QANBAAAgAFAgQDBgQHAAAAAAAAAQIAAwQFERIhBjFBURMUYQcVIiMykSRCUtFyc3SBssHS/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHxEAAgMAAQUBAAAAAAAAAAAAAAECAxEEBRIxQVEh/9oADAMBAAIRAxEAPwDhL1c7h74r1WvrAPMTAAJ7DA1H1inq6u5KwdbnXBSfi/EOf9w3dpfgXa4umWPmphOT01mJLJR1l8qpki3UUypKLqcJj4R0JJ2G8Tc/TXLW+32K09ZUFwsy73LUefxtgdvzRFcrnWYUJcqzbfacwyPvGu2b2NUdytQnXy/+SukzHyZKq6S+2ScFjgchj+8cJx9wfScNy1le8fFrtKMykaZbKRuUOMtv0HLkeWYW+RWpJb5+F9lsU001n05WzXK4Nd6ANcKtlaolggz2ORqHrBCVmXF8t/8AUyv8xBDmiUzfb5Ojr5yVF3rpZXnUzPUfUdo1X2RtJoLDfZQEk1s1pc1ZSY8QpgjI7jPTvz5xjt3cLcK11YofHmqFG2+s5iz4U4nezXq21k6WZ0ilDoZaHSxRs536nfO/aE2QcliCrujVYpSW4zUlnT6y+O0gmQFfWHQnLNpGNui75+4iT2xUtK/CthqKpVevaYyq5BJKYywyw1Fc4xnvCMvj3hJi1Q1NcWnNqbwiFQKcADcHH7HJjPeOOM7lxFNp/NT9SSNXhS1UBZSsc4HfoMnfaM3G484S1nY6r1Gnk1xVfopqOgYcQULywNBqZR2/jEEQWaqmtebams481K6b/WII34zhQccLS9W2rnV1cJdJUkmc7KfBb9R9IqZdtuGRm31uOvyG/aCCKTGXVrdGZlrnvyt1y0/yW/5hR7TdCci3Vx7fIbl9oIILRLgi44dtFat5t7G2VqgVEslmp2xjUN9xtBBBANjoRWH/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Make Me Move (feat. Karra)</div>
-                                    <div class="artist">Culture Code</div>
+                                    <div class="name">Fly by Wire</div>
+                                    <div class="artist">Anevo</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -539,7 +539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2023, 05:04:50 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Nov 2023, 06:30:39 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
