@@ -480,20 +480,6 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCB//EAC8QAAIBAwIDBgQHAAAAAAAAAAECAwAEEQUhEjFBBhMiUYGRFBZhcSMyQlJyobH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIEBgP/xAAfEQADAAEDBQAAAAAAAAAAAAAAAQIRFCExBBITUWH/2gAMAwEAAhEDEQA/APBXt+7kAjckHzGKu29tdNtHGWb6U8bS1wMjPXi5CmOnTLpWZEABYYy+CP7rbTES+Sx2mbTT79kZTby7sOQ296d6Z2ZuJF7yaGTA6Ypjb64sru3xlvGjEBiHVR7da7+cNKsX4WeW6PCd0YjDfTofeuiuI3HhIbadp19bwcEERhiPVdj60Vmbnt+kw4eOaFPIDn7UVPVT7Q8oyV7rcssQS2jELfqbGT6Upmeedx38rv8AyOaaw2jSHZRVmPSZmIPCM+fOs8+ob5IsURxgWxxw/mG5O/t5VE8ZC860zdn7r4Zm8A3HMb1Tk0aVNpEJP2pagNhHHGjZDEk0UzuLCSNSI02+1FHn+BhE8N0kJVmyR6Z/2m9nqWVV45EK9c9KKKr4AcjU5O5BYfh/u6VE+oJIPFgmiikIo3MsbZ8I9qKKKAP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Apologize</div>
-                                    <div class="artist">Besomorph, Anthony Keyrouz &amp; Lunis</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAnACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIDBQYHBAH/xAAqEAACAQMDAgQHAQAAAAAAAAABAgMABBEFEiEGEwcxQYEUIjJRYXGR4f/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAgT/xAAZEQEBAQADAAAAAAAAAAAAAAAAARECEiH/2gAMAwEAAhEDEQA/AN9ljj4ZSM1G6hdhYQkeO4TjmoZtdwCshwfzUNquoS3EitZXqW8g9Xi7gPtkVy4dKvdZtrPVotOmuoo765RnhgY8uF8yKr/Us+6Nw/JIxk/msi8RuotVsfEq1m+Jt572zVI1kjg2go/JUqS3PJ5B9avup6sshwzAVucc9ZtZJ1xpY+N70ZOT9VFWbq1YZrDLsoG77cmity0ytSv7zuxujpuYepOAfeqzcaxHFK+XCSeq7s4NZbf9c61d2iRdxEbPzMqnJ/RzxXN0/q922uRy3lwrrtfJlO1Qdp4zT1wYe1LUo28RWvpwrqHX+7MA/wBqevtXEwJXlTznNNw3MCrCZpNNmCzsUdpBuxkn5uOQfKofq6+DfDNbGHGX3iBgyj6ftUrEfrN9PcMIxlh6CiuCO8Vzkk5PGCKKSauhDHL27beXTzYnAz+BTABkYgklice9FFNR1ELNhWOFG3nn2r0Ls5jYsxJBAOPT/KKKyiUh7nIYqQN3l+qKKKtT/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Au paradis</div>
-                                    <div class="artist">De Palmas</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAcEBggBAv/EADUQAAEDAwIDBAUNAAAAAAAAAAEAAgMEBREGEiFBYQcTMVEiMmKBkQgUFRgjQlJ0obHB0eL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8A57DsD1Qfcgd0B9yuVf2H2mgqKuOr1XLDFTRGV07qVm04xwAEmc8fLCnVbpOKHTlDfon17bdJP3NU2ogDJYBuwHgZw4EdRx4dVFakXZz6ITd7Lfgrxbewe1XSnbUW3W9JVQP9V0UTD8Rv4Hosn6ujckN1IXEfhpmn9noOfc8McEXQT/k7xs4u1FNj8l/pEEbn19enUMMTakAfbNfGG+htfy2+AAyceS81Bq6qu1oht0Zeyj2h8zHPLt0uck8evLktb+ax+b/iF9thY0Yy5Wpq46Wgob/pW3zSWobe77pxLwAHM4ZB9blzK3Ow0baSBjKGskpi1u1rIpDtHPwJx/JUItGsqm12qGhp4B3cTcA78c8k4x5lZ7O0Sta0NbStAx92UtP6BFWO/VGsW0kkNvvUxMjS3c0Na5o9k+IPUIpPB2n1cTWj6Ojdt5md39IgniIigIiICIiD/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">With or Without You</div>
@@ -501,17 +487,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAgUDB//EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwAEEQUSITFhE0FRBhQigaGxJCUyYnHB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUB/8QAJBEAAQMDBAEFAAAAAAAAAAAAAQACAwQRIQUSMUEiEyRhcbH/2gAMAwEAAhEDEQA/APCr+8nW+kWNyFGMDPSu/h3kSLJd3SpEPJcE59BxSGrnbqEvrx9q2ngt7u1VppFVByGBHBxU5sAMLeaHySS+ZuOMpNr64kCNG8UUfO0MQSe/+FUub6+V/wBKsg6MqAg980k4Vnjgti0qpkK3mxJzx2puS4e1sGtgMsycnz65PyotoxhSCpk8i55Fu/lN6ZqJuN8Mi7WAzuXzorN0Rit4uT1UiilvaAcBbulzOnhvIbkYU60At8Dg5Kg0pGyK6rLu2E/FtHOKe17JuYmPUr/dUNv4+lrIoHixMfmKa02YLrCqoXPqpA3rK10Nhp0LzKCWZCI8nLPn6Ad6w9QmmuPxEwwCoUc4A7CulrD7/JDBvwycY/aTk/X7037SbNsSQgbFYhcDjAxXG4dbtFK0ywl4FmD9SeiL+YxenOee1FW0MH39TtOArUUMvK1tEb7c/a09Ss0uArbiJFUAY6VWxtXtrWVJSD8WVI6UUUncdtle6kjEvrAZS8umzw3guLbbgnKjOP5FO3lilwiIzskgJPTPWiiul5wUltFE1rmWwTwostLaCdZGlLDBUjbiiiiiJJyVTT08cDdsYsF//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFCAIEBgn/xAA2EAABAgUCAwMJCQEAAAAAAAABAgMABAUGERIhBxMxFCJBFRYjM0JRYXHBMjRVgYSRkpSx0v/EABkBAAMBAQEAAAAAAAAAAAAAAAECBQMABP/EACQRAAEDAwMEAwAAAAAAAAAAAAEAAgMEETEFIUEGE1FhgaHR/9oADAMBAAIRAxEAPwBC3VcNZZuWrNtVWfS2mbdSEiYWAAFnA6xFtXHWlLSF1mopSSMq7Qs4Hv6xndrLi7rrRQhagJ14ZSknfWYenCLhjJyFJlqvXZRMzUH0hxtp1OUMpO42OxVjffpmC0EqRX11PptOJZG38AcpLmrVbklwV6rFO2Dl3BHjvq+caLlx1oOqSitVFSAThXaFjUPfjO0XIedl2Gih0tpbxjSRtj5QluL1o0CckHqnQdEvU2+8thlpQQ+PHAAwFeO3WGLLYUbTupY6uURSQlt8HI+dks7WuCsu3NSm3KrPrQqbaSpKphZBBWNsZgiOtFpxF2UXmIWAZ1ncgjPfTBChWq2FhcNlYXh4JkydREh28Dzqe7byO1fd+Y1nTyu7nGvPjj8od8jIGXYaS85NurDhLhU++olPhjJiht5OuN3jXQha0gVB/YEgesVDBlOLFWbseWkVB6XmGhyVT4OVLQBhIQD7WNirwxnqYLSBlLqNPNJ2zCL8He1vf0rEP8Q6JI3cm2XZl9icWlDSFP6z6Y5OgqBwFFJTge8x2Ew860SZVEysEOkoXryFD7IGD0O/7x54zs+/NzHNW4rZRUnc7HOc/E/HrDFPGOuPWjM0eaSHJt1sMpntRCwg7K1DxVjbP1hg/wArzVWmzNDOxvi/Fvf6mNxFE8VWyaj5SCfK0h2cOGcx6v0vO53c5nMzp0b41Z2xBCJs11bl40FK3FqHlBjYqJA9ImCM1VnZchd5dNhz0tcNYqb0hPTmueeWhlqTdOMuKI9nB/zeOMqNAuioPlbtBq6UAdxAknMAfxgggrZjjbdavmdcH4JV/wCi7/zGK7QuIY00Grq/Quj6QQRy0upmyrWuBq76Et6g1VDaJ9hSlKk3AEgOJJJOnYQQQQEjsr//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">BESO</div>
-                                    <div class="artist">ROSALÍA &amp; Rauw Alejandro</div>
+                                    <div class="name">Giving In (feat. Mees van den Berg)</div>
+                                    <div class="artist">ElementD</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAKRAAAQMCAwcFAQAAAAAAAAAAAQACAxESBCEiEzFBUWFxkQUUMlKhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAECAwUGAAT/xAAeEQACAgIDAQEAAAAAAAAAAAAAAQIRAwQSEyFRkf/aAAwDAQACEQMRAD8ASMNsGQ8Jw1vIeFRE7QOyujBdnQ2j5EcAtIshtOKS9JtbyCi1v1/E9Yt1Xb/l07JJAWkVBocx1CPMCpiyhth0jwhVyu0u7ISPKFwH9LmgieHYlhe0DIBoP9XQ3ERPjcWxCoqXUaAADyzWEyTSM0zZy1wIpUZqvhtUPPWUvbZtnG4d0zHbBrGNFKW1qevNS7FRMab8O0mTME00joFj+8ob7G7S66vDtTcqnTlxJJzTPa8Ejqq/b/TT9SxEEoHt4tmxraUO89zxQsp8ugoUL2LJ1jUFxRxMmFgzHlBmH2CEKjWWR66I2w5hTth9v1CF3bINIh8wsOY8oQhDtl9FaP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFCAECBAb/xAAuEAABAwIFAwIFBQEAAAAAAAABAgMEABEFBhITIQcxQVFhCBUjQpEUIjRicdH/xAAYAQEBAQEBAAAAAAAAAAAAAAACAQMABP/EAB0RAQADAAIDAQAAAAAAAAAAAAEAAhEDEhMhMVH/2gAMAwEAAhEDEQA/ALJypExeJrjRHGUaW0r/AHoKu5IPmtEqxSwJkRr3AP0TwTb+3vXFib2xmNxRUUJVF0kggc3JA5/yk/1c64QsDZkQMoSzLxhMjQ684xdlnSQFJubalXT4uBTTJiOrHaXMSUEFD8flRSbsnxf+3tWN7ENjc32NOnWPom5Fh41e9Viwv4jMQVgYRMjNpxUOhH0mxtlBvdYB882seOb+1MPKXV7DsRmYbFxQojR5OthN1pVoPFtwBICQo+lwLc0WwRlbJpG9GkTE4oiNKWy4hbRXdCCkgggetFc0V1LuPMaHd0CMq5BHcqHpRVSSlvsis6oedffbjPbEhUezTukK0KN7KseDY82qhuasLl4JmDEMPxFzekR3lIU4CbLJ5uL+t71fPOTzcaS9JfUENMsbi1E2CUpuSfwKpfnTFnMxSHZ78hCXXip11IQkabGyRcc2CbDnuaeaGTIv1v7kLPyrPw3K0LMMrZEWU/ttN7l1KFib8eOLW717XpfPiysw4U1KYaWwXUbmoe9gD7X/ADS8exaRKhwoEh9f6KGTtosCEFRuo28/8qaytI2MQUlpQLyVBxu17KAPisuSuGz08bq1/ZejLYHzEm1lbZuPxRS46Q4xLxLO25HlOuYRMgLk6HPtfC0JWAPtF+bduaK4t3NnHF4lrJ3rnlLM+bcD+XZWXDbEkhMpch4t/THOkWSe5tf2FIpv4dM9JZdQp3Bf32P8lfjt9lFFIsjA1EkY38PecpSltMCEh1BKVbpdQnvxpUWxcd/XipJj4dM+RpDT0Z/B0ON6dJ/VLP8Av2UUVG2qSlQ9xsdF+nebcpZqfmY49B+XutO6m2H1LO4pSSCAUiw4NFFFTAi1frP/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lonely Heart</div>
-                                    <div class="artist">Jax Jones, Martin Solveig, GRACEY &amp; Europa</div>
+                                    <div class="name">Wherever You Go</div>
+                                    <div class="artist">INNA &amp; Reynmen</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAcFBggBAgQD/8QALRAAAQMDAwMCBQUBAAAAAAAAAQIDBAURIQAGEhMxQTJxBxQiUWEjgZGhsfD/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECAwD/xAAhEQACAgEDBQEAAAAAAAAAAAABAgADBBEhQRITMVFhI//aAAwDAQACEQMRAD8AzrDixnYsUuNKTfrKeduewA48RexsfxrvToDL1WVCcRy9XBVzdSkgkCw8KtbGc4Oo6LIeaW0W1kdIkoHcC/fH5/vVz+G8lDO5WnHUfo8SFE54J7Y/wfbQdztWpaFU1ixgpkLNpkaJVJTb8eRHYKVKaQ8LLSeJsm/myrC/kZ18RSU/MkJLT0dTTziHULI9LalAKByFC3Y/2M6dG8qfGf28IrzpnFwlZkOkXT9gm3a2lTVHmKPUXo1OKlNEJ5JWDewBGSe9+R/bGsKMk27cze/F7Wh4kA9B408vpB5NLSl3N/ULj2yCP40a5lTEqbdQyyGS7hwpWTzF72IPfOdGjR9gREau2fgdUpdNXNrdRap4BCUNNN9dalfmxA/gnUPuLYtc2nUkJjNqn3UQ25GbUeRFrgptcH/r6e7FeEelxjKkIAakcj1FgeL29te2n181PdJbghIpzh6hmLUAFqAtZsH1C/ntpIua9h38Rn2BX4iR26/Nrr77tXQuNHp4F2OJHFQv38k3Hnzpf7tW29uSVIiMuBlayVLKTZSskkX1rqBtGhNy6osqdluy1lx8FXFCck5I99Vo0baVKqspUEn5xxhTDKVqulAJuQi+Mnv3J1pXaKmLe+JNn6qF5Ez/AE/4abnqkISodPJSpCXEpWriopVkHOMjNr3to1qU1TqwGVxyeCgB9I7EYxjRopck6bwQ177RZbV27UVNpq1cbTIUhfUbhu9kpxmxwT/mpGqzXH9yOSiyqGyloNspKbXSO5xjudGjSbKXprJHyMqiWOpnvRNebhSX6NUC4q3EtKH13Pjj599UffhlvVqmwpjvSllnqpsB6b5OPONGjU01jo6/QlWchtPsvtBqbMHZqnEJu5CQf0yfucZ99GjRrhk2BF0PEq1SljP/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Suis-moi (feat. Ninho)</div>
+                                    <div class="artist">Ronisia</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -519,6 +512,13 @@
                                 <div class="infos">
                                     <div class="name">Here at Last</div>
                                     <div class="artist">William Black &amp; Rico &amp; Miella</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQGAQMFB//EADAQAAIBAgUCAwUJAAAAAAAAAAECAwARBBITITEFQVFhcQYHFBaBIiMyM5GSscHw/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAQIH/8QAHxEAAwEAAQQDAAAAAAAAAAAAAAECAwQREiFREzFh/9oADAMBAAIRAxEAPwCDUFgSLWHnasNGquVmJB3tkZTxzya0SHjcVpCyOx0huu5PYeZPAqOpPQ9dehnEpCJCpeTv3XxA8fWkcYiLl0WJF8pzMvPA4PlXQxGDkMYAnbWzWBC/d2tfnn62qexqTQSsuIRkk35/29GUMma8j9CcPG+Vit9+GB727UUoh+yxJtaiidpOvfyVTG5I2vWzp+q8sscQzllBKWuGAYEg+Vr1ZS+xOHU2GNk/aN6PkRs6NFj3RspF8vb+xQFpC+2NbcpUvDEMRM0WDLZV+EWYFWXOFU5r/mc2tta3lavOev4id50+OBWfKSUy5Qt2JFgNgLW47V6pL7Oa+Bfo7Y/DpiNTaJiMpW17afrv4X3qSx3uv6y8xvjYpWNrO36D0FEW+fsmVoRgB0lYnZvEc0Vdy+7LqmlHEmMgJUCxI7+HNFb88exSqpsu457uhAOYg/irpwThSjSHcbfWiipTY9YlIMGOpSYvRR5wwyyW3va38bU7Ji7RNvvcetFFcNi9MVl6nlBIsyJzRRRWpHDP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Like You Love Me (feat. Alice France)</div>
+                                    <div class="artist">Conro &amp; Disero</div>
                                 </div>
                             </div>
                         </div>
@@ -539,7 +539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2023, 17:04:10 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2023, 18:11:49 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
