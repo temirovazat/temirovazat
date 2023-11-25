@@ -487,10 +487,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAKRAAAQMCAwcFAQAAAAAAAAAAAQACAxESBCEiEzFBUWFxkQUUMlKhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAECAwUGAAT/xAAeEQACAgIDAQEAAAAAAAAAAAAAAQIRAwQSEyFRkf/aAAwDAQACEQMRAD8ASMNsGQ8Jw1vIeFRE7QOyujBdnQ2j5EcAtIshtOKS9JtbyCi1v1/E9Yt1Xb/l07JJAWkVBocx1CPMCpiyhth0jwhVyu0u7ISPKFwH9LmgieHYlhe0DIBoP9XQ3ERPjcWxCoqXUaAADyzWEyTSM0zZy1wIpUZqvhtUPPWUvbZtnG4d0zHbBrGNFKW1qevNS7FRMab8O0mTME00joFj+8ob7G7S66vDtTcqnTlxJJzTPa8Ejqq/b/TT9SxEEoHt4tmxraUO89zxQsp8ugoUL2LJ1jUFxRxMmFgzHlBmH2CEKjWWR66I2w5hTth9v1CF3bINIh8wsOY8oQhDtl9FaP/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQFBgIDBwH/xAAxEAABAwMDAQQIBwAAAAAAAAABAgMEAAURBhIhMRMiQZEHIzJRcYGSsRQVQmFzodH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEAP/EAB0RAAMBAAIDAQAAAAAAAAAAAAABAhEDMSEiUWH/2gAMAwEAAhEDEQA/AO63C4KjrWX39idxCUp6n4AVqsT1xndq46Qlg52dc+ea2SkWYSHXXm46nQo7iQonNMt3q2stJAdCB0wEKx9q5zTCriV+kXKmXCM6pL8WUUj9bC948utRT+qUtTG2VOSUbzt3OcYP7g8irK7qC0A+sfGf41f5SE686YlILcxTTiSMHc0rp8cU6VfCbcMYtkySpSUrcKgV4OeaKXt180+l1mNDebClKCUp2OdegwSKKZp/B+OpmcPExxLfklKT3XlpPnWMm39wZSKfsj0Vd9uDLRcLucqC8kHnBx4CqpqLUz8zUUa22OSEBbnZrPZBQGPa8M+BpIvVqBXGk8M50PveyKgJ7KG1+sKEZ6bjjNTk/T8l1Su1vdxIJzhBSn5cCqte9Ex5R3GZKW8Oi5Cu0A+XFWm3nRnrjnexuwMD8/iZA4dSf7FFQ2mJ0y0aitltvbJSpTqAzIQdyVjcAAft9/fRTVarzuFOP1WNaa9fHUCtQSFWuBdO5IUpLjLLmOFcEEDmnfRfHuytULk3W2zkOuNuFTrzC0jceSeRjnmiisnGsnEX5nteTqj7DqicNr+k1GSYb6s4Yd+g0UVeWZ6RXp0V0XO3NSLTPfR+KaWl1tnutKCgdxPUD38c0UUUt9hjo//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lonely Heart</div>
-                                    <div class="artist">Jax Jones, Martin Solveig, GRACEY &amp; Europa</div>
+                                    <div class="name">Show &amp; Tell (feat. Claire Ridgely)</div>
+                                    <div class="artist">Said The Sky</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQGAQMFB//EADAQAAIBAgUCAwUJAAAAAAAAAAECAwARBBITITEFQVFhcQYHFBaBIiMyM5GSscHw/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAQIH/8QAHxEAAwEAAQQDAAAAAAAAAAAAAAECAwQREiFREzFh/9oADAMBAAIRAxEAPwCDUFgSLWHnasNGquVmJB3tkZTxzya0SHjcVpCyOx0huu5PYeZPAqOpPQ9dehnEpCJCpeTv3XxA8fWkcYiLl0WJF8pzMvPA4PlXQxGDkMYAnbWzWBC/d2tfnn62qexqTQSsuIRkk35/29GUMma8j9CcPG+Vit9+GB727UUoh+yxJtaiidpOvfyVTG5I2vWzp+q8sscQzllBKWuGAYEg+Vr1ZS+xOHU2GNk/aN6PkRs6NFj3RspF8vb+xQFpC+2NbcpUvDEMRM0WDLZV+EWYFWXOFU5r/mc2tta3lavOev4id50+OBWfKSUy5Qt2JFgNgLW47V6pL7Oa+Bfo7Y/DpiNTaJiMpW17afrv4X3qSx3uv6y8xvjYpWNrO36D0FEW+fsmVoRgB0lYnZvEc0Vdy+7LqmlHEmMgJUCxI7+HNFb88exSqpsu457uhAOYg/irpwThSjSHcbfWiipTY9YlIMGOpSYvRR5wwyyW3va38bU7Ji7RNvvcetFFcNi9MVl6nlBIsyJzRRRWpHDP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Like You Love Me (feat. Alice France)</div>
+                                    <div class="artist">Conro &amp; Disero</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAcEBggBAv/EADUQAAEDAwIDBAUNAAAAAAAAAAEAAgMEBREGEiFBYQcTMVEiMmKBkQgUFRgjQlJ0obHB0eL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8A57DsD1Qfcgd0B9yuVf2H2mgqKuOr1XLDFTRGV07qVm04xwAEmc8fLCnVbpOKHTlDfon17bdJP3NU2ogDJYBuwHgZw4EdRx4dVFakXZz6ITd7Lfgrxbewe1XSnbUW3W9JVQP9V0UTD8Rv4Hosn6ujckN1IXEfhpmn9noOfc8McEXQT/k7xs4u1FNj8l/pEEbn19enUMMTakAfbNfGG+htfy2+AAyceS81Bq6qu1oht0Zeyj2h8zHPLt0uck8evLktb+ax+b/iF9thY0Yy5Wpq46Wgob/pW3zSWobe77pxLwAHM4ZB9blzK3Ow0baSBjKGskpi1u1rIpDtHPwJx/JUItGsqm12qGhp4B3cTcA78c8k4x5lZ7O0Sta0NbStAx92UtP6BFWO/VGsW0kkNvvUxMjS3c0Na5o9k+IPUIpPB2n1cTWj6Ojdt5md39IgniIigIiICIiD/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">With or Without You</div>
+                                    <div class="artist">U2</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -501,25 +515,11 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQHBQYD/8QALhAAAQMDAgUDAwQDAAAAAAAAAQIDBAAFERIhBhMxQVEiYYEHFDIVM3GhkbHB/8QAGgEAAgIDAAAAAAAAAAAAAAAAAwQCBQABBv/EACERAAEEAgIDAQEAAAAAAAAAAAEAAgMRBBIFIRMxUSKR/9oADAMBAAIRAxEAPwCtswLc/b1vyG0rBcC1KSrBKk4wcjv0rOnzbMt9CnmGluNkpCyr1JOPxB7/AOqVuL6ovCS3WGG2ENy1IdTn0YKsFQ8eakd6vENhTj9vEi6lp/kLZiqyNZGQFEZwNutTzcudk7mMcVaW7Y/r0r5BYtVyhqEZICdknlrIPp2GCN6aRbIUNpZjRwnGVaUnGT1PzUp4CnTLJKiuzVaYMxvU1D1hbrSyN2yQfVg+3TrXQcSfUKRYJBNytDqIBH7gznHnPQfNRjzJapzil3ySA1ZpdbcosfkuKU36spSkqJUkEnY4/nvRXnb7jb79Y0zYTvNiyAAd9x2IPv2oq7w5to7JKbxZTp2Smre0zJti2nktPR3ioEYylSTUmvliTYJ06Bb22YkR3D2lBwVpztnO5G53ztVF4UYFo4XYjRlfcqZ1BSlKxqV3/usHiKwzuIXEiVHbfjEa0c5QC2vKR5/7jeqHkWjzvDTdFBB8crvikVjvci18V3O4WiGu9tW+MGUKT+KFk5Wo4G5zgbdu9bt8+plzRw9b5lx4SeUm46k8vUegOFZGCR7ZG9bll4YvPD7Fz0xGY6JA0NlpWRkeQNwCP8UrdJFy+5KDIaKIhGtGDhGfGRvtSQkr2Fmm1kOTv0D1GBemUtqZjl4Otxndi2knx28fFFe/A18+6YuDFrYcaUZBCnOXkqIICiM9tv4orpOMYXw3ddo+LHbTRXUcOX6Gg/pUWOVLho/BxRCgkHHXcE98HG1BuU1E+SosONspy5knIx7HcfFFFNZnFQmckk99/wBR5YGCSvq1bXfGXpYZdCkqDaXHGlNkelRICs9O3TrTUyRYSpCZcILVqB18kqCT2JV1FFFBHFQB1doLsZm1Jdcq3EpfhshLWpQUUJwfSSD/AHkUUUU5BhxxgtbftbjYGigv/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgEDBQL/xAAtEAABAwMDAwEHBQAAAAAAAAABAgMEABEhBRIxBkFREwcUIjJhcYEVI7HR8f/EABoBAAEFAQAAAAAAAAAAAAAAAAQAAQIDBQb/xAAiEQACAgEDBAMAAAAAAAAAAAABAgARAwQhMQUSFEEjUXH/2gAMAwEAAhEDEQA/AEfChvTXC3HSFKHlQH81Ie0XU2HktPQJKHCQAC2c3Nh/tStIW1D05+azNd/UQoJaits7vrvUTgDtjN+9OuEmTI6ebniRADyUt+sh1ZSohSb3SlIPfFjYfXFB5tTkVqxrcFzNmVgMa3cScvpvU4+qt6cWA5KcR6iQ2q42+bnFa4PT+qTfXLERe1ndvUv4RcYIBPJv2FODTNGkT+pHH4W995McRShDZASonf8ANxx2vioOtQdXk9MiM2mVEnrP7rDjYbIubkHdkJtnGTcVR5uQVYoH3BfLyCrFA+4mD8Kik4UORRVl6kVM0mIjQpHujjICXQtKbrQrNxu5GSrHGaK1EbuFrNFWBAIlh9k8lURnU3o8hSH9u1TbfzKRY5A75JHm/Fq78SQYrMJGnx3ZMFSVneeUJFrAlR83Hmw+lLzoZcNOsKRNdUytxspZeSvZsX5v/eKZ6tT0iBGTp01xHvb6vUakB4JvkXSpPGc2ItyavSqudd0psY06vQB4va+Zp0NnUtLfcjuSQ7Gf3SFOByy0rwLGxsR2B8D7V1nNZf1D0Vhtd0pKnZLt97g4SBfHHfwK4XUupRNK0ScZmoOe/ut+nGbQyklZsebEBIFxmxP3NQH3IsiJoq5D62mZyChVnSM7ARbOMjn8UxRGHaRxCDj0p+FlBK0d/X1K37R1wnpzbrCgJm5SHmymyscE+b9jRUj2kR47MfTyt5Luo5StYABWkDBUB+KKgwozmeqoE1LAbfko1YIB5AooqMAsz0olStyiVK8k3oKlFKQSSE8DxRRSjljvMEk5JJ/NFFFKNP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Welcome to Chilis
+                                    <div class="name">THE SCOTTS
 Explicit content</div>
-                                    <div class="artist">Yung Gravy, bbno$ &amp; BABY GRAVY</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgMAAwEAAAAAAAAAAAAAAAcFBggBAgQD/8QALRAAAQMDAwMCBQUBAAAAAAAAAQIDBAURIQAGEhMxQTJxBxQiUWEjgZGhsfD/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECAwD/xAAhEQACAgEDBQEAAAAAAAAAAAABAgADBBEhQRITMVFhI//aAAwDAQACEQMRAD8AzrDixnYsUuNKTfrKeduewA48RexsfxrvToDL1WVCcRy9XBVzdSkgkCw8KtbGc4Oo6LIeaW0W1kdIkoHcC/fH5/vVz+G8lDO5WnHUfo8SFE54J7Y/wfbQdztWpaFU1ixgpkLNpkaJVJTb8eRHYKVKaQ8LLSeJsm/myrC/kZ18RSU/MkJLT0dTTziHULI9LalAKByFC3Y/2M6dG8qfGf28IrzpnFwlZkOkXT9gm3a2lTVHmKPUXo1OKlNEJ5JWDewBGSe9+R/bGsKMk27cze/F7Wh4kA9B408vpB5NLSl3N/ULj2yCP40a5lTEqbdQyyGS7hwpWTzF72IPfOdGjR9gREau2fgdUpdNXNrdRap4BCUNNN9dalfmxA/gnUPuLYtc2nUkJjNqn3UQ25GbUeRFrgptcH/r6e7FeEelxjKkIAakcj1FgeL29te2n181PdJbghIpzh6hmLUAFqAtZsH1C/ntpIua9h38Rn2BX4iR26/Nrr77tXQuNHp4F2OJHFQv38k3Hnzpf7tW29uSVIiMuBlayVLKTZSskkX1rqBtGhNy6osqdluy1lx8FXFCck5I99Vo0baVKqspUEn5xxhTDKVqulAJuQi+Mnv3J1pXaKmLe+JNn6qF5Ez/AE/4abnqkISodPJSpCXEpWriopVkHOMjNr3to1qU1TqwGVxyeCgB9I7EYxjRopck6bwQ177RZbV27UVNpq1cbTIUhfUbhu9kpxmxwT/mpGqzXH9yOSiyqGyloNspKbXSO5xjudGjSbKXprJHyMqiWOpnvRNebhSX6NUC4q3EtKH13Pjj599UffhlvVqmwpjvSllnqpsB6b5OPONGjU01jo6/QlWchtPsvtBqbMHZqnEJu5CQf0yfucZ99GjRrhk2BF0PEq1SljP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Suis-moi (feat. Ninho)</div>
-                                    <div class="artist">Ronisia</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EACgQAAIBAwMDBAIDAAAAAAAAAAECAwAEEQUSIQYxQQcTUWEicRQy0f/EABgBAQEBAQEAAAAAAAAAAAAAAAUGBAcD/8QAIBEAAgICAQUBAAAAAAAAAAAAAQIAEQMhBBIUIjFhQf/aAAwDAQACEQMRAD8AaiwLAA0yXQEZYMybRKoIO3IBOODzwa4jcZr3O4xOyIHcKSq5xuPgZ8VzNcxB2LnQnBPo1Ip6bV43cTrxkj8e4wD89+cY+qWaj0/sguH90YiZwOOGAx9+e37rnpvWZbu+l0zXY7Sz1YMzRQRS7hJGPIJ8g5yPjn5w21629rTbiQOsRWMtvIyF471obMceQIV3PFfIX1TKdZtcEjFFKrbXBKZI7yRpG3Ha+OMUU6qZFFEQ9smJjdzaFkQHOyvb+fFBE8jgKiKWYk+ByagrllA4qD1Fp02o6Df2UEvtzTwtGrHsCR5qVUKzhWNCMvYUkCZvcQPH66QXJuUkWG6t0JVsmR3iDNtx3UZOT2x+6v3qz1KtjpLadbqHuLpCGIP9F/01mvp7qFt03pmowzW5XXEuGjZ3QHYAAMBu/wA8U6lspL/fe6kW/PlQ4/J/38D6qh5WNe4RnHigAH2DcZCcR6T5N7+TPdPjnmlICkL5Y0VZtRCLkIoVR4FFIjkFtjUzHjBdHc2NSw24AqWgUrl2AooqI/ZSGVGXp/SYdYutS2K95M5kLSEkA/IHYHik+s3KsrkSA/WKKKZ45OQgubmPJSClFSmX82SeaKKKcRRUJdjc/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">I Believe</div>
-                                    <div class="artist">KAMRAD</div>
+                                    <div class="artist">THE SCOTTS, Travis Scott &amp; Kid Cudi</div>
                                 </div>
                             </div>
                         </div>
@@ -540,7 +540,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Nov 2023, 10:08:20 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2023, 11:04:06 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
