@@ -480,10 +480,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAKRAAAQMCAwcFAQAAAAAAAAAAAQACAxESBCEiEzFBUWFxkQUUMlKhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAECAwUGAAT/xAAeEQACAgIDAQEAAAAAAAAAAAAAAQIRAwQSEyFRkf/aAAwDAQACEQMRAD8ASMNsGQ8Jw1vIeFRE7QOyujBdnQ2j5EcAtIshtOKS9JtbyCi1v1/E9Yt1Xb/l07JJAWkVBocx1CPMCpiyhth0jwhVyu0u7ISPKFwH9LmgieHYlhe0DIBoP9XQ3ERPjcWxCoqXUaAADyzWEyTSM0zZy1wIpUZqvhtUPPWUvbZtnG4d0zHbBrGNFKW1qevNS7FRMab8O0mTME00joFj+8ob7G7S66vDtTcqnTlxJJzTPa8Ejqq/b/TT9SxEEoHt4tmxraUO89zxQsp8ugoUL2LJ1jUFxRxMmFgzHlBmH2CEKjWWR66I2w5hTth9v1CF3bINIh8wsOY8oQhDtl9FaP/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Lonely Heart</div>
+                                    <div class="artist">Jax Jones, Martin Solveig, GRACEY &amp; Europa</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQGAQMFB//EADAQAAIBAgUCAwUJAAAAAAAAAAECAwARBBITITEFQVFhcQYHFBaBIiMyM5GSscHw/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAQIH/8QAHxEAAwEAAQQDAAAAAAAAAAAAAAECAwQREiFREzFh/9oADAMBAAIRAxEAPwCDUFgSLWHnasNGquVmJB3tkZTxzya0SHjcVpCyOx0huu5PYeZPAqOpPQ9dehnEpCJCpeTv3XxA8fWkcYiLl0WJF8pzMvPA4PlXQxGDkMYAnbWzWBC/d2tfnn62qexqTQSsuIRkk35/29GUMma8j9CcPG+Vit9+GB727UUoh+yxJtaiidpOvfyVTG5I2vWzp+q8sscQzllBKWuGAYEg+Vr1ZS+xOHU2GNk/aN6PkRs6NFj3RspF8vb+xQFpC+2NbcpUvDEMRM0WDLZV+EWYFWXOFU5r/mc2tta3lavOev4id50+OBWfKSUy5Qt2JFgNgLW47V6pL7Oa+Bfo7Y/DpiNTaJiMpW17afrv4X3qSx3uv6y8xvjYpWNrO36D0FEW+fsmVoRgB0lYnZvEc0Vdy+7LqmlHEmMgJUCxI7+HNFb88exSqpsu457uhAOYg/irpwThSjSHcbfWiipTY9YlIMGOpSYvRR5wwyyW3va38bU7Ji7RNvvcetFFcNi9MVl6nlBIsyJzRRRWpHDP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Like You Love Me (feat. Alice France)</div>
                                     <div class="artist">Conro &amp; Disero</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYHCP/EADEQAAIBAwIFAgQEBwAAAAAAAAECAwAEEQUhBhITMUEigRQVYZEHMlFxM1JTYpKh0f/EABkBAQADAQEAAAAAAAAAAAAAAAYDBAUAAv/EACYRAAICAgECBQUAAAAAAAAAAAEDAAIEERIFMSEiUXGRE0GBwfD/2gAMAwEAAhEDEQA/AOMXCwvcBZjyxnOW/l22J+majvtOtYdPaR4QJlCFsOf6zqfp2AFNapaydNJbdg/MDzKoOU3Iwf3G9ScK6dcapr1nazs72+TJLGTjnRAXI99/vXIw268w1N3qVQ53kMTn0eGJnMdqJEF2yElj6Yi0fKRvvs3vv+lL6nYWcEMMiwnHVAc8xxy9SQHOfog+1aziu1EnybV7EpHG0SpI8YwFkUkOjfsT/jisrJeQwyGC4tJbtUJSRjckLLgtuBjbdif+V6djsURszKtWnHlT2lFeL8Jf3EWMdKRlHsaKb1SSG85Hgs3huCWMrGYyBhtjGdxj/dFSruytdVJlcidGisZJ7QvYqzzqP4eKY0Swurd7qSaI2sksXSIbYkMdwPt9s1X6ZxHHbw8xkZJVHjBBpscXS3yvJcKWiDFtk2JxsB4zVvqefdieS7+PoIsSnFtYAnW/78S2t+HntrG+0q9jXp3DRz9VT+XlBPftuDWI1PR4raCOaKVWByGX6jzTOp8T6tJN0ZFkh9ICiRSuFPbvT2pcManpfxQv4JY4ZAs8LEellcEjB9jRQOdS/J1/EyVGHjPrwUN9/nvMY6ryc6KD4IzRS12WhlKgnFFbK2nj4GH3JoLkEaInYpNF/D9Dj5FxcX7shnUKPfkzimor3h97aCz0LTrWxihlaVfiGe4bmIALbjvt+gNFFRWOqk6lRaPrsFb2Oj6HU2UFlayaWy6wo1KEovKyofQv9obyB2HapeNZ/n+g2rW9lcJDLGeluNo4yRsPOc+O1FFG7UDb879xGmDirw1UuvuD9/Yn9Tz/AK5pNm1wwV7iJ/AaPNFFFJE0HAQd1DMZd5J18T//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Don't Wait Up</div>
+                                    <div class="artist">Shakira</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -494,31 +508,17 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAQADAQEAAAAAAAAAAAAAAAcEBggBAv/EADUQAAEDAwIDBAUNAAAAAAAAAAEAAgMEBREGEiFBYQcTMVEiMmKBkQgUFRgjQlJ0obHB0eL/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAwDAQACEQMRAD8A57DsD1Qfcgd0B9yuVf2H2mgqKuOr1XLDFTRGV07qVm04xwAEmc8fLCnVbpOKHTlDfon17bdJP3NU2ogDJYBuwHgZw4EdRx4dVFakXZz6ITd7Lfgrxbewe1XSnbUW3W9JVQP9V0UTD8Rv4Hosn6ujckN1IXEfhpmn9noOfc8McEXQT/k7xs4u1FNj8l/pEEbn19enUMMTakAfbNfGG+htfy2+AAyceS81Bq6qu1oht0Zeyj2h8zHPLt0uck8evLktb+ax+b/iF9thY0Yy5Wpq46Wgob/pW3zSWobe77pxLwAHM4ZB9blzK3Ow0baSBjKGskpi1u1rIpDtHPwJx/JUItGsqm12qGhp4B3cTcA78c8k4x5lZ7O0Sta0NbStAx92UtP6BFWO/VGsW0kkNvvUxMjS3c0Na5o9k+IPUIpPB2n1cTWj6Ojdt5md39IgniIigIiICIiD/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">With or Without You</div>
+                                    <div class="artist">U2</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC4QAAEDAwMDAgUEAwAAAAAAAAECAwQABREGEiETMUEHYRQiUXGBFSMkJTLB0f/EABgBAQEAAwAAAAAAAAAAAAAAAAUDAQQG/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAAwQRIRITMSJRYaHR/9oADAMBAAIRAxEAPwBJR3oCYnTeiuLeIO5weD4xz/qo62mlvJ+F6wRjnqEZz+KmtsqSw41g4WUnGPpn/td4cYIfbLiVdMKG7acHHnGacTH0eYbZkaXiWTOl5LkFl5oB3ekn5T/jgZwc8ZxzisvLZKXCOadundR2INBthLLdwSSlpsyANqtoCTgjavJHPOeeKW17gFy4SFoaDYUsnYOyfYZq1ihxoQzDyrusi4a9pjHv2yBnk+KKuW9O3G7XVuPAjqcwkKWs/KhsZ7rUeEj70UJd1K5UTqsehrUDqNzS6Vdjz50Nx5tCw3IAcaAI3pyOOfPtnxVjqTT0owP4gPUKjtbA5c4JwPfArp6cJWjR01TSU9f9QZWgqSCAfHFSG7/KvMmW+++pDUFalKSyyEhKCnaSDnk5z3+tLY95uBB8mEZ+E2KyW1nYI3qLi32x2e2VtoJOSDx2I706fSbR95dg3Bn4a1PKbWgf2TbpW0SnOBgjA+/44rN26Tb1Xm5R9NOOTIa1KeUHWSSpBACis9wD54pt6evNt0G5fmrspLIZXHdKY7CljCkA8YBGRuHcipWV9tdg8mUyX6k3WvMQnqfLeizGrTCldKKU75MZlZ2FxJxk/Wivdz1Xao93lKm2ONd0uvOONmQ4ptTaVHgceMY4NFH3sDYdxTCrIpUF9ShsEGbcOnareXlSpLgKUNuEfkjOB9629y0+vQN+iWV2StUq4pYL77Q3bUqUQUpz7+3NFFVp9PI+YflWNbd228KB97l3ry12T0967lgkTfjZkN1G15CQAErRgjaABwTSivGobteriuTc5KpEh9KApawOQkADsB4AooqVVrMgJMSuqVbAo8b/ACaD1OEZWpLipxIVKDcbpncO3Qb8ZooorXc8zNg0xn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Leave This Place</div>
                                     <div class="artist">LIONE</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgQH/8QALBAAAQMCBQEHBQEAAAAAAAAAAQIDBAARBRITITFRBhQiMkFhcSOBgpGhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAbEQADAQEBAQEAAAAAAAAAAAAAAQIRIQMSMf/aAAwDAQACEQMRAD8AW9pJOI4Qpl9D7ao775aAKDdG+3Ct/wCVxKxp5ICHi1qaiAFA8JI8Ry57k325q/XBZmYW+1IZDzeZaigj1BuP7U4/2WuhLpisM5vqAWJv4rAi3268g15yFLnqO3vcMYdKZm4SHVKW5JQzqPoir1C2f3YD3JsK5IqJDjLLr4dYDrYcAcUL2uRvY7cfo1iSxGwRzEYbS0xpnd3G9PyAqv5FE7cG/T3FZ7NZm4KW5as0xRuuyrk8gAW9LDj5pj80obSKT6ZmsjIcq1lWYAnNcHeimM9kaIOXhSf9oparg0r8Pmw9F57VaSUqVc3vyTb3ruTLw955D5VGdcYCpCSrbIUJJzcelr15vgStTGkrJOkGl50gHi53/Zp1iDPd8NnvwiC4uOptxCwT4Vc/yjlfLSEUkeTGc4/iEx6Slb7yyTmKz5yblR6nmr2JLLcbDMUhwS3CjsLakBChmzi1lge1/SlbmCSprEWdGjaiXgtNmxuSmxO35UwwJqWphyGpiSEXKVp01cEb7da1etc0HzS3rKRlqJNw9lanLvvFJUALG99/mipKEl1uaUuOKUEJSlKSeBccD04orDU9HoMDU+ziRkMpzjLlKeovVUZrjyTnZDZsObn7EW3ooo7/AEFoVw33MJmFMZwuoacUtLZzJyqV5rEG44Fdy+1MsI+nHWXjcqcC7EjoPDt80UVPtvNIoQgdU09Mbf7tJbeuApTjwWLfASN70UUUVW6elqFKw//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Right Round (feat. Ke$ha)</div>
-                                    <div class="artist">Flo Rida</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFBwIEAQMI/8QAMRAAAgEDAwEFBwMFAAAAAAAAAQIDAAQRBRIhMQYTMnGhByJBQlFhkRQzgRUWUnLR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABwRAQEAAgIDAAAAAAAAAAAAAAEAAhEDEiFBUf/aAAwDAQACEQMRAD8A80xxqi7iRnr/AKiiOMuwYjGeg+grNFEzA4AA6jPiP/K3VTHuLyx689KYIsnV0CM46HaOKO7rfMji2W3LkQb94TPG7GM+eK4jgaSREQZdmCjzJwPWu9Y+02ezLSgZ59TkXhB3UWfqfEfxx/NFPvZ/S1s7C3tF/bhUbz/k3U+tFKaCNVqDnj/TsNsFzG+er4I/IrMyoozbzSFmwGymPXNXHpOj2kskxawilVGCoPfZH4ySQTg4Jx8azPYCfXtQZ9Nj0m2CKB3AtwX+7cnJ/jpUdWc5ftT4V7iURLKZHAONvGR9sjOabOxGjyLqy32sXCiO1UFDLIMBug/AyfPFWDN7M9Rsoh/TdLsJrrbgzXE/dgeSLx6ioSX2e9sllWR7O23L4TbNCMeWcVgtlma0FNz9s+z+mLsa7eeRfkgjLc+fT1opZbsLrFuWkutCv5m8TNkSE/f3Tk0VVI4exrmlhjTZBCqxrxkKMfEKPVh+DSzFFcAxS2oMlxtd441fY0picpKit8r4Cup+u4HhjRRVBEzjonaqPuLQ6vKslhckLb6nswhbpsmA/bfPGfCT9OlS2oaNqf8ActreW968WmCIxz2pUMjtk4YHqp5+HBxzRRUZeJcHdINZt8rA+dFFFc3Vov/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Here at Last</div>
-                                    <div class="artist">William Black &amp; Rico &amp; Miella</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBCP/EAC8QAAEDAwMDAwIFBQAAAAAAAAECAwQABREGEiEHMUETIlFhgRQycZLBFiNCkaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMFAAT/xAAgEQACAgMAAQUAAAAAAAAAAAABAgARAxIhBBQiQVFh/9oADAMBAAIRAxEAPwD0QtSt6uVdz5pLqDUkCxhsTn1+q6cIZb9y1fb4+pqL1E9f+m5xivrYcSrcXEKKSBn5Hj+KxG1WaZri+NxIAcdUEjdJKvagZAUtR8ccAeazMWIsbue1MY12M0pzqLMltSHLRZZLzTStvrOPBKfvzwfPc8U50XqSVfIhXMQ2y6CRht3ck/oQTn+KbxdKWVWnFaTiB0ssJ/vSGyUlLh5J3Djce+OcDv4rK3tOTemmoW3XbgldumO+khavaMYJG7xnPkeKucevYUKvwTYUOLLqBvV+Yf5H5opXp+4C4x2HuAreAcHPmiqp0QslGd1lDXc9P3SIyCpx1tQQM457ilvReA1A0A3CjKbiXMPL/GlY94O84P7cYPalt86oaQs93l2+43lDMyMspeb9F1Ww9+SEkeapmpXbfdrLElW6U7d7dKWpbLuCl1GMg+4gbhwrggHjv2pMNqTYgVBkGoM1N/U1lj3NmwRZ7EW3AEPSg/7lOE/lCs8EkklZ88fWudXW4r+iXmZy2nZfqBUPAyoqHn9u7J7Vg4skd+V+FbVKXFIOUAAuKVkccEgDHknH0q9WXT7srYJSG48RoBCGt+9aU+cntuOO+OB2xVC3Kjjx/cPyWTpqparS0paUpG5HCU4GcDOKKcwfSj+i0yAltKhgfeiqIlCo7izMgvWmNU2zWPURTGkbjdod7UlphxlaUIWjaQon3dgFEgEEEgZFX/pLoi5W3pjZYl5beiTWW1h2MpsLUg+qojsfgg0UUSAeTNVyhsR3I00808Ex4ch5BAO9LaEjP6E5/wCVLiafkON5eEqOQcBBaB4+eDRRXBQJT1GQ/Mkq02+zKjpDrziVKyVJQNqMc885/wBZoooprgOZ/uf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Searching for You (feat. Karra &amp; Eric Zayne)</div>
-                                    <div class="artist">Unlike Pluto</div>
                                 </div>
                             </div>
                         </div>
@@ -539,7 +539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2023, 11:03:55 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 12:08:02 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
