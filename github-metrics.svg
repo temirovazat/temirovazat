@@ -42,8 +42,8 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -263,7 +263,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 68 commits)</small>
+                    <small class="h-details">(computed from last 67 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -280,7 +280,7 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.564102564102564px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -300,12 +300,12 @@
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.41025641025641px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 3.75px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             05
                         </div>
                         <div class="entry">
@@ -330,7 +330,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.282051282051282px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -370,12 +370,12 @@
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 3.75px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10.256410256410255px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -385,16 +385,16 @@
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.41025641025641px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.282051282051282px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">40</span>
+                            <span class="value">39</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             23
                         </div>
@@ -420,8 +420,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 22.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -446,17 +446,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 25.469251520711545%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.528922006577073%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">MAXScript</span>
-                                <div class="bar" style="width: 1.4906054873625671%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.494097743646283%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.12668250197941408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.12697929933278843%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -480,10 +480,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgQH/8QALBAAAQMCBQEHBQEAAAAAAAAAAQIDBAARBRITITFRBhQiMkFhcSOBgpGhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAbEQADAQEBAQEAAAAAAAAAAAAAAQIRIQMSMf/aAAwDAQACEQMRAD8AW9pJOI4Qpl9D7ao775aAKDdG+3Ct/wCVxKxp5ICHi1qaiAFA8JI8Ry57k325q/XBZmYW+1IZDzeZaigj1BuP7U4/2WuhLpisM5vqAWJv4rAi3268g15yFLnqO3vcMYdKZm4SHVKW5JQzqPoir1C2f3YD3JsK5IqJDjLLr4dYDrYcAcUL2uRvY7cfo1iSxGwRzEYbS0xpnd3G9PyAqv5FE7cG/T3FZ7NZm4KW5as0xRuuyrk8gAW9LDj5pj80obSKT6ZmsjIcq1lWYAnNcHeimM9kaIOXhSf9oparg0r8Pmw9F57VaSUqVc3vyTb3ruTLw955D5VGdcYCpCSrbIUJJzcelr15vgStTGkrJOkGl50gHi53/Zp1iDPd8NnvwiC4uOptxCwT4Vc/yjlfLSEUkeTGc4/iEx6Slb7yyTmKz5yblR6nmr2JLLcbDMUhwS3CjsLakBChmzi1lge1/SlbmCSprEWdGjaiXgtNmxuSmxO35UwwJqWphyGpiSEXKVp01cEb7da1etc0HzS3rKRlqJNw9lanLvvFJUALG99/mipKEl1uaUuOKUEJSlKSeBccD04orDU9HoMDU+ziRkMpzjLlKeovVUZrjyTnZDZsObn7EW3ooo7/AEFoVw33MJmFMZwuoacUtLZzJyqV5rEG44Fdy+1MsI+nHWXjcqcC7EjoPDt80UVPtvNIoQgdU09Mbf7tJbeuApTjwWLfASN70UUUVW6elqFKw//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQBAgUDB//EAC4QAAIBAwMCAwYHAAAAAAAAAAECAwAEEQUSITFhE0FRBhQigaGxJCUyYnHB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUB/8QAJBEAAQMDBAEFAAAAAAAAAAAAAQACAwQRIQUSMUEiEyRhcbH/2gAMAwEAAhEDEQA/APCr+8nW+kWNyFGMDPSu/h3kSLJd3SpEPJcE59BxSGrnbqEvrx9q2ngt7u1VppFVByGBHBxU5sAMLeaHySS+ZuOMpNr64kCNG8UUfO0MQSe/+FUub6+V/wBKsg6MqAg980k4Vnjgti0qpkK3mxJzx2puS4e1sGtgMsycnz65PyotoxhSCpk8i55Fu/lN6ZqJuN8Mi7WAzuXzorN0Rit4uT1UiilvaAcBbulzOnhvIbkYU60At8Dg5Kg0pGyK6rLu2E/FtHOKe17JuYmPUr/dUNv4+lrIoHixMfmKa02YLrCqoXPqpA3rK10Nhp0LzKCWZCI8nLPn6Ad6w9QmmuPxEwwCoUc4A7CulrD7/JDBvwycY/aTk/X7037SbNsSQgbFYhcDjAxXG4dbtFK0ywl4FmD9SeiL+YxenOee1FW0MH39TtOArUUMvK1tEb7c/a09Ss0uArbiJFUAY6VWxtXtrWVJSD8WVI6UUUncdtle6kjEvrAZS8umzw3guLbbgnKjOP5FO3lilwiIzskgJPTPWiiul5wUltFE1rmWwTwostLaCdZGlLDBUjbiiiiiJJyVTT08cDdsYsF//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Right Round (feat. Ke$ha)</div>
-                                    <div class="artist">Flo Rida</div>
+                                    <div class="name">BESO</div>
+                                    <div class="artist">ROSALÍA &amp; Rauw Alejandro</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBA//EAC4QAAEDAgUCBgIBBQAAAAAAAAECAwQFEQAGEiExExQHIjJBQlEVYRYjJTOBkv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAjEQACAgEEAAcAAAAAAAAAAAAAAQIRMQMEEiEUIjJBUWGx/9oADAMBAAIRAxEAPwBszK/IuootZIT4dwUgRa00bX0p0oCnd0nclJskb4kTnY1ZSI2eFiPkCDZNGqrS9JfIslGpQvqugKPpG6cJYqmXoHYUBaZ/hdFSVVNRP9VtQJcWATZw2OhXlH6w7cp9liPOjflPDGMyl2JS456spKiAQoBJ6igFKUd1cHjE2CvoMot4OSZEufNj1DOyG4mY2VH+KBvyolK5QVAEgjV0/UU+rHOvNFQkyFpaT4iFr+/Mn/E3T9tRTY6NWgNekk3J/ePZql1h4oXWojtWMxJcy042gByitbBK3QdJBTrZJA1nyH63XvpkR33qXUZJNZpiBKnZgSNqy2N+ySvYqJBCdNz6OMFVoy0TGae1mWC/kZiQ8zDrLaKtT3t3ExYCCnpM6SQoHbjgX5vfBiI9TalXo72XKA8mJmN1KKu3ILha7WA5siKFpGoaSR5QAnbBjaf0ZoQ0wR6vNk0/Jrhy9ApjhNUhPmzc/wA1tPJB2QpJubWUMT4dWfm3rVGador7ae3h5ReSE9+R80AgEer4p5b5xSp+ZaBUJbNBzHIMjLtMQFRZsS/XfWEgAq5HBN7AbjnAM/mpInTa1EkS65H1NUSpNIDQhp3sTuAo3IPBOFo9ZCQcr8uT0zHm7OIqUmI/NaiFlTbrkBtGpTJHm6SlAXFvfexB5xfJiXafHjRmmY0yiIkIcoURgkrYqKx1A66bizWpSuSRZQ2xl1T/AC1diQ1R44fkqRaVUnLNKfPuVb3VYbEkewtho9JkQXvxWW5T8isTWCw8/qsXdQA0j6FwLfVhgfiKlXyUpbdz0reUXiBJmlzo5bn9AUiQmr1SqhenuI7iip9hJSm5CFBY03+P3gwgoVQFWQ/HddNFy9QV9Sow1FxLrzLwtJQsA3PnBPHy9jbBhpSJTNKplJoNNQOxo1MYI+QjpUr/AKUCcZv4kV5vMzLEmLBlPUujyFByWkgIKlaRpSn6vpN8GDE2EnLIfa+rl7ozp6tPCS62zoQxuroOXGrYgXKSCSOeef1ixUfKVfy9X6XKqkJ/tnnmFiWhJUiy9JFz7Hfg23wYMMRgqHdfUl+m4+KfhhHzhCVKo6kRcytMFGu+lMxu1ihz7P0T/vbgwYMONEjkz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">seaside_demo (bonus track)</div>
+                                    <div class="artist">SEB</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYFBwIEAQMI/8QAMRAAAgEDAwEFBwMFAAAAAAAAAQIDAAQRBRIhMQYTMnGhByJBQlFhkRQzgRUWUnLR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABwRAQEAAgIDAAAAAAAAAAAAAAEAAhEDEiFBUf/aAAwDAQACEQMRAD8A80xxqi7iRnr/AKiiOMuwYjGeg+grNFEzA4AA6jPiP/K3VTHuLyx689KYIsnV0CM46HaOKO7rfMji2W3LkQb94TPG7GM+eK4jgaSREQZdmCjzJwPWu9Y+02ezLSgZ59TkXhB3UWfqfEfxx/NFPvZ/S1s7C3tF/bhUbz/k3U+tFKaCNVqDnj/TsNsFzG+er4I/IrMyoozbzSFmwGymPXNXHpOj2kskxawilVGCoPfZH4ySQTg4Jx8azPYCfXtQZ9Nj0m2CKB3AtwX+7cnJ/jpUdWc5ftT4V7iURLKZHAONvGR9sjOabOxGjyLqy32sXCiO1UFDLIMBug/AyfPFWDN7M9Rsoh/TdLsJrrbgzXE/dgeSLx6ioSX2e9sllWR7O23L4TbNCMeWcVgtlma0FNz9s+z+mLsa7eeRfkgjLc+fT1opZbsLrFuWkutCv5m8TNkSE/f3Tk0VVI4exrmlhjTZBCqxrxkKMfEKPVh+DSzFFcAxS2oMlxtd441fY0picpKit8r4Cup+u4HhjRRVBEzjonaqPuLQ6vKslhckLb6nswhbpsmA/bfPGfCT9OlS2oaNqf8ActreW968WmCIxz2pUMjtk4YHqp5+HBxzRRUZeJcHdINZt8rA+dFFFc3Vov/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Here at Last</div>
+                                    <div class="artist">William Black &amp; Rico &amp; Miella</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -495,31 +509,17 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYHCP/EADEQAAIBAwIFAgQEBwAAAAAAAAECAwAEEQUhBhITMUEigRQVYZEHMlFxM1JTYpKh0f/EABkBAQADAQEAAAAAAAAAAAAAAAYDBAUAAv/EACYRAAICAgECBQUAAAAAAAAAAAEDAAIEERIFMSEiUXGRE0GBwfD/2gAMAwEAAhEDEQA/AOMXCwvcBZjyxnOW/l22J+majvtOtYdPaR4QJlCFsOf6zqfp2AFNapaydNJbdg/MDzKoOU3Iwf3G9ScK6dcapr1nazs72+TJLGTjnRAXI99/vXIw268w1N3qVQ53kMTn0eGJnMdqJEF2yElj6Yi0fKRvvs3vv+lL6nYWcEMMiwnHVAc8xxy9SQHOfog+1aziu1EnybV7EpHG0SpI8YwFkUkOjfsT/jisrJeQwyGC4tJbtUJSRjckLLgtuBjbdif+V6djsURszKtWnHlT2lFeL8Jf3EWMdKRlHsaKb1SSG85Hgs3huCWMrGYyBhtjGdxj/dFSruytdVJlcidGisZJ7QvYqzzqP4eKY0Swurd7qSaI2sksXSIbYkMdwPt9s1X6ZxHHbw8xkZJVHjBBpscXS3yvJcKWiDFtk2JxsB4zVvqefdieS7+PoIsSnFtYAnW/78S2t+HntrG+0q9jXp3DRz9VT+XlBPftuDWI1PR4raCOaKVWByGX6jzTOp8T6tJN0ZFkh9ICiRSuFPbvT2pcManpfxQv4JY4ZAs8LEellcEjB9jRQOdS/J1/EyVGHjPrwUN9/nvMY6ryc6KD4IzRS12WhlKgnFFbK2nj4GH3JoLkEaInYpNF/D9Dj5FxcX7shnUKPfkzimor3h97aCz0LTrWxihlaVfiGe4bmIALbjvt+gNFFRWOqk6lRaPrsFb2Oj6HU2UFlayaWy6wo1KEovKyofQv9obyB2HapeNZ/n+g2rW9lcJDLGeluNo4yRsPOc+O1FFG7UDb879xGmDirw1UuvuD9/Yn9Tz/AK5pNm1wwV7iJ/AaPNFFFJE0HAQd1DMZd5J18T//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgMI/8QALBAAAgEDBAAFBAEFAAAAAAAAAQIDAAQRBRIhMRMiMkFRBhRhcZEkM0OBof/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAQFBv/EACgRAAICAAYABAcAAAAAAAAAAAECAAMEBRESITEiI0FhUXGRocHw8f/aAAwDAQACEQMRAD8A802kBklRExuZgoyccmqnTtMaOWXT71TFK6+JGc5U4BPY+R79fNI7KCRmVo42fHPpyOKr9Mnup7q3jjjhiaRWSQKoVsfIHwM9DvmjvcVprH5ZhjibwNOPX5dRWbExooZHZnzswpwR81q00K9voWltoC0S585IUcd991XjTdeFk0ZvrNoxnh0Yvj43dVIPb3q3EkNwI0toUbwyjkhMckDPyadSzsmp9ZWzDD0U3bU6A+8WapY/aSiMyK74y23Pl/kUVi5/dFMI0mcG15Ed6Zq95NFFYrHG+8LCMLgkcAddmnrSaP8ATfgQyxm61S4DJF5vLHngMxHJGf5/QqSsJXtp0liOHXo/8p9qX03fvcLqASOcyoBGMP5VI42kcA991RxW2tl3dTo8na3EUuKj4wR9PaVejfUOjXmmx7b8QzBAjxzowO4AA4IBBqa1uHwzdukkMsa+oxuG27usgHik2i6bPp8srapBNaW4BDPtYA5/IGMVrwDLc3L2dxbx2swK5mnCeUHj2+Mdc/ir1LgJxMTHV2Nb5nfvE08UrQPMsbmFTtZwOAf3RTLWNRht7P7TT59zSLtnaNMJjAG1cgFuRncQCc45ooCxg7FXgczjGKq9Ajv3sGa2nMNqnrlknKIh9884x/rJ9qKKmIQOqhvjGZTe9DvYh0IU/iGhXO7UL25v7ue6sIUYhD/kGPcY4zU4LRp9MOpXH9PYGRorfav909nAz6R7nmiiiRAuun71AxV72Bd51/pk9eMpY7AQPyc80UUUtjzIg4n/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Don't Wait Up</div>
-                                    <div class="artist">Shakira</div>
+                                    <div class="name">Tell It To My Heart (feat. Hozier)</div>
+                                    <div class="artist">Meduza</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC4QAAEDAwMDAgUEAwAAAAAAAAECAwQABREGEiETMUEHYRQiUXGBFSMkJTLB0f/EABgBAQEAAwAAAAAAAAAAAAAAAAUDAQQG/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAAwQRIRITMSJRYaHR/9oADAMBAAIRAxEAPwBJR3oCYnTeiuLeIO5weD4xz/qo62mlvJ+F6wRjnqEZz+KmtsqSw41g4WUnGPpn/td4cYIfbLiVdMKG7acHHnGacTH0eYbZkaXiWTOl5LkFl5oB3ekn5T/jgZwc8ZxzisvLZKXCOadundR2INBthLLdwSSlpsyANqtoCTgjavJHPOeeKW17gFy4SFoaDYUsnYOyfYZq1ihxoQzDyrusi4a9pjHv2yBnk+KKuW9O3G7XVuPAjqcwkKWs/KhsZ7rUeEj70UJd1K5UTqsehrUDqNzS6Vdjz50Nx5tCw3IAcaAI3pyOOfPtnxVjqTT0owP4gPUKjtbA5c4JwPfArp6cJWjR01TSU9f9QZWgqSCAfHFSG7/KvMmW+++pDUFalKSyyEhKCnaSDnk5z3+tLY95uBB8mEZ+E2KyW1nYI3qLi32x2e2VtoJOSDx2I706fSbR95dg3Bn4a1PKbWgf2TbpW0SnOBgjA+/44rN26Tb1Xm5R9NOOTIa1KeUHWSSpBACis9wD54pt6evNt0G5fmrspLIZXHdKY7CljCkA8YBGRuHcipWV9tdg8mUyX6k3WvMQnqfLeizGrTCldKKU75MZlZ2FxJxk/Wivdz1Xao93lKm2ONd0uvOONmQ4ptTaVHgceMY4NFH3sDYdxTCrIpUF9ShsEGbcOnareXlSpLgKUNuEfkjOB9629y0+vQN+iWV2StUq4pYL77Q3bUqUQUpz7+3NFFVp9PI+YflWNbd228KB97l3ry12T0967lgkTfjZkN1G15CQAErRgjaABwTSivGobteriuTc5KpEh9KApawOQkADsB4AooqVVrMgJMSuqVbAo8b/ACaD1OEZWpLipxIVKDcbpncO3Qb8ZooorXc8zNg0xn//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgQH/8QALBAAAQMCBQEHBQEAAAAAAAAAAQIDBAARBRITITFRBhQiMkFhcSOBgpGhsf/EABoBAAIDAQEAAAAAAAAAAAAAAAIDAAEEBQb/xAAbEQADAQEBAQEAAAAAAAAAAAAAAQIRIQMSMf/aAAwDAQACEQMRAD8AW9pJOI4Qpl9D7ao775aAKDdG+3Ct/wCVxKxp5ICHi1qaiAFA8JI8Ry57k325q/XBZmYW+1IZDzeZaigj1BuP7U4/2WuhLpisM5vqAWJv4rAi3268g15yFLnqO3vcMYdKZm4SHVKW5JQzqPoir1C2f3YD3JsK5IqJDjLLr4dYDrYcAcUL2uRvY7cfo1iSxGwRzEYbS0xpnd3G9PyAqv5FE7cG/T3FZ7NZm4KW5as0xRuuyrk8gAW9LDj5pj80obSKT6ZmsjIcq1lWYAnNcHeimM9kaIOXhSf9oparg0r8Pmw9F57VaSUqVc3vyTb3ruTLw955D5VGdcYCpCSrbIUJJzcelr15vgStTGkrJOkGl50gHi53/Zp1iDPd8NnvwiC4uOptxCwT4Vc/yjlfLSEUkeTGc4/iEx6Slb7yyTmKz5yblR6nmr2JLLcbDMUhwS3CjsLakBChmzi1lge1/SlbmCSprEWdGjaiXgtNmxuSmxO35UwwJqWphyGpiSEXKVp01cEb7da1etc0HzS3rKRlqJNw9lanLvvFJUALG99/mipKEl1uaUuOKUEJSlKSeBccD04orDU9HoMDU+ziRkMpzjLlKeovVUZrjyTnZDZsObn7EW3ooo7/AEFoVw33MJmFMZwuoacUtLZzJyqV5rEG44Fdy+1MsI+nHWXjcqcC7EjoPDt80UVPtvNIoQgdU09Mbf7tJbeuApTjwWLfASN70UUUVW6elqFKw//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Leave This Place</div>
-                                    <div class="artist">LIONE</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAID/8QAKhAAAgEDAwIGAgMBAAAAAAAAAQIDAAQRBRIhBjEUIjJBUYETYRUjUnH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUGAv/EACERAAICAgIBBQAAAAAAAAAAAAECAAMEERIhBRQiMWFx/9oADAMBAAIRAxEAPwCfa0t5I4J5IY4my+RGSAx3YBOT8CunupWdIIQqmYlVL8Lioy/6iuI90G5fxRM6j59VdaVqk151Db7PwztCrOsTsVU4H/Pun7LVCaWQsLDey8NaetzLq87Q6pdW0kzSFHA/rY8ggnjn9iuOl9P1PVZRC11IkZcqFfkjnB788Vj1/Tr3SdcjnvosRXLibMUm7ylvY1a9GWwsdTu5Iiwmhk/Ku+TPl4OfnPPI70OkB9GNeTb03MKPyNbXQLqwu3SS6DwRuVBZeXXPB+xRXj1P1EY9UKyuTJMwk9WfVz3+6Ke5Vr1M4tGTZ7pFyWum29lb3moZufFztnaxAiAZgw4YZbscEDjHPetaaVp2n6/fNFcQKtrPFFHMJX43K534DHIyBnGR8cHmL1O2KSuVcnz9vum1rYlFmmIXDRjb5yealNsDc3mDim47EqdY0uFklLTWjW1skOyeKZ2UGUDJUE+bb35/z7Cm+i2trZ9QhPHWF5FcR+KmvN5EaKVxjaPfjsRnLYI4qPmgI0q1lt0s50ui0cu9hvhZdwUDJ7Y83Ykn6pVpqJDpOpGZ33GNRHjnnd7/AFXC3EfU5zcRePI9yl6l0976aLUYVVWS5MU4QkhcbdpOeBk7uBRUla3YSa1Cy5ZlUt+jk8UUUEN3JxQp0BG8NjJcagJIYmItoy77sjdiRuB8nBH1Tb+Pe9tp57aBoI4otxicYLN+h8+9FFDLGa/DULXxElLF5rfUZpY7aLc8JjbxEO4KSMZXPY4HB+a8ZzKkTxxpNyAPTRRQtSPc5J0ZlsradrqIvFIqKQclf3RRRRl+JPtJ5T//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Criminal</div>
-                                    <div class="artist">NATTI NATASHA &amp; Ozuna</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBA//EAC4QAAEDAgUCBgIBBQAAAAAAAAECAwQFEQAGEiExExQHIjJBQlEVYRYjJTOBkv/EABcBAAMBAAAAAAAAAAAAAAAAAAMEBQL/xAAjEQACAgEEAAcAAAAAAAAAAAAAAQIRMQMEEiEUIjJBUWGx/9oADAMBAAIRAxEAPwBszK/IuootZIT4dwUgRa00bX0p0oCnd0nclJskb4kTnY1ZSI2eFiPkCDZNGqrS9JfIslGpQvqugKPpG6cJYqmXoHYUBaZ/hdFSVVNRP9VtQJcWATZw2OhXlH6w7cp9liPOjflPDGMyl2JS456spKiAQoBJ6igFKUd1cHjE2CvoMot4OSZEufNj1DOyG4mY2VH+KBvyolK5QVAEgjV0/UU+rHOvNFQkyFpaT4iFr+/Mn/E3T9tRTY6NWgNekk3J/ePZql1h4oXWojtWMxJcy042gByitbBK3QdJBTrZJA1nyH63XvpkR33qXUZJNZpiBKnZgSNqy2N+ySvYqJBCdNz6OMFVoy0TGae1mWC/kZiQ8zDrLaKtT3t3ExYCCnpM6SQoHbjgX5vfBiI9TalXo72XKA8mJmN1KKu3ILha7WA5siKFpGoaSR5QAnbBjaf0ZoQ0wR6vNk0/Jrhy9ApjhNUhPmzc/wA1tPJB2QpJubWUMT4dWfm3rVGador7ae3h5ReSE9+R80AgEer4p5b5xSp+ZaBUJbNBzHIMjLtMQFRZsS/XfWEgAq5HBN7AbjnAM/mpInTa1EkS65H1NUSpNIDQhp3sTuAo3IPBOFo9ZCQcr8uT0zHm7OIqUmI/NaiFlTbrkBtGpTJHm6SlAXFvfexB5xfJiXafHjRmmY0yiIkIcoURgkrYqKx1A66bizWpSuSRZQ2xl1T/AC1diQ1R44fkqRaVUnLNKfPuVb3VYbEkewtho9JkQXvxWW5T8isTWCw8/qsXdQA0j6FwLfVhgfiKlXyUpbdz0reUXiBJmlzo5bn9AUiQmr1SqhenuI7iip9hJSm5CFBY03+P3gwgoVQFWQ/HddNFy9QV9Sow1FxLrzLwtJQsA3PnBPHy9jbBhpSJTNKplJoNNQOxo1MYI+QjpUr/AKUCcZv4kV5vMzLEmLBlPUujyFByWkgIKlaRpSn6vpN8GDE2EnLIfa+rl7ozp6tPCS62zoQxuroOXGrYgXKSCSOeef1ixUfKVfy9X6XKqkJ/tnnmFiWhJUiy9JFz7Hfg23wYMMRgqHdfUl+m4+KfhhHzhCVKo6kRcytMFGu+lMxu1ihz7P0T/vbgwYMONEjkz//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">seaside_demo (bonus track)</div>
-                                    <div class="artist">SEB</div>
+                                    <div class="name">Right Round (feat. Ke$ha)</div>
+                                    <div class="artist">Flo Rida</div>
                                 </div>
                             </div>
                         </div>
@@ -540,7 +540,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2023, 16:04:52 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Nov 2023, 17:03:19 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
