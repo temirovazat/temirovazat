@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8179 Commits
+                            8182 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            1603 Pull requests opened
+                            1605 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -446,12 +446,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 17.391248045427027%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.436180398902938%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.08650300591470778%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.08672649669744721%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -475,17 +475,39 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgMFCAH/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEAAUREiEGEzFBUQdhFIGRobEVFyIy0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMCBQH/xAAfEQEAAgICAwEBAAAAAAAAAAABABECAwQhMUGBFJH/2gAMAwEAAhEDEQA/AHXyk15yUqOBgk1SonqTwzKUA3do4J7OZR+RUqd6hWO3xmnHrnG5bn9NGFk++wO1Yhydt04v8mx+XWliS8KtUXSSXSfbIrSSI7aVKBxkHFUD96eGxfv0sPLOVBIl8scnVjznPtnGKnXb1PsEQBDtxZc1dmU6/wADameRtaDFuGcbV2uRUsT8dG+32opd3Djjh69IKk3d+Pp20h0tfPGKKs27a7E+SHRr9U/Yi+IbjYZEhJsbcqCwE4Uh1ZeUpWTvnCcDHbFa+C8y9KQ38cUajspxGE/PxTIs/pjbI621XRb8g9SA4EJ+nX71cY9h4WhJJbtUJakef5H8VrXXqZQL4ZzfKCky3c7K1noO+e1W3iNyImM0ECFHKcFKY7ilrwQMhWfffc5HTpWliyHbpxXHecA5j0xB0pGMDUNgPYbU+Z1vtT7ZLrLuPCsGpxxxe2Vk5Hic/wA6ZFdKPhGnWCEgLy4VBRwMnfpvvRTilWe0srBZjujJxsE/5RS46gOmFltyvsJgdv4W3pamJWCMp0u5OPNYZl5mCK6pnl4CFZ1jUrp2IIoopAKkuTcUECQuLMYktKIcacSsH3BppO3edrB1xtJPVIOfrRRUaTzO7mqkSXd1FB5r7wX4BzRRRT1AWf/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAAoEAABAwMDAgYDAAAAAAAAAAABAgMRAAQSBSExEyIUFUFRcZEGYYH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEBQECAwb/xAAeEQACAwEAAgMAAAAAAAAAAAAAAQIDESEEBSIxsf/aAAwDAQACEQMRAD8A8k/LFWhuyFW7jD+0pWjE/VUODCwAhUK9ZqbVNavr8LDqg53laXFJ74MACefTj3pJm+Jch1tDm/qBUyMJJHtVdX9P8GEW5yEKEfNYcUUKirVtNmpIWtwpURsgJ2H1VddNAElC0n9TTKJasJnsKUuxIMt6K0UaKVhENtDdtXdStfMJ8KHkl0SR2z3QRvx7b1fana6MnT1eXsOr1BTaBmVwkLLi8tidxgUD5BNcbbD1gH+1YWqGyvdoT80HiZeipWpPcO1Rp+jeNbU40ry1Lb4cwcOZVK+mT3Txhx/aHLH8e8GQ2y+q46ThSnJUFYX25GeIB4iubDaMNgoH42pZxIg9s12qkB8utxa6Y1VTJvbo2qQi36qukmTsiTjyZ49zRSr8+3NFLSBqIkwRAgxTtq5g5MiKKKDhVrk0uFuh9k22yldbL9Y4x9zNLOAqKiCDRRWY8Zpc3NfIgUwt0gIiPmiiilpvCZLjxH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Dancing In The Moonlight (feat. NEIMY)</div>
-                                    <div class="artist">Jubël</div>
+                                    <div class="name">Say It Right</div>
+                                    <div class="artist">Sunlike Brothers &amp; Micano</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAIEBgcIAwn/xAApEAABAwMDAwMFAQAAAAAAAAABAgMEAAURBhIxByFBE1FhCBQiMnGB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwC8IvUS0K1lP03PS/bZUfHovzU+k1K7DIbUrG4jPHnkVM0lKkgjBBpjebRAvdudgXaGxMhujatl9AUkj+Hg/I71W94i3/pnBVM024q7aWjIKnrZLUpb0RAHLKwNykDyk5IHcZ4oi1gE5wCM0OKQhClLUEpSMknsAKzfK+p+yJiJdiWGR9+pXdLivx2kftuAyRntxn4qZ2Cz6i6lR0XDXKxC00+kKYscdKmlPp8KfUTuAPOwHJGM44ouJa51H02q+Q7TCku3B+S96HqwmVPMNKxwt1I2D+ZJHmipPbLdEtUBmFbYzMSGynY2yygIQgewAorNDrwKZXeUxBtsuXLUURmGVuuKxnCEglRx/BT4cVykMoeaW06hK21pKVJUMhQPYgj2rQ899D3LTsTV8Gbdg/8AYR5zLiZDqs7G0uKUo+mAcgkD8Rx8mteWvrloi53aJbrdOkyX5TyWWymMpKSpRAH7AEjJ8A8Gs7dSej7tm1cyzFivQdKzLmiJHmyXElSVuDuNo77MjsSOBzWk+m3R/S+hXkS4EdyVdQnb95KUFLTnnYAAlP8Agz80FjZzRStoHiipQgOJx+woC0nzRRS1qRGeoekIetrCLbLkOxi2+iSy+2AShxGcHB7Ed+KkrI2NoSpZUoAAqPJPvRRTTC9yfcUUUVNMf//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC8QAAIBAwMCAwUJAAAAAAAAAAECAwAEBREhMQYSE1FxFBUyQYEWIiM0UmGhsdH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYFB//EACMRAAICAQMDBQAAAAAAAAAAAAEDAAIRBAUhIjFBBhITYdH/2gAMAwEAAhEDEQA/AM6qmy+ftrBjEg8accqp2Hqam5i5NnjLidfiVdvU7D+6zRiSxJOpPzpVSxbkzoO8bnfSYWrufMaoOrmMn49svZryjbj/AGme0uIru3WaBgyNxWWip+OyV1YyjwJiFJ3U7g+ool0gjpmXot8au2H8iaTRXKN3IreYB4opWWQIIzIObEEmPkgnlSLxR2qWOn3huKU+kp7e1yrvd3MVunhMA8sZdS22g0AJ+tNmZx4yVqsJbtIcHu0486SsniLjHxh7kxKNe1dG1LfvpTKCMYMk9+U75A2owB5mjWeQ6Y93XCz9QRrdBdYdbSR9zyO7t1HnSH1hc211lYnsp0uEEKKXRCo7hrryAfrVEvIq96dsg2bRZELog79flxqCf4o1vbXJAmGkP1NqrN8gn6/I14BpmxMHtKlZAum43IHBoqwopA8nM6GlZWutM5wJ53EyW8Ek0h0RAWPpWcZbISZK7aaTZeFUcKPKiimdOB3kz6jdcGqgeO8m+9rL7ODHDFRC81/O6r3fFr+nXjbmrno+6hkE0QUicAEnXkDaiiiNHTMvZ7leqqB5jLRRRSUv5//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Kiss from a Rose</div>
-                                    <div class="artist">Seal</div>
+                                    <div class="name">Trop beau
+Explicit content</div>
+                                    <div class="artist">Lomepal</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUBBAYCAwf/xAAtEAABAwMDAwEHBQAAAAAAAAABAgMEAAUREiExBhNhQRQiMlFicZEVQoKx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMFBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABAhEDEiEx/9oADAMBAAIRAxEAPwDM3243MXq4pTcZyQJTuAJC8Aaz5qou9T22gg3GdrV6+0r5/NPr1FC+oJaQnZclzO31mlc61truDTSV7nJOnhA9STW/i6/DJ16KmbvdnFLAuc/CTx7Qvj803RcbgpoKTcJ6FgDIMhe/nmlzzLdudL8JRcP1Db5U5sjKpcdL84awpRCVZ97ztxikSQ9N4c7PKupvluCrhOUlUhvIL6yMah5orR2OOwm6QgCkp7yNJPPI2ooXM6SG8JukF39XlOMqClF9w4/lSPql7U620hJAS1lYB9c0/ushTd1mKRHlLJedwUtK23PrjxSd2LIuEp3Wh/WUg6Ck6gk8E/IbH8UHazGyKfdM4mMVJKQlW5+EIP3xmtH08w25DWkIS0pBxo34PrvTWzWaTGQ1Kdb/AHgDWFA5BOTxg4H+VE0SpF5Mh5x51GcJbSkgA8eoFVLkSbHpahjZLE6uXGeQtJ0PI1DPPvCim/Tc1kuR0tpUtIe0FaElQCsjIJHBHmijXIhVLR4/fI/UYv1y7Ma5doyXdJSy7xrOMYGMYqkprqoOa0RrjnYElh3JH3oop1Xg+ellR6lLBHYvOojjtO4/qqLzHUUlAQ9CvOlHwe698vAooqdgYdfSDF+t9/gNx7RdmY65bRcPbd0/GMk7YxiiiiueqelylH//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Thrive</div>
+                                    <div class="artist">Yoe Mase</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECBAj/xAAsEAABAwMCBAUEAwAAAAAAAAABAgMEAAUREiEGIjFBExRRYXFCgZHBBxUj/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAfEQACAgMAAwEBAAAAAAAAAAAAAQIRAxIhBDFRIkH/2gAMAwEAAhEDEQA/AJfjy1/28UMsgF1KsoJG33pSs1pcilxt1JDrJGoJ3wcZGftTdY7sm4SvAdjPtrUNSSpBwfWpu8ybbaLVJkSy0kMtqWElWCpWCcfJqic4XsjmPDKqYmXfhxm6QGyhZC2lZ6DuNwd6Q71ZVwykxUL0YOSrAP4z0qwGb9JuENuHDtbypDxwqQCGkI5sAkq2Hx19KTOLW5f+rjsxMhTZQhSG21ABKwSlWo4647gE+mN6iy+Rhl2+sph4+RWmvQlSnlgEBJNFTNtt7cw6Xnmm1q6p6n8CiuRfDPn8PSbcVDyFFvLZxpGNsCkH+UbHITaJUyM4EIZb8ReTusgjGSdgN6sqXMt9qZS7MeDaVHA2ySfisS4do4gta2XNMmO4OZJGU9dtj70MpWu+h8X8RSsa8Li2WTdZKHm4SZCFIi+JyuyFJCUpKwMqH1KPQdAM5rj4pKpjrUaO87r8Tzksuua0eOoYITgAaQNhtThx/wAHTpcGDHtrw8my8jWgEJ0JzzLA+o499qhE2e6yZ0mTMcaQiWoKDahhaABjBI26fqpZYFzX0hkMre2y6xBft8pctamXgCrYhsbeuKKtCXbbfbYoWsEuDY43NFN1f0Q6JhfDkp2Subd5zrhbwpCAQc4HfbGM9hXejiAxIrcaIBpSnmUU834Heiiij+l0c1rVGz91dcj6n1FB7D2pVvd1bwnW4dlc2n90UUDdIOSFp6+oW455hTpCVcuRj7j2ooopTkzUj//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Far Behind (feat. Panama)</div>
+                                    <div class="artist">Nils Hoffmann</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDCAL/xAAxEAACAQMDAQUGBgMAAAAAAAABAgMABBEFEiEGBxMxYXEUIkFRkaEVMkNigbHB4fH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAP/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIEAxESQSEjMoH/2gAMAwEAAhEDEQA/AJ5pnSIkE8L86z0zdakl4Zrdo2C3MAk7xsDYW5APmRWmVgqe94YqQ7P1t7+8uYruVYrZXR5GI5IUscDHh607n0sbYJW85EX0fGlHtB1AwWAs1/WRpGP7Vxx9T9qYr69EOlzXcG2YLGXXnIb6VQVp1rqfVuq3PtUCKlum07fdCAt4euOSfKi68OU030J2Jag9HmWYFmBkDjAYOPjkUUv2+sW11PKCWRWYlc/L4UUz4CUn2Nt1a2xt4t3fd40YJ2+HP8VMdm2kWt5NqSpcSxQTMsXAJZiF55xgeNL8lzcKoVZnVAuAA3FWN2NyM+h3wJc4um5Y5ycf6qWzyjjb2UVXFz1oYdQs0tNDewtsrlNoAP39a581DRZenoNRsoH2/iMwbOSWCDxB8s5rojWyVJfI4/LVKdZXnt/UJ2AI0UQRj55J/wA1PTTcim29QFrS9ItlQNKCZAMYzxRUjpySLIzF155PFFJNaDObfZISRswGMYx86s/sls2t9EupnOTNOceg/wC0UVLdfq/SmkvYT/VG9LNZIlDNuC4IJ/qqP6h3HqW9Jj7sNsHPxG0DNFFYUfoquLcDTbxtGW3Yx60UUUkwpI//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In My Dreams</div>
+                                    <div class="artist">Menino</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -494,28 +516,6 @@
                                     <div class="name">Never Gonna Not Dance Again
 Explicit content</div>
                                     <div class="artist">P!nk</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQFBgcCAQP/xAAuEAABAwMCBAQFBQAAAAAAAAABAgMEAAUREjEGEyFBFCIyURVhcYGRFkKhwfD/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCA//EACkRAAIBAwMCBAcAAAAAAAAAAAECAwAEEQUSIRNBIlFhgTFxkbHB0fD/2gAMAwEAAhEDEQA/AOXmESoV0kuSr2ZiXpLLPJcd5fMC1BtIx5QPSMVlrlx4kt95isXWbco7xWgqQ66oHSTj323q92O/W4Nhi8X5MdXjX3nGwE4C8lST1QehUE+9Urjae3cuOQ4zPM6MhTLTcgADUkYPYAZBJ7UU0r9UgHvWhGI2KexraLjxCwxIXGtkcPPjdbhwlA9ye1QU68OvqKZd8jsk/sQ0VJHy3/qkLtZpce4tpdmE2x9zzOoGDjPXVjY1875w2Uy31WxptUJ1KdCmxzSjHQjfIzvnvVQzSLyoq4tLW0tiiwYAYcED80ouJFkPDnhl9KtnmMp/I7GipmyWRiHEZcDg8VzMuIzqTyydl4yEqA65Hfp1ooiONHXMkeT8qYPqcKnaTjHnxWRymrg2lbaWJRipcUpJCF6TnHX264FPRbKjwcaWl2QuWohYjohOkAheMFe2wz9K1mLw+5KKVTpa3UjGEdqn5wj2m0lxKU81K+WB2Bx0FKDoyIc76j5LWCafZBJucn2+tV+2S5r61okRVJaUfMSny/fNMS2ra22pxxlhvHqOo4z9Kjm7kHnwCF3Caokpjsg6EAe/v9TSD3EbgYStVtilh7OnIyTg9dvxTMXSJweaoTps8smEbYPJePv+qd+KR3AWWSFJA2AwmirnwNwdFv8AbLfKfsshbElxxL7/AIrllhI9OE4yoEYOc0VxOuxxkoRnFLJm0yKQxyqzMPif41Dpv0RtQSlQcA+xr1ExKnVrfQmRBkDS6hX+3oopt0lI571rUtLgsYutb5Vh61zZYjNkub8m1s+MivI06UKw4gdx86jXrLBMjLEWYhJUTy1sAKSD2C8/zg4oooFoEDYxTOzmeSMXBPiI59cVo7l2H6AVAh3Bu3zkuJKG25AbUhAO2okdMUUUUpl0+J3LZNRNygMhI4r/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">You
-Explicit content</div>
-                                    <div class="artist">Regard, Troye Sivan &amp; Tate McRae</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgEECAL/xAAsEAABAgUDAwMDBQAAAAAAAAABAgMABAUREgYhMRMicQdBYRSRoRUyQlGB/8QAGQEAAgMBAAAAAAAAAAAAAAAABAUCAwYA/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAwQREiEFMUFRYf/aAAwDAQACEQMRAD8AWNUo6nCcUknxG7SPTmqVKWS8w0hKVcBZIPNr8cRdPpEdXge0MbTNTfEk2wpaOklOOONtotz7Ch6h3gMFDiiw9mIt30rrYcSkNNKCr9yVEgedoi6x6a1iQl3HXUsWQkqKQo5HwLR1UicUEdykrtxkkDHxb4iBrkwVsOJUpCsuTja4hS+Syjc0FeKlp4ldTjickXWVEONKSfkQQ1ddyDKnVqSkXgideTyXZEEv8SFchTLWqYGZ8RZqDMDAbiFmKjycvzGvVa1LTLX6fMX6bnYdza5tzY3tb+rmGecvM9QTwjDHxBzjynag1JyDsy8tKW20FRJO3x+YXumtVTVdp80agllE4y6UqQyDiE+1jff7x6OopSsaampZl5D3TYT1S2ezjcBRBHA45tzFB0tVWTVJ9UuEIDrYeUhB7UqJsQBbb9o+8ILl2hP1NAlgSxdHoyU1Y8F5wRD16b6mUESrA4yVtg5SpK1CsCyFMkfJMaE7VVTKlFQZ7gfeCCG7sSdzHC1goUepN0PUipGmuSjS5YNOBRcSs/yNwbW9rW/2I6m1JFPeDjSpfIt4K3Njvf7wQQI6Bt7+YaMh9L+TM5XVPXv0D4JgggjhUoHUrfLt37n/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Memory</div>
-                                    <div class="artist">Kane Brown x blackbear</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC4QAAEDAwMDBAECBwAAAAAAAAECAwQABREGEiExQVETImFxkTKxBxYjJKHBwv/EABkBAQEAAwEAAAAAAAAAAAAAAAMBAAIEBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREiEiMVEj/9oADAMBAAIRAxEAPwBpvdpjx98y0vCXbs+7YdxaPz5Hz+a8Zt7vSVMswZKUQ1oCUkD3IX069x8dqoUBqzNyLxLeeQhCNvpuZI4xkYB56/mmW2S2Lla4E2CzmM5haio7dmFEfZHBrgbz8kORl/RceK6tVahszxU4h6fIbcCEocUEZKunkkfjFcN37VWsLqwLsGbZao5DhixyR6qucFaickZ7cD4p3iqj3dzYzDC3GiF+446dDk9RVRqS5MWSyP3R5DKW0PpYcbKuSnGcgAcnJ6eOaxGYDN9yilFPL5Lmw2GLLuHpTZTaQjkshWFLPj6/zRSZrXZfUyJUF9DLzraHHPTyFkK5UVc4TnOdoPbrRVrvRRhEOy1+XUyj+Ypi7U5bXnUzVPKBGUFxaTnpnxnvWm6clux7iwbpGTIYkbVJjGUWEApwAVED79vGat9JaNf1KJMv0YtkktuJAcRHO59Pfk/v2Pmnq0aOtVoYUwu2sPpWcrW8Q6VqznOSAc/tSKvwdTatgo7ntIebYG9oJeUhx11YYAHJHBSPBGcp84rIP4hynUQ1S4yk+s8+nEWQ3lQSUgZKDyDg9a3i9PF22uIKDjHQkDj4zxWGaghNO77jITw08hsOBPuQn8cj7qtWSOpTbgiXqN6NDu39SelEeQw2t2NkgBSRhOMDITwOKKnzLbFXLcd1FGRcIuBtfZAbcSMdSof7GPmijNIHvYTHkdE0kXKXHirfZdeQ64QQEf8AXn7ro60mOMpZedASOCrqaKK9Zq1nGHaSo2qJUcBaX33UJV+nf+od+tLmppjc9z+xYLDC/e41uON/Qkc+KKKMKNiMSRkiW6OY7SnpLaVxWspXHUopUnAwSCP0nv3+qKKKZUGQS5HQn//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">In The Dark (feat. Tailor)</div>
-                                    <div class="artist">Jerro</div>
                                 </div>
                             </div>
                         </div>
@@ -536,7 +536,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2023, 23:04:49 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2023, 00:08:53 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
