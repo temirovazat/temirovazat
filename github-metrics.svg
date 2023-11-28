@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8182 Commits
+                            8185 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            1605 Pull requests opened
+                            1606 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -263,12 +263,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 72 commits)</small>
+                    <small class="h-details">(computed from last 73 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.2 characters per line of code written</li>
+                        <li>Has approximately 36.3 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -279,8 +279,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 2.4390243902439024px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -300,12 +300,12 @@
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 6.097560975609756px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 2.4390243902439024px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             05
                         </div>
                         <div class="entry">
@@ -330,7 +330,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 1.2195121951219512px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 1.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -370,12 +370,12 @@
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 8.536585365853659px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.75px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 9.75609756097561px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
@@ -385,16 +385,16 @@
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 4.878048780487805px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 2.4390243902439024px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">41</span>
+                            <span class="value">40</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             23
                         </div>
@@ -415,13 +415,13 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">17</span>
-                                <div class="bar" style="height: 42.5px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">16</span>
+                                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">5</span>
-                                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7</span>
+                                <div class="bar" style="height: 17.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -446,12 +446,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 17.436180398902938%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
+                                <div class="bar" style="width: 21.703320825845424%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.08672649669744721%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.07820594622755822%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -475,32 +475,26 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwIDBAj/xAAsEAABAwMEAAQGAwEAAAAAAAABAgMEAAURBhIhMRMiUXEHFCNBYZEyYqHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APS61VwSlZHNb31lOcGk899XOKDkkvBJV5hUfuEkJJO4fus5chQUrzA8+tRydKCgsHcT7Gg3SJfHCk80VHX56UDAQSR/Wigvd5wY7pPPUNqjuAAGe6H5zYUWy6jxQN2zcM49celJ504DKTuoEj92tjlzet6Z0Yzk8qjhY3jjPI7pXLUG21rdUhCATkk4H+mqL13eGrbriddrJPaluLXu8ZrjwnM4KfQ9d85rrd1dP11Ei2JNvKS+4j5x9tRI2g5JHHl6z3+KCc6hujNs8FUhLn1VlKQgZJ4zn2xRUVlXaPc7pGhPNrix2d7CHGzu2pIThXP32iigt/Uum9PamdcXPa2THUhPzTThQ6kDrBz1+OqqL4h6bcstlfkyta3GSyPLHiuKJUtR6SSFdY++OqKKCqPoKtiA0AZPiHOCSSParD+FV+i2G3XCPcEutrecS4jj+Qxj/veiigZsTWHkPzJsltCpBBcjhnylYztO/JAPP64ooooP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Solitaires (feat. Travis Scott)
+Explicit content</div>
+                                    <div class="artist">Future</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQFBgcCAQP/xAAuEAABAwMCBAQFBQAAAAAAAAABAgMEAAUREjEGEyFBFCIyURVhcYGRFkKhwfD/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYCA//EACkRAAIBAwMCBAcAAAAAAAAAAAECAwAEEQUSIRNBIlFhgTFxkbHB0fD/2gAMAwEAAhEDEQA/AOXmESoV0kuSr2ZiXpLLPJcd5fMC1BtIx5QPSMVlrlx4kt95isXWbco7xWgqQ66oHSTj323q92O/W4Nhi8X5MdXjX3nGwE4C8lST1QehUE+9Urjae3cuOQ4zPM6MhTLTcgADUkYPYAZBJ7UU0r9UgHvWhGI2KexraLjxCwxIXGtkcPPjdbhwlA9ye1QU68OvqKZd8jsk/sQ0VJHy3/qkLtZpce4tpdmE2x9zzOoGDjPXVjY1875w2Uy31WxptUJ1KdCmxzSjHQjfIzvnvVQzSLyoq4tLW0tiiwYAYcED80ouJFkPDnhl9KtnmMp/I7GipmyWRiHEZcDg8VzMuIzqTyydl4yEqA65Hfp1ooiONHXMkeT8qYPqcKnaTjHnxWRymrg2lbaWJRipcUpJCF6TnHX264FPRbKjwcaWl2QuWohYjohOkAheMFe2wz9K1mLw+5KKVTpa3UjGEdqn5wj2m0lxKU81K+WB2Bx0FKDoyIc76j5LWCafZBJucn2+tV+2S5r61okRVJaUfMSny/fNMS2ra22pxxlhvHqOo4z9Kjm7kHnwCF3Caokpjsg6EAe/v9TSD3EbgYStVtilh7OnIyTg9dvxTMXSJweaoTps8smEbYPJePv+qd+KR3AWWSFJA2AwmirnwNwdFv8AbLfKfsshbElxxL7/AIrllhI9OE4yoEYOc0VxOuxxkoRnFLJm0yKQxyqzMPif41Dpv0RtQSlQcA+xr1ExKnVrfQmRBkDS6hX+3oopt0lI571rUtLgsYutb5Vh61zZYjNkub8m1s+MivI06UKw4gdx86jXrLBMjLEWYhJUTy1sAKSD2C8/zg4oooFoEDYxTOzmeSMXBPiI59cVo7l2H6AVAh3Bu3zkuJKG25AbUhAO2okdMUUUUpl0+J3LZNRNygMhI4r/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">You
+Explicit content</div>
+                                    <div class="artist">Regard, Troye Sivan &amp; Tate McRae</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAQDBQECBgf/xAAoEAABAwMDAgYDAAAAAAAAAAABAgMRAAQSBSExEyIUFUFRcZEGYYH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEBQECAwb/xAAeEQACAwEAAgMAAAAAAAAAAAAAAQIDESEEBSIxsf/aAAwDAQACEQMRAD8A8k/LFWhuyFW7jD+0pWjE/VUODCwAhUK9ZqbVNavr8LDqg53laXFJ74MACefTj3pJm+Jch1tDm/qBUyMJJHtVdX9P8GEW5yEKEfNYcUUKirVtNmpIWtwpURsgJ2H1VddNAElC0n9TTKJasJnsKUuxIMt6K0UaKVhENtDdtXdStfMJ8KHkl0SR2z3QRvx7b1fana6MnT1eXsOr1BTaBmVwkLLi8tidxgUD5BNcbbD1gH+1YWqGyvdoT80HiZeipWpPcO1Rp+jeNbU40ry1Lb4cwcOZVK+mT3Txhx/aHLH8e8GQ2y+q46ThSnJUFYX25GeIB4iubDaMNgoH42pZxIg9s12qkB8utxa6Y1VTJvbo2qQi36qukmTsiTjyZ49zRSr8+3NFLSBqIkwRAgxTtq5g5MiKKKDhVrk0uFuh9k22yldbL9Y4x9zNLOAqKiCDRRWY8Zpc3NfIgUwt0gIiPmiiilpvCZLjxH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Say It Right</div>
                                     <div class="artist">Sunlike Brothers &amp; Micano</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC8QAAIBAwMCAwUJAAAAAAAAAAECAwAEBREhMQYSE1FxFBUyQYEWIiM0UmGhsdH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAYFB//EACMRAAICAQMDBQAAAAAAAAAAAAEDAAIRBAUhIjFBBhITYdH/2gAMAwEAAhEDEQA/AM6qmy+ftrBjEg8accqp2Hqam5i5NnjLidfiVdvU7D+6zRiSxJOpPzpVSxbkzoO8bnfSYWrufMaoOrmMn49svZryjbj/AGme0uIru3WaBgyNxWWip+OyV1YyjwJiFJ3U7g+ool0gjpmXot8au2H8iaTRXKN3IreYB4opWWQIIzIObEEmPkgnlSLxR2qWOn3huKU+kp7e1yrvd3MVunhMA8sZdS22g0AJ+tNmZx4yVqsJbtIcHu0486SsniLjHxh7kxKNe1dG1LfvpTKCMYMk9+U75A2owB5mjWeQ6Y93XCz9QRrdBdYdbSR9zyO7t1HnSH1hc211lYnsp0uEEKKXRCo7hrryAfrVEvIq96dsg2bRZELog79flxqCf4o1vbXJAmGkP1NqrN8gn6/I14BpmxMHtKlZAum43IHBoqwopA8nM6GlZWutM5wJ53EyW8Ek0h0RAWPpWcZbISZK7aaTZeFUcKPKiimdOB3kz6jdcGqgeO8m+9rL7ODHDFRC81/O6r3fFr+nXjbmrno+6hkE0QUicAEnXkDaiiiNHTMvZ7leqqB5jLRRRSUv5//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Trop beau
-Explicit content</div>
-                                    <div class="artist">Lomepal</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUBBAYCAwf/xAAtEAABAwMDAwEHBQAAAAAAAAABAgMEAAUREiExBhNhQRQiMlFicZEVQoKx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMFBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABAhEDEiEx/9oADAMBAAIRAxEAPwDM3243MXq4pTcZyQJTuAJC8Aaz5qou9T22gg3GdrV6+0r5/NPr1FC+oJaQnZclzO31mlc61truDTSV7nJOnhA9STW/i6/DJ16KmbvdnFLAuc/CTx7Qvj803RcbgpoKTcJ6FgDIMhe/nmlzzLdudL8JRcP1Db5U5sjKpcdL84awpRCVZ97ztxikSQ9N4c7PKupvluCrhOUlUhvIL6yMah5orR2OOwm6QgCkp7yNJPPI2ooXM6SG8JukF39XlOMqClF9w4/lSPql7U620hJAS1lYB9c0/ushTd1mKRHlLJedwUtK23PrjxSd2LIuEp3Wh/WUg6Ck6gk8E/IbH8UHazGyKfdM4mMVJKQlW5+EIP3xmtH08w25DWkIS0pBxo34PrvTWzWaTGQ1Kdb/AHgDWFA5BOTxg4H+VE0SpF5Mh5x51GcJbSkgA8eoFVLkSbHpahjZLE6uXGeQtJ0PI1DPPvCim/Tc1kuR0tpUtIe0FaElQCsjIJHBHmijXIhVLR4/fI/UYv1y7Ma5doyXdJSy7xrOMYGMYqkprqoOa0RrjnYElh3JH3oop1Xg+ellR6lLBHYvOojjtO4/qqLzHUUlAQ9CvOlHwe698vAooqdgYdfSDF+t9/gNx7RdmY65bRcPbd0/GMk7YxiiiiueqelylH//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Thrive</div>
-                                    <div class="artist">Yoe Mase</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECBAj/xAAsEAABAwMCBAUEAwAAAAAAAAABAgMEAAUREiEGIjFBExRRYXFCgZHBBxUj/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAfEQACAgMAAwEBAAAAAAAAAAAAAQIRAxIhBDFRIkH/2gAMAwEAAhEDEQA/AJfjy1/28UMsgF1KsoJG33pSs1pcilxt1JDrJGoJ3wcZGftTdY7sm4SvAdjPtrUNSSpBwfWpu8ybbaLVJkSy0kMtqWElWCpWCcfJqic4XsjmPDKqYmXfhxm6QGyhZC2lZ6DuNwd6Q71ZVwykxUL0YOSrAP4z0qwGb9JuENuHDtbypDxwqQCGkI5sAkq2Hx19KTOLW5f+rjsxMhTZQhSG21ABKwSlWo4647gE+mN6iy+Rhl2+sph4+RWmvQlSnlgEBJNFTNtt7cw6Xnmm1q6p6n8CiuRfDPn8PSbcVDyFFvLZxpGNsCkH+UbHITaJUyM4EIZb8ReTusgjGSdgN6sqXMt9qZS7MeDaVHA2ySfisS4do4gta2XNMmO4OZJGU9dtj70MpWu+h8X8RSsa8Li2WTdZKHm4SZCFIi+JyuyFJCUpKwMqH1KPQdAM5rj4pKpjrUaO87r8Tzksuua0eOoYITgAaQNhtThx/wAHTpcGDHtrw8my8jWgEJ0JzzLA+o499qhE2e6yZ0mTMcaQiWoKDahhaABjBI26fqpZYFzX0hkMre2y6xBft8pctamXgCrYhsbeuKKtCXbbfbYoWsEuDY43NFN1f0Q6JhfDkp2Subd5zrhbwpCAQc4HfbGM9hXejiAxIrcaIBpSnmUU834Heiiij+l0c1rVGz91dcj6n1FB7D2pVvd1bwnW4dlc2n90UUDdIOSFp6+oW455hTpCVcuRj7j2ooopTkzUj//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Far Behind (feat. Panama)</div>
-                                    <div class="artist">Nils Hoffmann</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -511,11 +505,17 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAsEAABAwMEAAUDBQEAAAAAAAABAgMEAAURBhIhMRNBUWFxI1KBBxUikaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QAIBEAAgIBBAMBAAAAAAAAAAAAAAECAyEEERITMUFRYf/aAAwDAQACEQMRAD8As48DJHFNqtIWMgc/FPQ8V2YyUkDIFNqySNfURrb3Rmur2f223Dw3gzKfcS2zwFHORkgH0FNC0OpYaDmVOhIClYHJ8zxxTWvbQq6aptjcMoLyGFLAKuiFZH98iq21Bu525qRx4h/i4MY2rHCgR80R1EuzIu6lw5EM5DWltSPBb5GN23mirl63tb9qsJJOBnjPx60UytQirgIQI5Oz6qRuyfjFdhlGxOd/njr3xUfddR2mwSY0e6TUMvSDhKMZIH3KA6T7mmmNTQJVlfnW+Q08W2S74WRvHpuTnI7H4NVTx7MR32zaS9nMvvjvaseehyS09GLbQSU7uCM5H+1SaZDUaXIajvOeG46pbpeUMOuK5JQBzjNZjpK6IuGv3YEwfWS0p95Cm9neCCT6cj5z81b3hiJc2JMq3ymnpUBJWhMdxJ2KCThJI6yOPzSFnOclKCwjoJ6qmmK09jzt5/SxlwY0x1tcgLWWzuQneQEq9Rg90Vg0D9bLhKsjjTdo8G6owkPOKy1j7iO8+3X/ACimsfDH7rljYze/396dNkXGU4l65yDjdjGxPkAPIAUlpfVk/Td4L1sWhxvaEvNqCcOp3AlOSOuMZFFFQy3ivBy71d5l2ucyZKWFSJboccKR5jISlOOgAcY9hWk6SXFtejH7bdI6mpj6y8lTKiFdDBVjvABG3og+oooqEgX1ic+xvPMFuPJTHK8LSpKMEnz4B86KKKkNj//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgMECQj/xAAtEAABAwMDAQYGAwAAAAAAAAABAgMEAAURBhIhMRMiQVFhgQcUFTJxoUKRwf/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAP/xAAbEQEAAwEBAQEAAAAAAAAAAAABAAIRITEDEv/aAAwDAQACEQMRAD8AaF7cvRuKRbUJRHbSCoqdSA5znGOoz9vNVjVGoZ+l7MqXd5TqFrcDUcBxClKUThW5I5PHlnGPDpTI8egpP3S2RdS6pv8AKvbQfYjPCJDS4TsbCfuUAOM5oUDWNatnCKm/6ss+pZ4kX5CHo4LS1I7Be8AhQUElJwO/t5PBGag5b2kFBGyIlO0pcKwy4AUpWNwHAzkcZIGD+c1YNXabt7D7q0tshsfaEJwP1Svv7LbBaDKQkHcDj2rDpsb1/LmySvn0RMKSYCEEKJLZDSwsKK8jvHjbs4x1z/dFVXJ6ZNFMmdGvbnypN6jRcjZ1XG3uKiF9559LRVhS1KUSEk49qdMcoS+2XhlsEbh6UvtQPWxu9XO1S5ha7EGS0ecdmrKgQMeHI9qi4pydfkm4xGa6fuMK3xROcHz8lO5/gd3noOPKlZfskM5JPX/KZnxBmLuD4VHkrkxk95KnEYVg9P4jj3NL68fLOKZEhRQnHGB1/VNBDsPqjbnkrVFZHSkuKKBtSTwPSiqnOdDLvdbfZ4apd2mxoUZPBdfcCE58snqfSvOHxd1hZNWX9CtL3BXzUSP2ZkJSUIe5J2jPJAz1x4+IooofJVPYtndQ9vvXPmOKkKASpJUdvHpUFeHI8ltBbkJ3pJOCDyD7UUU5DV6zesekRdrciX9cs0QqUU9nKkbFJwcZPHA8fxRRRWhP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Never Gonna Not Dance Again
-Explicit content</div>
-                                    <div class="artist">P!nk</div>
+                                    <div class="name">Want to Want Me</div>
+                                    <div class="artist">Jason Derulo</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">This Is the Last Time</div>
+                                    <div class="artist">Keane</div>
                                 </div>
                             </div>
                         </div>
@@ -536,7 +536,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2023, 00:08:53 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2023, 01:03:21 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
