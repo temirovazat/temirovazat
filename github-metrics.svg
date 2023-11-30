@@ -475,24 +475,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBA//EADYQAAEDAwMDAQMJCQAAAAAAAAECAwQABREGEiEHMUETJFGRFBUWIiMnYXHRMkJikqGiwcLh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMFBAEG/8QAJREAAgEDBAIBBQAAAAAAAAAAAQIDAAQREiExQQVxBhNRkbHw/9oADAMBAAIRAxEAPwDnRzpppudoKFOu1oYnPyz6yHXs79pABTwcYCgrHnFOw6UaMPH0bhf3/rR0Xc+6zTYBHEb/AGVTgq9QWMhclsrT3Sg5P9KHfqrkUSlAAuaWEdItEqaAGmoQczyTvxj+apTHR7QxThenIRP4BX61BZ19GgTVCTLS7vcBcSDnYO3Hu4p8t94t89sOxJzDqD5Q4DREMBkimXFhLAASmx7xWV9YOl2jbJ0wv1xtlgix5zEfe28kq3JO4DI5xRV91tvcaZ0p1PHjlTnsu3dkAftJ+NFczUmeJ42wRisL0TdrqrStsipdlORm2tqG0Z2gbj4H+abGJU2Rblo9CShOw7QhpXJ+FLek470DRVomiWlKVsbkpCiCOSMVZW24XWfHRi5Jgq9Ta2JCwQo+OwzW62MLRllOoilWt1fXE4SFAqr3nod4rNI0aXE1QGx6pdcWUKQoHJJ8fnmnNHzlCI9mmNOq4x6ShuHwqHe03O1arE24SUvXVpaXuwUBjkYzwRjxWh2XXHy6KJUxhaEqJHI4JTjPGOe493emW0DYJfYV6Kb5FceKjCW0X1S54B4/dJGo5t2e0dd0TA80wWCcrRgKG4cf95op06kXu1y+nd6Qzt9d6N9X7Ip/eHkiiskxXVsKweQvZ7tlkmTS2OKy+y3u0RtKQbeu8BsvNAuo5UGl5PChjt+VeEhywojIWm+MKWAdyEpPBz4yKKKFX2Vu8/n3UWOea1jaGJyFO/o56PIqO1dbWVlgzmnRwhMhSSkFOc9j2APuq1sesbRbpbrMrbLgqyFNKUSjcBgKH4/xDBxRRRPOzNirtndvAFK4JPOfX9xUHUuroTtsuse1PKYYmp2KYDilZGQcHI5888UUUV1nzikeSu2uJdTgfav/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcEBQYIAQID/8QAMBAAAgEDAwEECAcAAAAAAAAAAQIDAAQRBRIhQQYTMWEHIkJRcYGxwRQyM2KRktH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEEA//EABoRAQEBAQEBAQAAAAAAAAAAAAACEQEhEjH/2gAMAwEAAhEDEQA/ANeNm5tq4yfeanRaBqM94LWGASS85KSKypjx3MDgfM1BdHU4ZSDTD9H8KLaLZymWN7xWkJVSd/HqrwPDrnoea2d8Z+Sp4+wFxIgA1Oy78ruEeGx/bH2rHrrQdQtLx7a6iSGROskiqrcE+qScHw6fWnBfaTE+km+SWG2ea47/ALw4Mo2JhkXJ5TKEjy6cc0Xbi3t9U0bUliKrdabtlx1K8bh8MHPyozfK8OowqGXDEHFFcAHPWing4zObsrdlQcMw6E0xtF0hhb6HMJRbPbRqRKBuIZRjgdeelNa20y2mGF0tOPlUkaRHEymayiSMeyDnHnXPtaRXX9lbR9mltdJmuJGsJ0eGS4QK+9mJbK9Rjp51iOodj1Nzd3zifdNHxGWO0NtAx7zjwp66lpsEd/btsiKsHdsHAYYABOOvP8V7W+l/iSJGs4+6TOxCMZJ60J5n6dVrWWPsRdyfkUKPgTRW0UekwJMSLCBePHOKKf2GJ+lzTbVKRrjw2n/RVm6ySesY9jfuAP0NFFUikfSrk6j33fHu87v0xkeQ4+1WpkeNgRuZz4BOPrRRUW7PJM2DNhB7IxyaKKKin//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Don't Wanna Know</div>
-                                    <div class="artist">Mindtrix</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcEBgMFCAH/xAAtEAABAwMCBQIFBQAAAAAAAAABAgMEAAUREiEGEzFBUQdhFIGRobEVFyIy0f/EABcBAQEBAQAAAAAAAAAAAAAAAAMCBQH/xAAfEQEAAgICAwEBAAAAAAAAAAABABECAwQhMUGBFJH/2gAMAwEAAhEDEQA/AHXyk15yUqOBgk1SonqTwzKUA3do4J7OZR+RUqd6hWO3xmnHrnG5bn9NGFk++wO1Yhydt04v8mx+XWliS8KtUXSSXSfbIrSSI7aVKBxkHFUD96eGxfv0sPLOVBIl8scnVjznPtnGKnXb1PsEQBDtxZc1dmU6/wADameRtaDFuGcbV2uRUsT8dG+32opd3Djjh69IKk3d+Pp20h0tfPGKKs27a7E+SHRr9U/Yi+IbjYZEhJsbcqCwE4Uh1ZeUpWTvnCcDHbFa+C8y9KQ38cUajspxGE/PxTIs/pjbI621XRb8g9SA4EJ+nX71cY9h4WhJJbtUJakef5H8VrXXqZQL4ZzfKCky3c7K1noO+e1W3iNyImM0ECFHKcFKY7ilrwQMhWfffc5HTpWliyHbpxXHecA5j0xB0pGMDUNgPYbU+Z1vtT7ZLrLuPCsGpxxxe2Vk5Hic/wA6ZFdKPhGnWCEgLy4VBRwMnfpvvRTilWe0srBZjujJxsE/5RS46gOmFltyvsJgdv4W3pamJWCMp0u5OPNYZl5mCK6pnl4CFZ1jUrp2IIoopAKkuTcUECQuLMYktKIcacSsH3BppO3edrB1xtJPVIOfrRRUaTzO7mqkSXd1FB5r7wX4BzRRRT1AWf/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Dancing In The Moonlight (feat. NEIMY)</div>
-                                    <div class="artist">Jubël</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwECBAj/xAAsEAABAwMCBAUEAwAAAAAAAAABAgMEAAUREiEGIjFBExRRYXFCgZHBBxUj/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAAH/xAAfEQACAgMAAwEBAAAAAAAAAAAAAQIRAxIhBDFRIkH/2gAMAwEAAhEDEQA/AJfjy1/28UMsgF1KsoJG33pSs1pcilxt1JDrJGoJ3wcZGftTdY7sm4SvAdjPtrUNSSpBwfWpu8ybbaLVJkSy0kMtqWElWCpWCcfJqic4XsjmPDKqYmXfhxm6QGyhZC2lZ6DuNwd6Q71ZVwykxUL0YOSrAP4z0qwGb9JuENuHDtbypDxwqQCGkI5sAkq2Hx19KTOLW5f+rjsxMhTZQhSG21ABKwSlWo4647gE+mN6iy+Rhl2+sph4+RWmvQlSnlgEBJNFTNtt7cw6Xnmm1q6p6n8CiuRfDPn8PSbcVDyFFvLZxpGNsCkH+UbHITaJUyM4EIZb8ReTusgjGSdgN6sqXMt9qZS7MeDaVHA2ySfisS4do4gta2XNMmO4OZJGU9dtj70MpWu+h8X8RSsa8Li2WTdZKHm4SZCFIi+JyuyFJCUpKwMqH1KPQdAM5rj4pKpjrUaO87r8Tzksuua0eOoYITgAaQNhtThx/wAHTpcGDHtrw8my8jWgEJ0JzzLA+o499qhE2e6yZ0mTMcaQiWoKDahhaABjBI26fqpZYFzX0hkMre2y6xBft8pctamXgCrYhsbeuKKtCXbbfbYoWsEuDY43NFN1f0Q6JhfDkp2Subd5zrhbwpCAQc4HfbGM9hXejiAxIrcaIBpSnmUU834Heiiij+l0c1rVGz91dcj6n1FB7D2pVvd1bwnW4dlc2n90UUDdIOSFp6+oW455hTpCVcuRj7j2ooopTkzUj//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Far Behind (feat. Panama)</div>
-                                    <div class="artist">Nils Hoffmann</div>
+                                    <div class="name">CORAZONES ROTOS</div>
+                                    <div class="artist">Lola Índigo &amp; Luis Fonsi</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -511,11 +497,25 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwIDBAj/xAAsEAABAwMEAAQGAwEAAAAAAAABAgMEAAURBhIhMRMiUXEHFCNBYZEyYqHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APS61VwSlZHNb31lOcGk899XOKDkkvBJV5hUfuEkJJO4fus5chQUrzA8+tRydKCgsHcT7Gg3SJfHCk80VHX56UDAQSR/Wigvd5wY7pPPUNqjuAAGe6H5zYUWy6jxQN2zcM49celJ504DKTuoEj92tjlzet6Z0Yzk8qjhY3jjPI7pXLUG21rdUhCATkk4H+mqL13eGrbriddrJPaluLXu8ZrjwnM4KfQ9d85rrd1dP11Ei2JNvKS+4j5x9tRI2g5JHHl6z3+KCc6hujNs8FUhLn1VlKQgZJ4zn2xRUVlXaPc7pGhPNrix2d7CHGzu2pIThXP32iigt/Uum9PamdcXPa2THUhPzTThQ6kDrBz1+OqqL4h6bcstlfkyta3GSyPLHiuKJUtR6SSFdY++OqKKCqPoKtiA0AZPiHOCSSParD+FV+i2G3XCPcEutrecS4jj+Qxj/veiigZsTWHkPzJsltCpBBcjhnylYztO/JAPP64ooooP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Cool for the Summer
+                                    <div class="name">Solitaires (feat. Travis Scott)
 Explicit content</div>
-                                    <div class="artist">Demi Lovato</div>
+                                    <div class="artist">Future</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBwECA//EADMQAAEDAwIEBQIDCQAAAAAAAAECAwQABREhMQYSE1EUIkFhcQdSFSMyNEJEYnOBscHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwQC/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAECESEDEjEi/9oADAMBAAIRAxEAPwDTX3veoDjrj6Fw6Qw0kTJys/lJXgNjusjb4GvxSn6pcUOIaXbLbPMVf8Q82PN/TSfQ41ONfjU1llusrvEM6PGtZPT6SlOvKbUQhQzgKV74G2gz670s+Nv6YryJBf8AiS48TXNt6SpOAOVtpAIQj41396acZWti03BiPHU8UORmpCeskBWFoB1xpuSKueGOAIlmiB6eoSJTrZ3QeVPsB65715vH0/mcRsuXC0lAcZbCAhzI6pGgSCdBgf29K1U4Zi/ZkhwfIUQpIjR0NscxL4T+Y4pWPKVdgBsO9FdgIftUd23TmFxp0dZ6zSxggnUH3BGNaKFii63WVmXPcavNwTFaCsLQ0Oq+8d+VKU5CR8netWgvwLDbI3hoggW5tB/aHiHFq9CEAHJz3OKl7YhqwQ3ZH4e3HXIKBDjEc7xJ1JUfT4GKJ7Sp8pr8RnNrk8hU8hSVBmH9ocIOVKOwSCP9VW/yRpq84MXbw5eVhydIcRC5VtpiR5Cg7NXrgqWB5QMjIGmmpFdtNwu8KwS41vkOIckpSPEofUW4zaToGwRg7kZG/ofWl6oqIzjMGKhyRcX28rQ42AcalIUBolOmQgYA3VnamLtqeDD3jbmFLZa6ilO5S0lX2dyf+xR18wWOPUQV2cDNxkFTi3XcJSp5aipTh3ySd96KRXiUsSng6lTa+Y5SrQj2oqcoRptotLk51b0Vb6wPKZjiuZ1Y+1oH9I/mOp30GlNXbEISGGGUpXcnifCsNnyND95wk6k91nU7DG1FFV5xsiqn7JHzkvPwJ6rTw+lUm8v6SJ7g1GNwnsB32G2pqa4hivoUi3p8Vcp69FJaSpzGN8JH+TRRWW8eCytWkjxJZLx0XjJtklt6Az1JClDJDWQElXbGcdwMZ2oooorXRJfD/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Outside (feat. Ellie Goulding)</div>
+                                    <div class="artist">Calvin Harris</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBgQB/8QAMhAAAgEDAgUBBgQHAAAAAAAAAQIDBAURAAYSEyExQWEHFBUiUYFCcaGxFiMycpHB8P/EABgBAAIDAAAAAAAAAAAAAAAAAAIDAAEE/8QAHBEBAQACAwEBAAAAAAAAAAAAAQACEQMhQTFR/9oADAMBAAIRAxEAPwCN7UFt5zy19U0FUs6NCeHIABy2evn8vHrq7bU3Pbai0xQVdSY5gSAWjZS65PUDt+uoptqnstYkEdwqI6Ofj4uYzFg32C9D+Zxqs7ev+0pnpLLTtUVfFmNpWLj5VBLHwAT6DVmLpSap0N2y7YtN8iWpp7kOFHbqyZVn7AZbGT6anW4bLZ7ZWypUVXvVYc8MUfVfPfGfTyNaOt3laIrVRi3qot3vklOlPGSJIozw/MQT1H069T50i9oc22/izLZFaGCKNDwIh/nP+LiOen20nDictvyecphoe7I334ZxxJQFkqM8LR5wB075+v8A3TRp/svbNBft1ua0kULAyrGrYLfQEjsNGjON9heY8JDQWumqI443Mp65xxY76s/s/wBi2KOinqOW61KwvwTPITy2ZSCwHbONS20z0qsrGhPFgD5Z3/3nVBSsrKixGns1RLRyyI0bq+HVwwIxnGR9tatH5ZFf2l21uX/Eluoq2VZLa9anNQjAcKTgn/P186bbz92uO5ahreqrFEvKIxhVK+fv++snNBLSSyFgwmppuFwPwnPT9QdVqwyUosTVAtcUNJK3MVYIi5ceGZj3PoO2g30kb9G5vZ3JVW2KIxvSpXCkciGQ/wBSluhJXzo15Re5UFvvNzWomWpqUWlSORAjR+fkBOcaNSlnbVTSqUzE4wB3U6pG1hHFw8aMD/aRo0ad5Jys1RbNrbhd9yzXKEJHWIwhZVwpfiyGwOvTH76d+ze2XOhtFRQ3VGRInPJXh7A9T189dGjSwiV1Lt02WmapaZqYPL2DlcnRo0apCLF6v//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Complicated</div>
+                                    <div class="artist">Avril Lavigne</div>
                                 </div>
                             </div>
                         </div>
@@ -536,7 +536,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Nov 2023, 13:05:40 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2023, 14:09:12 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
