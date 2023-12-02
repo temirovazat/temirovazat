@@ -475,6 +475,27 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcCA//EAC4QAAEDAwMDBAECBwAAAAAAAAECAwQABREGEiExQVETImFxkTKxBxYjJKHBwv/EABkBAQEAAwEAAAAAAAAAAAAAAAMBAAIEBf/EAB4RAAIDAAIDAQAAAAAAAAAAAAECAAMREiEiMVEj/9oADAMBAAIRAxEAPwBpvdpjx98y0vCXbs+7YdxaPz5Hz+a8Zt7vSVMswZKUQ1oCUkD3IX069x8dqoUBqzNyLxLeeQhCNvpuZI4xkYB56/mmW2S2Lla4E2CzmM5haio7dmFEfZHBrgbz8kORl/RceK6tVahszxU4h6fIbcCEocUEZKunkkfjFcN37VWsLqwLsGbZao5DhixyR6qucFaickZ7cD4p3iqj3dzYzDC3GiF+446dDk9RVRqS5MWSyP3R5DKW0PpYcbKuSnGcgAcnJ6eOaxGYDN9yilFPL5Lmw2GLLuHpTZTaQjkshWFLPj6/zRSZrXZfUyJUF9DLzraHHPTyFkK5UVc4TnOdoPbrRVrvRRhEOy1+XUyj+Ypi7U5bXnUzVPKBGUFxaTnpnxnvWm6clux7iwbpGTIYkbVJjGUWEApwAVED79vGat9JaNf1KJMv0YtkktuJAcRHO59Pfk/v2Pmnq0aOtVoYUwu2sPpWcrW8Q6VqznOSAc/tSKvwdTatgo7ntIebYG9oJeUhx11YYAHJHBSPBGcp84rIP4hynUQ1S4yk+s8+nEWQ3lQSUgZKDyDg9a3i9PF22uIKDjHQkDj4zxWGaghNO77jITw08hsOBPuQn8cj7qtWSOpTbgiXqN6NDu39SelEeQw2t2NkgBSRhOMDITwOKKnzLbFXLcd1FGRcIuBtfZAbcSMdSof7GPmijNIHvYTHkdE0kXKXHirfZdeQ64QQEf8AXn7ro60mOMpZedASOCrqaKK9Zq1nGHaSo2qJUcBaX33UJV+nf+od+tLmppjc9z+xYLDC/e41uON/Qkc+KKKMKNiMSRkiW6OY7SnpLaVxWspXHUopUnAwSCP0nv3+qKKKZUGQS5HQn//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In The Dark (feat. Tailor)</div>
+                                    <div class="artist">Jerro</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAMGAQIHBP/EACcQAAEDAwMEAgMBAAAAAAAAAAEAAhEDBCEFEjETFEFhUoEiUXGR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQIRExIx/9oADAMBAAIRAxEAPwCkmABgLEj4hZA3FoAOcYElWuw0HTaVnSr39xcOdVdHRbbu3NEiTieJHmfC8CKzb45KnI+ISR8QrKdH0oNdUNxqAc10mj2joAmI3cz9fflT3+g6bUtK1axubhr6Li00X27txyY5jn9c+FecmKoIIOAiEQ54MgjGcIsIltKxt7uhWaAXMcHAHjldKN9c6rbWdxbmwdVY11F1B1xJ2uLZ3SDj8c+vC5eeAtqVV9J003Fp9FbpfysSv5q6jtq1QLAdV7XGn3gLtwkRtImCDBxBC9rbu40ijqV5XNiLm5cN1LuTucQTJBgYM4zx4XN+4O/f0qW6ZmDM/wCqOrVfVM1Hl39K11w1Jd1jcXVes4AOe4uIBxyihHBRckDmMhI9hEQI9hI9hEQBichERB//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">This Is the Last Time</div>
+                                    <div class="artist">Keane</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwEDCAL/xAAxEAACAQMDAQUGBgMAAAAAAAABAgMABBEFEiEGBxMxYXEUIkFRkaEVMkNigbHB4fH/xAAWAQEBAQAAAAAAAAAAAAAAAAAFBAP/xAAfEQACAgICAwEAAAAAAAAAAAAAAQIEAxESQSEjMoH/2gAMAwEAAhEDEQA/AJ5pnSIkE8L86z0zdakl4Zrdo2C3MAk7xsDYW5APmRWmVgqe94YqQ7P1t7+8uYruVYrZXR5GI5IUscDHh607n0sbYJW85EX0fGlHtB1AwWAs1/WRpGP7Vxx9T9qYr69EOlzXcG2YLGXXnIb6VQVp1rqfVuq3PtUCKlum07fdCAt4euOSfKi68OU030J2Jag9HmWYFmBkDjAYOPjkUUv2+sW11PKCWRWYlc/L4UUz4CUn2Nt1a2xt4t3fd40YJ2+HP8VMdm2kWt5NqSpcSxQTMsXAJZiF55xgeNL8lzcKoVZnVAuAA3FWN2NyM+h3wJc4um5Y5ycf6qWzyjjb2UVXFz1oYdQs0tNDewtsrlNoAP39a581DRZenoNRsoH2/iMwbOSWCDxB8s5rojWyVJfI4/LVKdZXnt/UJ2AI0UQRj55J/wA1PTTcim29QFrS9ItlQNKCZAMYzxRUjpySLIzF155PFFJNaDObfZISRswGMYx86s/sls2t9EupnOTNOceg/wC0UVLdfq/SmkvYT/VG9LNZIlDNuC4IJ/qqP6h3HqW9Jj7sNsHPxG0DNFFYUfoquLcDTbxtGW3Yx60UUUkwpI//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In My Dreams</div>
+                                    <div class="artist">Menino</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQGBwX/xAAsEAABAwMEAAUDBQEAAAAAAAABAgMEAAURBhIhMRNBUWFxI1KBBxUikaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAQBAwUG/8QAIBEAAgIBBAMBAAAAAAAAAAAAAAECAyEEERITMUFRYf/aAAwDAQACEQMRAD8As48DJHFNqtIWMgc/FPQ8V2YyUkDIFNqySNfURrb3Rmur2f223Dw3gzKfcS2zwFHORkgH0FNC0OpYaDmVOhIClYHJ8zxxTWvbQq6aptjcMoLyGFLAKuiFZH98iq21Bu525qRx4h/i4MY2rHCgR80R1EuzIu6lw5EM5DWltSPBb5GN23mirl63tb9qsJJOBnjPx60UytQirgIQI5Oz6qRuyfjFdhlGxOd/njr3xUfddR2mwSY0e6TUMvSDhKMZIH3KA6T7mmmNTQJVlfnW+Q08W2S74WRvHpuTnI7H4NVTx7MR32zaS9nMvvjvaseehyS09GLbQSU7uCM5H+1SaZDUaXIajvOeG46pbpeUMOuK5JQBzjNZjpK6IuGv3YEwfWS0p95Cm9neCCT6cj5z81b3hiJc2JMq3ymnpUBJWhMdxJ2KCThJI6yOPzSFnOclKCwjoJ6qmmK09jzt5/SxlwY0x1tcgLWWzuQneQEq9Rg90Vg0D9bLhKsjjTdo8G6owkPOKy1j7iO8+3X/ACimsfDH7rljYze/396dNkXGU4l65yDjdjGxPkAPIAUlpfVk/Td4L1sWhxvaEvNqCcOp3AlOSOuMZFFFQy3ivBy71d5l2ucyZKWFSJboccKR5jISlOOgAcY9hWk6SXFtejH7bdI6mpj6y8lTKiFdDBVjvABG3og+oooqEgX1ic+xvPMFuPJTHK8LSpKMEnz4B86KKKkNj//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Never Gonna Not Dance Again
@@ -483,10 +504,11 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAQL/xAAqEAACAgEDAgQGAwAAAAAAAAABAgADEQUSEwRxISMxUQYWIjJBYUKBkv/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgQD/8QAFxEBAQEBAAAAAAAAAAAAAAAAAAESEf/aAAwDAQACEQMRAD8A3iEj+o1CuplAIJMd1XIwDAgiaGYuUYfxM8Gc5R7mJvao/IA7xDj00Iz6jrq6jgsM94RhnjasQ3iRO1/ERAIW0qO8q9tD2Pu5l2+xaMR0lrPjnrALHP1TlbUarT/mRF0xcv5hGM5ke2t8gA5Se5lPel1XHKvh+4n03T3i85uTb3hqq0t1mpZJyxz3hK41dm5gbU/1CHaWmbvrtm/72H9xu2sW8g807c5HjCEisktS13XXHT1uV2/fr6RhXrNqMW5GBhCFPVKNrtnJv3tkwhCHS7X/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwIDBAj/xAAsEAABAwMEAAQGAwEAAAAAAAABAgMEAAURBhIhMRMiUXEHFCNBYZEyYqHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APS61VwSlZHNb31lOcGk899XOKDkkvBJV5hUfuEkJJO4fus5chQUrzA8+tRydKCgsHcT7Gg3SJfHCk80VHX56UDAQSR/Wigvd5wY7pPPUNqjuAAGe6H5zYUWy6jxQN2zcM49celJ504DKTuoEj92tjlzet6Z0Yzk8qjhY3jjPI7pXLUG21rdUhCATkk4H+mqL13eGrbriddrJPaluLXu8ZrjwnM4KfQ9d85rrd1dP11Ei2JNvKS+4j5x9tRI2g5JHHl6z3+KCc6hujNs8FUhLn1VlKQgZJ4zn2xRUVlXaPc7pGhPNrix2d7CHGzu2pIThXP32iigt/Uum9PamdcXPa2THUhPzTThQ6kDrBz1+OqqL4h6bcstlfkyta3GSyPLHiuKJUtR6SSFdY++OqKKCqPoKtiA0AZPiHOCSSParD+FV+i2G3XCPcEutrecS4jj+Qxj/veiigZsTWHkPzJsltCpBBcjhnylYztO/JAPP64ooooP/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Homegrown</div>
-                                    <div class="artist">Haux</div>
+                                    <div class="name">Solitaires (feat. Travis Scott)
+Explicit content</div>
+                                    <div class="artist">Future</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -494,28 +516,6 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Wicked Games (feat. Anna Naklab) [Radio Edit]</div>
                                     <div class="artist">Parra for Cuva</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAYHCAMEBf/EADMQAAEDAwMCAwYEBwAAAAAAAAECAwQABREGEiExQQdRYQgTFCIygRUWQnEjM2KCocHh/8QAGQEBAQADAQAAAAAAAAAAAAAAAwQAAQUC/8QAIhEAAQMEAQUBAAAAAAAAAAAAAAECAwQREjFBEyEiMnFR/9oADAMBAAIRAxEAPwDUrzqGWluOHCEAlR9KiF715Dt7nw0eLJm3FSSWoUdPvHl+u1Odo/qUQKl7raXmltuDchYKVA9wags+yXSyPOSLWDIZx/MawJCB5KBGHAPXn0J5oJnPbZW6KIGxuuj98fhVHijK17JZ/GtP3u6wJjEoJctjgSyiMjaTnP0rAx8xJI8qu7w01A7qrQNivclCUSJkVDjoSMDf0Vj0yDWSNU+L98/Md4g3CFGlW9Tj0csbigqyNpXv5PnwOAT06Vb3s1+JsO52q36RchPxpEGOlDa/qQockZOOCc4564rIldZctcG52sVUw3yaApSlOTHEpd35DiNuemznH75rlOktw4635L6GmkjJUodOvrz/AMr1dqorx5eu8WWNR2p1bkWzoMeVDKvkW05grVjz4Az1GM9qOV+CCwx9R1jI+p3kK1FdZUVbnu1vObTu5UCrOc+XfFaa9nbTkyyWSJKmMlhd1calMJWPn2BWATwOCMfbnvWePD6wnU+t7dbY7RdjLlJceJOSlhKsqz/aPua3fZWVXW7C4pQEQI/8NjHReMgBOP0p5/c+gFeJfKzU2JF4Xcuu5KEpcyNy0keQTj/dK6UpyYGqr1syp9V4t4KSZUpprBHZYSMf5pSpKz1T6XUHuvw+VdNL2zQt5SqBbm4tkm/LmOnbsVySlWOT3IPlkdqsfR88PQ/glqBcjJAQofrbP0kfbj7UpRNXGosnIzkzpUcu0JFSlK6Byz//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Cool for the Summer
-Explicit content</div>
-                                    <div class="artist">Demi Lovato</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAUBBAYCAwf/xAAtEAABAwMDAwEHBQAAAAAAAAABAgMEAAUREiExBhNhQRQiMlFicZEVQoKx4f/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMFBP/EABsRAAMBAAMBAAAAAAAAAAAAAAABAhEDEiEx/9oADAMBAAIRAxEAPwDM3243MXq4pTcZyQJTuAJC8Aaz5qou9T22gg3GdrV6+0r5/NPr1FC+oJaQnZclzO31mlc61truDTSV7nJOnhA9STW/i6/DJ16KmbvdnFLAuc/CTx7Qvj803RcbgpoKTcJ6FgDIMhe/nmlzzLdudL8JRcP1Db5U5sjKpcdL84awpRCVZ97ztxikSQ9N4c7PKupvluCrhOUlUhvIL6yMah5orR2OOwm6QgCkp7yNJPPI2ooXM6SG8JukF39XlOMqClF9w4/lSPql7U620hJAS1lYB9c0/ushTd1mKRHlLJedwUtK23PrjxSd2LIuEp3Wh/WUg6Ck6gk8E/IbH8UHazGyKfdM4mMVJKQlW5+EIP3xmtH08w25DWkIS0pBxo34PrvTWzWaTGQ1Kdb/AHgDWFA5BOTxg4H+VE0SpF5Mh5x51GcJbSkgA8eoFVLkSbHpahjZLE6uXGeQtJ0PI1DPPvCim/Tc1kuR0tpUtIe0FaElQCsjIJHBHmijXIhVLR4/fI/UYv1y7Ma5doyXdJSy7xrOMYGMYqkprqoOa0RrjnYElh3JH3oop1Xg+ellR6lLBHYvOojjtO4/qqLzHUUlAQ9CvOlHwe698vAooqdgYdfSDF+t9/gNx7RdmY65bRcPbd0/GMk7YxiiiiueqelylH//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Thrive</div>
-                                    <div class="artist">Yoe Mase</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAvEAABAwIEAwcDBQAAAAAAAAABAgMEABEFEiExBxNBBiJRYXGBkRShsRYyYrLh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQMEAAIF/8QAHxEAAgIBBQEBAAAAAAAAAAAAAAECAxEEEhMhMSJR/9oADAMBAAIRAxEAPwDeIEaO9HBcazr1tvci9j6V6dw2KohYYWFtIVb4IufjpTmMw8lHLYKAnUajx3p5Hiu3HNcTkGgA6enzV87e28g4WvTHeKJbZkQY7KLu8k6+ZUSfvWqYGbdnoNr3MZv+orGeJMwKxKI0QUOttquPLMbA+fX3q99kMcVMVgLIJLbcBTLqgbpzAIIuRoDWw3BNHTX20WRxpQVdQIoqRcZSnUrTbfU0UVYbYN4eKQJhshSUHoF0pjGKYbgkBcua93AMwCTcnxtXMr/E2DAUhGV515b/ACcrKs9jpmO3S+3Wp3E8ehYs2qPMnPISAMuZJIv6AXqZaWUn1IfK+v3In2/xBqZjBkRFodS4sgK2CUpTc/c1dOEmLQUYerC5C0tS0nnJ0/cki/huLePWsoWphYKFJKm0Xym9t996XhYg3BlpeZ57UhWgW2AfbeqnW1DYJVqU950aqfh+VWeUgX8f9orBP1glzUOPKUNyrb4FFcKl/ox6o51wzFHIcyPJzEllzmgHXvdDV3Y4gTpGf6glto2ylpWVXybiiik13Tg8RfpFOCfbHrPaJE4FtU6R3hYtu2/Ntfak3XZIaKG3kLT/ACJBoor0q3yxzJErk4vCIt96WpBCgC50UD+CTRRRR4Yh5Gf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Freesol (feat. Skyler Stonestreet)</div>
-                                    <div class="artist">Seven Lions</div>
                                 </div>
                             </div>
                         </div>
@@ -536,7 +536,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2023, 02:04:49 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2023, 03:03:08 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
