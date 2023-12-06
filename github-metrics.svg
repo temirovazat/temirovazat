@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7693 Commits
+                            8194 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -483,13 +483,6 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBwgB/8QALhAAAgEDAgQEBAcAAAAAAAAAAQIDAAQRBQYSEyEiMVFhcRQyQYFCQ2KRocHR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAwIBBAD/xAAcEQADAQEBAAMAAAAAAAAAAAAAAQIREgMhMUH/2gAMAwEAAhEDEQA/ANcmTmgKcMPOqXSYntZEScgx4xk+VLbW07+gJFUduE5KfFOig9qliBn09aPRWEyzMvL5CcH4SJPp+1ItV0xFbmN0FUyqID8w4Ki957gihtZBGeJVzkr1xVKW/oncIfeOprYxTQqQQT50Vl+7tda4nfuJzRSKTzZ0udQFjE7xWs9y4XtEanH3P+A1H3enbi3VqMEusxpZ2MDllXBUIP0gnJPqatYJBbSBuL6Yakm5txQ2tu4DDPvQy3+FMltX1y5sZp9Pa9vXSEnMhl7T0x55/moaXcVsnxEDECKRyxBY+HhS7dW4RdXMhQgN4E1Ez3QkclmHX1rr8qqGqkO0q+GN9w2Nmga5tb+2kz+Rxd6/0TRU3PcxqcHxopLrt9ckyuVmnUWv68ltE5DdRWHb13c0jsOInr4ZooovGEzbbM9utaEqt8/PJ8Qw4ce2M5+9Jprp89WNFFdalILTyW+kkxxMSPeiiipN0//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Dusk Till Dawn (feat. Sia) [Radio Edit]</div>
-                                    <div class="artist">ZAYN</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQCAwYBBQf/xAApEAACAgEDAwMDBQAAAAAAAAABAgADEQQSIRMxQQVhkRQjUXGBobHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMFBAD/xAAeEQACAgIDAQEAAAAAAAAAAAAAAQMRAiEEEhORQf/aAAwDAQACEQMRAD8A++26wK5UoeN38RV/UBtZumeG24zzI216g3u3T7+cDtKrqbn2/ZBJzuO3zmLyll/L+DsIINdq+jNVnWqD4K58StiC7L5ABiw+qRVAVgM+FlCagn166rnaaR8g/wCzdx5HIqa2ifyolFladpjTCEmwhNKMwzrde2nuZAiMoGc5PH6zlGqe24KyqAc4IJlmsr04JN1bsHznDcfGIVU1CxmRG3DGCXyMe3EmY+npV6KeTh8k+uyVmApP4mRa/Z6/prHJRGYqARzhuMn9zNRrrRTS2XVWIOM9phNZerOl+lY2bSG6rc7iOfiVIad2yTJ2VNI2riE4jdSpHUghlDcGEAM9NtR7D4kG1PsIQikNaENWiah91j2ZB4xjH9TzafTNNRa7rZawYYKtgr3J7Y94QhLBHdmhqkdMIOvYVXsuABj8cCEIQqBez//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Baila Morena (feat. Maná)</div>
@@ -504,18 +497,25 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAYHAQMF/8QALhAAAQIFAwMCBAcAAAAAAAAAAQIDAAQFBhESITEHE0FCcRRRYdEWFyIygZHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQARAkFR/9oADAMBAAIRAxEAPwClce0ZCRjiOmbcq8zab9w0+WW/TJZ5LUwtsalM5SlWpSR6cK58ecR1rMsirXbTH5ykIYcbZmG5ZXcf0HU4cJwMcbjzFW+lFwB9IwR/cWY90grTLy23Z+321oJSpKqokFJzwQU7RqkullcfklzImKI1KpmFy6Xn59CUuLScK0qKdxkH/cuRr8q27K1AnSdOCc4OPP2hEsu+05y2pVh2dm6S+h8qQn4KbQ8UkJJ3ATsN4QgWHpKX9K7rnrP6H3LWqehp59iry6C1MJKkOIUhoKSfOCCeIsPpZcVkVWkzk5a4TSZqZn5N+epTrgAl1B1I1IHGgk8jbPgcRQNi9RHbWtqeojlCpFYp84+macaqCFKGoISBsNvTnjmMVDqBJLmHXhZ1tyyFjR22ZfCRyNv059OdyYEZOjApZfHR+8qpedwT9PlJB2SnJ155pRn2gSlSyRsVZGx4ju2dSbqFjM25UrJt6uyNMnntBm6oloodCiFbA74JIBG2IrH8wab3Qv8ACtACeNHw+R7/ALc+fn4jSvqBJ9sgWtQSc8CXTnf6lHiLLW1i9XbbpdJ6YylSXblJt64V1EsqYkJ3v6mu0s5yFb7ge384hFV3le8rcUlKy8vatCoq2FKUX6cz23HcoKcKPkb594QmWehWiC31rBSSQjAGnPyA+0aVQhGbWZCciA8whFMPvCEIqv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAAUGBwMCBAj/xAAzEAABAgUDAQYDCAMAAAAAAAABAgMABAUGERIhQQcTIjEyUWFxocEUFSMlQlJy0ZGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAAIDAf/EACURAAICAgEDAwUAAAAAAAAAAAECAAMEESEFEiIUMWEVMkGR4f/aAAwDAQACEQMRAD8AQyfSG42JZDKpK3XiE4K1rJUT657PML6x0wuOlSi52cZtdKEZ2ShWTtjGNOPffmPout1eRokqXZ1waz5Gk7rWfQD6naMSv+9R2a5upEkLVpYlUHwA3xn/AKTHKEd/JuBHYwqdFm4AkHMWjWJ1pTSWKC1rAOtlvQRz5gNo5NdLa66hK0vSGFHb8VX+fL4RRNzd5sUVVfdtF1NCQntFPL1I7nrknOPfTiNBs+v026aEp6moKHG+65LKPebUR8x6HmJc6r9slGNh3ntU8zK5XpxWnWVyKfuXUchLyydRPjsrTmCNp1ykuUobWO0HmSlOojfwzxBGJsP4hf0qiRoTMT80qYm3HXnV+ZxZyfnE5OKpdJ6r2s/dCPyNvDjmtGpGcqwVDkBWgn2jSWW5dkYSkKPxhNeFsS10yCWJhRZeaJUy8kZKDyCOQfSCrMgtx7Ca5mObaSqe8vHGbUvutvS71Sr10yM68T2bCnE02S0JyAVI0pyM8lRyRtGI2NKy1P6m3RIUCaW7RWi4226FZ1pDgCd+eRnkbx3boN+yVBNvM3OxLUAagW23SgaVHJBwnUQc+GcGGVvSMha1OMpTHC9MOHU/MKTgrPAA4AiqobOFEVYWFatodxoCVr77Uk13cF39KR9YIm9SnlFS3QOTmCCBirry5Mf909A9RqGgDTMqV8GVfUQtnuosk6CGZlaR/BX9QQRRGCnehEJ6ld8RI/d0s8SXJxf+qv6jxRdEg2kn7QtXsEHf5QQQV6xwNACUPUbviJqrcy58FvWWmP2Jzv8AE8wQQQWvU7EGgo/X9iqx3sbuZjuf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Taking Over (feat. Alexa Lusader)</div>
-                                    <div class="artist">OLWIK</div>
+                                    <div class="name">In My Mind (feat. Mi Manchi)</div>
+                                    <div class="artist">LVNDSCAPE</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAwQHAQL/xAAzEAABAwMCAwUHAwUAAAAAAAABAgMEAAUREiEGE0EiMVFhkQcUI3F0gaEVFnJzo7LB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwUA/8QAHxEAAgIBBQEBAAAAAAAAAAAAAAECERIDBCExQVET/9oADAMBAAIRAxEAPwDnCuMYttwjhGMYwSdJukwAvk9dCd0tfbUrzrbsTDVyjSJ0icJT/NCVpUo8xalb5wdz/I7VEqvCbpdrbFYitxobDigy0hOonPVXidvIVXx+ImU8RM8sNhxLeHOxpCUgjw7yN6zNdz6S8NTbwhJZSZXw+G1SJfur61RCpOpPYyk+nXFRnFc632W5TbbynpUuOoJC9YQ2SQDv17j61bp4jbVGaM2Sl1aie02nAx02J764pJdZmX2W7eZT0R1xSnF4Y1FKidk4zsMdendUto84vNcorvNP8pLB8MzzbwZiUxkoUy0s45evUnvzmipuTIwvLZPZV2TjFFaCg64MxyVlAxcIMWKtNqYc96UD8dacq+xr4sim4MpcqYVKCkkLb09D41qxr5eWyVRFKZO4BZaCSB5HGfzWARrjLWtSmJbzijqUdClEnzoYt3Z2aXQ1n3Jhl5MmEZAj4IQ26R3jboO784+dJ3bi4uDIRIQ2+5KXzC4tPbQQeh8xtjwpgxwjxDOwItmnOD+kQPzT9j2b3tlhS5ttU26GwpvmupCdXgcnGMU8dNLwD1ZS9INlxxn4iTpKhpz5f91oq1/aymQ9+pTbKytQ21z2ipJ+SSaKa2JSKMcfQkJ+G82PprOyn0LilGvD7SFp2aduyh4Jeajj+2j/AHRRU8b7bHTXwXy+OX5CTqjvvfU3B90egUBU1cOIXluKKYFtbJ6+7hZ9Vk0UUIwVhlJ0Knr1PUOy+lseDTaEf4gUUUVZRXwnb+n/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGAgQH/8QALhAAAQMDAwIEBgIDAAAAAAAAAQIDBAAFERIhMQZhE0FRcRQVIjKhsVKBkcHw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUCA//EAB4RAAIDAQACAwAAAAAAAAAAAAECAAMRBBIxITKh/9oADAMBAAIRAxEAPwDMRhcmQ0y2CVuKCU8nf+t6b2NmCbm3Bmx5Mme6sJQw0rSlOxOVq8uPzW7Yl+xsSZsmA6pXgHw1lJw3kbOY8xx6DvTbplLNpj2yTMw8iUjxHFOEa3nlDSNONzpQSSd8YwDk1Y672VT4fknctCkgvNzelLszclyG7VBERxKm2mlTNO+NjuOe2SM9qXyoTBmx7fGtlwgXI51xHyHAU7fUhQ+4VWPPhy0225WqUi4RSAl6MtByWicbDP04G2Rz6Vi6Wd+Var3GeeUpVscEq3vqSA42cagAoHgAY43z2onJ1u4BJi+nmRNAEhpEVxD5akJCQnlBOTnv6e1FPOpJIuEliZ8Oph11lJcBH3Kxzj/tqKs1nyXTI9i+LYIus93S80qDe5LyraWlpwN8eYztkjtXW2qLcLDFaUt5hcUqXb5ak/UQNsD9f48xUwynUtCSCQSBgHFUFtnSHU/Ar8X5bHOvJ0jRvnY4JJzxvRbUC/IiqbGYYZZtw5FnhWZqJ8uTIiJzKecTlSlE5UgJHkNxv/qnHUF3t1vQpLg0RJLiVvPBBKShW445yPxUpbGpDr7q3bU88uUo61uu7rGc77YztnannULK3IbMJcaSYqUgqbjJDiWyNgBkZO3ehCtVYRhdmUyB6xhQrlc3UtyZTzCBpaUHVICOyQDxxz6UVh5KUvuJQhSEhRASo5I7GiqS0pg2TGtbTkWW1JVPjBKNavEThPqc8UzVcWokYKbKA4SVrSsj7yfP2GNqKKzb7AnWg4CZadH3yAIWZFwY+KfUNSVPJJwOOOPanypRduiG5bgZYaVrCSsBK/4k+vtxRRQXUBjHKxKiea3VBbukwEYIeX+zRRRVMehJTfYz/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Chandon et Moët (feat. Heuss L'enfoiré)
+                                    <div class="name">Big Energy
 Explicit content</div>
-                                    <div class="artist">PLK</div>
+                                    <div class="artist">Latto</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUHBggE/8QAMRAAAQIFAwIFAgUFAAAAAAAAAQIDAAQFBhEHEiETMRQiQWGBUXEVFyMywWNyobLR/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgAB/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAAwQREiExMlFx/9oADAMBAAIRAxEAPwC83BcT0hVnZZDqUpSEnBSD3GYxtzaqooU/SpZ6abU9OPbOilAKynBGRyAPMU9+/OIR6r1ByWvmcQlSgAhvt/YI531ZqC13VSJ1RUOikDPr5V5/mIyi18gryOu5RNSLUH18nYgvN3jLp+GoYyFzl/O544A3H9PH8RAG7kW4SUqOPvD6g1xxZmhlSylkqHPb3hNbcpG7MZOHWV2J0BJT6ZhwJC8kjPbEETq1ri6txSkuVq2uBIG5OM5EEWMXINinl5Em30GttTBazzAb1BqAPohr/QRzlqdM9atMtj9qG9w+6if+CLjr5UWmNTKowp7pr6bHOP6aTEOuuqSv4tLeHlWpvY350vpURuPpwQcevzHVpq0tqMWNugD8j+mVttmnSoWFbg0keU+wjT0G45UeJQoOdR1spbPGAcHv9PjmJ2rK/DhTXRcWkKUnbgZ9vaNLR5MtKS4cjHrGXRfMLXY3rLFb0+n8w6A0wlQQXGkcnOQT39oIy1lzb8xqVbi18bp1pJwMAgHjiCNU1AgmAy2JYb+R9rjpvd1xak1GpUWjOTUi42ylDqXm0hRS2AeCoHuPpE+ldEb8E2p9+hP78kpX12vKMHjG/wCIIIZK9mLrYdCe+a0hv1YlVqoM06lrgo8QzkDPOMqjU0nTO7kMBExQ3WiOx6rR/wAboIIG9Kkdwi3sDHVp6c3ZT71o1Qfp6RKMzSFvL6iAUpzknGefiCCCPUrCiYtsLnZn/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Feel</div>
+                                    <div class="artist">Robbie Williams</div>
                                 </div>
                             </div>
                         </div>
@@ -536,7 +536,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2023, 10:08:52 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2023, 11:05:35 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
