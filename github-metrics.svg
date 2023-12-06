@@ -475,25 +475,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMFBAEC/8QAKRAAAQMDAgQHAQEAAAAAAAAAAQIDEQAEIQUSEzFBYQYUIlFxgaEykf/EABgBAQEBAQEAAAAAAAAAAAAAAAQABQID/8QAHhEBAAMAAgMBAQAAAAAAAAAAAQACEQMEEhMVMXH/2gAMAwEAAhEDEQA/ALfWZq7o3h1/VdNVdWzg3puEscMp6GJVPbd+VESkqJ2pUr4FUbDWb3T7dTFo8UNlRUQEgmSnafysSlMRuOM173HSqaS4/wCC3m0OK842UNSVktnCQognBzgTFSdX0NdhpVlqAd4jdySNpTBRiUznqnPanq8R60XID5StMLkIGIJPQZyTjrWa/wBX1HUmFNPPl9l1YXwwkAJKRA2+wj2pNuttVrVhTsgg2JJH7RTS0sEgtq9P9Y5UUO1LUcsJF1vW5tUZssAPKE7wlSlwCU9enzS3gGrYNpCErT/Uj1bprHPcx0zTHH3XQA64pUcpNaP0T1eGYhhM7577fPdF1kdd1qrF2lhNqu6YMbni4AY68zJ+6vBzzBQ2rY0QqQuYAHx71BRpt6hTShqrvoTt28IFKxM5zM/dOcsN6nD5q6RvcDh4a47QMcqOdu4/v9iXqUT8ll8hTbigptCt0KSFTv70VE0e1ctEOh1TqgVY4jm89c9hyH1RXnzcry21nfDxHFXxJvAzk12OWKKKPETp+a8xmiiqU7H+0UUVSn//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Relax, Take It Easy</div>
-                                    <div class="artist">MIKA</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAYHCAECBQn/xAArEAABAwQBAQgBBQAAAAAAAAABAgMEAAUGERIhBwgTIjFBUWGRFBUyUnH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A07XfiuV6vKbmbLjF2uiUBa4cV2QlJHQlKSQPyKCF2HOJKsquUW/qagoVPVBhxXFhJISdch08xUeJ9fQ1ZFYexHP37P2hwcju7oeWZXKYVp3yQ70WoD2UB1BH+Vt5l1uQw28wtLjTiQtC0nYUkjYIPxqg86UpQKi3aozIkdnGRtQ+XjKhL6JGyU+qgPvjupTUJ7U86t2F2lCZ6JK5NwbeajJZQFeYJ9VbI0NkUGHRHS9kqmnwkx3dcfjiR0r6H2qM1DtcKLHRwYZYQ22j+qUpAA/ArBEe2mVAiFDB/c2nuXihekeGB/Hjr131+tVtzBsshZbbnX4DT7X6cpbcQ8ADsj6JHtQSSlKUCqS7yttyuYrGJWGW2TOkRlyA94DQc4BQRrYPzo9aUoKPtGZZzPvK7ZbbE5IujPNC2G2wVp4nzDWumjWhu73EyVmz3qRmFvkQZsiUgoQ+2EFSUo1sAe1KUFr0pSg//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Always</div>
                                     <div class="artist">Gavin James</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEECAP/xAAuEAACAQMCBQIGAQUAAAAAAAABAgMABBEFIQYHEjFBE1EUFSJhcaGBUmOCkfD/xAAYAQADAQEAAAAAAAAAAAAAAAADBQYCBP/EACMRAAICAQQCAgMAAAAAAAAAAAECAAMEESExQQUiEhMyM3H/2gAMAwEAAhEDEQA/ALBicqoCE1p6iktxKOklV7YxXpZyDBznaorzR4ml4c4beazlRb+4YJArrkn+ogfjzUBiK1jite5dGwVA2HqYvda0vTXiguJFuJmbKrFhiBnHvjvt3qeaEbXUrZZLN0dcb74K/Yg9q5LTUpJZfiHjJf8AtjC/xntV68kZpNSv2lkWaKSziKuZBkMjHZc9u4z77VZV4VVVe7ewk/lZjZDEgbS0PkCOvXC4yd8ZyKKfQyrtlhv2AorYvZRoIoahWOplPWOsRFSJXCgHc/bGc1BLHRV461e51fXrmX5WkjQ2yIegsgPj2H7J3rXe8X4CaSZSU6G6hnBxg1hdaWx0LTLZWRC0IlIB2BJLkfsUq8Xh/Biy8mPr8lbK/fgR7qvKJI7zq0W+VtLmjLR+suXR/CkjuMZ3/VNOCNUfgniGTQNYMLG7jhZJ48nozt0tkgYHfIFPOB+I49R0WNVIJjwFYnvjuP8AvzSbmHp9vqfMfQ4bUhru5tFB2+kDqIU/jHV/qmWVW9V4VvxYHT+iL67VavQciXfCqW6F3U/QPAopZFM1nBBYwK7oiCMyE5ZgBiiuIY9p4MAchNZzdJGJrd7SVGKynpJXbbz2qDcaQzWF5JCAohib00w2WVQBjP8AFFFE8ax+0r1pC2/qJkh5c8aaVo0B+aztE8Yz9KE+qPC4Hn7/AH9qcckdVbWOY/xHVcypZwv6HUclYVHRGrD/AC9+9FFOL3LLv1OFuJ03YsxLOkeGc92HmiiilD5dinQTSY6Ebz//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Cabeza
-Explicit content</div>
-                                    <div class="artist">OBOY</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -504,10 +489,18 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAIFAwYHBAj/xAAuEAABAwIFAwEHBQAAAAAAAAABAgMRAAQFEiExQQYTUSIHIzJicYHBJFKRobH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAASER/9oADAMBAAIRAxEAPwD58QSQSlsFwj4uD9+akpT2UegGE7fN+KikEtEqXDcD1Tr/ADVtivTeK4VYtXeIWr9sw57tDjkb5c20yDHmoqtzLyQmAY8c1j/UEjNkEmeaHt9ozOWOPFWWEdM4ljFk7e4Za3N1bNLyLUkj4subY6nQUFZcZyn3hSGvrrFKg5285CFKW7+0nSaVRsnQTeDvdRMN482pxlQCUtkwkqkQFRsDrzvE6V1P2p4cgdHXhvnVJWwpDjDbjgOciEgATMwePG5rhqe52ykKCfmMf5VviXUOMX+GW+HXOIKctWU+lopSkSNMxgSrTzWbN6qqClBEpTrG1dx9l+HpPRdouzdUp19S3LhttwDITKYIneByOd64f6yj4gDG/wCassO6gxnD8OfsLfElItHj62QhJEneJEpJHIpdI9PX7eFN4/cM4C0pm0To5rKUqkylPJEQN4mY0pWvvApkqWFjhEc+PNK1EPdholwnJpCIj77zRRZgghQGWTrEDgUpQTVkDUqByx4/qsLZts6ciDM6aUpUE1BsqV2UEOcrO31mlKVR/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUCCP/EACwQAAIBAwIFAwQCAwAAAAAAAAECAwAEEQUhBhITMUFRYbEUIzIzFSIlkaH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMRIQQxQWFxEhMywf/aAAwDAQACEQMRAD8A84WNm91cRQx46kjBVyfJ2ontmhkZH/JTitfhoH+asthjrJ8imM6Lb6npjywukV8szRhGH7O5z7eh9MitH6Sc+JqLQprXH6MW5G0I8OoqWt0Nazys/U+1jP5Y9ceO1ZdrZtczpFHjmY43qQghyGXlYHBBG4Nb2jW0f0q3W4cTqnfbHKxPxS1QFgPMEcbKMR2EWtSsns7mWByOeNirY7ZG1FbHF6ka5fDA/c/yaKddxirkL0mZQwesM3WScP8A08krRGOcz8hEHSO/U7gn2px0xra2ezuRbyG0a6dfyPNgquRu3qe+M7Zx4pK4PONdstx+1R/2r2o6gIVWBR9yKdpM+NwoHxVNrFahYnfUr4jLdyDVb0AyPcYOK9J0hXku447vJwhPODzMRse/qV+fao1t9Nj0qXpwXYg6ycvI4B5sEdiSfP8Av2pfn1SG7ja1ZMQhy0BJy0ft7jxUtlL0VigZd5JkdXHYgZB+aQioSWOh/ZVaLQVWs5ycH1KnEC2gbKNdNcKoWYy9+pn+x70VBxC3+XvcEfuf5NFdLF9/KBaqUua1GhMewvJLS4jmhIEkbBlOM7jcV3NdPPI0khy7bmiiogxIxnUjVsbkfPVqPUbiONUV8qhDLnxRRXSTGLa6HKmV7q6e4meWQ5dyWY48miiihzAZi5y0/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Cold-Blooded</div>
-                                    <div class="artist">Zayde Wølf</div>
+                                    <div class="name">Astronomia (Never Go Home)</div>
+                                    <div class="artist">Tony Igy</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAwQHAQL/xAAzEAABAwMCAwUHAwUAAAAAAAABAgMEAAUREiEGE0EiMVFhkQcUI3F0gaEVFnJzo7LB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwUA/8QAHxEAAgIBBQEBAAAAAAAAAAAAAAECERIDBCExQVET/9oADAMBAAIRAxEAPwDnCuMYttwjhGMYwSdJukwAvk9dCd0tfbUrzrbsTDVyjSJ0icJT/NCVpUo8xalb5wdz/I7VEqvCbpdrbFYitxobDigy0hOonPVXidvIVXx+ImU8RM8sNhxLeHOxpCUgjw7yN6zNdz6S8NTbwhJZSZXw+G1SJfur61RCpOpPYyk+nXFRnFc632W5TbbynpUuOoJC9YQ2SQDv17j61bp4jbVGaM2Sl1aie02nAx02J764pJdZmX2W7eZT0R1xSnF4Y1FKidk4zsMdendUto84vNcorvNP8pLB8MzzbwZiUxkoUy0s45evUnvzmipuTIwvLZPZV2TjFFaCg64MxyVlAxcIMWKtNqYc96UD8dacq+xr4sim4MpcqYVKCkkLb09D41qxr5eWyVRFKZO4BZaCSB5HGfzWARrjLWtSmJbzijqUdClEnzoYt3Z2aXQ1n3Jhl5MmEZAj4IQ26R3jboO784+dJ3bi4uDIRIQ2+5KXzC4tPbQQeh8xtjwpgxwjxDOwItmnOD+kQPzT9j2b3tlhS5ttU26GwpvmupCdXgcnGMU8dNLwD1ZS9INlxxn4iTpKhpz5f91oq1/aymQ9+pTbKytQ21z2ipJ+SSaKa2JSKMcfQkJ+G82PprOyn0LilGvD7SFp2aduyh4Jeajj+2j/AHRRU8b7bHTXwXy+OX5CTqjvvfU3B90egUBU1cOIXluKKYFtbJ6+7hZ9Vk0UUIwVhlJ0Knr1PUOy+lseDTaEf4gUUUVZRXwnb+n/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Chandon et Moët (feat. Heuss L'enfoiré)
+Explicit content</div>
+                                    <div class="artist">PLK</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -515,6 +508,13 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">Feel</div>
                                     <div class="artist">Robbie Williams</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwMECAL/xAAuEAABAwMDAwIEBwEAAAAAAAABAgMEAAUREiExBiJBE2EHFHGRFTJCUYGhsdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAMC/8QAGhEBAQADAQEAAAAAAAAAAAAAABEBAhIUQf/aAAwDAQACEQMRAD8AQrXYbMqLGVOhKy4hClL+cCNjydJ+/wDVeZdmsaYz2mGtpaGVqDnz6VgKCSR28ncCk83aWpKEqfUQhIQnUAdKf2GRxWNVwfPYp4JSrt/KBsfoKy8+lvWzf0byc4b3RilJ6oiaQNXd/hph6/iyZUZmS2gqDJUlaU/pB81DWS3y7ZfLfJcSgtLV2rSrI44PkU6R5UlTjxU1nuGnHAHnNasvis4k6Qu6xpBUpyQjQlOBvhKQlI29gBRVnx2ZLMqc7HjMapLaUp2A0EHOdhk548UU0RUKG31vpZS24XlKCUthJ1E+BjnNPcj4X363dPpvt7QyzASdLjaXQt1okHBWkcb4yM53p7+JV2tUe7u3u2xi1cQ2GhIWd8jYlI8HxnmsPQd5bf6TuQeQ+/ObjOzJEd9HZIb9TIcSSe4gavG2kVzTCTcmWkWawLt6GGJDDT0lx11ISt1IO3dysHBI2xvseauTp+J0eqxW3071b35TjeqUpzdRUoZwk5AASdsYO3vVOJub/wCKI1Ms3OJGgJhNt693me5IKcDOoBeQCMjG/FILiC2tSFpUlQ8EYNKdW2vpa3RxIeXNiyUKWfRCn0AJR48j/aK5SAGPaiqCmkdVMz7nHfv8FUmM0QpUeO56YXjxkg4FSUn4ky5nW8e+PwWG4bLJhot7SR6aI5GC2nP1znyfaiiqKtt+fb5+qRbINvsTLUJcj1GU63FLCkp0HOyR3cD70l3+7m8yG5DkZpl7GFqQANZ/gf8AaKKjlGpooopcv//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Wicked Game</div>
+                                    <div class="artist">Chris Isaak</div>
                                 </div>
                             </div>
                         </div>
@@ -535,7 +535,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2023, 01:03:13 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Dec 2023, 02:07:33 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
