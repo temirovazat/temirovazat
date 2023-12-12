@@ -482,17 +482,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGAwcCBP/EAC4QAAIBAwMCBQMDBQAAAAAAAAECAwAEEQUSITFBBhMUIlEyYXGBsfAHFyNSkf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMSBBMhUSIxMv/aAAwDAQACEQMRAD8A454a0WwvGnXUr30arGzRuYywZ+ynHTPzXu58NB9MWe2kM1w0pj8pEJGOAG3dOScVWMrLIsepW+bDyz5b22CEUn6wQTuxjpn5GRSXUlmtWFhI5a2+stBgiRMkqwz179fx1ppw0fuTLyrFT239Mlk071tvq4kg8oy59KVz8AZbklvbgZIPUAVA32i3lmC1zbvEo4935I/dW/5XVdC10JoDaQktytsC0hLRocKRyuc9M8/mpqTR1udYlihdGibc3mOw2xJ/uSOOPj9OtVMi0Kkych9iGkLc6bcQBDNDIgcbl3KRkfNFW95ZjV7q5XT2ZbSNdoa4kwvAALk9FJx0++Oe5Suv1HDP7mWp3DLIrK0TIq59mCucdueB+3etNOcSSRJKq7Tgq/OB7QSOM98dK+eHRNWs/OmmgaKB1K7p8qCD1PI54+KRSx3gnMsTmQqR74wQAR0oj48zgQEUJf8Ah/V7Cy9Xp10jSPJbv/kjXv1Geemf52pNeWM6zM8gf0e9o/NbO3OCf5xSDT7S/LSuIJpDsKsqthsdjxzjNaySXszsLtpER33ndnaG6E4FHuSADA6AGsGN5LcJY28bPIJZOec4+rHHH2Pc0VX+C/Dcmvadb2Z1OOFVkO0rGXIUhgeMjjmij0gbAGJfGur3V1cqNUvBcyKNzIAoVDxxtXj9TzSnRI/W38BlKQFyPKLPwv3oorMPnUYv4udP/tlAti15NdKbg7SOyshGd27pnPFReraUNFOJCk0btlou/wAg898UUVQ+NQtiT4sjM1GbaSl68/neGnnWdEBMCgFnPfCEYI+2DRRRQKoqMZjc/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcDAgj/xAAwEAABAwMDAgQFAwUAAAAAAAABAgMEAAURBhIhMUETIlFhBxQyUoEVI3EkQpGhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwUE/8QAJxEAAgIBAwMCBwAAAAAAAAAAAQIAEQMSEzEEIWFRgSIyQUJxobH/2gAMAwEAAhEDEQA/ALqLTa7BcYkcQnWo0SKtMV5txSigqzk4Ix4h58x9uajach2GI7FaREmMIgrW4wt1Sl73V/UojbhSvQn0q4XOeuNIQht1lP3BWSc/wK62qQp1tX763sH6inA/Bo7ym1I5ltOVVD6uOJm8lNussxyE3pu8TExZqpJdLiliQ796vLhXtzgUiuGp9MWnUzdjnWi8PXC5Os3B5Tr6QFurTlCF5A4GcYwBmtmXGdMjxVOObwTt2rOMdhjOP9V82/Gawz5XxXfmrgXOQwhuNtLERxxLmANwKkjAA/JqjuGFAVckj5FI+LjjxNd0Zd4L8C9aptdtuUiW/JDUhtxSVu7UgcIAGAkA/T7UVX9FW6a38Mbi3JjXeNIFw8ZPyqC2+nhHmSCOQPTvRU9KP3dqP4nZ06kre3q96mtXINtxJEjYgqQ2pQUU5xgZpQdTR1SkQ7fGeecW54aV7QGgPuJHQZ9smn6VbVDqaTTbnMjoZb2wUzlqO5lx4pBSVbUEH1P/AHt6OgB+kz2J9ZEjaoYaZX8z8y6Wzhx5LaQ2lX2gg4IHrn808tlwbnMOuRi6EodUyreMHck4PANV6VcL1K3xoseEwvnyuP5C0YGVA45GTjp27Uws7l3bShq4R4hSG0+Zh/Jz/BHTjrmqOoq4qt3nPXLS3tOu7FXJC0OIWHLef3kYP1AdwO47iivOukLXp5akLuTK0OIWHLdy83g9QP7gO47iikRqFaq9poYMWpb29Xm6kJjWsF/9KDceWly5qV4DakDdsT9TqueEdefbpUV/UWn5r0CWuA9JemSDDiHw/M9t6rSM42D7j/iiimxrenyCYOowom5X2sAP3Ib900rHhPLZtrio65CbagNJP9QvOcNjdzg87uKnN6ksFgi3Fcdh8MRXkRnFIBX4rp4DbeVZURz6AUUUEtwoJ5uHJ06KctD5aqMJ7yNVCba7bLnW2TCW2tctkAbHMZ2dfMeuR096KKKgmZh2EGfAqtQ9B/J//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Strangers</div>
-                                    <div class="artist">Far Out</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAIGB//EAC0QAAIBAwMCBgEDBQAAAAAAAAECAwAEEQUSITFBBhMUIlFxYTKBoUKRkrHx/8QAGAEBAQADAAAAAAAAAAAAAAAAAwIAAQT/xAAeEQEBAAICAgMAAAAAAAAAAAABAAIRAyEEMRJBUf/aAAwDAQACEQMRAD8A5xawJLHgsfMLe0Z6jHNW9Ihto75ZrzHlxtuEbLvDj88EEfjrS1Mq4xkHnp9VhgsAADn4pd0aboyan4Y5RrG2yW9pW3Xpx38rjmtd1m6tEmln0aWaIySbhGmU8o98HaoA+hxVfTLGS3nhW8hCQsjTlj1YL1AI6HjtzVfV9OihluJIXJhCh0yegbBUE9zg/Haqw9oV58bjiZM50DxhrukTPJDeTMMbWWUlgcdPzx+KK1WNisq4b+nuc0VKUi010iQ3DpG4dB0aoVYqwKnmm2taaYPENzacAJhm2j5AzgfdXbXQ47hJkV+YvbuHO5gMt+3aqxxWzv6p7BL7W7eNrqSOG0ic7fbxyMHjOT0pNr90ZbuZYhsjcjIx8DA/in2nuLe3lWAlxhwNxznbxwPjOf7Ul1Ozb03rVB8rCsydxkDn65pNaOvc3I/LA/ZQjDfls/pxRRBFLcKzQxllXgmihYZt4gR7LVb9Z7g+rhAVF6EKOgz9fvWWga2bLSJd/L+8L/j/AMoopuOhUp7a3lXTYLqz1az89LZWa3JbeN2SRgrtzknnNVPUGexmt1LbUTYc84x1/n/VFFNxFpVmJvl0XS4hblUFvIJI24YsxwecjnOM4PGKKKKDyAMtBdDf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Believe</div>
-                                    <div class="artist">Masove, Jovieson &amp; Tess Burrstone</div>
+                                    <div class="name">Can't Stop Loving You</div>
+                                    <div class="artist">Phil Collins</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -503,10 +496,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYHCP/EACsQAAEEAQMDAgUFAAAAAAAAAAECAwQRAAUSIRMxQVFxBiJhgZEUFTJCof/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9Gw1dsasqFZn4ztVzk2oTlsQHOjXXWClv0B9T9B3yiRj4jhydff0qMvqPR1BDx8JUU7tvvVH742eUKzmegNtR5D+pKUNyUdJ2Qoj5nOSkqJ9Ae/1zU6DrZ1TTgt5BaltqU280e6VA1+D39sC/LVd4ZUkO2e+GBUQaPge5xU5rPXizjGZC1tb0oJ/tQr8X/mS6vIU3pcpbCCtzYQACPufxnN3PiDWYS3Y0ONAcZaaKnyXVJ6SQOVA1SgAeas89sDo6ITL+lxwlIQppIO5PG/i1X6gm++LdS1I6RMjymYhUlxzpydn8loqkqHg5kZurazqM1uDNYgvBvn9PGeUDQNbimwFCx5581XOMNW1ecmVDbGnByG6ylRS/YXtKkp4o1YKh8pFjA37D6JLDbzStza0hSTXjDK2mPLMNBkNBlzm0g8e4F4YQlMvcCFHg8Zm5uhJkBwNzXUhwq3Badw5BB49iRfesMMqqqtBnlaz+7I2q3bqY5UCSSCq7qzdXX0y6jRl7lF3UpCtyUIIABG1JtI+YG6Pa+cMMB+xILTKG96lhIrco8n3wwwyD//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYFBwgCAwT/xAAyEAABAwMCAwUGBwEAAAAAAAABAgMEAAURBhIhMUEHExRxgSIyYZGhsRUjJCVCUVLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFAv/EACERAAIDAAICAgMAAAAAAAAAAAECAAMRBBIFISIxQWHh/9oADAMBAAIRAxEAPwDMjMhtKUBURhwp5lW/KvPCvtTFpPR101fcC3bYzbLeMqWSUtoHmSagLRH8Xc40c4/NcSjOcczirzvOo4cexogWZZjstIDe4ADaoc/dPL70t9xQgAfc1PH8FeQC7nAJDTOwm6R20/usEuH+JCgPQ44ikLVGjrtpSQ2bpEStk+6rJKFj0II+lWhoO+vLbWxOlrkut7u7XnI2kg8STyyD0zXo1DdzcFLhzUl5lTe1QSNwT0B/5XS3r+ZafEhq+yn3KHdkNqaKRFYQoj307sj5qx9KKlNW2CRYLl4eSgp3pDiM/wCTRSqwYaDMK2lq2KMPYnPQdlVqLUsa1tSmobrwWpD7oJSgoSV8h8E48zV5WouWq26e03FkW2f+LJcU05h+OEtPFQ3OpGAs5QoAHiB0xWbm1lCwpJwR1pm07FckrckkqORzAx5mjsTTuxKFNvwmgoDl3vjOy8Wa2219GYbcdCHArucApLhz7KARgK8xiuuPBbXIhuFiAVNICY6kKcWVtj2lZSTjmrbk8TSHpaEtSWWkJLwdWE4SDlQB+P3p81JZ48FyM8++1FgsoUtQSsZAGeJ/s+dTEAnpNWvxttIFq2Z+s/sqnt0miTqBhshIU02U7R0BOaKTNY3Ru632Q/G3eGBCGt3PaOAJ+NFV1VhFyZnMuNlpO7IKpiw3+XZ3B3Ox1rqy6ncg+nT0oopGGiTV2NW3ZfuPMbtduEVju4tvhMHBG5CSDSjqXV121Av9dIPddGkeyj5CiiiWpQdltvPvtXqzeouk5oooppBs/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Electric Glow (feat. Skyler Stonestreet)</div>
-                                    <div class="artist">Tritonal</div>
+                                    <div class="name">Call It Love</div>
+                                    <div class="artist">Felix Jaehn &amp; Ray Dalton</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -514,6 +507,13 @@
                                 <div class="infos">
                                     <div class="name">Want You (feat. Sara Skinner)</div>
                                     <div class="artist">Subtact</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMC/8QAMxAAAQMDAwECDAcAAAAAAAAAAQIDBAAFEQYSITETQQcUFiIyQlFhcYGRoRUkkrHR4fD/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/xAAXEQEBAQEAAAAAAAAAAAAAAAAAEQEh/9oADAMBAAIRAxEAPwDJBNiRFjh5ElTmxO/uCVY9XB6ZzXaQ5YClXiyZe7aSku87VY46Hmoxi/WstoKpzCSUjgqxjitkC52yZNjx03GKgvOJbClL4BJxSTFmTp8X+VGajylT9rLi93rJKfOAwc55T0r0ZenpWqX4iGpSmbagBStx4fVvCgcHBwNo4791RcW/Jt671qd9sNXhZEOAwDkIVtALpzydoAI95rt4Po/Z2IvqJU5IdUtRPJ445/f50Cru4qtBjPqgpfS4kDYF9DjBJ+mRiiliiexVjrwPuBRUUxJ0fa3k7oipUJfd2bm9P6Vc/epqXZ3tO3KBKmPhcNMhCgoNnKglQKgAMjOPfTly/XG9vqY0+wUNZO+U4MAZ9ncPua3DTDb8Ax7hMkvrUrtCoLwArpwO/wCdTMYLlcNIzrp40/HfEJUpxam2u0DhZLeEgE+aDvyevs6ili9SpgXJ5FjUlNqCyWmX0k4TngZ65xT7XVnYh3myQrVhqNOt7JxjO1RKkL+Jynr1pn5P2ns0oNvYUEgDOzk/E1KFtv1lBlNluUFRnCRz6aOo7xz9RRTDybs2zP4exnI55/mio9MYrKG2g2yhKG0YwlIwBwDXbb/hRRTpKb7+a1FpsqUNkdl9G7PsVuA+q6b7eP6oooQIw2BkekKKKKk//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Find the River</div>
+                                    <div class="artist">R.E.M.</div>
                                 </div>
                             </div>
                         </div>
@@ -534,7 +534,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Dec 2023, 18:11:49 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2023, 19:10:00 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
