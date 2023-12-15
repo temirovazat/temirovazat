@@ -475,24 +475,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEDBAL/xAAxEAACAQIFAwEGBQUAAAAAAAABAgMEEQAFBhIhEzFBYRQiMlFxkQcVI4HBJFKhseH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB8RAAICAgIDAQAAAAAAAAAAAAECAAMRIQQSExQxMv/aAAwDAQACEQMRAD8AorLKzoxCmqaKmqKdnG/cpV/puUg+f47YnmVaVmmmeJi8puZKSqjJG89xcm3Nr38/7xWmW1SRO8sjMWHvAcEE+t8XrpCvgpdP/mlXMIw7CMhO7MQNrW/fxg7EXrlfsu4z9tNuIzoeopemUkHVib4E8Jf3lHPF/W1icR6t021FKJJlSKZPfWNASxkJuLEHx6nt4w/i1hG2oZJqkztRMwVA491lHxEADvax5/nEiq8wyyon6tROrG4Rf07hV+dvAxqkz+vkc5QHQBMpnMqOeOxfdGjcBbklubkknvc84MSL8S5KdUj9hlJZJChYdnW1wwP1Fvtgw9vCDoSGyxg2zHWmc50/mmXZm+dado4lppQY+lEF6aXYnc3kj+3i/wB8PqKq0rVjosyGGVW9nYXBKKq2U8dgQ3cH0xUmQzVUeaxLSHrLUW3KDYbhxc3HFu/7475I0p81SPM4IYyi7wCDtvbyAeRc8euAHIIbqRELwFZeysRLQpNO5JmMZloaKR3iiJMrlmVhsA2hAL3uDxY28C/bC6dod0ywirRvZ1REEEh2TA+8zcc38D74hdPqiGgVmhqpafaWeEKpTc3Ni4HPy5GNGXZ9mdZnEwjqqxokuywJISvB43Am5uDbvhvsIVORFPwLa2HWyOtc6fhbS6+zZbXDMBVJulkhJZk2txcfCL247X+ffBjg1ZnlfDRqIzNTgqzNUBitiVI6YX/N73wYWHrcBsYnfFdUSpIMSwflVHA1VRTu3P6iXBZR4ceCObFTzxcW7YVyUkFbXy/1gZ2YsNpuG83F+307jBgwCjeDLHbWBJJTUGWzUIhzKGrae1jIoW/pb/vbHrRop9M51PXzz1MdP0njWRFW6hiLXvx4wYMZalXJE49hcAGbvxB1llue5fRU0M9dUpHUCokSZETcArAC6jvz9APXBgwYCCJ//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAUGAQIDBwgE/8QALxAAAQMDBAAFAgUFAAAAAAAAAQIDBAAFEQYSITEHE0FRYSIyFBUzUnGBkaGxwf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBAEA/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMSIjFBcf/aAAwDAQACEQMRAD8A3hH3OAY9KT65uL9s02/KhuOtv5ShC22A6QonA4JAAzxk9VSBfozuUJUEKxnmsmrZcNvRN2MgNONrjrG1w/TkjAJ/g81n3d0WkiJ6U1dfJXhtbrvcYTL91kzFREltJS0pIP6pA64B4HZ6qf22R+Mt0eTtKS4nJHWD0e/muXrP4imLpgaZRHSmK65uUpQyA4OQRzkZ2/GOK3x4da2g3zS8BMx6LHuZUWDGA8sqISFDYg9jaQrj0NI2078LcONkmlOfThJ5zRXnlOI3HoEmiuqaYVEAvDMm2siQyEqOcEmlVwnydT28wiM8hS0JOxLg6x/3+lTC4KiriESglYzhKPc/FX2Tz41tYZjrbSplvalKiQez2cd/4xWOU4tat0x8acXvVmntV+HkVJL0RtSWNn3A52Ec5x3j/VQnSkSTcteWuTIUrymJAcyheOGgOMA5H2pHzXSXmS35TyXJzalAJASleOsk5ATyT0Qexn3pHLmRJEr8uelNRJOwhJaylKgSjIIKcY+jHfvVYuHUrFyZXOOriN2bs9NkoCkgJKSrr1oqqYLcZKVsLSsFPfYIopFXhl+lt201BnLLzwcCj3tUcf2zSBWko0RaTHW9z+1RBoooWhYyaFEPS02DJXMYcKHlqO5O44SnJwR84ptbNICdKTMnqU6fZRPPpRRXkkdlkkPbfZVWdK2kyXHWScobWc+WPYGiiirCbs//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Enjoy the Ride</div>
-                                    <div class="artist">Krewella</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAMFBggBBAcC/8QAMRAAAQMDAgQFAgUFAAAAAAAAAQIDEQAEBSExBhJBUQcTFCJhCJEjMjNxoUJTgcHw/8QAGAEBAQEBAQAAAAAAAAAAAAAABAMFAQL/xAAeEQACAgIDAQEAAAAAAAAAAAABAgARAxIhMUEEE//aAAwDAQACEQMRAD8Asdk80bO+VbIZCiGgsKKolRJEbbAAk9doBmtKw4iefceZdYCXAYZUkEhekyew++xra4hSm3tecMF4uPpWpSiCG4G8dRAiBqZqAeMGee4P8P8AJ5vH2qWr91SWbVwgfhKWYJEEHQbfMTVrx6EHuT/PICGviPdrxdcu5bIWyVLUkL52+dqChAaT+VIEqHPO8HtIp6teJFegtLi4ZcBcX5S2yiHAQkySJge4RH81W/hTw/xxcVfZ7KXyuIXnC0X7dbgLdwpMgTHu+SdDXavBbiI8SeH1llr9D1xkUFdveK0/VQtUqA7mQSR/qh/NqGNkmN+sWq6LUnuOy9pf6NLUhz+26nkX16HfY7UVo41DWVufWP23L5CyGSYPMNCFHrPwdjRSGC+QhDoaae+IFPOlFswpbThHMh0CYVqP8VX/AOp3H567wuMt2G3b2xteY3CUKJKXCBCymJPWCPtViMum4ShC2FKUoL9oCJgkEAn4qN8T4e5u7b1C3Ap9JkoWymIE9euhoefMwoV1GYMaHlj3OHWnH2VsvCxq9dt7heQFsLQNFs83n/kS4TO0axEzUh+nJOea4NfxeQtXLBAdUm2LjZbcdCgVFZTvIV1Pf4qWWWNcaKHn3UqSpXL7mgfeCDMfxUsxONum5uU3JU9/RDKdiP8Au1DTISbK83cblXHVbeVHPh5TzKlWz6lvOAcy3SI10EfNFK41u7X5i1vKaPme5Kmx7ttj26TRWoHL8kVMpkCmrjo6jnQRvGoHQ/vTW9jrhTSAXUK5NkwQD++u0xptRRVASJMi5g459V6l11YP4Z0SISFTvHeKVYsHrdTnpnkISs6JKSeUdhJooqGBBjLa+me3Jar8iGRzKsXd4+0es767culcpet2QUN6gSszoNfsDRRRVZwT/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Wide Awake</div>
-                                    <div class="artist">Katy Perry</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAEHAwQGAgX/xAArEAABAwMDAwMDBQAAAAAAAAABAgQRAAMFEiExE3GRFEFRBiKhIyQyYYH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AKhJjiPFRq7eK9AariQSQDA4n8V2OO+m8TbYt3OSyZ/XIHSRZUVI3EnaeJ3gk78CvDJrq4zV28U1dvFdQrCYVNs3VZVyFA6i39GudMxGuOf8581t5D6axNxk4cY3JEGwSDaXYWFq5g7xzG0kHbg0xHGgyfaO1KkjTcUkEmJHEfilRWzi3JZ5Rs4SjqG2sHTqifbn2q2XLp/lrDB61ZN7uq0puuwHKdRStSD9wIkfxiTEexqm1c1mbOr7WfT3FIJ+K1LiLMN3M9By7GOT0Ly03FfubZEiQUweZmCDtH9719Fs4fYoZfJvGdlF2+AFWlOwVEpKiSkDeN9okVT3WudfrdRXW1atc7z8zWRy6vuo9RdUsj5q9GMuUcl5lHLhVvpm4snTMx7c+9K1E80rCpUJ+PNRp7eaUoGnt5pp7eaUoJSIO8RSlKD/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Untitled 1</div>
-                                    <div class="artist">Keane</div>
+                                    <div class="name">In Your Eyes (feat. Alida)</div>
+                                    <div class="artist">Robin Schulz</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -503,10 +489,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGAwcCBP/EAC4QAAIBAwMCBQMDBQAAAAAAAAECAwAEEQUSITFBBhMUIlEyYXGBsfAHFyNSkf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMSBBMhUSIxMv/aAAwDAQACEQMRAD8A454a0WwvGnXUr30arGzRuYywZ+ynHTPzXu58NB9MWe2kM1w0pj8pEJGOAG3dOScVWMrLIsepW+bDyz5b22CEUn6wQTuxjpn5GRSXUlmtWFhI5a2+stBgiRMkqwz179fx1ppw0fuTLyrFT239Mlk071tvq4kg8oy59KVz8AZbklvbgZIPUAVA32i3lmC1zbvEo4935I/dW/5XVdC10JoDaQktytsC0hLRocKRyuc9M8/mpqTR1udYlihdGibc3mOw2xJ/uSOOPj9OtVMi0Kkych9iGkLc6bcQBDNDIgcbl3KRkfNFW95ZjV7q5XT2ZbSNdoa4kwvAALk9FJx0++Oe5Suv1HDP7mWp3DLIrK0TIq59mCucdueB+3etNOcSSRJKq7Tgq/OB7QSOM98dK+eHRNWs/OmmgaKB1K7p8qCD1PI54+KRSx3gnMsTmQqR74wQAR0oj48zgQEUJf8Ah/V7Cy9Xp10jSPJbv/kjXv1Geemf52pNeWM6zM8gf0e9o/NbO3OCf5xSDT7S/LSuIJpDsKsqthsdjxzjNaySXszsLtpER33ndnaG6E4FHuSADA6AGsGN5LcJY28bPIJZOec4+rHHH2Pc0VX+C/Dcmvadb2Z1OOFVkO0rGXIUhgeMjjmij0gbAGJfGur3V1cqNUvBcyKNzIAoVDxxtXj9TzSnRI/W38BlKQFyPKLPwv3oorMPnUYv4udP/tlAti15NdKbg7SOyshGd27pnPFReraUNFOJCk0btlou/wAg898UUVQ+NQtiT4sjM1GbaSl68/neGnnWdEBMCgFnPfCEYI+2DRRRQKoqMZjc/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYBAwUHCAT/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMRAAQFBhIhEzEUQVFhcYEHQhYjof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHREAAgMBAQADAAAAAAAAAAAAAAECAxEhEgQTMf/aAAwDAQACEQMRAD8A5VoqTTBpzTOdyiE3+IsVusMuCXtyAlKhB/YgUJSUVr4FLXiMarE3yWt5tnRI3AFBkp9e0RPHzXgroxVhZs2wxDDtrc3j7/i02bnDjLu2dwdD3TKpG70niK01qbSWo8Uy5k81j3Grdx4pL4UhSSsk8SkketTUfJVjx8GTr8ixNFRRVQok96ZNFX1wxmbVptTim95KmwCQpMGQQPKJn2pbpj0UXfF3TdpPj3mSzbiO5UYI9uJ5pVyTg9N1vJI2Jhfx/a396y6nV2Na3J4bWVhQX2CN0RP3SZ+Tbm8Z1Nk8bcr2pafI6aQQhMRwme49D5jmrGdNapL7lg3iL5TwBKkpTIgCSZ7RHvWG1hf3WRyaHshHikNIZWZ5OwbQT78VHRB/ZrkmPskvPFgv0UUV0SUvZFuUq6y3Qry2JBH+mrrZ5NvdIctnHBt5CiIIP0aKKElqwK/Rt/l+SSyS3dvId27StKoVHyKU33G33HF3DjvUJkQkGfkk0UUimuMG/KGTk5LpS+m3Cf6VuqVP7oA4+iaKKKoFH//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Strangers</div>
-                                    <div class="artist">Far Out</div>
+                                    <div class="name">The Motto</div>
+                                    <div class="artist">Tiësto &amp; Ava Max</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -514,6 +500,20 @@
                                 <div class="infos">
                                     <div class="name">Kernkraft 400 (A Better Day)</div>
                                     <div class="artist">Topic &amp; A7S</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYFBwgCAwT/xAAyEAABAwMCAwUGBwEAAAAAAAABAgMEAAURBhIhMUEHExRxgSIyYZGhsRUjJCVCUVLB/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwQFAv/EACERAAIDAAICAgMAAAAAAAAAAAECAAMRBBIFISIxQWHh/9oADAMBAAIRAxEAPwDMjMhtKUBURhwp5lW/KvPCvtTFpPR101fcC3bYzbLeMqWSUtoHmSagLRH8Xc40c4/NcSjOcczirzvOo4cexogWZZjstIDe4ADaoc/dPL70t9xQgAfc1PH8FeQC7nAJDTOwm6R20/usEuH+JCgPQ44ikLVGjrtpSQ2bpEStk+6rJKFj0II+lWhoO+vLbWxOlrkut7u7XnI2kg8STyyD0zXo1DdzcFLhzUl5lTe1QSNwT0B/5XS3r+ZafEhq+yn3KHdkNqaKRFYQoj307sj5qx9KKlNW2CRYLl4eSgp3pDiM/wCTRSqwYaDMK2lq2KMPYnPQdlVqLUsa1tSmobrwWpD7oJSgoSV8h8E48zV5WouWq26e03FkW2f+LJcU05h+OEtPFQ3OpGAs5QoAHiB0xWbm1lCwpJwR1pm07FckrckkqORzAx5mjsTTuxKFNvwmgoDl3vjOy8Wa2219GYbcdCHArucApLhz7KARgK8xiuuPBbXIhuFiAVNICY6kKcWVtj2lZSTjmrbk8TSHpaEtSWWkJLwdWE4SDlQB+P3p81JZ48FyM8++1FgsoUtQSsZAGeJ/s+dTEAnpNWvxttIFq2Z+s/sqnt0miTqBhshIU02U7R0BOaKTNY3Ru632Q/G3eGBCGt3PaOAJ+NFV1VhFyZnMuNlpO7IKpiw3+XZ3B3Ox1rqy6ncg+nT0oopGGiTV2NW3ZfuPMbtduEVju4tvhMHBG5CSDSjqXV121Av9dIPddGkeyj5CiiiWpQdltvPvtXqzeouk5oooppBs/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Call It Love</div>
+                                    <div class="artist">Felix Jaehn &amp; Ray Dalton</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcDBAIGCAX/xAAwEAACAQQAAggDCQAAAAAAAAABAgMABAURBiESEyIxQVFxkVKBoQgUIzIzYXKxwf/EABoBAAEFAQAAAAAAAAAAAAAAAAMAAQQFBgL/xAAdEQACAwADAQEAAAAAAAAAAAABAgADEQQFIRSh/9oADAMBAAIRAxEAPwBER2Er9yGpxipdfkNNm04T7uxVu54chs7czXJEcQKqWI5bYgD6kCj/AGIDkIvSWZrGJeTHSqOamqktsV7xqnfd8J6Dfh1rWU4XKhux9KKnJreCu6e6sasVxjINFbHkMLJAxIU+lFGAUyrYWIcInW9vjrXwKUuftD2U8fBVm+Odxq+QSdW2uXRbW9eGwPnSotM1kFlWNstco/k1yRy968bPcX3t1G1mLu6nhVwS0kzEEg+A/wBrMU8K5LAxbZqeT2SWVlfRs6mVLCC5tcPNcK2R+5iYqeZZV0pbfqa1O0YZPJ5+1ntxDHYXSwxPv9RSitv3O/Q1z/c8a5aW+F3HczpciLqesMxZujvZG/LdUhxTmeslZ8hcN1p2/bI2da8P2oicK5fd9nS9zWuBtIEdmexVrGGLuir5kgUUh7i7e4HTlkaRj8TE/wB0VOSm0D15Ct7Wp20VfsrmNpNMzoS3xON/PnUTjotrkdeR3RRUqU0xNFFFKKSKh6O9rr+Q37UUUU8Yz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">To Feel Alive</div>
+                                    <div class="artist">Forester &amp; Kidnap</div>
                                 </div>
                             </div>
                         </div>
@@ -534,7 +534,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2023, 15:07:11 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 16:07:36 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
