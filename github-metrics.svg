@@ -470,24 +470,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAEHAwQGAgX/xAArEAABAwMDAwMDBQAAAAAAAAABAgQRAAMFEiExE3GRFEFRBiKhIyQyYYH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAQIDBP/EABcRAQEBAQAAAAAAAAAAAAAAAAABERL/2gAMAwEAAhEDEQA/AKhJjiPFRq7eK9AariQSQDA4n8V2OO+m8TbYt3OSyZ/XIHSRZUVI3EnaeJ3gk78CvDJrq4zV28U1dvFdQrCYVNs3VZVyFA6i39GudMxGuOf8581t5D6axNxk4cY3JEGwSDaXYWFq5g7xzG0kHbg0xHGgyfaO1KkjTcUkEmJHEfilRWzi3JZ5Rs4SjqG2sHTqifbn2q2XLp/lrDB61ZN7uq0puuwHKdRStSD9wIkfxiTEexqm1c1mbOr7WfT3FIJ+K1LiLMN3M9By7GOT0Ly03FfubZEiQUweZmCDtH9719Fs4fYoZfJvGdlF2+AFWlOwVEpKiSkDeN9okVT3WudfrdRXW1atc7z8zWRy6vuo9RdUsj5q9GMuUcl5lHLhVvpm4snTMx7c+9K1E80rCpUJ+PNRp7eaUoGnt5pp7eaUoJSIO8RSlKD/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAUDBAIGB//EAC0QAAIBAwMCBgEDBQAAAAAAAAECAwAEEQUSITFBBhMUIlFxYTKBoUKRkrHx/8QAGAEBAQADAAAAAAAAAAAAAAAAAwIAAQT/xAAeEQEBAAICAgMAAAAAAAAAAAABAAIRAyEEMRJBUf/aAAwDAQACEQMRAD8A5xawJLHgsfMLe0Z6jHNW9Ihto75ZrzHlxtuEbLvDj88EEfjrS1Mq4xkHnp9VhgsAADn4pd0aboyan4Y5RrG2yW9pW3Xpx38rjmtd1m6tEmln0aWaIySbhGmU8o98HaoA+hxVfTLGS3nhW8hCQsjTlj1YL1AI6HjtzVfV9OihluJIXJhCh0yegbBUE9zg/Haqw9oV58bjiZM50DxhrukTPJDeTMMbWWUlgcdPzx+KK1WNisq4b+nuc0VKUi010iQ3DpG4dB0aoVYqwKnmm2taaYPENzacAJhm2j5AzgfdXbXQ47hJkV+YvbuHO5gMt+3aqxxWzv6p7BL7W7eNrqSOG0ic7fbxyMHjOT0pNr90ZbuZYhsjcjIx8DA/in2nuLe3lWAlxhwNxznbxwPjOf7Ul1Ozb03rVB8rCsydxkDn65pNaOvc3I/LA/ZQjDfls/pxRRBFLcKzQxllXgmihYZt4gR7LVb9Z7g+rhAVF6EKOgz9fvWWga2bLSJd/L+8L/j/AMoopuOhUp7a3lXTYLqz1az89LZWa3JbeN2SRgrtzknnNVPUGexmt1LbUTYc84x1/n/VFFNxFpVmJvl0XS4hblUFvIJI24YsxwecjnOM4PGKKKKDyAMtBdDf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Untitled 1</div>
-                                    <div class="artist">Keane</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgCBwMEBQb/xAAsEAABAwIEBAUFAQAAAAAAAAABAgMEABEFEiExBgcTcQgyQUKRFCM3gcJR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQIRMf/aAAwDAQACEQMRAD8AXqPEQ6hKly2GgfacxV8AVuRsMaeWEsonSV2GiGg2m+26jt+q1YWJyYTK24qkozqCirICq4IIsTqNRUJOIzJN+vJdXcAEZtCOwq1I4yyI8txgMdAt6KQXOob76qGnxTKeG7XluLX0mPfzSvq1BpoPDb+Nu017+am/AtMXoo1tRWJkQoO21SQdCPWpEqJyAHW2ldAYF3sTbSmb8Nz7SeXpaW62HVTXSlsqAURZOw3NLpGLjqW2NV2WbN37XNv1V18nEx3sHgsy4+HuvLk9TrLcQXmkix0GUkCwv5gRfapvwsXmmQyoqSl1tS0+YBYJHcUVWUQ4Y+3JdRDwYiO2XHHWpDBzi4FlkAWCvW5I/wBorLAXDCsJnYrI6GHRXX3T6ITevaQeUHF0jK4qG2wnf7joB+BRRWlrTB470Hkbj2VDr+IwWFp9qcy1HXtarS4a4HRw5w7FhMOmS+y85IDikhNlKRawHcCiipmdJ0cS4YiyIkGImM0WW2PpHQRYFoqQVJ7HJRRRSD//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Là-bas</div>
-                                    <div class="artist">Jean-Jacques Goldman &amp; Sirima</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAQGBwECAwj/xAAoEAACAgIBAwIGAwAAAAAAAAABAgADBBEFEiExIlEGBxMUMnFhgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSIjH/2gAMAwEAAhEDEQA/APnKIlXE4v3vKYeLsA33JX3/AJIE2a+k/wBN+nq6Tr9TrNy5vy4wsWkPlZbb14QeZqTlqExeTy6KtmuqxlXfnQMdpb8s3fFcLaRLERBzEt4RzVzOBYoPUl6MP6YSKUccbUzKrKAxsRwy9K79QPbsYa1YWXjTM/z/AI6ymZ16+6kgAjxNf597ZWbfe/52uWP7MyPmaCuXWxw2qe/190BHfY9/eY1kqVtbalT7a1OtOOiUolVyVbdvTyiInICcqSp2PMRAKbLqXRVYXkKNd3H+SWIhFYiIgh//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Just for a Moment (feat. Iselin)</div>
-                                    <div class="artist">Gryffin</div>
+                                    <div class="name">Believe</div>
+                                    <div class="artist">Masove, Jovieson &amp; Tess Burrstone</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -498,17 +484,31 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcDAgj/xAAwEAABAwMDAgQFAwUAAAAAAAABAgMEAAURBhIhMUETIlFhBxQyUoEVI3EkQpGhsf/EABgBAAMBAQAAAAAAAAAAAAAAAAECAwUE/8QAJxEAAgIBAwMCBwAAAAAAAAAAAQIAEQMSEzEEIWFRgSIyQUJxobH/2gAMAwEAAhEDEQA/ALqLTa7BcYkcQnWo0SKtMV5txSigqzk4Ix4h58x9uajach2GI7FaREmMIgrW4wt1Sl73V/UojbhSvQn0q4XOeuNIQht1lP3BWSc/wK62qQp1tX763sH6inA/Bo7ym1I5ltOVVD6uOJm8lNussxyE3pu8TExZqpJdLiliQ796vLhXtzgUiuGp9MWnUzdjnWi8PXC5Os3B5Tr6QFurTlCF5A4GcYwBmtmXGdMjxVOObwTt2rOMdhjOP9V82/Gawz5XxXfmrgXOQwhuNtLERxxLmANwKkjAA/JqjuGFAVckj5FI+LjjxNd0Zd4L8C9aptdtuUiW/JDUhtxSVu7UgcIAGAkA/T7UVX9FW6a38Mbi3JjXeNIFw8ZPyqC2+nhHmSCOQPTvRU9KP3dqP4nZ06kre3q96mtXINtxJEjYgqQ2pQUU5xgZpQdTR1SkQ7fGeecW54aV7QGgPuJHQZ9smn6VbVDqaTTbnMjoZb2wUzlqO5lx4pBSVbUEH1P/AHt6OgB+kz2J9ZEjaoYaZX8z8y6Wzhx5LaQ2lX2gg4IHrn808tlwbnMOuRi6EodUyreMHck4PANV6VcL1K3xoseEwvnyuP5C0YGVA45GTjp27Uws7l3bShq4R4hSG0+Zh/Jz/BHTjrmqOoq4qt3nPXLS3tOu7FXJC0OIWHLef3kYP1AdwO47iivOukLXp5akLuTK0OIWHLdy83g9QP7gO47iikRqFaq9poYMWpb29Xm6kJjWsF/9KDceWly5qV4DakDdsT9TqueEdefbpUV/UWn5r0CWuA9JemSDDiHw/M9t6rSM42D7j/iiimxrenyCYOowom5X2sAP3Ib900rHhPLZtrio65CbagNJP9QvOcNjdzg87uKnN6ksFgi3Fcdh8MRXkRnFIBX4rp4DbeVZURz6AUUUEtwoJ5uHJ06KctD5aqMJ7yNVCba7bLnW2TCW2tctkAbHMZ2dfMeuR096KKKgmZh2EGfAqtQ9B/J//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Can't Stop Loving You</div>
+                                    <div class="artist">Phil Collins</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAAAAQGBwECAwj/xAAoEAACAgIBAwIGAwAAAAAAAAABAgADBBEFEiExIlEGBxMUMnFhgdH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGxEAAwEAAwEAAAAAAAAAAAAAAAECEQMSIjH/2gAMAwEAAhEDEQA/APnKIlXE4v3vKYeLsA33JX3/AJIE2a+k/wBN+nq6Tr9TrNy5vy4wsWkPlZbb14QeZqTlqExeTy6KtmuqxlXfnQMdpb8s3fFcLaRLERBzEt4RzVzOBYoPUl6MP6YSKUccbUzKrKAxsRwy9K79QPbsYa1YWXjTM/z/AI6ymZ16+6kgAjxNf597ZWbfe/52uWP7MyPmaCuXWxw2qe/190BHfY9/eY1kqVtbalT7a1OtOOiUolVyVbdvTyiInICcqSp2PMRAKbLqXRVYXkKNd3H+SWIhFYiIgh//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Just for a Moment (feat. Iselin)</div>
+                                    <div class="artist">Gryffin</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGAwcCBP/EAC4QAAIBAwMCBQMDBQAAAAAAAAECAwAEEQUSITFBBhMUIlEyYXGBsfAHFyNSkf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAEQMSBBMhUSIxMv/aAAwDAQACEQMRAD8A454a0WwvGnXUr30arGzRuYywZ+ynHTPzXu58NB9MWe2kM1w0pj8pEJGOAG3dOScVWMrLIsepW+bDyz5b22CEUn6wQTuxjpn5GRSXUlmtWFhI5a2+stBgiRMkqwz179fx1ppw0fuTLyrFT239Mlk071tvq4kg8oy59KVz8AZbklvbgZIPUAVA32i3lmC1zbvEo4935I/dW/5XVdC10JoDaQktytsC0hLRocKRyuc9M8/mpqTR1udYlihdGibc3mOw2xJ/uSOOPj9OtVMi0Kkych9iGkLc6bcQBDNDIgcbl3KRkfNFW95ZjV7q5XT2ZbSNdoa4kwvAALk9FJx0++Oe5Suv1HDP7mWp3DLIrK0TIq59mCucdueB+3etNOcSSRJKq7Tgq/OB7QSOM98dK+eHRNWs/OmmgaKB1K7p8qCD1PI54+KRSx3gnMsTmQqR74wQAR0oj48zgQEUJf8Ah/V7Cy9Xp10jSPJbv/kjXv1Geemf52pNeWM6zM8gf0e9o/NbO3OCf5xSDT7S/LSuIJpDsKsqthsdjxzjNaySXszsLtpER33ndnaG6E4FHuSADA6AGsGN5LcJY28bPIJZOec4+rHHH2Pc0VX+C/Dcmvadb2Z1OOFVkO0rGXIUhgeMjjmij0gbAGJfGur3V1cqNUvBcyKNzIAoVDxxtXj9TzSnRI/W38BlKQFyPKLPwv3oorMPnUYv4udP/tlAti15NdKbg7SOyshGd27pnPFReraUNFOJCk0btlou/wAg898UUVQ+NQtiT4sjM1GbaSl68/neGnnWdEBMCgFnPfCEYI+2DRRRQKoqMZjc/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Strangers</div>
+                                    <div class="artist">Far Out</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAAIDBAUGB//EAC0QAAEDAwIFAwIHAAAAAAAAAAECAwQABREhMQYSE0FRIjJhcYEHUnKRofDx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAwQFAgYH/8QAJhEAAgEDAwQBBQAAAAAAAAAAAQIDAAQRMUFRBQYSIRMiMmFxof/aAAwDAQACEQMRAD8A5xBidZtSgglKE8yiBsKeMZHYCp/ClyctMxuS00y+CChTToylaSMEHxppWmc4cbukgSrA24WHDhcRQy4ws9vBT4VtXTtcCF/GYYTH3bfo8V6qhRMBxgc1ixB5tkmkrgBIBIH71urjwhdIvQaMN5x95ZSltA5gQMa5Hz27AZNUFzhvW6YuDcGHY77Z9SFjBHim4JLW5XyhcMDxW45bSZjGjgsNs1Sgpjw32RHjLDo97jQUtP6T2op+aQptQKcKxvRWJIFDUKW2QNpTMJCugg8p1203+lbz8Pr+LNemWppKIrpPMon25GAVeAMfbWsZaZkhMZLKX3UtgEAJWRgHfHxVqILlvtzNye5kuvLUlhJyMgD3/I1/2lr6BLq1a2m0cEfyisgkh+N9/Vdyv0+42u4RLpAjiVEZbV1kleAOYgBQ+d9fGa4/x7fG+IL+uU3GSyCn8/Oc7k5/oquk8R3R+1ptxmvGHoVNkjBI/nHxtVd01YK1q1xSXbvQz0u3WJz5Fc+/xmonSu3TaXjXbvngbaYzUe46I+eXeikzjkL32x9qKtTH6qvTe3pi2PoS42VFOEeo8wyDjXGO+dsVLud5n3R9L82StxxKQhPpACUjsANhRRSqoGcOdRpSyHOCdqisyClwKcJUBnTAFIMt3GOqvH0ooo5Yga0UuwGtIdlBTZBznye9FFFCLml2lbNf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Inside Out</div>
                                     <div class="artist">Azteck, Angemi &amp; Laura White</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAQFAQIDBgf/xAAwEAACAQMDAgIHCQAAAAAAAAABAgMABBEFEiETMVHRFCRBYXGBsTJCY3Jzg5Oh4f/EABkBAAMAAwAAAAAAAAAAAAAAAAIEBQEDBv/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMREiExBFH/2gAMAwEAAhEDEQA/APYYbCzOhQs1tDuESHPTGc4HuqeLS3zn0eHA9vTHlVmMINEhEj7V6adu54HAqLPdBZNpRwoHG1SQPn41F+YNrdzp6SSCJzrbWq49XgbP4Y4/rvQ9rakHFtBn9MeVJR3ErKzbeFGfsnP1pmK5DybdrjuORxxT66Jl6t7krV7OAW0xWGIHa3ZB4UU3qvNrN+U/SiqVbErBCECW7k40q3XwC/Spp+Va6prNtFapGJFJXGcc9hUm31q2uHVY5gGY4AIxzUeivBGKaX4bkr7Uzyq5+FZDKpG7O33Vrqll6Lp8czS5mbLEq3Axj21FtNQeVwjbWB+8P8pulRZ2IQHNeSx3UJOojAeBGKKSnu4BIULEuSAuO3f2miqSpgyLEmdY162nhld4+rKWkbMaRNlRk9+MVL6V5geq3P8AG3lRRWn5s4+SvXa3ATMi37RCJoLtox2QoxA+Xal2srknItJ1/aPlRRTgRfyC1zDyPaWby3uYVS2uSWkUMzRNgDPw4oooomUb5ErLCTs//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Want You (feat. Sara Skinner)</div>
-                                    <div class="artist">Subtact</div>
                                 </div>
                             </div>
                         </div>
@@ -529,7 +529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2023, 08:23:27 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Dec 2023, 09:07:27 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
