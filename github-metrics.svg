@@ -470,17 +470,38 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgMC/8QAMhAAAgEDAgIHBQkAAAAAAAAAAQIDAAQRBRITISIxMkFRgZEUFSNxckJDUmGCkqGxsv/EABsBAAMAAgMAAAAAAAAAAAAAAAMEBQABAgYH/8QAIREAAgICAgIDAQAAAAAAAAAAAQIAAwQRITEFEhUzUUH/2gAMAwEAAhEDEQA/ANDp189xKkJQGR2Crg45n517k1DY+3hNkeJrJW9xJE4O8KfqFVtVuHkkju0ZcXC7zhhjf1MPXn8iK7OzANqJ14oeosOxK0eog9uNgPEc6aiuI5CArjJ7qyyXTsvSlCn6hVLSZlSVrmSRCkC8Tmw5nqUepHlWOQo3OFGMbH9Zcuo3t5XjkxuU4PfzorLyX0hkZzOM5zndRW1HHMFYgDEDqZBTcccs/BaPHR5HcD/VVbVpJtNlt2Vd0fx48Du6nHphv0UrsBHZpixmNtcRSKu/Z0sZ7Q7x5jIqRbsjYlLBsCvpujxOKDC554picrDpsMO07rg8Z88+iMhB/pvMV0a1HvH2SN+izDbIR92Rnd+3nXG9uUnnklCBEPJV/CoGFHoAKELDYQI41Rxq3Y9ngRNpSBjBY0V7Z1AHMDyopr2P7IhkkzylQsd8VbuOFJ9MUrNc6pAweG9Rx9oSRj+MCiioTXP+z1NPF4mvrEdXWb06a3wkbUUja3V1YbBGWz8843L4YP5Ui2oasq9KzTJHWpz50UUJbXU8GFs8fj2aDruNve28dnx5NQCThNz2/sjdrw3Zx18s9XfRRRTosbXchfF4+zx/Z//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC8QAAEDAwEHAwEJAAAAAAAAAAEAAgQDBREhBhIiMVFhcQcTQYEUJDIzQlOhscL/xAAYAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EAB8RAAICAgMAAwAAAAAAAAAAAAABAhEDMQQhQRITFP/aAAwDAQACEQMRAD8AfoQkDQ9abq+O1ro0QVAOJ4Ycn6Zwu9o9X5tGX7lx3a8c/iZgNx4xyVD42SrOH+qCdUx7kgAk4AHdK/bn1at9nbVi2QNmzRw+6fymH/X9LC7f+rUi9RHQrTSfDiuGKjt7jqDpkch2+Upq9dzySSmYuP7ME8zk6hotdptpbptBLdXukyrIdnhDjws7NbyA8IVA8oVi66QFEnwo9SST7dagwj9ypuZ8ZWptmx064PaY1AyQRo1kykNcH69PhYRrtein264TI9Zn2Su9lTeG7g657LEr8N/WjR3HY2529oEyFJY4DiLHtcP4Co5VKLRkH7rLDB+lzxrp8nd64TouE6q20RTMdv3AR2srVM6ufgA5PzqEqr9cGmQ5rye3dLxzctivk7pGYcMEAoXuu7edoQWoThy0cFLtddkabHrVAHhlRp3T0zqhCLXQfBi3m6NcwnUNPInl515rA3aQ6pWOgLCOiEJcEkT49lb4yEIQmFB//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">It Was Always You</div>
-                                    <div class="artist">Maroon 5</div>
+                                    <div class="name">Lost Control (feat. Bianca)</div>
+                                    <div class="artist">Tyron Hapi</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwMECAL/xAAwEAACAQMCAwUHBQEAAAAAAAABAgMABBEFIRIxQQYHExRxIiNhkaHB4VFigbHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAMBBAUC/8QAHhEAAgMAAwADAAAAAAAAAAAAAQIAAxESITEEQVH/2gAMAwEAAhEDEQA/AObdPm0lLQreWksk5Rl41kIAbOzY67dK3ILjQRapE9hM0wGGm8Rtzjnw5wN6RQoHYDOKkdtpiWdms94nvJN4UzuR+p/b/dE7hfZYpqazyLTYhbYyxvI++ADHjP1+1ZlsHVRxLvw5I6/mmemXSLccEwBibZhU5PZC51BF8mpRlXi9tcqy8x7Q5H5g7UJtzoy2PjHNEqyeDw88sUUy1yBre4eKRVDxkq2B1BxRSA6ITV4YmsCEuUJ5emcfHHX0pjeahdXt07X0plmbYsfhsMY6YpfbNgjljO+1Z0iYyEAE8O4OOlSwG6ZFTMBxEmvdzoi61rccTkJDGDJI/LCjf8VemjRm3u0jaYOJPYH2AOeXT/hVV92cBtbOaZlJR2XjAOCyjfHp/gq01ubTyaPIbaxg2cySHGF2J35DI+tZz61h/JsLxSoD7nP3eTD5PtZrFrjhKXT/ACJyPoaK897Gp2eq9ttSvNNnS4t5eD3iAhWYIA2M9Miir6KeImS9mMZDoztW5ZXTW9ykuA4U7qeTDqD8KKK7Yb1BRipBElr9vLuKPw9Nsra1iAwqnMmMcufM/wAVHNU1nUNVkDahcyzY5KThV9FGwoorha1BwRmtZxrGK5t6KKKQQCJ//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHAgQIAwX/xAAtEAABAwMDAwMEAQUAAAAAAAABAgMEAAURBhIhBxMxFEFRCCJhgaIjMlJxsf/EABcBAQEBAQAAAAAAAAAAAAAAAAMCAQT/xAAdEQACAwEBAAMAAAAAAAAAAAABAgADESESEzJB/9oADAMBAAIRAxEAPwC/Sm5LiyWZKmU48BoK5/ZrAMylFI9eePP9FPNIXUy43eHfYCbS/J2qIbWw07szuxhXnHB/7W9q3Vz2k76rfEenMvsoAb7oAaIxlWTxjJx+TS/IRzJJQbscEKVGeQmVNS4XjsbQpKUEq/HuT7YrR1JOYbZQym+s2uQHkbjlta1J907VHjOfPkUh3nUU69aYgaiYhIiPRpry4zL7nH2FJBJA9yCMCopHud+1tr+M3fFI9Upak7w1tSgpB5IT54GKNbBZYFnNZa6IzAcE6qsiZbobkruq5UcpI7aoyWyT8kjmistKbBYIoaXvbAO07cHH54opXXyxAj1P6QMf2TPXupots6hTY0x1PeZix3YrISdyyd27nx7JpV6i6kkajU9NjtmDahDTHxIb7jzy0ublKbQk84ykZJApX+pVx2P1VL7S1tuIiMKQtPBBG7wanj+sLvcbg83ep7kpmUx2Mu4G0ZBABHjkfuiMSUXVHUK6QdM2myNxWTDZbKt7oCX3nFZKlFIJ2hKj/HzSPpfVLlouclbqkyJcxpbPdx/ZuIO4ZPnjH7pRm3SY1LecUtSZC8BKweNvA4/Qrys+926I7+8hSVJVtB3YII4xVU1gWA52Bcu1ld5O4ul85xy3xYPrFOssw2Vpb9GW8FScnK/Bx7f5eeaK+d0gQtdstKWWEqgw4XbRLbQn71q2kpWsKyojHskD5OaK1/sdl14EAEjX1MPA9TVs9ver0bGPnnPAqXTNPXTs5dtshhtYyFOo7Y/liiioiRpsXRfWuorJEuMNmAqLITubK5KQrgkcj/YNMC+hOtUNMIisxG1IBUp1MhIWpRAzk58DwMY4880UUgYjohFNOS89N9LXWxN25y7LSuQiCmM+e4VEFIGOdxB8fFFFFQTFA5P/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Ignite (feat. Alan Walker, Julie Bergan &amp; SeungRi)</div>
-                                    <div class="artist">K-391</div>
+                                    <div class="name">Careless Whisper (Apple Music Home Session)</div>
+                                    <div class="artist">James Arthur</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAUGBwIEAQMI/8QALxAAAQMDAgQFBAEFAAAAAAAAAQIDBAAFERIhBhMxQQciYYGRFDJCoXFRYnKSsf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHhEAAgICAgMAAAAAAAAAAAAAAAECEQMhEkEiMVH/2gAMAwEAAhEDEQA/AKpQXWUasBQ7YGf+U4tVyQysczWg/wBpI396zs3h1xpNZC/oWYzOrGZTqQc/wnJ/VWjYvBxERphXEd8AfdKUpYiDSMntqVufihVjnxaE9h4s5SChLitx+Sc/sU/buzlxHLjRFy3DnHIScg49OlS2Jwlw7aZCGodlS+trJMiYchSuvU9dt9hinM2apTyPoVKMVpPlbjNhCCSBjznY9zt2p6zNKiZ4IuVlTSbTcYzpcuNvlxC8CW8lKycY64JI96KnHivbnZfAj8mEtxUqAPqEqz5ikfcP9c/FFCsi7CeJ9ElEHFrUyw4pkjAS5jfrvj19e1dLEV9t9xWEo33dI5jjnfqftG527dqYGTHDYKHkFxf2pPRKe5rBqRhpKRqClDOfTtS7HUJ5LUoXKGiEyHghRfdW+CtxKRgEpJIAOCobY67DrWtxHx1wvBnm33K+w4bqDqLa1efptnHT3xTuddYcCIoypTMVsJ8zjzgQPkkD91S/iDeuAbrN5zk+HcJyRo0ssBzP8qPl/dcbpbOpfCwZfG1jnWCWxYbtHmvEaVclWrlg7En+m1FeerfdU2q5SX7JAdZgyCA6ylAwkpGApODjBz033opEp70XYowUfL2TW6eNa9bibHwwCojBeuMouK90pA+M1Br94m8c3Qr5l4MRpXVuEgMjH+QGr90UU6yKiDz3JMx3mz3n33j+b6isn3JriOsoUBpSoehAPwaKK16Mkb0db7TyFsKeYB66Tp39tqKKKHQZ/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Otra Noche Sin Ti</div>
+                                    <div class="artist">J Balvin &amp; Khalid</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC4QAAEDAgQFAwIHAAAAAAAAAAECAxEABAUGEiETIjFBYQdRcRaBIyQyQqHB0f/EABoBAAMBAAMAAAAAAAAAAAAAAAMEBQIBBgf/xAAhEQABBAICAgMAAAAAAAAAAAABAAIDBBEhEjFBURMiof/aAAwDAQACEQMRAD8AzvDMTQ5bModUlY3TI6ePip8fwdWING5t0lShAWJ3HtP+0kW7i2ygpJEn7GtNyXiCQ+1xIlBAUlXRSf7Fej1bYsxFjvS63YrvgBli8LK1s8N1QMgjqDULqIVAnbqa1H1DyeG3EYjhySq1uJUI7e4pDTZLXqTp5gmJ+KgyUjktA0ek/UsizGJGqteSQ2gEGdM/airIWoSyHHBCRM7daKBJV5HJKca3W1G2pIKNubVuOxFXzt0UqYFnLRRCtajMjx4qVzLd2NH5ZYI2mOtXdvl566tF2rqC26khTaiIif1JNVqzC0HPfhDjLtsx2nXKWO4ZjWGu4TeupRrSOGT+1wDr8Gs0xF9m3vLthpoFbUq3PcHcVZt5fu7PE2LRttQcU0pZeT4O1ea5ypiKn1uOoKlLlWo9zTBkIBLR3+JWCJ9V7vjGAfCVbt5dyU6gBpnlFFNbmUL7ShbbZC4G3f5+KKQfGCfttHPN2ymDBc75eYyUDdR9QCToCXdzxgRuOSOHPXea7Pqk2UrNvaNkAQOKmZ+3bbzRRUlsjweyqvXS8SPU08dV0rDbVRQ4nTymNIBBET59+wrrFPVC4WsFpm1ZaUnUNFuCR43VRRRDM/2s52lK9zniF2n8S5dcMyELTy9Z94/iiiiuGyvIyStcAv/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">There and Back</div>
+                                    <div class="artist">Protostar</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EAC8QAAEDAwMCAwcFAQAAAAAAAAECAwQABREGEiExQQcycRMUIlFhgaEjQlKRweH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgMEBQH/xAAgEQABBAMAAgMAAAAAAAAAAAABAAIDEQQSIQUxYYHB/9oADAMBAAIRAxEAPwBL6b07O1Le27bbW9zy0klSlYS0kdVKPYAU1YfhDp9Mdth+8y5lwU4lChG2pCc9SEkEqGPSuPwelNW3T2rJbSUmcG2m20qPJR8RI+5AplaQkxGIBkym0e+3dBS8pJO7bjBAI8opZXG+LPzZpWPOppoSE1voN/T8Nm5wZCptmeX7NL6myhbS/wCLiex44PQ1k4qmozq/eIzclGMbVLUADnrlJ57jrXrvU1sau/hzf7fb2S6XGglAKslToIKeSfnXnzWWi4WkbBFM+UqTfJSsJaYV+i0kcqJJGVHkDjAzzzTRP2FH2rGHlNnY3Y9KyD0mG9GcbatsaM4rBDwddUU4PQAkjn0oqFxooynYUlPUKPf0oqXWld1pXGmL+5Yrop9LXtYzo2Px9xAUnrwexB5B5pj26/2tKo64l5QzGcSTtlRyp0KzynY3nPPckZpNbznnOcfir3RTLUjUUZMhaG2kZcUtZASAO5JpnakWpp8aKVp3F8TSkaqu0Zx5iG8lbBVuSS0U57ZxnjisJ4gTpU963uzCnd7JSRgYHmP/ACtHP1dpyG6ptsPzVjqtpICT6En/ACstq7UVovNtQiLFlMym3NyCsgpwRhQJB+g/qnBaKoLC8bjStmEhi1b9c/VnloyoISnJVg+XHJ7UVxrkL2pGfLwDk9Pl6UUFb5YrO1SLMiGBcUuqfClbSlvIA7dxnvUpkWIMPNuIeQ8CUpKWe2cZ5VkHHb50UVWtOR8rklizJjqMWXNce/albKUj7kHj81WhQJV8Q2/U0UU4cUC1GME8A0UUV20L/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Steal the Moon</div>
+                                    <div class="artist">DubVision</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -488,27 +509,6 @@
                                 <div class="infos">
                                     <div class="name">Anything (feat. Karra)</div>
                                     <div class="artist">Villms</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHBQEE/8QALxAAAQMDAwMCBAYDAAAAAAAAAQIDBAAFEQYSIRMxUQdBFCJhcRUjJIGh8FKRsf/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAHxEBAAICAgMBAQAAAAAAAAAAAQACAyEREgQxQSJR/9oADAMBAAIRAxEAPwCMS5HUHBIP3ph0825D01d3nWyH97bKUKGflWQs8efy693pZp8XfU7ankJW3GaW/sV2UoDCc/TJrW0np+VdNVtw5Cf0k5TLhPsQN387Sqt8PHWwvPqd7Nm2L9k31fentQ6nnXiUEpflOb1pTwBgAYA8YFNMph2b6ZNOR0KVIcmIj7PdaUhS+PPJ7VYTojQ7d+ZsEqwTX5WBHeuSVOdJLqkZBJBwCSfcAD7UjeoltMC8qs9hjlEOBKecIT2SrakAf3zV2E01trU4XkV7XE3IoUqBKVAhSSQQRgg0VV/XGytpuFivjDSEG8W9t5/YMBToAClY8kFJoqK35Umh23E1VyWzG/TSHmZCeUONnB+xp99NdZ3Nd/061dkMrhxZACZJb2qQChaQkqHBGV+4/epixHcWdw6QGcYW4lP8E1QYV1fRox63/DwS0XNxWQnfnH+RPakY6lPvEstmOOGWi6QLZe7q/f37sw1GjluTGU84HhvSolwFkkHGBgD9xUm9TNXXGDqzVIsrTPw8uSAqbt3nASBtSTwOc80mIRbFPhxTTvVCOT12R84yARn24pkiXAtaIkQOjEW04oKK8pKxjsMg9vpVNsqm2I7A8knInvKjpbffedIPZxRUE+wAz24ork9jpPK4RjwlQP8Aw0Ur3ASNtnvjdngXGE9GbkJkKCkrUPmScY4I5H++PBpmZ19ppMEJe0s0rsFJSlpIPnHynmiijbNqg/IvqFl/snVquMKLeI8mZBTJiokF5UdeAFo5wk/3Fake+QGoam/wppQ3Zx13OR9cGiis4hTEnS4spCfhbe3FKVEqUl1S9w8YUeKKKKFjz1P/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Break Me (feat. Karra)</div>
-                                    <div class="artist">Trivecta</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBwMFCAH/xAAvEAABAwMDAgQEBwEAAAAAAAABAgMEAAURBhIhBzETIkFxIzJRYRQkQlKBkaGi/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8AoOjGa8re6MsT2pNQw7axtBdWN2VY8vrWpNhC6e3+5W6FJtsN2QuRuV4aB8qfTJ7DPf2pYmxHoMt6LKQW32VFDiD3SodxXScS5P2LT14mtRFyUveLFZiNqz5Y4VkAA88/84rnO/x5US6yG7goKlkhxwhW7lQCu/rwamXaEHNFYyqiq0M+wYT50YP+U7dK1fgb7MvClpDNtgvvqVnsspKED3KlCkNSjnirh0D0/uGoNFQWkSYkK33SUp+bIce2ueG35UJSnB3clSscZyOeKLQU9O6gudgbRdFXSE6htaVeC+8S5uB/Z9DnnHf1rT62ujV+1JMuMdKWWXSkNtk5KUgAAHH2H9V0hdekejbih6O5Y1RynyokQ3dm8Dsrbuxn3Gao/qb05d0oTKgzEyrcTtHinY6k/Qjsf4qJYZAU383xW+Pv3/yio2SaKok3bzTlp/Vt6YtL1jhurU9LDEOK5x+XR4hUUpGP1KUnJ78e2CimFwyb3bYeuYWmE2qwrW66hhEn47TiwVFIILflUrj1KeaofqDdbq9fJduuT6/CjPEpj7ipDRIB4J5PuSTRRU4ZYSQRRRRQT//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Love Me Harder</div>
-                                    <div class="artist">Ariana Grande &amp; The Weeknd</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAQACAwEAAAAAAAAAAAAABgAFBwEDBAj/xAAsEAACAQQABAYCAQUAAAAAAAABAgMABAURBhIhMQcTIkFRYRRxMlJicoHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAX/xAAdEQACAwADAQEAAAAAAAAAAAABAgADEQQTITES/9oADAMBAAIRAxEAPwDnD4W+u40lgtXkUk+pdHr2pJHw/k1TbWwTl/qIBG962N7rLcJzwwWC2/LJ5nMSCrkDro9gfqkcmWsLUILpigbWlZySR+v+1W1nYnBOUlVap+mOQzb4KZYwzglj3UgdP1qum7wT6/iFU16eK+No4bK/t+G7dbrNW6BvJY9Ig3ZmHc+3SvnbF8Q8bWHFH593l2mPmE3MctyHTXupQH0n46DVBnZfTDWlVpIRtm577HpY27yzsAq+5OgKqDxDL+ID/k3VwLbCpJpVjOwx3118n91UvYx+SooRfCY+4cvH8gNy6VGBX7odNxehu5Lm7JaZGb0k/HtWd4SycNzZQMyNGG0Bze599fX3WsPGbAthcw+Vt0mkxN2TzLE/L5UvxvR0D3q9V3USZl5PFHLUIT5OLDjW5tM7c59GjnnuD5N9DyqulBBXl111pe/fY61hGtLKOOcQTPMZlKJzIByqTvuCdt012HvQ3F38MF8kl7FLPb6KuiMFdl/y13/1W9/CLhi3jsmzeQgdRId2sU2iUX5P3UgysNI0yzUdRyvwZ7PF4XQ3uHxl3bXsUy288nmRI6kADXU1U1zt+ZC7KycvYfqqmVcEDPpgXGXUWPUPHJK7HQ9TbpfLkrXIY54chElxC+w8b9iD3qqqjKDIJYwhyz4J4Vs79blLNmYNzLGXJUfHQ0ovcuI4lji0iAcqqOwFVVKqARmtZvphG/yHNIxMhH9u6qqqeTM//9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Ayo Technology</div>
-                                    <div class="artist">Milow</div>
                                 </div>
                             </div>
                         </div>
@@ -529,7 +529,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2023, 08:21:38 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2023, 09:07:26 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
