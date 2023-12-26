@@ -477,13 +477,6 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Fiji Water</div>
-                                    <div class="artist">Owl City</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">I Can Be (feat. Crysta)</div>
@@ -491,10 +484,25 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwf/xAAvEAACAQMCBQIFAwUAAAAAAAABAgMABBEFIRITIjFBUXEGMmGBkRQz8UKSoaLh/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACAwT/xAAcEQEBAAIDAQEAAAAAAAAAAAABAAIREhMhAzH/2gAMAwEAAhEDEQA/ANNFQftzqffalNY1WXTrUcllknkIVQDkL9TUXY/EI1CAcLcMvDllXx/z61q6cgaLn3kfEU6+UD/bk+tGaBu6MDJ8llu2a/jMzPPIW6iRnJzt/ikvjCSznkt47WBEdQzy8sdTbbewzTf6eGTjSbkQzyvgBZNlGc7Y84PmlbbTxGSLZRNdE9UjHpRfr+Kp2Fp10hNYq2n3NwY3ZdkjkzjDDc7edvaiq+80tuTy5ZGRmj5h6lTIP27d6KnaQ/FvmyXMumXolgkKMFA4lG/8e9VWmzDUDDI088pLBpF4sL6+u/ap21/SG1BvInlMv9Stjh9/5pzSLy1s7zgjt3WPBHE82cZ7Ht2ofyg+1jp0cN5PbyRhECzM4VF9FOD+RWtoNkhN7I0YlV7hhmTc8I+/rUgsrRSBrKVbeIZIHGScn7dsV5R6je24WOG4dEznHesssVtccy1beJor3UIZDmCFXUL5HVkf6ufxRU5qF/NM7r1cyUYc47gbb4oq2mOQUvBcGMEfMvfFPtdwu4JVuZjBwfFFFapc4url9UZVyzcC/KBv2rwOrEfLxMvfc7fiiijUcm6HUFmMjSTNGH8KfFFFFW1HJv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCAwUEB//EAC0QAAEDAgQGAQIHAAAAAAAAAAECAxEABAUSITEGEyJBUWFxFIEHFSNCobHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAIDBAUB/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxEEEiEiMf/aAAwDAQACEQMRAD8AV8CwNGLLeTcX1rYhpvPnuJheoECNZpga4CQhLil41hSUpB6uaFA6x2MzPrQa0iWWIPO3aeU42geHD0ntpTNYYw24tDOYB6YlA0J/ugchd6iZqoCPqdrXBTa7i9ZOKWaeQooSpZCUumJlJnb38fbsb/D22t1SvGsPUDI5gMpHveY7bTOkd6rW68RMEHzFRat0oJdW2bhQAMGYBkQCdpIotuKDZKlCkzKxvDbXDHkNIvra+QW8/MZVI3Ij+PVFLv07ra3kZYVlkiaKlqUuvaVbLgjdckMFw23W4kuoJ3zJmATGkd6ceFsOtTd27DDQS484EAzmPeZP2pbvL4ouXGkyVZP1ClI2+DqIrR4fdftn2XPqW2y2UvSteh0209HWsxLiuEy+QgaepB6y/MhhqcOQpBVy80HmHWJ+fUUvY4E4ap+1S5nAUStHfOND3jYVXbcZPDFnL1bdmXi0lttwgjWTKh790rXPOu7lS230vPOZipIcidCf95p+Teti4P2Mtig/Myn7huyvLjmgLzg5YPuaKy70hNxndUOtW0efE0U1fIdVwGVHpVmJMynrpTzq3FjrWjeYO9TTeXCA2A4ER0iT2ooo6gzpJbwzsTeFTwDwJYjpOk+KpvsQyLTyiQpKSkwdj96KKZq1hX43kx73EX7rlJcdUtDKShAV+0TtRRRUqoMjMxY6Z//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Found Us (feat. Luma)</div>
-                                    <div class="artist">Last Heroes</div>
+                                    <div class="name">Birds</div>
+                                    <div class="artist">Imagine Dragons</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAuEAABAwMCBAUCBwAAAAAAAAABAgMEAAUREiEGEzFxFCJBUWGBoQcVFjKRsfH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAgMEBQH/xAAfEQACAgIBBQAAAAAAAAAAAAAAAQIRAxIhEzEyQVH/2gAMAwEAAhEDEQA/AM3tlkQtXMWrJzuTWg8NxbPG80uU0xt1/wArMGpjuMBZA+KUD+nC5kgMtd9z2rmNSk7Ow1GKo0LiG7W8rWiC4VN4xvtqqivPFp1XLV5Scim93dCoapEKHciwhAUt/R5UfJ36d8VGQpqpLQKgQR1o6bXLCGSD4iWWNOccICiSB80UzgqKhiikaKKkQi0TUxwttHLbyBrV1/jqavH4c2m0fmKl3J7xD6gAlStgPcEEZH2pOQz4iMWyyT23/uojwtxjuoCIslxI/aeUTgdxV45Phmni3Xc6hdsNm/RspxDDIiltXiA2MBKA2dW2emAK5s4c4fh3GOh5Lj0ePnTl3BOO3v8AWvUniK9S464rkySlh4aFtJWoJUPbB9KWZDseEhClEJGdvSjLlujzDgcPY5vcS024ratr639t1Ebe2x9aKr7yjqUQRvRUGk3ZpiqRd+H2WpbyU6ggnoam74H46ByfChsAAahqOfrRRTJcEX5EHbbGuRJ5sgAqO4SE4+1TPEHDyYtlEh3CG+o3GTRRS6qrDZ7JGVTJCNZ0jaiiimNB/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">STAR WALKIN' (League of Legends Worlds Anthem)
+Explicit content</div>
+                                    <div class="artist">Lil Nas X</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcDCP/EAC8QAAEDAwMDAgUDBQAAAAAAAAECAwQABREGITESE0EHURQiI2GBFTNCCDJiocH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQDAP/EACERAAICAgIBBQAAAAAAAAAAAAECAAMRIRMxEgQiMlFh/9oADAMBAAIRAxEAPwCXGmN6mm3u3RUsstq+pbSUgpjH+RA/Gce9c37Zc7O1KTHmLWjs4/bOCvpO5pVo63pt91ZuEp9/5U9JSEDce1X5u+Q3HCD3+gK2BRmpDk6Jj8gO5g1yalQNQrbdeCwhKVqcCD0nPgH/AJU23WWVd7dcbm1I7LcRJIb7JUp1Q/ik++K229R9O36PEgyENIbW4G0dQ7alLUcABW25PvzVNXclaO0nqvTD87s3GG652W32FrX2nEgJLakgg5USNyME/ijgdrHrCnuJE6+etvp1BtMNtSVPNr+IWvn5j4oqJevT64ogWmJJmxIsgwkyEMOk9xxCjyccHJwfvRQLZ+RxMym9S0DVkBQUlNvm5TyA0Nv91FvWqYr1sfZYj3FhZSfqJaSPxnO343pAiWouu7qyVeMVNald2xXCMkdClfW7hSVFXRuEcjAJ8+M8UCig9Tqa+RvES6+m0+2amvDVpmwJTzSWFLzMbAPUkpKVAjhQO4I3rd2okNJcWmO0S8ruLUUg9RyD5+4B9s15m0hrOLbtbi73IIhxXMtuDqH0wUgFR34yM1anYPqj3F/peoVuxEg9haUxuhxHKCnKc/2458+aKEKPqVV0eeQCNR16xP2XTbFslrgrVKkrTCbdbAW5hKT0o6lHITueDyc0VlHq/qR6RF01Yps4XG629RkTn8p/dWlRCflAGw+3tRT8Nb+55NdlWwJSvjUrWpTinTv8uOrin9k1bCjm2QblGe+Bald555sErUnc4CccZ8EnNFFbGtZnVa1bZWI9dXWJeZFydtkVcaMsJSy2UbkJAGTjYZxx4rVv6dF3Zej0fqFxK7e484xEjnPWyRud/YnOAePFFFJYgRcCWelYvaSf2Y5rTTszS+uJbTy1Ptv5kodc3KgonPV/kDkUUUVoNiTXgK5An//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Crystallize</div>
+                                    <div class="artist">Lindsey Stirling</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -502,14 +510,6 @@
                                 <div class="infos">
                                     <div class="name">Greatest Hits</div>
                                     <div class="artist">Gavin James</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQcGAv/EACwQAAIABQMDAwMFAQAAAAAAAAECAAMEESEFEkEGEzEUIlEVYYEHI2JxoeH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQb/xAAhEQACAgIDAAIDAAAAAAAAAAABAgADESEEEjEicQVBof/aAAwDAQACEQMRAD8Ay3pOmCSElTdnbYk9tlsb/cwa3pNH3JaehnvNqCdiSAdo4HgEkwrRzKqOp5dS7M4ly+7t3cAXtHrW9TramudhPn0lPfckqXMIW9sMQOT8x03VVr2PqAsftZ0H6xKag6Wr9Sn1CD01MaWS01hPBU7VHK2uOB4GYo6VBVFQVBbFri/jEd3R6nS0HTM2pTTaao1Tufvzpigq63NlYAWyP8+8K0iqaqokrDp+lU0+7MGkIZbHbm20e3nGPIjP41DWW/LQh+c9XHqwvs46oodjJOQEhPaUTBFvn4MET9Xq5j6rUCmeZLHuZVFgSfI/38wRLlEYgTOSxyoJxLvpidIXT6qpdws1E2yyCBk8DnmFa06tLHsYTm9q8nAxFFQ1D/TnQICm9bbTkHk2/qJk/VfSs6PJDbLbdxvm3/YctvU8fAO4/aqLapx779TUuk/00109JvrDUqOhmJOKzX2hlGMAeceeOM5jKquqNVWVk2SqoXclJagYF8W+3MaFofWdX9IoaF69CstjtVnK91GWzI38wQCPN/zGfa3L9FqNWXqe6ZRKS7lVJBAsdoGMGMzj8qzt1cYk/kasP3U5U/yVmo1yuyO0pu8LF2+SIIUs/uIEqEDIwwfgwQx8m2MRNQFGMSJImIoY5HO0HiGmq7ilS3kjLC5gghM68j6bO4yr9hWYrswRhgm1x/USq/U5delK8xFWcsgSprWy5UkKSecWH4gggjACzUpYcgiVjzLK5G3AsBeCCCKs5BwIIAYn/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Get Into It (Yuh)
-Explicit content</div>
-                                    <div class="artist">Doja Cat</div>
                                 </div>
                             </div>
                         </div>
@@ -530,7 +530,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Dec 2023, 22:07:40 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Dec 2023, 23:04:07 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
