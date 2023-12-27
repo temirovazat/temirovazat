@@ -470,10 +470,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgIDBwH/xAAqEAACAgIABAQGAwAAAAAAAAABAgADBBEFEiExEyJBUQYUI3GBoWFysf/EABkBAAMBAQEAAAAAAAAAAAAAAAEDBAIABf/EABwRAAICAwEBAAAAAAAAAAAAAAABAxICESEEMf/aAAwDAQACEQMRAD8A5Li2Y3ynhNhK92j9XxDvfoddpO4dgtYwAU7+094Ni125KLboJ/s6PhYPCsQIyWjqOzCei3oh+lPr4baQfIZqHD3WzbKCB7y/W2cOWpt2Ig1vvKBxviYFzLS3Pv2mOsJFz2qClUqSs+p2SdwiTKOTYxJUj7wmjtD7G4Lc1gA50PuOupEzkz8CxTfdd4W/KfeK8XMtSwMHbp/MzuzMp7EKqrgHs3aLkldXX6NijVlZ8LlZSmF8OU8UuxkzHcrzVO7Eop35j+vxEaZ+LkWMRVTj/wBF30/JitWzMPGssW40q/Tkrcnm2D01+osx11a3iqCNa6GTefPPbs9lPowj0qj7LTGYsRkjft1hE7qnoghK7klDUp1JVdjAdhCEUhjMrbSymQmPXfrCED4FdDnOoQhAE//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwf/xAAvEAACAQMCBQIFAwUAAAAAAAABAgMABBEFIRITIjFBUXEGMmGBkRQz8UKSoaLh/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACAwT/xAAcEQEBAAIDAQEAAAAAAAAAAAABAAIREhMhAzH/2gAMAwEAAhEDEQA/ANNFQftzqffalNY1WXTrUcllknkIVQDkL9TUXY/EI1CAcLcMvDllXx/z61q6cgaLn3kfEU6+UD/bk+tGaBu6MDJ8llu2a/jMzPPIW6iRnJzt/ikvjCSznkt47WBEdQzy8sdTbbewzTf6eGTjSbkQzyvgBZNlGc7Y84PmlbbTxGSLZRNdE9UjHpRfr+Kp2Fp10hNYq2n3NwY3ZdkjkzjDDc7edvaiq+80tuTy5ZGRmj5h6lTIP27d6KnaQ/FvmyXMumXolgkKMFA4lG/8e9VWmzDUDDI088pLBpF4sL6+u/ap21/SG1BvInlMv9Stjh9/5pzSLy1s7zgjt3WPBHE82cZ7Ht2ofyg+1jp0cN5PbyRhECzM4VF9FOD+RWtoNkhN7I0YlV7hhmTc8I+/rUgsrRSBrKVbeIZIHGScn7dsV5R6je24WOG4dEznHesssVtccy1beJor3UIZDmCFXUL5HVkf6ufxRU5qF/NM7r1cyUYc47gbb4oq2mOQUvBcGMEfMvfFPtdwu4JVuZjBwfFFFapc4url9UZVyzcC/KBv2rwOrEfLxMvfc7fiiijUcm6HUFmMjSTNGH8KfFFFFW1HJv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lose Your Head</div>
-                                    <div class="artist">London Grammar</div>
+                                    <div class="name">Found Us (feat. Luma)</div>
+                                    <div class="artist">Last Heroes</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAMEAQUHAv/EACkQAAICAgAGAAUFAAAAAAAAAAECAAMEEQUSEyExQRQiUWGBMnGRobH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAfEQADAAICAgMAAAAAAAAAAAAAAQIDESExBEESIpH/2gAMAwEAAhEDEQA/AOCoYi/J5bAqEdvP3jVaT9NUW02DY1odptqnrgLn0Opy+ZjzAa9SlbkYfKQTNMvgqPE31ePVVwdSzjrFgeVl+bfvv6GpItvgdil2nr0J3zH7QgmgIRgJID2jMzLNmCtWh+oRW9KTM03pSx5lLb7bJ1r9teIigIrW11sXg4L5at03AbwB9TOh/E05OJh0Z+NU9zp02Jr02wNb+oPuc+vyujYhxdI2u/KBr+pseF8bd3pXK1qt+ZbPab/0S4tTwdHwc+LC3D7f4LuU1WWVnyjFf4hPXGbEbiOQ1RBVm2PyIQ/kYsn1tpEKkepPlHbeoQi66MrJWlOHylGDAb3CEGUXPZSXH5hCEYG2f//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Be There</div>
+                                    <div class="artist">Krewella</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHAgH/xAAtEAACAQMDBAAFAwUAAAAAAAABAgMEBREAEiEGEzFRFEFhcYEykaEHImKxsv/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAgMGBwD/xAAiEQACAgICAgIDAAAAAAAAAAABAgADBBESITFBImEFE1H/2gAMAwEAAhEDEQA/AE6O3PVQ74+6x9JEzfyONLG0SJC8ssdQsaguWKBRjPB5Pr5edeWe/NbYBGIu4AzOMvgZO3H/AD/Oubj1xV1EFTRQWKrqqOFe3JPDGZFhJHvjcQDnjxrOXPmizSL8f79Tp2VmWY522gpjgWGpXazxMEJwuZEBbjOBzyc/L0NKJYZJ6hqenjXuogd8zZ2jcR69jGkR1fXSQr2RT7WXKuAfGPOSeOPfjURQ9Xyz3CV6GrHxLqVyIiFcZJO0kYb9R+/yzqGs5gSdA+vMg2VaNcmAJ8SZvNlkt1sFS6wdtmCq6uxJzz8x6/1o1DV12ra6IR1M5eIEMECgAHnGAB/kdGmWHVciauOz9QynmF1YdmNydSF1m6mtMNVBaaq1x2ypULTNNGTJ3nZclvS4JOfHjSdBbqm4S7KWMMR5ZmCqB9SeNWW99OVq2k0MNxkhmiVQ+yMMM/q4zyDjjOpu2jsRR+c4Oqpy7HqULpqmets9PBcpVhleCQSPjIY5bx9CNaBfqho7TFQLDRO8bqncjfmNOCvBGc8exquxdO3Sjgo/joVjh3LG9SHDLsC5yR5UkDHocnJ0h1ZaK+w0LXepNPPSw7UbtLtZ1YhQxPjd++cnxnVZBPx9xPdfS7VgN0oAMjyMknRptabnSXaNjSM4dBlo5F2sB7GCQR9j+NGrueupsabarkDodibfTQ2y2RUFualklqGc9hVjDOPbk+APmc/tp3V2CpnusbR1bxCdGWaZYw2SoAUkHhWA9cH1o0aLVRxKzn+WTsOT2Zz0vU2qqtxprPvakppDE3eGSec7h9COfzrIP6uUktk6CpqGaraQ1dwdo03k4iyzKp+wx+dGjXlAcKx8wRx+tyi+JlvSFSU6jpQ8mxO8I2LcAK39pz9OdGjRoLMQF47wrWWrQM//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Young Right Now</div>
+                                    <div class="artist">Robin Schulz &amp; Dennis Lloyd</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgDBwEFBgT/xAAuEAABAgQEBQIGAwAAAAAAAAABAgMABAURBhITIRQxUWFxB0EVFiIjMoGxwfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAIBEAAgICAgIDAAAAAAAAAAAAAAECAxExEiETQRQiUf/aAAwDAQACEQMRAD8Av0xi9wrLYkd/eOc9Ra+7hnC79VZaS8WnEJKSojZRte4HUiF/pGNqy9jSbrrM06hxZAUyFFTRb9kFPTuORMRqhKyWNDXWxqjyYzyFPkfW02k9nL/1E3sL2jQIxLKjCfxwhRZyZtM/lmvbL5vtC/VjHNcl8Zy1ccmnFLTdOgFFLWkebYT07nckRvik08ehfkQ5Rj+jQ+xgjmvTqvuYmws1VXmUtF1xaQkKJ2SbcyOoMESWvt0yzx6NtXKbJVakTUjVGg9Juo+4k9BvfyCLwsMvTqEzilRppmpeR1MqUOOhx29+dwAEjtv5hrFpC0KSb2UCIWmoS7WHfUifRMSrpLeUNttoAL7i905Adjtc7fzGOTi8oeFcbOpaLcbwax8uZ1z76aafvaR8Xvblf/WikZul0FzFBVUDNTdPSuziW3Q25e/PkQodtvMXlw9e+TuL4Z/4lra3w7UGbQ/HRvyzW+rztFQOUNeKcW0wU2XeabmnC3NApBMuUEZwu3I5SOfv3ha52yTUhnRSlmO0MNQJCRplFlJSktpbkUNgtJHQ738m94I2CUJbaCUCyUgBI7QRQkH6jzOyEm9OtTb0qw5NtCzbymwVoHZRFx+oIIARniF8fw/DPaWlqcRtkve2Xre2/SJGmWW1rW202hbhzLUlABWepI5nzBBABKfx5QQQQAf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Getaway (feat. Angel Taylor)</div>
+                                    <div class="artist">Tritonal</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -489,27 +510,6 @@ Explicit content</div>
                                 <div class="infos">
                                     <div class="name">I Can Be (feat. Crysta)</div>
                                     <div class="artist">Mike Ault</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCAwUEB//EAC0QAAEDAgQGAQIHAAAAAAAAAAECAxEABAUSITEGEyJBUWFxFIEHFSNCobHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAIDBAUB/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxEEEiEiMf/aAAwDAQACEQMRAD8AV8CwNGLLeTcX1rYhpvPnuJheoECNZpga4CQhLil41hSUpB6uaFA6x2MzPrQa0iWWIPO3aeU42geHD0ntpTNYYw24tDOYB6YlA0J/ugchd6iZqoCPqdrXBTa7i9ZOKWaeQooSpZCUumJlJnb38fbsb/D22t1SvGsPUDI5gMpHveY7bTOkd6rW68RMEHzFRat0oJdW2bhQAMGYBkQCdpIotuKDZKlCkzKxvDbXDHkNIvra+QW8/MZVI3Ij+PVFLv07ra3kZYVlkiaKlqUuvaVbLgjdckMFw23W4kuoJ3zJmATGkd6ceFsOtTd27DDQS484EAzmPeZP2pbvL4ouXGkyVZP1ClI2+DqIrR4fdftn2XPqW2y2UvSteh0209HWsxLiuEy+QgaepB6y/MhhqcOQpBVy80HmHWJ+fUUvY4E4ap+1S5nAUStHfOND3jYVXbcZPDFnL1bdmXi0lttwgjWTKh790rXPOu7lS230vPOZipIcidCf95p+Teti4P2Mtig/Myn7huyvLjmgLzg5YPuaKy70hNxndUOtW0efE0U1fIdVwGVHpVmJMynrpTzq3FjrWjeYO9TTeXCA2A4ER0iT2ooo6gzpJbwzsTeFTwDwJYjpOk+KpvsQyLTyiQpKSkwdj96KKZq1hX43kx73EX7rlJcdUtDKShAV+0TtRRRUqoMjMxY6Z//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Birds</div>
-                                    <div class="artist">Imagine Dragons</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAMEAQUHAv/EACkQAAICAgAGAAUFAAAAAAAAAAECAAMEEQUSEyExQRQiUWGBMnGRobH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAfEQADAAICAgMAAAAAAAAAAAAAAQIDESExBEESIpH/2gAMAwEAAhEDEQA/AOCoYi/J5bAqEdvP3jVaT9NUW02DY1odptqnrgLn0Opy+ZjzAa9SlbkYfKQTNMvgqPE31ePVVwdSzjrFgeVl+bfvv6GpItvgdil2nr0J3zH7QgmgIRgJID2jMzLNmCtWh+oRW9KTM03pSx5lLb7bJ1r9teIigIrW11sXg4L5at03AbwB9TOh/E05OJh0Z+NU9zp02Jr02wNb+oPuc+vyujYhxdI2u/KBr+pseF8bd3pXK1qt+ZbPab/0S4tTwdHwc+LC3D7f4LuU1WWVnyjFf4hPXGbEbiOQ1RBVm2PyIQ/kYsn1tpEKkepPlHbeoQi66MrJWlOHylGDAb3CEGUXPZSXH5hCEYG2f//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Be There</div>
-                                    <div class="artist">Krewella</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAAAAQGBQECAwf/xAAvEAACAQMCBQIFAwUAAAAAAAABAgMABBEFIRITIjFBUXEGMmGBkRQz8UKSoaLh/8QAGAEBAAMBAAAAAAAAAAAAAAAAAQACAwT/xAAcEQEBAAIDAQEAAAAAAAAAAAABAAIREhMhAzH/2gAMAwEAAhEDEQA/ANNFQftzqffalNY1WXTrUcllknkIVQDkL9TUXY/EI1CAcLcMvDllXx/z61q6cgaLn3kfEU6+UD/bk+tGaBu6MDJ8llu2a/jMzPPIW6iRnJzt/ikvjCSznkt47WBEdQzy8sdTbbewzTf6eGTjSbkQzyvgBZNlGc7Y84PmlbbTxGSLZRNdE9UjHpRfr+Kp2Fp10hNYq2n3NwY3ZdkjkzjDDc7edvaiq+80tuTy5ZGRmj5h6lTIP27d6KnaQ/FvmyXMumXolgkKMFA4lG/8e9VWmzDUDDI088pLBpF4sL6+u/ap21/SG1BvInlMv9Stjh9/5pzSLy1s7zgjt3WPBHE82cZ7Ht2ofyg+1jp0cN5PbyRhECzM4VF9FOD+RWtoNkhN7I0YlV7hhmTc8I+/rUgsrRSBrKVbeIZIHGScn7dsV5R6je24WOG4dEznHesssVtccy1beJor3UIZDmCFXUL5HVkf6ufxRU5qF/NM7r1cyUYc47gbb4oq2mOQUvBcGMEfMvfFPtdwu4JVuZjBwfFFFapc4url9UZVyzcC/KBv2rwOrEfLxMvfc7fiiijUcm6HUFmMjSTNGH8KfFFFFW1HJv/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Found Us (feat. Luma)</div>
-                                    <div class="artist">Last Heroes</div>
                                 </div>
                             </div>
                         </div>
@@ -530,7 +530,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Dec 2023, 18:11:05 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Dec 2023, 19:07:48 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
