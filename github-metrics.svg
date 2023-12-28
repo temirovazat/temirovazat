@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -470,24 +470,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUEBgIDBwH/xAAqEAACAgIABAQGAwAAAAAAAAABAgADBBEFEiExEyJBUQYUI3GBoWFysf/EABkBAAMBAQEAAAAAAAAAAAAAAAEDBAIABf/EABwRAAICAwEBAAAAAAAAAAAAAAABAxICESEEMf/aAAwDAQACEQMRAD8A5Li2Y3ynhNhK92j9XxDvfoddpO4dgtYwAU7+094Ni125KLboJ/s6PhYPCsQIyWjqOzCei3oh+lPr4baQfIZqHD3WzbKCB7y/W2cOWpt2Ig1vvKBxviYFzLS3Pv2mOsJFz2qClUqSs+p2SdwiTKOTYxJUj7wmjtD7G4Lc1gA50PuOupEzkz8CxTfdd4W/KfeK8XMtSwMHbp/MzuzMp7EKqrgHs3aLkldXX6NijVlZ8LlZSmF8OU8UuxkzHcrzVO7Eop35j+vxEaZ+LkWMRVTj/wBF30/JitWzMPGssW40q/Tkrcnm2D01+osx11a3iqCNa6GTefPPbs9lPowj0qj7LTGYsRkjft1hE7qnoghK7klDUp1JVdjAdhCEUhjMrbSymQmPXfrCED4FdDnOoQhAE//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUCBAYDB//EADMQAAIBAwQBAgMDDQAAAAAAAAECAwAEEQUSITFBMmETIlEGFCMVQnFygYKRobGyweHw/8QAGgEAAgIDAAAAAAAAAAAAAAAAAgMABAEFBv/EAB0RAAICAwADAAAAAAAAAAAAAAABAhIDESETMUH/2gAMAwEAAhEDEQA/ANo1uisGt1ZUY8qDj+XWKZ2XxYwn4bHrtOKsXixrbH7vAssyHC5yAT745qeni/kYiOO1RecKZG78eOK4rxbNzbhahIedGeAbsdrkEirqXCqCuJUx9eRRtvxINsNqyhV9UjA5xz0v16ob8psvzW9j45Erft/NpiwsCxSvJRcoypuDA9eO/eiu6IcN8SFd3O5VckZ/72ooXjZLaMnrt1BLodyl7HM0OU3CA4bh1IGfA459s0ogh0q80Vr2ODUIYIc25jQKzcsDuVmB28t6wRgD2prLeqmEKEc+qpx3k4jzZMmffJAFNhlqtBa+HCK306e2utSkm1GFHmaFiCpI+KdpYSAZdBvyMkgY64pl9qTYXOk2Zvp7u8E8/wAlzGYo+lYgMcBcerHGcmrOnalqJk/EexB5xhWz1x5x3Wis7mWVGNyYSxY7dikjb4znzTFmXsGSa6KNBmhTSLNYTci3MA2i4wJP3scf6oqeoSIbpmJPePp4opTyJsxU89utYimQqXaPHlTn+tRgnj2h1v5kA/VHH8KKKqN6RdUUN7a8jkG1r5wGGA/GP09d06gzHH8t7MQRlQMY/t5oopDmySihfrN7KIwqPI5BAy2P8CiiimKTBqj/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lose Your Head</div>
-                                    <div class="artist">London Grammar</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBAUHAQL/xAAxEAABAwMCAwYDCQAAAAAAAAABAAIDBBEhBRIGMVEHExQVYXEiMtEkM0FScnOhscH/xAAYAQADAQEAAAAAAAAAAAAAAAAEBQYHA//EACURAAEEAQIFBQAAAAAAAAAAAAEAAgQRAwUhBhMycbESFTGhwf/aAAwDAQACEQMRAD8A2gfVS0EBrad0sJAI3YdgY9QoL4NiVoaTQ1NDERU7GueQWRA3Iz6cv9UtpkbHILvWLpWmszM0UM5Rq7WLNqEEcskbSHGP5tvXoqrtbaXDbA4i9nXcBZY9TxNTeaeXMpi4RzeFDA34i7cQXX6XNtvNOfBHDlJrdfqLK95+xQN3RxOsdxva59hyTR2mYAOlJGaxJJFu+gqknM5CFHI5ClyFctGykF7WyVa851KAMFMad3JrCQwi/wCkNyf5VM4A6pu1nSGcP0lJJRd9NJUMLpJJLEtwPlsMc/dPtDaXOcOyl+JSGsYe/wCLnHCPCEtFqNZqOsRubUNkL6Ukgfjd0luYPQHlldB7JaXwz9dN7h0TcAW/OkvVtS1QVcvdwyERxu2/Cc4P1Tp2QU+ptpNZqNWjMbpImhjTg4Dif7VLlaAxR+F5dkCUXOxc9EKJx9RYoWfH5WuNGwVkZbbNk8QdoE0cLYjp8dmNDb96c2HshC64ZOSPfLNWg5MPDJoZRdL5HHsoYAKBpH77vovZ+0Kd0Lo/L4huaW/eH26IQiPcpJHV4QzdGhg7M8rn8trDmhCEEnDRsv/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Say Something (feat. Chris Stapleton)</div>
-                                    <div class="artist">Justin Timberlake</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAABgAFBwID/8QALBAAAQMDAwIGAgIDAAAAAAAAAQIDBAAFERIhMQZBBxMUUWFxIjIjUjOBsf/EABoBAAIDAQEAAAAAAAAAAAAAAAQFAgMGAAH/xAAjEQACAQQCAgIDAAAAAAAAAAABAgMABBESBSExQVFxE4HB/9oADAMBAAIRAxEAPwAmLa5qQ2G1B0jJSefqvcq2vQnkNykeUtSC4Ar+vvXw6iujkKWmGH46WZDxHqD+akk/tgDjH+/indvtpessLyXo0lKI5fIdUUqKydkgb7EADke+N69l5SSMDUfddDxKSE7H6oSmMSMgAg17EU+xrWsFpkPyZcopdRAfI8hgoOGSP2APsc7Z9q3lWUpK8JOE9/imcF2sqB6T3Fq8MhT4oX6VRIAG5qrcnRHAwmVFAc0yEISnsrfBSdtsnaqpfmZu18VMwImA2c++8Vzq9OT79Bjy/SrC0SAW1JA0b4BOfvA9q6LcrjPsfh89LcRCtzoCWW0x2tK9ZVgFSid9smldnt8e62BItrLLUCUyB6mQ0EKWMfioNp4+MkfVH/EaPa0eGy3bnrlSpP8AG22pWlSJGd9IGwwoE8cDHesmCXIGOs1rciNSQe6LXO73KD08HYN0C5jJMvznQF+e0rOnOdhseP8AmKU2Tq1uZbjFipkTJytDaQlsjUrTnAKjvuFc7Vx5ce7WJm3sKhvkTNMiKdOsOkHGye/19Gtnw/Es3oiNAkqdjveY8phv/GN9lA8AHbfvTAYijOp8UA2s8ilhiksyPLitt3RKQ1FkOKbU3pUkpcGNlJ2APJ22Paqk/Vs6Q30ZJfkRAlKlFtuNLWrKl8DGCMDvkE1VKz5JoUKsM9/NV3/GLPJupA/VALF4tm2Wi3266RVvNw0hILCwFLSkYSFZ4wO/et63Np66U1NuK1stMuGSyyk/hhZGU4xknCf3zznaqqhLlBCN08mirZzMdH7ApjcphbiTL/HiB+Qy0YdoYSnudtQHbJ7/ANUih/R8WZ0xaxHfSyuXcXT6jUpWcgZ5SCcbnJxj5qqoEHddW8H+UcY1ztStuz2+8WuYzBdfj+qQFEkrcjpOQdSTxz7HOO1VVVLOSu5UlAB9VbbxKF6r/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Démons</div>
-                                    <div class="artist">Angèle &amp; Damso</div>
+                                    <div class="name">Fool's Gold (Tiësto 24 Karat Gold Edition)</div>
+                                    <div class="artist">Sofia Carson &amp; Tiësto</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -498,18 +484,32 @@
                                 </div>
                             </div>
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcEBQYCAwj/xAAsEAABAwMDAwQCAQUAAAAAAAABAgMEAAURBhIhEzFRBxQiQSMzgRVCYXGR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIEAf/EAB0RAAMAAwADAQAAAAAAAAAAAAABEQIDIRIiMUH/2gAMAwEAAhEDEQA/AMZqSXFvOo5N1kzZPWW0txKtwZ6Sd6wlaQONx4BAxjPk5EuHeBG03027hNbZnRvZIZlufDcf7yjcU5yAQQMYznOaVV3lOyZqlOkBISQlKRgAEk4A8ZNNqdo9NztujZ0yKtTSrOhL5CspKgSU5wcg7VpJzWZ639o6y/IL+7Xe+2e5ts2vUdx9mofh6Uh0JSlQAxxgc4+s00vT1m5e2aXJuk6LL/cHEJRg4IKtxV8lk4+8ntUe32G2R1OMqhJMdxIQsJGSnwR/kHnvW7h3JVhtjKbskOx0fqmNDqHb5xwTj7ScHHIP2Uxy4kyfGOis1lqC8Wn1HmjS06THhSgzIDbLqwhWME8A/H5BQwPOKK4eqbcVesrc5bHzl5tsNOJOUBZ+X1zg7hjiikSRDYvdRW0Q9UTrZEdL6W5Ko6F4xvwraDj6zXozUr0GdoabpFpxca82dTEWZ0yAopS2lIWMdxkAZ80qBAjSvXxqAlBRHVe9qwvHYOkn+OKrVaon2/1butxuS+v/AFF5xl4jstlwjYpOOMDCCP8AVTKjqcZvtHWOS23Lt6rg4tK2ldNazlTRx3FToWn4tnsU9F+uUhyAUEuO7hhOOyweTuGeD/BBFdVolSW72DHYS82rjBeUncPvhKTVR633sw9MMWqPHU371z8hBylCUkHbnyTj67A0ePXBc+KlJKda1HqTR8mOWHpi5QguCOsJQ4WlpLahkAA7FpBGO6aKg6N6Tdr0V7mME7bs/IS62gkrALQG/HgpOB3/AO0UoKHdYNExlepEy+y4s1kuTjJitpYVvQVKJClYH0TyCcVR+rOkolh0tZIk63pXd29jDUthB2PBCioYGOFHuR3OfAooqNbqrLa9oYdV4mWl1Ly2XorTasOOO5QEnjjyDznFZ/UF6d1M2OpJZRESsENlQHUI8+eaKKvWp0vY+BpKBdIl3iKt0mSiIzIa6yGFHpqHUGNxHGD25ooopG+mc//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Take It Off</div>
+                                    <div class="artist">Kesha</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAgMGAf/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEERIhBRMxQVEiMmFScaEGM4Gx8P/EABoBAAIDAQEAAAAAAAAAAAAAAAIEAAMGBQH/xAAgEQACAQUAAgMAAAAAAAAAAAAAAQIDBBESIRMxBUFh/9oADAMBAAIRAxEAPwDi/TLEGbaRTjYVb4OFuJYY7yYCFsaVI3HnFQ+TJHIyA9NjtXs8NwVAguXgeRSmpQDjIx3rT1m9Hr7MfaQj5Vt6OomueDvfJbCzka2n1rFeZGlnX3Drkfz1rmuJW629y0SsZVG6+Pvmm2k4NL+lo7AW55kbEB9RyJPbqBzn/dKQWBl5MDSapY4/3PPztSFhKq2/Idj5mFtGMXSMDIeS6HPXx1orRcuYXJG57gUV1NsGfUG+otRvDLdSMxZUX1MRu3xik7u6IihES8wgnY7HFKxFmnVADr6E+aemhMQGcMr7DHUfNC45PVPV8F2bkwQSIzNFJE8bxD6wuR9/V+RWfC7lZJ2EkOB2bG6jf81KaUW94kLHUMuxHbVtg/mq9vdSpCU0rj3dtqpoR62N3k8xS/BaWSMyMSpP06sUUXFtzoWeRdJ7gHtRTDQnFrHTfw94nuRliAV64yDtS11cx89jGSNP90UVGyJLJNXVJfLM+nTnJ81WWZWQsWG+NqKKGP2HVecG95IltpEUEtgYGcUUUUZSkf/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Million Dollar Baby</div>
+                                    <div class="artist">Ava Max</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAgFBgQHAQID/8QALRAAAQIFAwIFAwUAAAAAAAAAAQIDAAQFESEGEjFBUQcTFCJxFYGxCDJhkaH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESEDMRL/2gAMAwEAAhEDEQA/AFcCj3NrWxA3uUsJSCok2A7mJrSVAd1JV0U9mblJPckqU/Nu7G0ADqfnHH+Ruqg/p6eaqMpOzOqaM9Iy7iHHw3uUb4O0Wwfm+e0ZlNR9GotmpqzoetUfT8rVqjLFhuZ3FLasKCBb3W5tmKtfMN74vLlqnNyRliqXlZBCZda5pnZ7FH3BN8m4sc4x94Wmv6PqFOnZgyYE9I+YQzMMEELT0Ngcdu1+LxPn0+sbNz5uOlY6nt8wRl1WmzNLmUsTaUhxSEuDYsKBSRcZGL9LdDBFsJmGDybGJejV2qyc/ImWqk5Lhl4LQW1k7VXvfbfJ+YiOtxcQJO1QVm4N4TVjWDseLEghematVnJ+ZTVZWnesEu0EnITsCxcZAOTz+IU17XFfdqXrfWhtzf5hQ22kNk3ubptYgnNjjJ7wyeqtXSz2jlVBSg5NrpjiUNlRW2GHUJuRgXUrCbH9tjg8lRAf7iXJKnhubeWTepdT1HURY+olizG7YGmgi243PGYIgybGCK0ienp0jnaLWJx/EEEMCws6vqiKH9OulTaWFSqHCgbktq5Tcj7XwQMAxWtpBPHPMEEFJeBbfp1OSfzBBBAB/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Avec toi
+Explicit content</div>
+                                    <div class="artist">OBOY</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQMHCAH/xAAtEAABAwMCBAUEAwEAAAAAAAABAgMRAAQFEiEGEzFBFCJRYaEjMkJxM4GRsf/EABkBAAIDAQAAAAAAAAAAAAAAAAABAgMEBf/EAB4RAQACAgMAAwAAAAAAAAAAAAEAAgMRBCExEkFR/9oADAMBAAIRAxEAPwBWzvE2Sfuy9crDwCSkNqKgnfr9pB+aoG8ni7nUcjYJVcFe6UNuOJKQOsl4GZ9qkvp8VchtJ8yjA8pPwOtWGCwDZu3lONXKgmIi2WpJMbjpIqZ37M+fk1xHfsoudw74iRjnTMyjw5AE6Yj607Qe/wCR9oxZJ/CMN67O0ZW6FfwusKQkpg7kh0ment7+r0MdiDkSyAsvBzdjkr1hUfbETS7xJw2k3rfJbugCkkzbLSkH/JNPR9MoObqwXNbiRduNuL1IZQwTH02yrSBHuSfmivckybe8caWSVIIB2I7eh6UVGbq2E2S/YfW5fNhsp1FYCZBO/bpvW6eG03DVpk1Oc7UG0kkOADVyvxnofftXPbN4pm4S4kjUkyJmPjen3gjJ2l9e3DNyykBbUJJcUkJgbkJB9Kfpqc3m1sWMmt6ilwui+vOJWl2bi1XhWVlQV5177wfXet48Wt3Rax/JLoWWlgEuAwrQmdUdT/2ufMdfuY3ItXduAVNqnSSQFDuDG/SnrjbMWjN5b+HYRpLIJhxShKgCCQT6enWgO5ZzVyFMYfruJN63zMq42+tKPOQohJEHvsd6KyYtleUzjSVJEuEq6HT0269qKPZsoNagynCt9qkW107bucxlZQsAgEeh2NFFIkkLGmTHMewMem5TlbFS9AUbeVh2e6ft0z/dRkXSnr5ly5UFjUgK1DbSIEfqKKKHyBU2MdbTIW1ws29q79RxvQlHX9ge0UUUUYrPx9l7Zn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Bloodstream</div>
                                     <div class="artist">Paradigm &amp; Scott Rill</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAuEAABAwMCBAUCBwAAAAAAAAABAgMEAAUREiEGEzFxFCJBUWGBoQcVFjKRsfH/xAAZAQADAQEBAAAAAAAAAAAAAAAAAgMEBQH/xAAfEQACAgIBBQAAAAAAAAAAAAAAAQIRAxIhEzEyQVH/2gAMAwEAAhEDEQA/AM3tlkQtXMWrJzuTWg8NxbPG80uU0xt1/wArMGpjuMBZA+KUD+nC5kgMtd9z2rmNSk7Ow1GKo0LiG7W8rWiC4VN4xvtqqivPFp1XLV5Scim93dCoapEKHciwhAUt/R5UfJ36d8VGQpqpLQKgQR1o6bXLCGSD4iWWNOccICiSB80UzgqKhiikaKKkQi0TUxwttHLbyBrV1/jqavH4c2m0fmKl3J7xD6gAlStgPcEEZH2pOQz4iMWyyT23/uojwtxjuoCIslxI/aeUTgdxV45Phmni3Xc6hdsNm/RspxDDIiltXiA2MBKA2dW2emAK5s4c4fh3GOh5Lj0ePnTl3BOO3v8AWvUniK9S464rkySlh4aFtJWoJUPbB9KWZDseEhClEJGdvSjLlujzDgcPY5vcS024ratr639t1Ebe2x9aKr7yjqUQRvRUGk3ZpiqRd+H2WpbyU6ggnoam74H46ByfChsAAahqOfrRRTJcEX5EHbbGuRJ5sgAqO4SE4+1TPEHDyYtlEh3CG+o3GTRRS6qrDZ7JGVTJCNZ0jaiiimNB/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">STAR WALKIN' (League of Legends Worlds Anthem)
-Explicit content</div>
-                                    <div class="artist">Lil Nas X</div>
                                 </div>
                             </div>
                         </div>
@@ -530,7 +530,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2023, 05:05:32 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Dec 2023, 06:29:23 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
