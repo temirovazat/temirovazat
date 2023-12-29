@@ -458,18 +458,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAYCBwMEAQUI/8QALRAAAgEDBAAFAwMFAAAAAAAAAQIDBAURAAYSIRMiMUFRBxRhFUJxIzKBkfD/xAAXAQADAQAAAAAAAAAAAAAAAAAEBQYD/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAAxESITEEBRMiMv/aAAwDAQACEQMRAD8Ad/qFvJ9mPbBFamqaapc82i/YB22FHecd5xj1zrSj3nsre9FNRVyGanXHNKuDHhknAPRJU5OA3XZxnvTduS20dwoM1tKtSYTzjyCSjenLr8H4PWlmg24tPPaZIrUrx21/Dp3zh5VcqOTsx5cECZC+ucdH10nrFRr2Jwwjd2sFmoGVM3tn2avsEAt9FWfeWQNzpZKg+eGM9+GMdtj2JxjPv6aSvrHUQXK801FS1FO1RSwyxy+Vi8DN4Z9mHqp/jGfXTxvXeCbdeOkpqOevuc0TTRwR48qL/c5yRkD4HZ1UNXdo9xXOoviQpG9Wqr5RgsqDAJ+T75/x7aL9f4xvtDuOIVSiWP8AF2B3IWWyUNusc0qyhqzkFUcgPLnvy/7/AO9DXOjVOq6DC9RslYrGq8Ceita1xqlo6V6iSWmiiTt5KiTw0UflvTULpc6G0033Fzq4aWEtxDytgE/H86Urt9RNttHLArffZU4Hg8oiwHWc+2fcA6g1UmLFrd/wMzLvOit9zo5q2dY6iF7bK0E8cpwroCwIZT2CGb8dahabBSfp9EhtNCD4KmVpGTMZ4qcN35SQwPfzpV3JebfVRxUNmlNRU1kYWQqcR0sPPCwxoAAvIr31kgdk5GrJhkh/XKl6Fx4sDx0tTU0wUtyyCzyHj5QohwV7GDgEZOqH16Mlex6PUwbasbAYzEXeFio6Ggnq/tTTOCI4uLjg7c2DAYPZHFsj26+Ro1l+otBHRWWzKJnaVXlzGCCoZwsj/lSGfABycAaNOqTlc5jXxG2r2PMcN6bch3RZGoZZnp5FcSwyp3xcZxkfuHeCPjVR3DYN/tan7yCkqbRE4qJ2p6jgML2SUYA5xkdZOjRqGSwrxAlvepSFPBnT2xWpatqvw0jmmkFTw4+VMMQFx8KV44/GrUbce3lNz+3FNFTtJIvhCnLNUxtGSMEjr+qxPZGAqjRo1W+L96FJm9dK21LtF7fFwttVxitU0cyvUy1DMkZUKpVVRewOwFJP5OjRo0YgwIZRWEQAT//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAQFAgMGAf/EACsQAAIBAwIFAwMFAAAAAAAAAAECAwAEERIhBRMxQVEiMmFScaEGM4Gx8P/EABoBAAIDAQEAAAAAAAAAAAAAAAIEAAMGBQH/xAAgEQACAQUAAgMAAAAAAAAAAAAAAQIDBBESIRMxBUFh/9oADAMBAAIRAxEAPwDi/TLEGbaRTjYVb4OFuJYY7yYCFsaVI3HnFQ+TJHIyA9NjtXs8NwVAguXgeRSmpQDjIx3rT1m9Hr7MfaQj5Vt6OomueDvfJbCzka2n1rFeZGlnX3Drkfz1rmuJW629y0SsZVG6+Pvmm2k4NL+lo7AW55kbEB9RyJPbqBzn/dKQWBl5MDSapY4/3PPztSFhKq2/Idj5mFtGMXSMDIeS6HPXx1orRcuYXJG57gUV1NsGfUG+otRvDLdSMxZUX1MRu3xik7u6IihES8wgnY7HFKxFmnVADr6E+aemhMQGcMr7DHUfNC45PVPV8F2bkwQSIzNFJE8bxD6wuR9/V+RWfC7lZJ2EkOB2bG6jf81KaUW94kLHUMuxHbVtg/mq9vdSpCU0rj3dtqpoR62N3k8xS/BaWSMyMSpP06sUUXFtzoWeRdJ7gHtRTDQnFrHTfw94nuRliAV64yDtS11cx89jGSNP90UVGyJLJNXVJfLM+nTnJ81WWZWQsWG+NqKKGP2HVecG95IltpEUEtgYGcUUUUZSkf/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Cry for You (feat. Melody Mane)</div>
-                                    <div class="artist">Cuebrick &amp; Moestwanted</div>
+                                    <div class="name">Million Dollar Baby</div>
+                                    <div class="artist">Ava Max</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQcGAv/EACwQAAIABQMDAwMFAQAAAAAAAAECAAMEESEFEkEGEzEUIlEVYYEHI2JxoeH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQb/xAAhEQACAgIDAAIDAAAAAAAAAAABAgADESEEEjEicQVBof/aAAwDAQACEQMRAD8Ay3pOmCSElTdnbYk9tlsb/cwa3pNH3JaehnvNqCdiSAdo4HgEkwrRzKqOp5dS7M4ly+7t3cAXtHrW9TramudhPn0lPfckqXMIW9sMQOT8x03VVr2PqAsftZ0H6xKag6Wr9Sn1CD01MaWS01hPBU7VHK2uOB4GYo6VBVFQVBbFri/jEd3R6nS0HTM2pTTaao1Tufvzpigq63NlYAWyP8+8K0iqaqokrDp+lU0+7MGkIZbHbm20e3nGPIjP41DWW/LQh+c9XHqwvs46oodjJOQEhPaUTBFvn4MET9Xq5j6rUCmeZLHuZVFgSfI/38wRLlEYgTOSxyoJxLvpidIXT6qpdws1E2yyCBk8DnmFa06tLHsYTm9q8nAxFFQ1D/TnQICm9bbTkHk2/qJk/VfSs6PJDbLbdxvm3/YctvU8fAO4/aqLapx779TUuk/00109JvrDUqOhmJOKzX2hlGMAeceeOM5jKquqNVWVk2SqoXclJagYF8W+3MaFofWdX9IoaF69CstjtVnK91GWzI38wQCPN/zGfa3L9FqNWXqe6ZRKS7lVJBAsdoGMGMzj8qzt1cYk/kasP3U5U/yVmo1yuyO0pu8LF2+SIIUs/uIEqEDIwwfgwQx8m2MRNQFGMSJImIoY5HO0HiGmq7ilS3kjLC5gghM68j6bO4yr9hWYrswRhgm1x/USq/U5delK8xFWcsgSprWy5UkKSecWH4gggjACzUpYcgiVjzLK5G3AsBeCCCKs5BwIIAYn/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCAwUEB//EAC0QAAEDAgQGAQIHAAAAAAAAAAECAxEABAUSITEGEyJBUWFxFIEHFSNCobHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAIDBAUB/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxEEEiEiMf/aAAwDAQACEQMRAD8AV8CwNGLLeTcX1rYhpvPnuJheoECNZpga4CQhLil41hSUpB6uaFA6x2MzPrQa0iWWIPO3aeU42geHD0ntpTNYYw24tDOYB6YlA0J/ugchd6iZqoCPqdrXBTa7i9ZOKWaeQooSpZCUumJlJnb38fbsb/D22t1SvGsPUDI5gMpHveY7bTOkd6rW68RMEHzFRat0oJdW2bhQAMGYBkQCdpIotuKDZKlCkzKxvDbXDHkNIvra+QW8/MZVI3Ij+PVFLv07ra3kZYVlkiaKlqUuvaVbLgjdckMFw23W4kuoJ3zJmATGkd6ceFsOtTd27DDQS484EAzmPeZP2pbvL4ouXGkyVZP1ClI2+DqIrR4fdftn2XPqW2y2UvSteh0209HWsxLiuEy+QgaepB6y/MhhqcOQpBVy80HmHWJ+fUUvY4E4ap+1S5nAUStHfOND3jYVXbcZPDFnL1bdmXi0lttwgjWTKh790rXPOu7lS230vPOZipIcidCf95p+Teti4P2Mtig/Myn7huyvLjmgLzg5YPuaKy70hNxndUOtW0efE0U1fIdVwGVHpVmJMynrpTzq3FjrWjeYO9TTeXCA2A4ER0iT2ooo6gzpJbwzsTeFTwDwJYjpOk+KpvsQyLTyiQpKSkwdj96KKZq1hX43kx73EX7rlJcdUtDKShAV+0TtRRRUqoMjMxY6Z//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Get Into It (Yuh)
-Explicit content</div>
-                                    <div class="artist">Doja Cat</div>
+                                    <div class="name">Birds</div>
+                                    <div class="artist">Imagine Dragons</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHCP/EACsQAAIBAwQABgICAwEAAAAAAAECAwAEEQUSITEGEyJBUWFxgSNCBxSRwf/EABgBAQADAQAAAAAAAAAAAAAAAAIBAwQF/8QAHREAAgMBAAMBAAAAAAAAAAAAAAECAyEREiIxQf/aAAwDAQACEQMRAD8A85W6gsve7P6resbaFkZpyw2lcY9xnnj8Vmafu9GNmzdjnvP47p10cQr5bNF/PG67sjJxnsDofFdSiHl8KZPhmGxhuryNLQsLeTkcbiv1zjOKzLi1aGeSJlO5WK4HdMer3UVtNvtVKCORl66OMnn91SdLR9Gt7tJjJfTTOsyMp9AGCuOOc5POfrFX2xSfP0MX0V7qMgnzGCnPX1RWxrNvYxqj2MdzLHtUymfAxJ/bGP656zRWWUNH0YdG8EyIkc9w8UTq2dxlGAPxTfIF0OzaaF7S5nDL6UYc9e/xSPpOrz2elpBLck2qTmQQM2A5wP8AvIHfHda15a3mrW1nIti+2dsSy59CL1kKBwPvnmtkLo1rkVrA4OWhqlxY3Vw6z2k5laYztIeUYlQNn/vdRw6ZcS6XcxLGix+avlxoPUf0Dg4NdAez0K48MW2necEu4GcJMQy+k4JB4+eQaR2Z9IZ4UYNtY7nYfxsOg2c55+sUbLZNd4OutPERaVZWCXsbaxYT3Gn78y20D7C2AQBuOSOee6KopNczWdwUmCIZtrrEwGW9vbrH3RUNOWk+qOh2PgVrzEOyeKOSQebsACMPYdZB/BFNA0PWre7eK2tPNhUkKZAc4A4w27HJ9gABRRQs5HUtIi28ZJBofiiSIifSkdmb07TtCjB7y3zjn4zVK+8DardXUH+5Y2zxFuTJAX2cD23/ADnn2HNFFVxtk8ZD4tSKmof44sbciQafNNhj6ROyJz8cE5/ZooorUngGz//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Fiji Water</div>
+                                    <div class="artist">Owl City</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -480,17 +486,11 @@ Explicit content</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACYQAAEDBAIBAwUAAAAAAAAAAAEAAhEDBAUhEjFxEyKRMkFRYaH/xAAZAQEAAwEBAAAAAAAAAAAAAAACAAEDBAX/xAAZEQEBAQEBAQAAAAAAAAAAAAAAAQIRAxL/2gAMAwEAAhEDEQA/ANiyYWmCZW/bUpjSybB7fU3GtJqsLflwJb2JHhe3qhJ1EUQW6G1417cdT5TDTtBxmNqnfUhTaTELOU7iwv1bdrAPcCEKd1UmdFCcAs4uqxznPJEA6b9yU9Yi4JaHcCKbui7UhcixeRYA3r5TTi8t6VQSTH7S1On56+a6nTuafHodLNyl1SAPJktPcdjwl6nnmhgMhUshmqdRmyORWUzett+k4lf3U8y2GgnQ/CEq5HLfXD4jpC2kcvXM7PIkQQT8piscmTTJkyhCUTS03MkCORXjXzE8t+NoQoph3uUe4mXf1CEI9W//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAMEBQcGAv/EACwQAAIABQMDAwMFAQAAAAAAAAECAAMEESEFEkEGEzEUIlEVYYEHI2JxoeH/xAAZAQACAwEAAAAAAAAAAAAAAAADBAECBQb/xAAhEQACAgIDAAIDAAAAAAAAAAABAgADESEEEjEicQVBof/aAAwDAQACEQMRAD8Ay3pOmCSElTdnbYk9tlsb/cwa3pNH3JaehnvNqCdiSAdo4HgEkwrRzKqOp5dS7M4ly+7t3cAXtHrW9TramudhPn0lPfckqXMIW9sMQOT8x03VVr2PqAsftZ0H6xKag6Wr9Sn1CD01MaWS01hPBU7VHK2uOB4GYo6VBVFQVBbFri/jEd3R6nS0HTM2pTTaao1Tufvzpigq63NlYAWyP8+8K0iqaqokrDp+lU0+7MGkIZbHbm20e3nGPIjP41DWW/LQh+c9XHqwvs46oodjJOQEhPaUTBFvn4MET9Xq5j6rUCmeZLHuZVFgSfI/38wRLlEYgTOSxyoJxLvpidIXT6qpdws1E2yyCBk8DnmFa06tLHsYTm9q8nAxFFQ1D/TnQICm9bbTkHk2/qJk/VfSs6PJDbLbdxvm3/YctvU8fAO4/aqLapx779TUuk/00109JvrDUqOhmJOKzX2hlGMAeceeOM5jKquqNVWVk2SqoXclJagYF8W+3MaFofWdX9IoaF69CstjtVnK91GWzI38wQCPN/zGfa3L9FqNWXqe6ZRKS7lVJBAsdoGMGMzj8qzt1cYk/kasP3U5U/yVmo1yuyO0pu8LF2+SIIUs/uIEqEDIwwfgwQx8m2MRNQFGMSJImIoY5HO0HiGmq7ilS3kjLC5gghM68j6bO4yr9hWYrswRhgm1x/USq/U5delK8xFWcsgSprWy5UkKSecWH4gggjACzUpYcgiVjzLK5G3AsBeCCCKs5BwIIAYn/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Can Be (feat. Crysta)</div>
-                                    <div class="artist">Mike Ault</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAMEAQUHAv/EACkQAAICAgAGAAUFAAAAAAAAAAECAAMEEQUSEyExQRQiUWGBMnGRobH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAfEQADAAICAgMAAAAAAAAAAAAAAQIDESExBEESIpH/2gAMAwEAAhEDEQA/AOCoYi/J5bAqEdvP3jVaT9NUW02DY1odptqnrgLn0Opy+ZjzAa9SlbkYfKQTNMvgqPE31ePVVwdSzjrFgeVl+bfvv6GpItvgdil2nr0J3zH7QgmgIRgJID2jMzLNmCtWh+oRW9KTM03pSx5lLb7bJ1r9teIigIrW11sXg4L5at03AbwB9TOh/E05OJh0Z+NU9zp02Jr02wNb+oPuc+vyujYhxdI2u/KBr+pseF8bd3pXK1qt+ZbPab/0S4tTwdHwc+LC3D7f4LuU1WWVnyjFf4hPXGbEbiOQ1RBVm2PyIQ/kYsn1tpEKkepPlHbeoQi66MrJWlOHylGDAb3CEGUXPZSXH5hCEYG2f//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Be There</div>
-                                    <div class="artist">Krewella</div>
+                                    <div class="name">Get Into It (Yuh)
+Explicit content</div>
+                                    <div class="artist">Doja Cat</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -518,7 +518,7 @@ Explicit content</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Dec 2023, 17:04:18 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2023, 18:09:40 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
