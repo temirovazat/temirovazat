@@ -438,10 +438,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAQFBgIDBwEI/8QALRAAAgEDAgUCBAcAAAAAAAAAAQIDAAQRBSEGBxIxQRNRIjLB0hUXYXGBk6L/xAAZAQACAwEAAAAAAAAAAAAAAAADBAABBQL/xAAfEQACAgIDAAMAAAAAAAAAAAABAgADBBESITEiQWH/2gAMAwEAAhEDEQA/APlbHmvKsdxLa3enPGzqsnUGRj7/AK4/n3rTJoWNHuL+KcusJXqHRjYnGe9NviOuyvYEGLB9yHV1MIiMcYJcN6pz1Adsd8Y89s041jbCQL+IQlSfmCnasorC1Oh3F9LqEK3KuscVmFJkbPdicYCgD3JziouldahI1eW8UDKIrhJwe5UYxRStFVJGmkEqIgjVXyB1DY10cBLPl3fujK0skYiy58EjONtz4+tc4WJlkUsWCtuG96sujanElvLZ3M0gtJlAIGOpT4Iz5zvWzhnaurdExa30EeQ4S4Kutfks5DOlvZTyemZXDfNueldsFsKT7e5ztT/HvAR4cs7W4spJ7qNpPQld1C9UhzjoUZOMDyc5xtW9+MU0zTYtOsRtEoRX2BAznuBvSGrcYapmNY75JVbf4VIxvt3+lUcbHSshm+X5ILHLbA6lTurK6tApuraaEMSB6iFckd8Zoqc1m/mvdGVbxySsgaLPc7EH9xRWfkVCp+KnYhkfkNmdJ1Dktxo0XRHw/MW7BfVj+6q/LyM5kdZ6eGLgjxieH76KKLlZDXaLAQdKBR1MPyL5kZ34Wuf74fvpi35G8x1Jc8MzBl+VWmhIP+6KKVQ6O4ZvJN3PJPjrV9Kd5OHRp93Zx5SIzIRdEkfCuGIUgZO5A8UUUVLbDYeTezlQANCf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAQFBgcIAQL/xAAsEAABAwQBAwMDBAMAAAAAAAABAgMRBAUSIQATMUEGFVEUMmEiUpHBcYHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMFBAL/xAAnEQACAQQBAwIHAAAAAAAAAAABAgMABBESIQUTQTFRBjJhcYGR0f/aAAwDAQACEQMRAD8Ak9BYam4Mgo6DLzv6nGKpAJKSTiZnIHXY+OMl9X9PdX7Y7cKWlqigIXkhLk6BSowQRA2B3PwePl39QU1FYl3prFKGloCUlRCXVlUAFQ33+dQDzOt5uVRcq96oU86uredLr7pUAFrEwRAGMAnyeLiWRYQsi6t7UWuo7jZoANPHFWNnV+49b661fUYY9fpD7Zmce+XmO/45KLE517rT21u4UtVVhJSjFCW4kEqUJJJkbI1HwOUIph4OdXqK633ZyZmJn57eeLLRdH7dWtVCXnU1TTodYdCgQlepUZG9AeRzpUdTljxR725BAHFaKr7BU29klZYdeaGTbFKgAhIIyMk5TvsPHDhZ/UNNXWNF6eKVNuLcC0hRKWnAYICjsb7RqCOHMF5a3c0pMUJZffANMh61023XS6QF/PFVLc/cz6XfCUW1VH+qPqsOp1NT08t5Yz/W+QizJQt49T9yYiJnfadfzzSF59OUtbYF2VoIWhxaChRRKW3AdEgb/wAzqCeZ2ulvqLXXPMFp1FU06Wn2lIBCF7hIgnKYPgcrXd0l+TPF6H0qfaxvEmky6nyKW1rrGIbZSA3iJ2Y+3+f64x1UZ6+TPb8fGudW64XsMFdX7cNzPaPn/XFtotj1xq2mEtPLqXXQ0w0lAAWvUpMkY9x4PFRsQgSt7dpVwgwamFq9zHpdoKRbU0Zxk0vT6hc3HUx3OP8A3fDls2X05S0NhTZXQhCW3HFOKCIS44TsgHZ+BGoHDla2+IrOxTsS5yPp+aiSWt47l4odlPmvdvvtVQNgNoZffbGLj1SsJISCcQQBkTvufHGO/NCpu79zct1NVVYSFrGSW41CUmASdaB7j8cOHIlsBJAueBirUkxmBdgMt68VFulVe49L2+2dfDLodUfbMRl3y8ZTPJRYmhT3enubdupqWrxK0ALS7OiFJEgEGNE9/wAnhw4yOFRyKMjDYHAp+uF+qq9shaGWKh0Ytv0ygolJIkAEZTruPHDhw5G6nLpN8oP7/tNi6tNaDtxKuPtX/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Smoke Signals</div>
-                                    <div class="artist">Hotel Garuda</div>
+                                    <div class="name">Hymn for the Weekend</div>
+                                    <div class="artist">Coldplay</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -452,24 +452,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIDBQcBBAYI/8QALhAAAQMCBAUCBQUAAAAAAAAAAQIDEQAEBRIhQQYiMVFhExQjMnGBwUOCkbHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEBQD/xAAhEQABBAICAgMAAAAAAAAAAAABAAIDERIhBFETMQUiQf/aAAwDAQACEQMRAD8A80s5VXCS+VBnMM5QJUEzrAOkxVu211wmlsFjDcSZY5FJQXgopRpnkzqdDHlZn5RNSpQfVA1gkVY2DW6bt1lDqZQohJHjetLisslZPyEoY0WssY3wsMUvHb3DMSdsnnW1WzaXwktJAOZBM6gmBPWNetTl5gPC73DdnjSrG6fsWbhNq+02v03lqUwVKOYkjRYEEA6SI7SuIPYZjtjf4KLZto2wTlVkACDEgpjtVWYgxc2Tr1qXCEjrkVyr7HzT5IqFk2FFw+b5iQG4kd9fhULjVi01fvN2ygtGYqQEjojqJ1MaeTRTFy8820prQIJ1gRRWe/G+ltszpbtqxOVRidvNdMi+VY+xeTJlUkAxIjWuXtlLSqEtnN3iaTeXS3iConImUp/NVMkwbpRSw+V1H0rB4avxc49jD7DgW0422pJ7cv8AtcdhTqnXbhBOYjmEnbfrS+DrxVq7dJT+q3BV2gE1CWlwu3eDyVao2J2oCbQtKj4uL3gdCltYsy3MpCv53opTzyroIKxyKO22tFLeA42rYyQ2imsOcaVPrPlo7chM6E7HuAPvO1bvscNMn3at9A2ruPwSf2+aKKDPsNoP0dLKbeytwFM3SlLVlSr4ZEAjm+sHTzTSrXCm7nJ7hTjfN8T01DpOXlneB9JoorjVekG7JTN2/atrbDRS6kKkpyFI6A/3I+070UUUokqhrBS//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwECBAP/xAAtEAACAQMDAgMHBQAAAAAAAAABAgMABBEFEiETMQZBYQcUFSIyUYEjQnGh4f/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAEA/8QAHxEBAAMAAQQDAAAAAAAAAAAAAQACEQMEEiExIjJB/9oADAMBAAIRAxEAPwCVXuivAdyneuewFJtRsZFjLRoCSecHtVi6pHtchQMVWntHa8TR+jY3K2080mzfu28bWOAfLtipq81kV9ErtwVrYD9mbWxjiG/quLrPbb8u3+fvXYICtq6wjc0Z86hngrTtT0y6tfieoe8JqcRlSJiT0yOQVJPI2nnt+asPTWjePfE25WP1felaWd3Y1O07c8R14c0+S8hjdwscZGPWim2hEMECgqF4HNFA8BZ31CObDJz3lweiTLjDZxUZvrW3vrV2vI45zHmREkXI3AHBx508u9rxlDkeuaSzwFQ/TY5I4rL0cQja3rbFlZe0PVZ7W4sL2zBjQx7FcEZUSJ5D9vFOfAslxb2NrIyTTEq8Yj6uBnuDgnHpkjivDxRbRHWdKjeJHhCKjIRwVKlalGkQIsMJUfp9XCnz2YYD+qkVwJThksDQbe4e2R2hMZZQ20sOD9vWitbXVsoqQqQUwO3lRT69RcMkd+nquxRPPEI2xnIGQaTl3EoZiiox2/Vzzn8Dmiin9PX2s3lc8EhOqabd+JfECe4SKYbVQkj7iAW5yh881KrLdbySW8+4PHt28YH+0UUIHmdaymMfWE+0nojc6/MeKKKKh535x/H9Z//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Freaking Me Out</div>
-                                    <div class="artist">Ava Max</div>
+                                    <div class="name">Liar</div>
+                                    <div class="artist">Camila Cabello</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQECAwf/xAAtEAACAQMCBAYBBAMAAAAAAAABAgMABBEFIRITMUEiMlFhcZEUBkKB8VKh4f/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAGxEBAQACAwEAAAAAAAAAAAAAAQACERITITH/2gAMAwEAAhEDEQA/ALNFQeSdf52qHrOqy6fbKIHWSeRuFcNkL7kUmWP6hGoQ+BisnDlkB6f896tdPQGHn3iBmTx8rPT/AByfWlmgbujAyfKMt2TfIZS80hbxFt8nO3X2qH+sZbO4e3jtYEV14nk5Y8TDG38ZqV+PDIJI5jBFPK+MK+yjOcDHfB71GttPWMkWyia6z4pGPhRff6qOwtOuUJbFW0+6n5TugwkcmcYbqdu+3xRTfeaW3K4JZWV3jMvmVMj66daKXaS6W81W5l0y95kEhQgAcS9f6+aatNlF+YZGmnlywaRS2FHf136Uu2wtPxh+bE8jS/uV8Y+f7qbo15a2d4ESB1jwRxPLnGeh6dKH5B9nDTo4rya3kQRoBOz8KL6KcH7FW+gWSE3sjRiUPcMMybnhA+fWk9JGicNZSCCMZIHHk5Ppt0xXJNRvbfhSG4ZFznHWsssV8tTMrW3haPUL+CQjkRK6he4ydv8ATn6opcv9QmmdxlubIMOe5A23oquLLkErwXJjUr5lG+M1YNdQu4bDczGGwRRRWiXPiurL6oygFm4F8oG/SuB1YjPDxMvXc7fVFFGiHJtDqAlMjSStEH7Ke1FFFVqnk3//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAMHAv/EACoQAAIBAwMCBQQDAAAAAAAAAAECAwAEEQUSMRMhBiJBUWEUMnGBFULB/8QAGwEAAgIDAQAAAAAAAAAAAAAABAUCAwABBgf/xAAgEQABBAIDAQEBAAAAAAAAAAABAAIDEQQSBSExIkFR/9oADAMBAAIRAxEAPwCF0wwpfxLPKsQbONx5pt4kuk06yJtkEkpHZvQfNSOs3NqoVJWUSggcZZQfUU4jmXUtCibzFxuXLdt2DgGuZ5WK8hsjvPF6VhBmg7UnFH15XkulaaTnGa26YdOFyPqY3iHo8bEFa6W9hcFGWSOdITkP0vvb2H4pba+H70yEsZEX3btVzJGD62qlfKS0hrGXf6vWtORJLaPa6yZ4cLjcPc/NFL/CCzJD0WG8JxRXQY2VHNGHuHaAlBa6klsNFi1i76Uixghc72HcCq/RrD+NYx27W8qNujXeGAG0HPepmMPDKHjIDjgkZArFcx6rbzFY9Rh2N90ee3f4pHydGYB/lLeHGXRkAr0e3nuGuZY4TZeVe7d/KDwf9pZrtldarPG7TWkTE7cKSBzj9Y5/dRdhbXC3klzcuiqU2bE/t7Gvl1DSZ9B80m1aHf1GNg1Ngq2hVdIh+nLxPLt3FkoqVtpCEKDOfzRTnFkIjACg6AE25ctZuxbjamN1KTaXWoHrpIOi2TgsAVPJ5+aKKhyUrg61mB8jpZ45LpXVILhZO/GfT5phBKZM7hhhyKKKDkqvExcB2ttp3cDNFFFXYxOiHPq//9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Found Us (feat. Luma)</div>
-                                    <div class="artist">Last Heroes</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EAC0QAAIBAgUEAQIGAwAAAAAAAAECAwQRAAUSITEGE0FRIgcUFSMyYXGhQpHB/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUDAf/EAB4RAAIDAQEAAwEAAAAAAAAAAAECAAMRBCESMUET/9oADAMBAAIRAxEAPwDZUssWX1kdPPBqDorK97WJJG99v7vhyDOPtZYfuVR6YllLBLNe9hsTfEXVKlmip++qakDjUhsgHJ1AXB/rHOj8nSsSaRpjHqjIplikLsUJI1MRsCbX5xC5easIMHsZdazN9yzfPaQ61jjPcF9I0nge/Q/fFdPnctwZoFjiP6W0EhtrixHN/wCNsXC9AKc0eqGY6ElVWcFTckADaxG+3m+M7m3T1R09JRz01XFVxVsxj+2lUQqLA3K6dv3PHHGN7qAq7k7UwJwmeC34hMIZIY43Kdy4uQy2PHo38esGLPI7z1UzrGqxsxj1BdmKC3I/76wYjX8qu2gZFJcVGAyfPI/v62OgmcRU7w6WbT8tLXBKsBsf2xH9N4lRKqKgM602tZlcLqJYlgQbj0FNv4wnnFVfM0kWEN2R23Y34YfGxHG997bW94f6e6mmo6p6VqKprVk0MZIdICf4lQDueL384rc9q1kb+wFlZY+fk3scNX2LCrq9YsNRhFztY+MZDrqqOWZTE8sxqZnk0xx1Eahm2AOm9tJsCb384foOqVr5IRLlNdROryR6J7BviLhtvBv5tjB/VjNsn6khosqWCdawy/lSyIS6i9iQvBHxO5tbnDrXRx8Nmaap2aHparkrXdiSIRF3FVbaQb6fBOrjm5HrBir+nlP+G0IpgytEsRjTWLSfE7m3BFiNxgxLsYKciV9kdOGzGpQLHD2WBEpllYFr6eNJ4sOPYw5T9PzmSR27SmMl6bQxB1q3wZje3ABwYME472dAGmnRUquSJLU5TneYxyiuzDlArITpD7eLXG/m/v8A0s/TOplWFIaWmVVWwI1hSLtZjc/q8bX94MGGlyPRMAo+onlENZlVVOahAsOkqo7pbTffa/Pi4Hn3tYwYMROvpf8ApKFFS/Gf/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Closer (feat. Halsey)</div>
-                                    <div class="artist">The Chainsmokers</div>
+                                    <div class="name">Don't Call Me Up</div>
+                                    <div class="artist">Mabel</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -477,6 +470,13 @@
                                 <div class="infos">
                                     <div class="name">On My Own (feat. KARRA)</div>
                                     <div class="artist">Far Out</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAIDBQcBBAYI/8QALhAAAQMCBAUCBQUAAAAAAAAAAQIDEQAEBRIhQQYiMVFhExQjMnGBwUOCkbHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQMEBQD/xAAhEQABBAICAgMAAAAAAAAAAAABAAIDERIhBFETMQUiQf/aAAwDAQACEQMRAD8A80s5VXCS+VBnMM5QJUEzrAOkxVu211wmlsFjDcSZY5FJQXgopRpnkzqdDHlZn5RNSpQfVA1gkVY2DW6bt1lDqZQohJHjetLisslZPyEoY0WssY3wsMUvHb3DMSdsnnW1WzaXwktJAOZBM6gmBPWNetTl5gPC73DdnjSrG6fsWbhNq+02v03lqUwVKOYkjRYEEA6SI7SuIPYZjtjf4KLZto2wTlVkACDEgpjtVWYgxc2Tr1qXCEjrkVyr7HzT5IqFk2FFw+b5iQG4kd9fhULjVi01fvN2ygtGYqQEjojqJ1MaeTRTFy8820prQIJ1gRRWe/G+ltszpbtqxOVRidvNdMi+VY+xeTJlUkAxIjWuXtlLSqEtnN3iaTeXS3iConImUp/NVMkwbpRSw+V1H0rB4avxc49jD7DgW0422pJ7cv8AtcdhTqnXbhBOYjmEnbfrS+DrxVq7dJT+q3BV2gE1CWlwu3eDyVao2J2oCbQtKj4uL3gdCltYsy3MpCv53opTzyroIKxyKO22tFLeA42rYyQ2imsOcaVPrPlo7chM6E7HuAPvO1bvscNMn3at9A2ruPwSf2+aKKDPsNoP0dLKbeytwFM3SlLVlSr4ZEAjm+sHTzTSrXCm7nJ7hTjfN8T01DpOXlneB9JoorjVekG7JTN2/atrbDRS6kKkpyFI6A/3I+070UUUokqhrBS//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Freaking Me Out</div>
+                                    <div class="artist">Ava Max</div>
                                 </div>
                             </div>
                         </div>
@@ -497,7 +497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2025, 18:48:19 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jul 2025, 19:32:22 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
