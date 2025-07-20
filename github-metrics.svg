@@ -445,6 +445,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEAAwAAAAAAAAAAAAAAAAUGBwECCP/EAC4QAAEDAwIEAwgDAAAAAAAAAAECAxEABAUSIQYTMUEHInEUFTJRYYGRoUJTov/EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAUG/8QAHREAAgIDAQEBAAAAAAAAAAAAAQIAAwQRITEiEv/aAAwDAQACEQMRAD8AgsXiFKG6SCO0b08ewq2GebpLhP8AEDeqzDYMluVlaj1G36p3b2LaVnW2AoGNz0qV7jvk6yrDVR2Z1aYl+4WpKLV0EK07p+sT6VxcYpKWELUDrUPhjp61rTVghLgQHSlOjVue80lzlvbeZFuAojrA70ItbcYcdNaEya8xpHbaiq5zHXNyFuJt1BtPciKKcLZG2Js8E1Xh7EOMMFdwslcTA2HpTW8wtncJDjrFwHYjmMq0r/IMn7zUFiPFSwu8Q9c2zTl64jo0IbM/KTtVLh/ETHPoeLts9bONAbOaVBR0ztpJ9N4pOiPRBvvdurJxyzvl8Zm3VfZT3MqzJNx7MJ18zTy50RM94n6xVfjeGLK1Qotsulz+x0kr/wBHb7RUK544CzyF05kse4qy8iWkob8ySRvqPb0+VWyeOcM7jWb9NyGmVpCoUCVQemwk0TA85ELkvO2UxSWLWVKQUxOlaNf7opBmPEHGKsw+zeNIQpRbPPQUGZjooCig/BmhVkfP17PKlrxQ+ytSEqQhpU7pRH360/xfHRaS6lakyoaApSZ2iJj59+1FFaDoCJziZD87H73GFi6ltz2e1VyVMqiJ5ugAGZG0xvSrMeICXMW/Z29sxbLcKiFMD4JKTtI+n7ooqapQTHPawXYktf8AE67wobfSl1kGZWnf8TRRRVgUSU3ufZ//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Fly by Wire</div>
+                                    <div class="artist">Anevo</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAUGBwEECAP/xAAvEAACAQMDAwEHAwUAAAAAAAABAgMABBEFEiEGMUEHExQVIlFxoVJhkWOBguHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwUCBAYH/8QAIxEAAgIBBAICAwAAAAAAAAAAAQIAAwQRITFBBSISEzIzcf/aAAwDAQACEQMRAD8AsKGQquFJrT1FJbiUYYqO2MV6Wkgwc54qKeqPU0vTnTbzWciLf3BCQK65J/UQPtXP8VWscVr3N0bBUDYeoXus6XprxQXEq3EzNuCxYYgZx9u/Hep5oTWup26yWbo64555X9iD2rktNSkll94eMl/6Ywv9s9qvT0Rmk1O/aWRZopLOIq5kGQyseFz27jP14rZ14VVVe7ewmfysxshiQNpaPwBHG+FgCTnHcf6op9DKvGWHPYCiiC9lGgMUNQrHUynbHWItpErhcHk58YzmoLY6KOudWudX166l+FpI0NsiHaWUHx9F/JPNa73i+4TSTKSmxt2OOOawutJZaFplsrIjNCJSAeASS5H5H8Up8Xh/Biw5MfX5K2V+/Ee6r6RJHe7tFvVbTJoi0Xthl0fwpI7jGTn8U06I1R+ieopNA1kwk3ccLJPHn5M8bWyQMDvkCnnQ/Uceo6LGqsCY8bW+uO4/770m9QtPt9T9RtDhtSGu7m0UHj5QNxCn7Y3fxTLKreq8K34sDp/RF9dqtXoORLuiCW6F3U/IPAopbFM1nBBYwB3REEZkJyzADFFUhRaeDAG9NZzbJEs1u9pKjFZTtJU4489qg/WkM1hePCAoiib2aYbLKoAxnz2ooonjWP2FetIW39RMkPpz1ppWjQH4rO0TxjI2qW9qPC4Hn9/zinHolqrax6jm433MqWcL+w3clYVGyNWH+X170UU3vsLLv1KLcTpuxZiS6Jgue7DzRRRSl8uxToJJMdCN5//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Cabeza
@@ -453,31 +460,24 @@ Anstößiger Inhalt</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcCA//EAC4QAAIBAwMDAwMDBQEAAAAAAAECAwQFEQASIQYHMRMiQRRRcVKBkSMkMjRhYv/EABcBAQADAAAAAAAAAAAAAAAAAAABAgP/xAAYEQEBAQEBAAAAAAAAAAAAAAAAAQIDIf/aAAwDAQACEQMRAD8AU9AdA9PXrpSzV1bbh60yxLMzVD75C00ql1VTgKQqryQcqTjnJfr2y6SltaNHbH9c1FOARUyb9rLSlhgnG3+rJn5GRjXl25o7bP0N0+QGEiRQPOAWUFvqpyDkHBPA+OOPvq0W5oaesp6SiNXFXtI0zqkpcyHaFLMrEk8qrbh9sZxoKpN2u6XFznMNDLJDExkEazSFZQKcttU5yQXeAffLEeBrmh7TWKegtdfVWuuoIam8yJLBUzEyRUmyQKjbWIyGjzkHOD51qydO3dJGmqK6GtRkaP1RGIZ41YclSvtbkA8j40rkoaShvFqorhFLFbKGkqZplQv/AHSCIBWyD7ioL8HkE8aDEe53b639JdNVFRTrFLOlRDTibfI27dAjllx7RknPu4wcDnGjV27v0gtPbK409kqJqyj+opKaaZUaUPEtNDhmbdhBkLzg5PHGjQc9vltDdC9KwsIVrnWHcQVB/wBubByPdvyR+23Vj7bpG3U91qax5XqcRL6ki49UuAR/BOk/bm42qLoDpOGvgZmUUvqO0bOpT62Y427T485z4/Gm5jqp3Vae60sSxU9PDLK7b2asf3ooPyAMHOSCG440GwylECKw3ZHvYtjaPx86z3qS6tTzULlQXgb2qWAOxnCAEH/y2T+2pFs6hheNBcHp0qwp2n1QVbA5K/qH48fzpHfLnbKW4TzzRTSVjRw5mZN4jR3JVVTyMmP7ZyOfGgqHd2vNf2yuU9DC9PJJVUzVEO1A0cf08QKtuG4qHXA2Hz/zOjVc7u9aQ3jpN4KH14BV1FPM0IZo1CGBWO5fDAvnGePbn7aNAx6H7kdMWjomwW6unZKykWETFYZCwxUTMR+nADhuOeSOfGvap7mWKSia3015ENOziOZ3pJHE0Yhp4eRxxhZWGefbjjOjRqLPE51c2WIEfca1hYYWvgEYxGmKKTbEnpkcDdwMpGuAPBJx5zAru4VnR1lguNdVVCVyVS7aURL7BIqkly3PKt/jgfnRo1WSStN996llUrqWstt0tklQlzjFYHRo6FI5fTRPTUHDsMtJkbTnAwpx8aNGjV2T/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Hurricane</div>
-                                    <div class="artist">Ofenbach &amp; Ella Henderson</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAAAAQGAwUHAv/EACoQAAEDAgQGAgIDAAAAAAAAAAEAAgMEEQUSITEGE0FRYXEigQfBIzOR/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQIAAwQF/8QAHBEBAQACAgMAAAAAAAAAAAAAAAECEQMhEjFB/9oADAMBAAIRAxEAPwDsbiLKrY7xTQYfI+MtmqHM/s5Lc2Qdzrstrikzzh8wia17nDL8jYDyfC5hxDQNjpKhsUjYacDKZQ+zpOpe++tugbue1ln5M7jdR1viTiH5GoGylkdHM49LuAP+WWXAOIYceMrGwPhmjGYgm4Ldt/0qq6gpqelilfjGHSG1+TKHBzT2Ohsfrdb/AIRxWSqgDXxQRRaXyMsRsOg13vruL9knld9lm27eMpRZJ22JGh9HRE5lhjqbjdVzibCpKtk0tGYmg3kczJrmy2JB8jcKdBM225UnmMI3KOUmXsNuHRVUVHUGRlLFXPBdljqIbht7eb306q2cPVEsrW8mIsmccxp2tyAHf1lvv1O2yuVfhFBVh2eIscd3R/ElRcOwenw6WWVk00rngN/kN8rewVdwpZ1UmV5dGzPq4D5Hu7r9fpF4qHMsQCborJNG2AqQ2rlaABaw8IiABqpbggi6xSTzPZkJAZ6+0REGIMHsoiKI/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Hands on Me</div>
-                                    <div class="artist">LEVV</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAABAAEFAQEAAAAAAAAAAAAAAAcBAgQFBgMI/8QAKxAAAQQBAwEHBAMAAAAAAAAAAQACAxEEBRIhBgciMTJBUWETFCOxgZGh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAQIDBAD/xAAcEQADAAIDAQAAAAAAAAAAAAAAAQIRIQMSMUH/2gAMAwEAAhEDEQA/APlhuzbyDfwVTuWOHf2rVsdM05+WyR4HdZSKWdIWqUrLNcavjwRbV+nOafKsPMxnQEWCAUXLQJtV4YqIiUcqpZ7C9M0zVZdWg1eUxRNhZI122+Q6j+1Ey7Ts16kxtA1CY5kTZIpmbDYuuQbqxZsDx4Tw8MlzT2jBM+X0L09Kbw9RiffoWuB/SiXta0eHR9QxIMaSORjoQ7cw2PMfj4XdSdW4X1MmSHN0pmNJP9w1rGyCRh9m8WBRcK4q/hR52odUM6n1cZLAKaNopoHFk8162Sf5VLba2ZeGMUns4ZERQN5tMLH0x+Mx+ZmTRyb6dHHFu7vHgb8fH3WBMGNmeIXudGCdriKJHpwiJvgF6W7z7q0myiJQnv8Aj+08w+rurbt9Pe/8pERE4//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">3am (feat. Julia Viktoria)</div>
-                                    <div class="artist">Landis</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYEBQMHCAH/xAAuEAABAwMCBAQGAwEAAAAAAAABAgMRAAQFEiEGEzFBFCJRYSMyQnGRoRUzgbH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/xAAeEQEAAgIDAAMAAAAAAAAAAAABAAIDEQQhMRJBUf/aAAwDAQACEQMRAD8AVs7xNkn7svXKw8AkpDaioJ36/KQf3VA3k8Xc6jkbBKrgr3ShtxxJSB1kvAzPtUl9PirkNpPmUYHlJ/Q61YYLANm7eU41cqSmIi2WpJMbjpIqZ37M+fk1xHfsoudw74iRjnTMyjw5AE6Yj407Qe/1H2jFkn8Iw3rs7RlboV/S6wpCSmDuSHSZ6e3v6vX8diDkVMjWXw5uwGF69UfLETS7xHw2lV63yWroJUkkzbLSkH8Saej6ZQczSFzW4kXbjbi9SGUMEx8Nsq0gR7kn90V7kmTb3jjSySpBAOxHb0PSiozdWwmyX7D63L5sNlOorATIJ37dN63Tw2m4atckpznSG0kkOADXyvpnofftXPbF6pm4S4kjUkzvMfren3gjJ2l9e3DNy0kBbUJJcUkJgbkJB6AU/TU5vNrYsZA3qKXC6L684laXZuLVeFZWVBXnXvvB9d63jxa3dFnH8kuhZaWAS4DCtAnVHU/9rnzG37mNyDV3bwVNKmJICh3BjfpT1xvmLRi8t/DsIgsgmHFKEqAIJBPp+aA7lnNXIUxh+u4k3rfMyrjb60o85CiEkQe+x3orJi2V5TONJUkS4SrodPTbr2oo9myg1qDKcK32qRbXTtu5zGVlCwCAR6HY0UUiSaljTJjmPYGPTcpytipegKNvKw7PdPy6Z/2oyLpT18y5cqCxqQFahtpECPtFFFD5AqbGOtpkLa4Wq3tXpW43oSiZ+4HtFFFFGKz8fZe2Z//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Bloodstream</div>
                                     <div class="artist">Paradigm &amp; Scott Rill</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAUGAQIDBwgE/8QALxAAAQMDBAAFAgUFAAAAAAAAAQIDBAAFEQYSITEHE0FRYSIyFBUzUnGBkaGxwf/EABgBAQEBAQEAAAAAAAAAAAAAAAMCBAEA/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMSIjFBcf/aAAwDAQACEQMRAD8A3hH3OAY9KT65uL9s02/KhuOtv5ShC22A6QonA4JAAzxk9VSBfozuUJUEKxnmsmrZcNvRN2MgNONrjrG1w/TkjAJ/g81n3d0WkiJ6U1dfJXhtbrvcYTL91kzFREltJS0pIP6pA64B4HZ6qf22R+Mt0eTtKS4nJHWD0e/muXrP4imLpgaZRHSmK65uUpQyA4OQRzkZ2/GOK3x4da2g3zS8BMx6LHuZUWDGA8sqISFDYg9jaQrj0NI2078LcONkmlOfThJ5zRXnlOI3HoEmiuqaYVEAvDMm2siQyEqOcEmlVwnydT28wiM8hS0JOxLg6x/3+lTC4KiriESglYzhKPc/FX2Tz41tYZjrbSplvalKiQez2cd/4xWOU4tat0x8acXvVmntV+HkVJL0RtSWNn3A52Ec5x3j/VQnSkSTcteWuTIUrymJAcyheOGgOMA5H2pHzXSXmS35TyXJzalAJASleOsk5ATyT0Qexn3pHLmRJEr8uelNRJOwhJaylKgSjIIKcY+jHfvVYuHUrFyZXOOriN2bs9NkoCkgJKSrr1oqqYLcZKVsLSsFPfYIopFXhl+lt201BnLLzwcCj3tUcf2zSBWko0RaTHW9z+1RBoooWhYyaFEPS02DJXMYcKHlqO5O44SnJwR84ptbNICdKTMnqU6fZRPPpRRXkkdlkkPbfZVWdK2kyXHWScobWc+WPYGiiirCbs//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In Your Eyes (feat. Alida)</div>
+                                    <div class="artist">Robin Schulz</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBQYI/8QAMRAAAQMDAwMBBgUFAAAAAAAAAQIDBAAFEQYSIQcTMUEIFBVRYYEiMnGRoVJigsHR/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgMEAQX/xAAfEQACAgEFAQEAAAAAAAAAAAABAgARAxIhIjEyE0H/2gAMAwEAAhEDEQA/AFvrGxyLta9JzI0sXC5PMLjPbklDiykKWknPnjendnnbnzVpb71quPoR7S6rMHLctfc7hbSopVkeFg4znAx59KV9ivkq33+A5Mfc2sbmwon8TQUCCQfIxuJpo6C6Vao1Cy7NN5mR46XFNjDysq5OfWpfnQ0tNZxdiLpUhYG4sO7SM52nxUudqy+L04jTrKnPhSXvefd+0ACv+okDJ+5rc6n6Jo05d2I9wukx1l+OpxpMVguuuLCgNgSPoScnA4rLdTOm7ujbPBu7U4vxJb3ZShwbVhQSSQofTFEum9P7F8u5qejNjl2tbeqpSAHdpVH3eNpSeaKZiIL8TpZZm5Kmy+mAMqbGBghRT/BA/WiuRnBfISZXjcBZzM7bXrvpi43lpG9cCQ37xtHhDoICj9ApGP8AKnD0T65W7Tdh+EapakBuOkqZksJ7inOfyqHofQHOPnil101h3qTb7oqFJ7doSECYyTw6TuCOPoamSel8yRbVT2ZDKCWVyFJPAwkKV/qu2WF0ZEXANGMmT16tV+1vCedjSbfbG45aaeUQHUOqVyVEEp24CefTn58ZW4JunWHWz8WM6oWC1KW8XV8gqVgHkAZKikAccJGfnlIV0Z7Mc5XwC+x1nJL4cJJ5JKRnP7UDYwpOQdxjuQlS1n3iUz0mhLmuqW6hl5tRPnCHnEgfYACioXVec2rQqA0nYktLT996wT+9FTriD2TBVtovekty7VkvcPPK+yvGf7iP+Vur/d1wtJrKEpIMF1KiTjaC2oD9eSBRRT3HOTOOc5zpsez9Ocj3S7stq5cjhQB8ZBIz/NFFNfzKMvgy16kTw/oSCdqUlXdBAPGe64KKKKXiG0xOp//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Desert Rose</div>
+                                    <div class="artist">Sting</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -505,7 +505,7 @@ Anstößiger Inhalt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2025, 04:24:28 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2025, 05:25:59 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
