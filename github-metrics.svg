@@ -445,18 +445,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBwgDAv/EACsQAAEDAwIFBAIDAQAAAAAAAAECAwQABREGEhMxQVFhByEikXGBFCOhMv/EABoBAQADAAMAAAAAAAAAAAAAAAMABAUCBgf/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDIREEEiIFEzEyUZKh0f/aAAwDAQACEQMRAD8AcbNGZflQ3GnzJ2bSle/edoTgknzgHycU0KUHlK3JBSk4Ge/U1Ets+E9a1P28IQ00gktpAGzAzggV0grAitJKgVBI3Hz1/wBqpBF227Ql1M/eeXe68rSlxwoXBygA/I7cH9ZzXAtsx2N6IbzYC8hDRHucc8A4+6nO79h4eN1eWlKS2OKQV9cU94VaspEn+multQuSJD1qVDczlK46BHUD+B7EfkUU73KdHttufmS3A2w0ncpRPSipjK5bsLPreprzBlFcKQUlQ2r+I9wemMYNT7PrW/mbHaemEM70pPxSSRkAgkjt1pgueh4AZWppchS+eFqBGfqqj1DLm2KeQw2yCk5SopOe/es1un1A8n7Xfpes9FdkRxj4j8WnRe460f1LBVnASs7PrPP9ZFdYH8x58uPtpbZA85rLkX1VvzKC3IahSEHmC2U5+jj/ACnKNrXU1xscaXaIzMUFX/LI3K25xnGMAZ8E1rkVxted3nnSbvWvVFqgw24dyQqSnbxG4IVjjL5AuYOUpHPz0oqj9fRbgi7uv3Nl5L73yLjmTv8AOetFHtB8p2mqWi7Fqy0X5plKyYEt7KUsSFDCldkq5E+PY+Krf1jsXDVxgnBooo4nl7clSZgY/iqTdaUFkU3aMvt8trPCtrby0I5FKcgZ759qKKcOLbCOb0KXdL3qK8ByPMS6qOpWVh1AIT2xnl+RRRRViI7hko43Uv/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHAwEFBP/EAC0QAAEDAwMDAwMEAwAAAAAAAAECAwQABREGEiEHMUETUWEUI3EWIkLBgaGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAwIAAf/EABsRAAICAwEAAAAAAAAAAAAAAAABAhESITED/9oADAMBAAIRAxEAPwCSaNjWZ+0wrjcoFuebgzIyZSnAQDGSh5bpUlJBUo5QkeSpKR55X58W1XGLJuDSItsVLkuLjRw6cNIKxhGCScAbuT7Jx5rDptCi3PWVut9xdU1b5KyiSfULY9MAqO4gjjKQf8VbWdHdP7nOS1IUh5w/YaednuNBQQnCdoKjkEJwkeTxXVKnRM1au6ohdytcR1uXMhyojTCF7WmA5lSkjjPPk4z+e3FdcjWVBcQJBISGmyoZUSo4LikntjggfBprlWTRn6zixmZihZHz6q1J9QvNEHH04B75OMLOODnxSTOtrn1E1uLDcIYdWr9gUspbB4z7D5NI9boOKy1Znc40ULW7DeaQ0okoYLhWtI+TgA/6/FFeYe9FG+ipNLozdNrG1qXXNosz77rDU10srcaA3pBSc4zxVn030x0/qARlPzL3EbZQpyNIQ20tDoRyUb0p4cSQcpIznOCqofoe+O6b1bbLww2HHYjwcSg+Tgj+6vem+oE3SOnFyrrGkvSZkh9wW2O2GwzuXv8AVSSCNvONuTg1LdMpI7E6X6cgPWt26XGbblSZRUwy+G1LI3ApSeM7uAO/GcE0n2rSNygXJ52xxrs9NkIeDn2UhtQ3kbU7kkFQGCCSOe1b6j6i3KRDiX6Np1pp2NIWxGefUtxSFKSFBagQNyickcYBGQK8/T93ucqwy34r77DEaOuVl2Ey8VqSpCVJCyAckuZyfFP6TWKSCj5pNslV0i/RXKTGypRacUjKgQeD5B80VrfUbLtIwh1vcQva6kJUMgHkDgd/FFC2IfLDcQ1KaccQFISoEpIzkUzyNYOFkx4jZjRQ3sQ2k55KQCSe/fn2/wC0UVyjDHpzW1uh20R50mU5KMU7X1s70oe/iFDIJA9/6JFZ6T19b7UzOamQluokOLcSe5BcCfUB8YJQk/BHFFFVN5dNBY8EO/zGZ95lSYyFNsOLy2lXdKcYAooorhj/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Prada
-Anstößiger Inhalt</div>
-                                    <div class="artist">cassö, RAYE &amp; D-Block Europe</div>
+                                    <div class="name">Even Better Than the Real Thing (Single Version)</div>
+                                    <div class="artist">U2</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGBAcDAv/EAC8QAAEDAgMGBQMFAAAAAAAAAAECAwQAEQUSIQYTIjFBUWFxgZGhFDKxM0JDUvD/xAAaAQACAwEBAAAAAAAAAAAAAAADBQACBAEG/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxEhBCJRMf/aAAwDAQACEQMRAD8Aj0R1HpWuFhUiW7u2UpvbNxG35qpawhJ5Kb96cx25bbSW25CMibBI06culPeZPIrW5PZJxtnZwWAn6c8v5R/uleq4siBJ3boRm0PCcw96pWZMh5J3ElC0pUoGyUnW5B6d714y/q3QQtalgq4k6W86sjaeyxpK/m7EUhouN30v2Aopqhlf2pY17miisF2DKv8AIvGJhCgVXST/AGFqmdp9osWizVCGbw32wi6TqD1t2PjU0xt3jSW92vFZS0GxN1XVcHqoi/zW6BtvJW+TIjxnm1aLOQtK10vmRbXzBpPda5GLH1VSK3tPp7EJTiYrrTiG31JOjROZGtjmAsAT81UbJ4y6yp9MxSuKyllw/u5fip3E8bgRXUShBD5ItZ0m3LqEhNYVbbrsBEiRYmt+FkHXuCq9AraxT7wtlKEHJ1YY+yCONHvRXMG9t8VdWBnYQq2XOlpAUoeKrXv60VtFqzKPFb7OcPhlqPGW1JDrjqTvGwP0z2PfvpeteFuR25KFrS4tQtpm09fD1oorDsYsBG+M4nHmMJUA4F6DOkjkEjnb8fI1pGHhvV3KsnMLOpPiTRRXN7IoGRtGkspjtgBThzEEm1xp56/FFFFEEk//2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcCBP/EAC4QAAEDAgQFAwIHAAAAAAAAAAECAxEABAUGEiETIjFBYQdRcRaBIyQyQqHB0f/EABoBAAMBAAMAAAAAAAAAAAAAAAMEBQIBBgf/xAAhEQABBAICAgMAAAAAAAAAAAABAAIDBBEhEjFBURMiof/aAAwDAQACEQMRAD8AzvDMTQ5bModUlY3TI6ePip8fwdWING5t0lShAWJ3HtP+0kW7i2ygpJEn7GtNyXiCQ+1xIlBAUlXRSf7Fej1bYsxFjvS63YrvgBli8LK1s8N1QMgjqDULqIVAnbqa1H1DyeG3EYjhySq1uJUI7e4pDTZLXqTp5gmJ+KgyUjktA0ek/UsizGJGqteSQ2gEGdM/airIWoSyHHBCRM7daKBJV5HJKca3W1G2pIKNubVuOxFXzt0UqYFnLRRCtajMjx4qVzLd2NH5ZYI2mOtXdvl566tF2rqC26khTaiIif1JNVqzC0HPfhDjLtsx2nXKWO4ZjWGu4TeupRrSOGT+1wDr8Gs0xF9m3vLthpoFbUq3PcHcVZt5fu7PE2LRttQcU0pZeT4O1ea5ypiKn1uOoKlLlWo9zTBkIBLR3+JWCJ9V7vjGAfCVbt5dyU6gBpnlFFNbmUL7ShbbZC4G3f5+KKQfGCfttHPN2ymDBc75eYyUDdR9QCToCXdzxgRuOSOHPXea7Pqk2UrNvaNkAQOKmZ+3bbzRRUlsjweyqvXS8SPU08dV0rDbVRQ4nTymNIBBET59+wrrFPVC4WsFpm1ZaUnUNFuCR43VRRRDM/2s52lK9zniF2n8S5dcMyELTy9Z94/iiiiuGyvIyStcAv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Stay With Me</div>
-                                    <div class="artist">Calvin Harris, Justin Timberlake, Halsey &amp; Pharrell Williams</div>
+                                    <div class="name">There and Back</div>
+                                    <div class="artist">Protostar</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -468,10 +467,17 @@ Anstößiger Inhalt</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAgDBwEFBgT/xAAuEAABAgQEBQIGAwAAAAAAAAABAgMABAURBhITIRQxUWFxB0EVFiIjMpGxwfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/8QAIBEAAgICAgIDAAAAAAAAAAAAAAECAxExEiETQRQiUf/aAAwDAQACEQMRAD8Av0xi9wrJYke1/eOc9Ra+5hnC71VZaS8WnEJKVKI2UbcwOpigKRjasvYzm66zNOocWQFMhZU0W/ZBT07jkTEa65TljSGutjVHkxnUKfI+tltPhy/9RMOQvb9xoEYllflP44QotZM2mT9Wa9svm+0L9WMdVuXxnK1xybcUtN06AUUNaR5oCenc7kiN8Umnj0L8iHKK/RofYwRzXp1X3MTYXZqrrKWi64tISFE7JNr3I6gwRJa+3TLPHo21cpslVqRMyNUaD0m6j7iT0G9/IIvCwy1OoTOKVGmmal5IOZUocdDjt787gAJHbfzDWLSFoUknZQIhaahLtYd9SJ9ExKukt5Q222kAvuL3TkB2O1zt/MY5OLyh4Vxs6lotxvBrHy5nXPvppx+9pHxe9uV/9aKRnKXQV4oKqgZqbkErs4lt0NuXvzvYhQ7beYvIy9e+TuL4V/4lra3w3UGbQ/HRvyzW+rztFQOUNeKMWUwU2XeabmnC3NApBMuUEZwu3I5SOfv3ha5WyTUhnRThuO0MNQJCRplFlJSktpbkUNgtJHQ738m94I2CUJQ0lKBZCRlSO3tBFCQfuPM7ISb061NuyrC5toWbeU2CtA7KIuIIIATM8Qvj+H4Z7S0tTiNsl72y9b236RI0yy044ttltDjhzLUlABWepI5nzBBABKfxggggA//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBQYECP/EAC8QAAEDAwMCAwcFAQAAAAAAAAECAwQABREGEiExQQcycRMUIlFhgaEjQlKRweH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgMEBQH/xAAgEQABBAMAAgMAAAAAAAAAAAABAAIDEQQSIQUxYYHB/9oADAMBAAIRAxEAPwBL6b07O1Le27bbW9zy0klSlYS0kdVKPYAU1YfhDp9Mdth+8y5lwU4lChG2pCc9SEkEqGPSuPwelNW3T2rJbSUmcG2m20qPJR8RI+5AplaQkxGIBkym0e+3dBS8pJO7bjBAI8opZXG+LPzZpWPOppoSE1voN/T8Nm5wZCptmeX7NL6myhbS/wCLiex44PQ1k4qmozq/eIzclGMbVLUADnrlJ57jrXrvU1sau/hzf7fb2S6XGglAKslToIKeSfnXnzWWi4WkbBFM+UqTfJSsJaYV+i0kcqJJGVHkDjAzzzTRP2FH2rGHlNnY3Y9KyD0mG9GcbatsaM4rBDwddUU4PQAkjn0oqFxooynYUlPUKPf0oqXWld1pXGmL+5Yrop9LXtYzo2Px9xAUnrwexB5B5pj26/2tKo64l5QzGcSTtlRyp0KzynY3nPPckZpNbznnOcfir3RTLUjUUZMhaG2kZcUtZASAO5JpnakWpp8aKVp3F8TSkaqu0Zx5iG8lbBVuSS0U57ZxnjisJ4gTpU963uzCnd7JSRgYHmP/ACtHP1dpyG6ptsPzVjqtpICT6En/ACstq7UVovNtQiLFlMym3NyCsgpwRhQJB+g/qnBaKoLC8bjStmEhi1b9c/VnloyoISnJVg+XHJ7UVxrkL2pGfLwDk9Pl6UUFb5YrO1SLMiGBcUuqfClbSlvIA7dxnvUpkWIMPNuIeQ8CUpKWe2cZ5VkHHb50UVWtOR8rklizJjqMWXNce/albKUj7kHj81WhQJV8Q2/U0UU4cUC1GME8A0UUV20L/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Getaway (feat. Angel Taylor)</div>
-                                    <div class="artist">Tritonal</div>
+                                    <div class="name">Steal the Moon</div>
+                                    <div class="artist">DubVision</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAYHAQMF/8QALhAAAQIFAwMCBAcAAAAAAAAAAQIDAAQFBhESITEHE0FCcRRRYdEWFyIygZHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGREBAQEBAQEAAAAAAAAAAAAAAQARAkFR/9oADAMBAAIRAxEAPwClce0ZCRjiOmbcq8zab9w0+WW/TJZ5LUwtsalM5SlWpSR6cK58ecR1rMsirXbTH5ykIYcbZmG5ZXcf0HU4cJwMcbjzFW+lFwB9IwR/cWY90grTLy23Z+321oJSpKqokFJzwQU7RqkullcfklzImKI1KpmFy6Xn59CUuLScK0qKdxkH/cuRr8q27K1AnSdOCc4OPP2hEsu+05y2pVh2dm6S+h8qQn4KbQ8UkJJ3ATsN4QgWHpKX9K7rnrP6H3LWqehp59iry6C1MJKkOIUhoKSfOCCeIsPpZcVkVWkzk5a4TSZqZn5N+epTrgAl1B1I1IHGgk8jbPgcRQNi9RHbWtqeojlCpFYp84+macaqCFKGoISBsNvTnjmMVDqBJLmHXhZ1tyyFjR22ZfCRyNv059OdyYEZOjApZfHR+8qpedwT9PlJB2SnJ155pRn2gSlSyRsVZGx4ju2dSbqFjM25UrJt6uyNMnntBm6oloodCiFbA74JIBG2IrH8wab3Qv8ACtACeNHw+R7/ALc+fn4jSvqBJ9sgWtQSc8CXTnf6lHiLLW1i9XbbpdJ6YylSXblJt64V1EsqYkJ3v6mu0s5yFb7ge384hFV3le8rcUlKy8vatCoq2FKUX6cz23HcoKcKPkb594QmWehWiC31rBSSQjAGnPyA+0aVQhGbWZCciA8whFMPvCEIqv/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Recession</div>
+                                    <div class="artist">Main Reaktor</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -480,13 +486,6 @@ Anstößiger Inhalt</div>
                                     <div class="name">Mauvais ordre
 Anstößiger Inhalt</div>
                                     <div class="artist">Lomepal</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAUGAwcCBP/EAC8QAAIBAgUCBQIGAwAAAAAAAAECAwQRAAUSITETQQYUIlFhMnEHFyNSgbEzkfD/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EAB8RAAMBAAEEAwAAAAAAAAAAAAABAhEDBBIhURMiMv/aAAwDAQACEQMRAD8A454ayWhrHnXMq3yarGWjcoXDP2U24v7491PhoPliT0zmaoaUx9JFNrbANq43JtisZWWRY8ypr0HTPTemsQik/wCQEE6rW4v7i4wlzFZqVloJHLU31loLESJclWF+e/P25w18OPdJp6nVh7b8Mlly41tPm4kg6Rlv5Urf9oF23Jb02FyDyAMQNfktZRgtU07xAber7kf2rf6x1XIs+CZA2UJLUrTAs5LRobKRut78X3++JqXJ1qc4liiZGjbUeo7DTEn7yRttfj+OcVVE4sJo6i+5qiFqctqIFUzQyIHGpdSkXHvgxb1lGM3qqpcvLLSxrpDVEll2ABcnhSbcfNt+5hXZ6HLn9mWZ1DLIGVomVVv6LFb27b7D+u+NMucSSRJKq6TYq+9h6QSNvm3GPnhyTNqPqzTQNFC6ldU91BB5O43NvbCKaOsE/VicyFSPXGCACOME/HlnFCaxF/4ezegovN5dVI7vJTv+pGO/Ivvxf/u2E1ZQzrM7SB/J62j6rX03sThBQUleWlfoTSHQVZVaxt2O29r41kkrZnYVbSIjvrOq+kNwTYYPvbWAfClWpjeSnCUFPGzyCWTfcm31W22+D3ODFf4M8NyZ9l1PRnM44Qsh0lYy5CkMDtce+DBqANSYl8a5vVVVSozSsFS6jUyAKFQ7baV2/k74U5JH52vgMhSnLkdIs2y/ODBjUvvgxfjTp/5ZQLQtWTVSmoOkjayshF9Wri99sRebZUMlNpCkyO3qi7+4O/e2DBh98cqdRPxclVWM2ypK16jreGnnWZEBMCgMznvZCLEfFjgwYMBKWB1b0//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Strangers</div>
-                                    <div class="artist">Far Out</div>
                                 </div>
                             </div>
                         </div>
@@ -507,7 +506,7 @@ Anstößiger Inhalt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2025, 20:25:41 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jul 2025, 21:28:45 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
