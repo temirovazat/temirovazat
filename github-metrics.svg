@@ -445,6 +445,13 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBAUHAf/EAC4QAAIBAwIEBAQHAAAAAAAAAAECAwAEEQUSISIxQRNRYXEGFJGxIzJCUlNiwf/EABkBAAIDAQAAAAAAAAAAAAAAAAEFAgMEAP/EACERAAICAgICAwEAAAAAAAAAAAECAAMREgQhMUEFFFGR/9oADAMBAAIRAxEAPwCtLqdqmFhVpXPnygfWr0i3Tad49vbAP/duAHmPOl+OSNVRmWPJPXxMj6Yq/DIJiI0mRW6kb8HH0pW1h9R3XwUzhhmUJm1GC6/GklWTHKeo4+3CmDQG8eCRbgI8uBzy+XfHrWbI8QJWQOW82lyPtUOqJPCLVLOCbfIwdmRsjYCM5quyzca5mqjjCltwMzoMN/aQIsQJ5MA5H2opVt9LkuEEglfZnGcUViLKPcZfVZu9ZyrSrpL64NvuEbbd24tke3StCWyXdwu1HqAaVtH1aKzklY8A2M7e57Gmyw1C31JWEMRmeIc/OBuB6ED0pwxK94iCtFfoHuXrb5C3gcSX9wW7AA4qpD8QaisixwMVh3YXPXHvWa724Lo7yI/6cpnHpWfcSP8AuIQ/x/73qK1q3mSe2yoDU/ydH0n4rdBIH2vs4MQvDPv50UiQPDaWAZZS0rncFx+XtxxRVDcSsnxNi/JXIACRESLPzGPE2sPSpheSwOu2RlZeOUbtRRTHGYjBImomrSGMMWY5HXbUI1ediw3g56CiiiAISx/Z5DqLMrEsMrjlx1oooriogDmf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Naked Soul (feat. Liel Kolet)</div>
+                                    <div class="artist">Last Heroes &amp; Liel Kolet</div>
+                                </div>
+                            </div>
+                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBwgDAv/EACsQAAEDAwIFBAIDAQAAAAAAAAECAwQABREGEhMxQVFhByEikXGBFCOhMv/EABoBAQADAAMAAAAAAAAAAAAAAAMABAUCBgf/xAAkEQABBAEDAwUAAAAAAAAAAAABAAIDIREEEiIFEzEyUZKh0f/aAAwDAQACEQMRAD8AcbNGZflQ3GnzJ2bSle/edoTgknzgHycU0KUHlK3JBSk4Ge/U1Ets+E9a1P28IQ00gktpAGzAzggV0grAitJKgVBI3Hz1/wBqpBF227Ql1M/eeXe68rSlxwoXBygA/I7cH9ZzXAtsx2N6IbzYC8hDRHucc8A4+6nO79h4eN1eWlKS2OKQV9cU94VaspEn+multQuSJD1qVDczlK46BHUD+B7EfkUU73KdHttufmS3A2w0ncpRPSipjK5bsLPreprzBlFcKQUlQ2r+I9wemMYNT7PrW/mbHaemEM70pPxSSRkAgkjt1pgueh4AZWppchS+eFqBGfqqj1DLm2KeQw2yCk5SopOe/es1un1A8n7Xfpes9FdkRxj4j8WnRe460f1LBVnASs7PrPP9ZFdYH8x58uPtpbZA85rLkX1VvzKC3IahSEHmC2U5+jj/ACnKNrXU1xscaXaIzMUFX/LI3K25xnGMAZ8E1rkVxted3nnSbvWvVFqgw24dyQqSnbxG4IVjjL5AuYOUpHPz0oqj9fRbgi7uv3Nl5L73yLjmTv8AOetFHtB8p2mqWi7Fqy0X5plKyYEt7KUsSFDCldkq5E+PY+Krf1jsXDVxgnBooo4nl7clSZgY/iqTdaUFkU3aMvt8trPCtrby0I5FKcgZ759qKKcOLbCOb0KXdL3qK8ByPMS6qOpWVh1AIT2xnl+RRRRViI7hko43Uv/Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Prada
@@ -453,10 +460,17 @@ Anstößiger Inhalt</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAMEBQcC/8QAKBAAAQQBAgUDBQAAAAAAAAAAAQACAxEEEjEFEyEiQVFhcRQygaGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAHREAAwADAQEBAQAAAAAAAAAAAAECAxExIUEEEv/aAAwDAQACEQMRAD8A4KwpE+Tpk0sIob+6a1yn5bWMlMnUVQWyqevAvfg6HL1O7wA3xSpbMxw7XBYzTYIC3o8eKLg7S6Qc4uB0ub3X8+BSk234OxTWRPXwTeo7oQygPdCaCSNPRMzMsyYLYqH3BJBoWvUM7IXHU0uvpZNV8VskUBFa2ubF4WC/La7lvAdsG+pXQ/qYcrFw4M/GifK9nLcTHTrAq/UHyufT5XJkYcUhhrrpAr9LR4Zxt75IW5RFRvtsldW3/Qri1Ph0fw58WFuH1i5WmKSSM7scWoXrjMjHcRndEQWOdY/IQj/oxZNTbSIWkeFPknuG1oQl1wyslKpw9JjcHAXaEIZ6XPSlzwB7oQhMDbP/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAgMEB//EACwQAAIBAwMCBAYDAQAAAAAAAAECAwAEEQUGIRIiEzEyURQzQWFxgQeRwdH/xAAZAQACAwEAAAAAAAAAAAAAAAACAwABBAX/xAAgEQACAgEDBQAAAAAAAAAAAAAAAQIRIQMSIgQTMUFR/9oADAMBAAIRAxEAPwDTtjSYrdh8GZYZOQyZKg884HlVLdWE8bRPG8/LEd0gPGD7U+2/Yx/BW0zBQ4kySfzTfVL6OzmUSiIIrMAWwMkrgChr0LXiyFYXQV+9wQpwcj/a5rq4lQkJK7fvmqu11COZboGBFPgn/aw3BNCIYXWNQwB5H6qq42WpZoimbUDEHidiGzycY88fWins1tDcRWxMashRjj75HtRSuTeKGucY1djndk3Tt6O2giSTxiFYsPSo5yM8Z/NcFzpw17adkmpLEILTueSM9WGXCgc/Xk+5BFTeuatpl+4ma8mU+EYlPhN0qGxk46fP2/ut+j31smxLq3t9SWGCzV2LpGcly4C9WRknnGSP3xUdNG1NbVD5my7n8GSFNQF9BGlp1LJHkY6yPSTnz5FRn8ha2dv6Ffaits0rT9NuqScI6tnqII9qmE3Rplpt97KO/QyBgBH0N3ZcE5OMcjqp1vjcOn7u2xeactxFDGE8eN1bjsAJTGOcEjy88cUPbV2KUsMU7M1ae+062trPTo20qFnjWZH+UfUQcnuOSBkYFFSmxJYdG1DTHtL13tb21c3EJk7Y5VCknB+/FFY+o0luNWjPiexW+mWnq8CMn36ea2TWACFbeK2CuMOHQ93Ofp50UV1UjnM420gH1W1hnz+WaxbSImyZYbb7dKf9ooqNIFNi670GyLK/w0PUnpJQZH4ooooNqGKTP//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Be There</div>
-                                    <div class="artist">Krewella</div>
+                                    <div class="name">Pilot</div>
+                                    <div class="artist">Lucy Blue</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYDAv/EAC4QAAEDAwMDAgUEAwAAAAAAAAECAwQABREGEiETMUEHYRQiUXGBFSMkJTLB0f/EABgBAQEAAwAAAAAAAAAAAAAAAAUDAQQG/8QAIhEAAgICAQMFAAAAAAAAAAAAAQIAAwQRIRITMSJRYaHR/9oADAMBAAIRAxEAPwBJR3oCYnTeiuLeIO5weD4xz/qo62mlvJ+F6wRjnqEZz+KmtsqSw41g4WUnGPpn/td4cYIfbLiVdMKG7acHHnGacTH0eYbZkaXiWTOl5LkFl5oB3ekn5T/jgZwc8ZxzisvLZKXCOadundR2INBthLLdwSSlpsyANqtoCTgjavJHPOeeKW17gFy4SFoaDYUsnYOyfYZq1ihxoQzDyrusi4a9pjHv2yBnk+KKuW9O3G7XVuPAjqcwkKWs/KhsZ7rUeEj70UJd1K5UTqsehrUDqNzS6Vdjz50Nx5tCw3IAcaAI3pyOOfPtnxVjqTT0owP4gPUKjtbA5c4JwPfArp6cJWjR01TSU9f9QZWgqSCAfHFSG7/KvMmW+++pDUFalKSyyEhKCnaSDnk5z3+tLY95uBB8mEZ+E2KyW1nYI3qLi32x2e2VtoJOSDx2I706fSbR95dg3Bn4a1PKbWgf2TbpW0SnOBgjA+/44rN26Tb1Xm5R9NOOTIa1KeUHWSSpBACis9wD54pt6evNt0G5fmrspLIZXHdKY7CljCkA8YBGRuHcipWV9tdg8mUyX6k3WvMQnqfLeizGrTCldKKU75MZlZ2FxJxk/Wivdz1Xao93lKm2ONd0uvOONmQ4ptTaVHgceMY4NFH3sDYdxTCrIpUF9ShsEGbcOnareXlSpLgKUNuEfkjOB9629y0+vQN+iWV2StUq4pYL77Q3bUqUQUpz7+3NFFVp9PI+YflWNbd228KB97l3ry12T0967lgkTfjZkN1G15CQAErRgjaABwTSivGobteriuTc5KpEh9KApawOQkADsB4AooqVVrMgJMSuqVbAo8b/ACaD1OEZWpLipxIVKDcbpncO3Qb8ZooorXc8zNg0xn//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Leave This Place</div>
+                                    <div class="artist">LIONE</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -471,21 +485,6 @@ Anstößiger Inhalt</div>
                                 <div class="infos">
                                     <div class="name">Recession</div>
                                     <div class="artist">Main Reaktor</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAEDBAX/xAAwEAABAwMCBAMGBwAAAAAAAAABAgMEAAURBiESEzFBCFFhByIjkbHBFBVCUnGh4f/EABoBAAIDAQEAAAAAAAAAAAAAAAUGAwQHAAL/xAAmEQABBAAFAwUBAAAAAAAAAAABAAIDBAUREiExBlHBEyJhcbHx/9oADAMBAAIRAxEAPwB31FdcawjaYbaaKQuY+lS0JUcJSkdVK899gB1NSqkT4iLTKN9sV1TtCUBFW4c8La+MkFXpg/1WM4LWis22xzcfqNPJA2XJoyfrrU15lzbfewluOeJSX3PhK32SGwOnb70+LdJEyEy/gAqT7yf2q6KHzpcez7Sf5Nbrm9JfSp+T8JtyOrBQ3/ByASd++1SzSCmWFSrbFSkNxAjjOSVLWrOSdsdB2o71BWidHriAGn4XtsZa3N3KklFFFJq5aV/iOI8sM47cWc1F/aPKhM6Vlx7whh5uSkttsb8S1bYI8iDvntUu+lV613e1Xi9ypKnCWUKLbKeyUD7nrRnBahszh3Abuqtqb0m7cleqrV0WRYRGlKVEkMpwH4+EggD9Xrgd6a2krWxbrUy4iW9NdfbQtchawoL2yOHG2N/9qoU28hic8AkutKBCm89TTv8ADXfHX9KvxJbylNpkYjNHJDKSMlIJ7Z6DO1M2OUZDUMkfAO47/wAUdW0+UiNydPu475orFFIOaurmuTnKt0tzpwMrV8kk1VC5ywhhoZOeWM586KKb+lx7ZPseUMxDlqW77xVMXk56/WnT4XUuSr5c2i8kMxEh7l91FWQMegNFFNmOHRh8hHbyoqhylGSsvRRRWRoyv//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">We Don’t Talk Anymore (feat. Selena Gomez)</div>
-                                    <div class="artist">Charlie Puth</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcEBQYCA//EADMQAAEDAwIDBQUJAQAAAAAAAAECAwQABRESIQYxQRMUIlFhBxUycYEIFiNScpGhscHx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAwQFAAH/xAAgEQACAgMAAwADAAAAAAAAAAABAgARAwQhEhNRBUFh/9oADAMBAAIRAxEAPwDL2lrtvav3Txd3ZjpUlJVn4RgH5Zz/AHT4to0NpwMDypTxLKxNdVcra73GU6oxRLR4illOB4c7Z22Nelwi8R2FHebDxSZjacao9x8QPmAvp/FKbaKNi2Md1WZsAVe1yOhKthuK5dPgPLNZfgy+P3i1NuTWksywPxEIORnzHpUPjxx+RAVDYlOxi6NOpo4V9D0oD5wBcKuuxfw/ckcQ3y0WpCveNziRz+Vx0BX7c6KVVm4OsUNRlTGJVzdBOXZOSjPXGdj896KXOTGe0Y2MDjhmotMMyuBLa1Df8bsULDnXUoEk7dcmsdN4Ll3BNoQxMlx5baVJlKWF5UrVkFJGwAG2BjH1rf8AD1s+7jzVtJV3MOK7BR5YO4Hoenrz6mrH312nH7Fgirj6GoS5csKSde5AQEnOOuT6VS22f3tX8iGoUXXW+2TLThy0tWlICFKUDyCjuB/2ubpCE+SSogbFI2yAfWrPfKiOQFQbe6DK0OZwo7E+dTslHn0xtPKy9xc+1Dg8XS229qOpbK4yldostlXa5AxgjljHLlRTgUyjB1fDRRl9oFKaE57MR662ZQ3ZsLSknBCVDPypbxRGi/aIC1OrSp+3BIxyU5o+En9Kc0UVU/IKBsX9WSdJidcD40YM6Fee0kLt0ttbbispacAGn0BqDYLTe4dxD14uLUhonUGm28BG3IH/AE0UVHZAJYTO1FeTVSX8M8zmiiisSZlUVP/Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Mauvais ordre
-Anstößiger Inhalt</div>
-                                    <div class="artist">Lomepal</div>
                                 </div>
                             </div>
                         </div>
@@ -506,7 +505,7 @@ Anstößiger Inhalt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2025, 21:25:26 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jul 2025, 22:30:00 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
