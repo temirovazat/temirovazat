@@ -449,24 +449,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYCBQcIAQT/xAAvEAABAwMDAQYEBwAAAAAAAAABAAIDBAURBhIhMQcTQVFhcRQjkbEVIjNSYqHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQADAAMBAQEAAAAAAAAAAAAAAQIDESESBEH/2gAMAwEAAhEDEQA/AOlPsk7XmuINKtbDBQzXGvczvDDH+VsbP3PfjgcdMElOPVZneJPxDUt1iq42lrA1jOctfHjz8854WHanrRviPb0Z/Wdt+pJXg0tDbKZnXaWPkOPU5H2Tv2ZdrDdUXZlmu1JFS3B7XOhkhJ7uXAyRg8tOOepBVNeNIWeqa5ohdTTuHDh0WdWa11Vj7ULDFB8x/wAdFscw9W7hu/rKvNY8i0uMS8dR38Os8eyF6UKAEXN3MLTnBGODhZcD3VdVteSwsldGd3XAOAfotS91QXDSdurqiaeQzsllJcdkhA3eeElT6LYcih9Eur3VEchhkG3aPDk/4vo7KtN07Z6u+1W2WsbI6ngyP0mgDcR6nP090MpZIMRSE99HmOQE+KaNF2yW3UtU9z/k1MglZGRy04wTn1wPolxtptF/oaccGNCg2RjnYDmkoVTFpk0YQhB0p6yxRVF4bXGQhpaGyx44eR0OfDjj1VpNCJI9mXNH8ThCEaQemTa0NaA3jHCEIQc2f//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Papaoutai</div>
-                                    <div class="artist">Stromae</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHAwUIAQT/xAAsEAACAQMDBAEDAwUAAAAAAAABAgMEBREABiEHEjFBEyJRYWJxgRQVIzKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwUGBP/EACYRAAEEAAQGAwEAAAAAAAAAAAMAAQIEBREhMRITIjJBURQjgWH/2gAMAwEAAhEDEQA/AOpZpEiiaSVgqKMlj4A0jbg6gwUCzLSwF2ThXc4BP7ecaxdUdwNbzS2+PhZQZJWPgKPXkcnBx+RqTX6oS4Shx/lVMIfq+NAOfP39HGc8/jSO9iLjJyhuqPCcHaw0Sm7XTjR9YKhpu2akjYZwSCRp825vi33YKspFPKccMeD/ADqDQtbwr80rsjZzEi9x8fSFOf1Dznxz5Ossks8VqFdHJI1IGCt8bBWTJGCVzyeP+++NZB3zxkztm7f1O7OB1CtwjjwuuoeMaNJnTK9f3Kz/ANM0rTNTBQkr/wCzoc4J/PBGjVGEnNg028qHsglXK4pbsp91rqKgbnp46dGYyUgKlfIwzZx+dJ23a5Kl3oq9Y8EKoEhyWbwfPvAGrB1J2LVbgSKrtdUiVtOpCRTgmNwecHHKn9Q8fY6j1zlntlG1r3JSyWm4A4hnqDmFz3ZykwHb3euSDjSg9R4mkXLRWGGYqD4sK79zaev1ajeNZU2GmlfbxpmkjiKzrPCJQIXIywHnI4Pvju0tWS4mXbjW+0TXStmRF7/pjlTK855IYKfWM49nVH2TYKrcclQayuliSmZEVo4/mJL5wSR4Tjk5xrTpseGhvFJcrXU09DUzZd44H+SKVQe08qR2d2DxyPwNFGWAx/c3T4Q8WARzvOoTrbLPX9VY6IiVZ6qnqldHp6aPsBIx2tyeB5II96NedLaj4t43MOSxq4gFPaQcpjOfWMEAEaNMBTHOOYn0UrZYzEfn9z+1XdfFcrZR3SmenuFNFUQuMMkihgR+x0aNGWdSi/dFqWJqibaNwqrNJKCHhhcmGQfZkJxj9iNLjWndVmqla92l61I0WJKi2YICKMAGI4I/jOjRrDdqDON4z2TOndNDZ1UOnVHCtGbg0cscs2VVZozG6rn2pGRzo0aNEpV4VgsMeyx2iSKV5SfVf//Z" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">Tell Me Why (Radio Edit)</div>
                                     <div class="artist">Supermode</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcGCAQFAgMJ/8QAMxAAAQIFAwIDBQgDAAAAAAAAAQIDAAQFBhESIUETMQcIIhQjUmFxFSQyNFFigZGh4fD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEA/8QAGxEAAgMAAwAAAAAAAAAAAAAAAAECESEDMUH/2gAMAwEAAhEDEQA/AKvttlxW0TKxbQk6wJmerdQ+z6XLKCFOJRrW4s9koH6xHKY2FKBOcQ8vLbRGaxc76KmC9TpMB/oKGUFzgkc/6gTbrCnHFN6c5ix6HM2+43R7OrbqdAUioKUkLX+4pPHOAYRVepS6XPuM+pTeTpKhg/Qjgx6X9eVRKBYUgM9hgbf0IqH5qKJJyFzSk5JNobROtlasDGpQODjb6QIpxfdilU08oryAcwRs32EpaCjjcQRYjR3UdekK2BwO0WW8A7LpNzWE88zPzcpPzM0UzSmVg4LTmQkpIxhSFJ2II5irsrqbKhuFQzfLldExbXiXLpblXpxqoNql3GWvxfEFAHuRp7ciDJYOL8LrLosoqmGjlp/2PR0wrbAGP+4xCE8wdmUS3vDbSZmaemZR77oqYdGpTjziSpICQBpCUqOAABDjVe1rpR1jWE+1Z/KjV19Xw9LGvPyxFSvMPd710+I6mHZN2SYpjYYQ0/jWScKKlAHY7jbgQVrFqFlNOe40kQRjza/Vp5gihNsn01L29KMgApefaUF+psjqnfKSRxn/AAI2lqXjS7QuKWrjdNkpyYYcUpCD7k6CCn0EDGQO2c51b/IgjDh6SnjzbbsiKi/R5tpvWE60KbWRkZydwRvkduMwjvEK4KTfV3qrFPp7ciXAUzKVJDjjuk4S4cj4eBv2/ggjEkjW8MBNOpLbM5NyxYW4h7Vo0pxoAPbIOx2OBg5zxBBBGnH/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Let Me Go (feat. Chad Kroeger)</div>
-                                    <div class="artist">Avril Lavigne</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -477,10 +463,24 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQQIAv/EADEQAAEDAgQEBQMDBQAAAAAAAAECAwUEEQAGEiETIjFhB0FRcYEUFSMIkaElMlJisf/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEFBP/EACARAAIDAAMAAgMAAAAAAAAAAAECAAMRBBIxcYEhItH/2gAMAwEAAhEDEQA/AJjFSeWGKeOppOmiVOfRqL9Q9RuKcS8Byg9QrqDcAbp9CbtURIZddp6pELTQztV9O8G1N0DrSr8wSdzpGxSdwbH4xOc/wstGzGiSaS8pwBxBaSLWt/rtb+cY1BJzlepELDa3XHl6Uop0DWrsD1A+ffEsr7L2V/fj+QQW3CJTXqjJCKhAeXHFxLnMU0L9r6NI2PUX5reu+/THxnKbjI9YTRwcdIpUkcQmnW2lA5dNiTvfsB3v55tR4F5go4SokpOViqNbLJeW266rlTa9lLA0g/v74Ro/NcoKIxr1Sl2ncISFPC5T5Dmte2OdOKoYEsT9w27b5GBGY2qplyljMtRlO84yU8dlJ4iFbcwPToDtbz7YMdPh9Fzipc/a2mmXQkq/IAb7H/La2DD7LKaG6aPsxo4tzDeplt8QpbLENGyKYNxtUoIxxBVUJKkq/GdOm+2sX98IP6W4+HqXJd6oq+FLJW2hCbc3BN7kdr2Bt2woeIrMrVTAXNqZp3Q2EAIIIIA6cu3zhHrqCSgahl48VguDUy+0ojUOyh/zrhNNS11gBtJkK2qxewT0lI5UiqXMyqPP2aKyVRXPJsxUVhabcVeyAGUqvtce3bEq8fckQ+TJ6h+xPpUxVpcUqnBJ4JSoDzubG/Q+hxsZP8RMj5ahKV8wNVKZjaSXF1NY2grU8RYkOkkhI8gBce9zifTNdL59zBUSD6EbDonlaYR5JBPz3O5w7MMAAuQB7PSnhwjLzELFVuYFpFWYxt5KWSSFDh82oDbV/ODEYyDUy0ZKpXFusVV0cNSVEWSLEWsrb564MZlvBVGxsb5OTRtXlWEMjRRkX31P/wBRU4VaNrk/GNbL7P3BjhSFcywwLBLb7K3QoXNyLA2t339MGDGq7YuwF0tkz5CHh2JIcGQbdZt1DDoRqv8A27i/fHbmpDtGyhmmdZ4NgdFO2W0gdQdxue4wYMVv7LAzGOTEjnqlNY0aYu6rb/tvgwYMOY/mMr3PZ//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAuEAABAwMDAgQFBQEAAAAAAAABAgMEAAYRBRIhEzEHIkFhFBUjUYEycZGh0bH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAfEQACAgIDAAMAAAAAAAAAAAABAgARAyEEEjFBcYH/2gAMAwEAAhEDEQA/ANCCggEqICRySaXiyGXWwttSVp7bknNVW9tW+V6Y6701OJaaU+tAONwBAx/efxUV4cXIvWpawuIuMlxvd3ykkHHfHfg/jFZtb/Jr8ihtGaOFjjFNZUtlgfWcQ3u7blYrn28b1ueDeUxmHKfMZMksssEYUPNgAAVebzk645q8KLD+FjmQD1nnxu2kEDYhOeT60QFKCzOGNR2I3NCcXx7H3oqtWo9KEZ2JNW2tbKQQpsEJ5JHAPIHHb0oozE3ZbjNBqe7wSn6pcbS6gQ1gtlQG/KsBIz6knFQ3hWoqYjoebLbrZW2lOc5SEDn+TR4tSnob8HoqIC2lBQ+4yKZ+Fzi3Nda6hOek4f8AlKQTcFYmo+1trRmvEVidMYQG421JDY8zjxO7eR24++c5qs3XqZ1TUdaXIacdi6eQ5DU2vpqaUvB3Ejk8f5ULdusttXfJkPu7Wg67jcffAxWlWrp8HUbNjmVGacTISd6gMFYBOMkcmiURiZRUJNA7jPw+1pnV2JDjLSmlNNoacSo58wKuc0VLaFbES30SV6Yy+hl9QWreSoZ9iaKOxUooQ/BXSidyVvCzxcr8VTkox2mUqSdqMqOSDxniltItfT7fKpMfqrdQg5ccV6evA49KKKUr7FZc+Tmi7QmVKYWPOtzJ29+Sa360G/hrP0lnASUsDIFFFME+BDOMoI7H2WR2Q18pDfUR1AP071E/4P27UUUVOJAAfuX4nHXEG6k7Nz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Kaleidoscope (feat. Grace Grundy)</div>
-                                    <div class="artist">Vicetone</div>
+                                    <div class="name">Where Are You Now</div>
+                                    <div class="artist">Lost Frequencies &amp; Calum Scott</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgEECAP/xAAtEAABAwMDAgYBBAMAAAAAAAABAgMEAAURBhIhEzEHFCJBUWFxI1KRoVOBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAAFAQIEBv/EAB4RAAICAwADAQAAAAAAAAAAAAABAhEDEiEEBUEx/9oADAMBAAIRAxEAPwDlpLqQjaWWyf3HOf8AtZ6ycEdBrn88f3XhRQA3vBlM6ytvz5MRbcSZt8u64MJd2Z3bT9ZFXzUskagZEaUQhgHKAg85+amrFbbJI8BIKnhNZcgMF1rzCVpWl9XHbsUlR49sUvGHX+qEtlR2pGR7HmnXr8UMkL+oW+ZJwnXxmjcLMuG36Epdb/ybTkfnniirdHt5lQ3XJT/RKvS22Bwv5yfiimdwjyTMGjl1CY8PtJSNXX9iCkvNRVZ6khDe4JwM4+M/RIqYa8PlxL8uJcnliE44tiHKaHpedwS3nuBnHKc55p2pl2fSmnpqrdAMZpKespDCtg3DnPOaSj14ut8asrtxeubXl5fVSiOwrb0ydwdQQOVAkj37j7zx22x0yhR07FN21FoNVvlsxUTxCadU0k/pLUheMAqPbCR37E1G+H1p05edOPw7iFecWou9VKQkpIOMoIHI+uRiozwT1A9qLSFwNzUlhpL7sRjp+lbSNqSQSe5JJOfn/VV2fOVozX7DYbkJ082svIcUg4SlXG0qHcA/fbvQ8+TFWj4i0MOPJakusldTaSuFilbS4ZEJSj0pDYyn8KA5Sf6opsRJzM6F1ITyVhSQpK2lBYI7jiimkPaTrqsXS8CN/tCsuWnHL/FehKmNxWHkBt11hBUrb2IweASOM1Y4GmkM2CJYY8ySIkZgMhe1O4jGN3A4P80UUqS4bXJ2Y0boS26XiJjwZUxyP1i8UOrSSpRwCeAOOPerXKituqWpBBaxyhScj+KKKtQbM0LTp+NZ4rghR0R+o4p1RHKdxxkBPYD6GKKKKikQ5Nn/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Words</div>
+                                    <div class="artist">Alesso &amp; Zara Larsson</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYDBQcECP/EAC0QAAEDAwMCBQQCAwAAAAAAAAECAwQFBhEAEiETMQciMkFRFGFxgZGhFTNi/8QAGAEAAwEBAAAAAAAAAAAAAAAAAgQFAwH/xAAiEQACAgIBBAMBAAAAAAAAAAABAgADERIhBDFR8BMjYaH/2gAMAwEAAhEDEQA/AGK6rnrEC6KrBhyUsx2QjapbCCEeRtXlJ5UcqUCDwAU451Qv3/cLTbrqFodKXNwaLKAVJ620pTjnG0EAnnOfbGtlrbNEiwZc+tsQRGSnc+7IaSoEcd8jn0p/gfGka8r9sy12WFtwYsmbNV1WQ3GSlKicEOqVjt2ORknUsMgwCOY2AzcjtOWrXLVY8KiyG6hHaEymNPFPRQoqeWCSSO6eBuScbTsWD7arZt5VmNMejpnx5DbIcAltspDT21lCgU+/qJJ49+NLkybftLrMeoybfRJpy21ITHkMtqR0SPQn3QnHG0YGPY606yLqs676AuWmHAh9DCZMaS0gdEjGOSMFPkGD/wAjtjQpZWRnEN6nUyO26nPqsyjBc1Kt7Ml2WyG0AFKHVIRzjIVn4OMIOjTrGo9JbfRNiU+Eh85Wl9tlIV5uSQoDPOf3o1xkBPAgByIheMtTiS6eKEmUjrKWkvtg4KQfTz+Mn+NZt4k+GjNPoFPqKZS3FttpJDq+NoxgAnsANVb9206vVNNXq4lPU+ngyHkhtKVyF7uBgHABVgcngamm+JMm5HJ7VZAdp4SAlttAASDkcD4OB76nul+3yjIPj38lWrQAV8Y8y6uy8r2k202HaLBaO8tNKCzvU0lAJXtJ7YPq/rXd4S2pGk2BPdf/ANEkBxzaeFKGRn9AnWfUuvSKhTo8GYFuRGAUl4esM9iFYGcAccHJ7amurxLm0+eiDbbn0tOajJZLSBhKs8kEY+CBoLKbLfpRcZ5JH8hlkrXbabr4TXlFqzL1vPuhNTpg6aEq4U6yOEq/I7H9HRry+LolUy4KRcNKV05rI3L44JyQcj3BBwfto1XprcIBJF+pckdo4CxLtdo06lU2gOrY6ZbQ4VbCs9QKzlWAfgfbSyuelml/4t3o/URXdikgYWrcMgH5CVD+9GjQqxcHPvaNcBozSlOxrdZjux2mo8oCUuQ02e7ieWxj2SO3fBzpFqEpJjT47zbJXLcQ/wBbOFoKAU7R9iFH84GjRrPpSSxmnUqNRLcQ3qfa8mRKpTq6fUmdkeUtGAShZIKFYP3BHB40aNGmVJi8/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Titanic</div>
+                                    <div class="artist">Robin Schulz</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -508,7 +508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Aug 2025, 04:25:58 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Aug 2025, 05:26:10 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
