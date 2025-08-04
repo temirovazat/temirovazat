@@ -449,10 +449,17 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQFBgcBCP/EAC8QAAIBAgUDAQcEAwAAAAAAAAECAwQRAAUSITEGE0FRBxQVIiNhcTJCgZGhsfH/xAAYAQADAQEAAAAAAAAAAAAAAAAAAgMEAf/EACURAAIBAwIFBQAAAAAAAAAAAAECABESMQMEBRMhUWEiQXGRwf/aAAwDAQACEQMRAD8ApOUdFzZR1RMuZUkiQUk1oJtXzuvcFpQBzYb+gvc7DF9hzCehymmjoaqKmqFjlasIVQQI20hE5te5K2vcm++JvJasVOVyyVE88ogIpnmaIrPKv7Y0TlSf3Hkm9trEQ1bHS5JPLnbTwNQ0XbmgQfpTYDtqeXbS1gTwLAW3xStBUxtQWCwZP5H+jspMA9+7CpLXwCSFBYM6i+tZCOXYNe5uR5NwSe/GY5DBS0cEtYkYZYxIhXuMP1uSdr8/gX8kYqHUfWiJ0oHyNZZaRa/VDI6tGYkIY6Db7kjY8XxOZG02bUlLmNOyg1H0wmohKdd7xj+Njbi43ucHKDGrQbctZRB8+O8cpaNczNJNM1SsdRLI0GlrMt0uq/fi5Y8gLfBiRWqgmplpBJDTVjQpOmi2pRyqqL3ADXB3FlHODANszZaS1eIpdiKRkRyxTEAFoRKs+o31xH5kF+XsbAne1vOKf7ScwMPbo44Q9KsjVQicBokVoW+UtyT8wPNrmw9caXntKaavjMUMbqZ1m1SC6wnS31bDc2Ibbzt6Yp3WvT809BLRU8VTLJXBqmkbWAqMAO6ZDa+6gEAbAm3jErizW9pt250xpksKsazNK6qSP2fUKUhlQTSGKeNmJQspJ1KOLkW/BO2Ne6K01ORRUcTq7VMEYRvALKHkP+LfkYyhMoqJPZzUzTBDHTv71EyyEkAv22Uji97nztb1xomVZWtBRUdJRd73fTD9WNraah4tYUebF9Jv4O2LpSszFPQ1eniWCpooKjqCoqI4+3XVKRzUJI2EiAq2oelhuPIv5tgwzVSSVGVtLUR9yrZY6oyqSghVbi4IFwb7WFze/ODGR92ENGj6XDH1FDA0+p55T2hdRSIFqcyndgAoZjvYAAf6/nDVJ19m09fG1dm06IFZQ6KGKAgiwH3vb/mDBjRQZk6BcTtFJG+XSUfxtEpHZjplZOCAeAb3v/XOFqjqvMaBlpstzOd6SF1kj7ii+peD/fGDBgxiduJ6mJVHWme1EckT182h2DMFNr2N7beL72wYMGFsU9SI/Nce8//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFBgEECAP/xAAtEAABAwMDAgYBBAMAAAAAAAABAgMEAAURBhIhEzEHFCJBUWFxI1KRoVOBsf/EABkBAAIDAQAAAAAAAAAAAAAAAAAFAQIEBv/EAB4RAAICAwADAQAAAAAAAAAAAAABAhEDEiEEBUEx/9oADAMBAAIRAxEAPwDlpLqQjaWWyf3HOf8AtZ6ycEdBrn88f3XhRQA3vBlM6ytvz5MRbcSZt8u64MJd2Z3bT9ZFXzUskagZEaUQhgHKAg85+amrFbbJI8BIKnhNZcgMF1rzCVpWl9XHbsUlR49sUvGHX+qEtlR2pGR7HmnXr8UMkL+oW+ZJwnXxmjcLMuG36Epdb/ybTkfnniirdHt5lQ3XJT/RKvS22Bwv5yfiimdwjyTMGjl1CY8PtJSNXX9iCkvNRVZ6khDe4JwM4+M/RIqYa8PlxL8uJcnliE44tiHKaHpedwS3nuBnHKc55p2pl2fSmnpqrdAMZpKespDCtg3DnPOaSj14ut8asrtxeubXl5fVSiOwrb0ydwdQQOVAkj37j7zx22x0yhR07FN21FoNVvlsxUTxCadU0k/pLUheMAqPbCR37E1G+H1p05edOPw7iFecWou9VKQkpIOMoIHI+uRiozwT1A9qLSFwNzUlhpL7sRjp+lbSNqSQSe5JJOfn/VV2fOVozX7DYbkJ082svIcUg4SlXG0qHcA/fbvQ8+TFWj4i0MOPJakusldTaSuFilbS4ZEJSj0pDYyn8KA5Sf6opsRJzM6F1ITyVhSQpK2lBYI7jiimkPaTrqsXS8CN/tCsuWnHL/FehKmNxWHkBt11hBUrb2IweASOM1Y4GmkM2CJYY8ySIkZgMhe1O4jGN3A4P80UUqS4bXJ2Y0boS26XiJjwZUxyP1i8UOrSSpRwCeAOOPerXKituqWpBBaxyhScj+KKKtQbM0LTp+NZ4rghR0R+o4p1RHKdxxkBPYD6GKKKKikQ5Nn/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Stranger Things (feat. OneRepublic)</div>
-                                    <div class="artist">Kygo</div>
+                                    <div class="name">Words</div>
+                                    <div class="artist">Alesso &amp; Zara Larsson</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgEFAQAAAAAAAAAAAAAAAAQDAQIFBgcI/8QAMxAAAQMDAAcGAwkAAAAAAAAAAQIDBQAEERIhIjFhdLIGJTVBUaEHFXETFCNSYoGx0dL/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQME/8QAHREAAwADAAMBAAAAAAAAAAAAAAECAxESBCExQf/aAAwDAQACEQMRAD8A9CQURGrhI5S46zUpVu2SSwkknRHCnFxMW2kExloR6Jtkn+BVYDwGN5ZroFJ9pJ9qJ+zZSUqu3UlaEE42RvJqekvZtM1dcyTmPiQR3Ux+1mP81I1FRTidIRloB+q2SD7itftu2iX7XSFuA+lWCNLZx6g1m4KZEmXUqYUytvGNeQoY3g+1RNP4O8OSFukRTURGphZBSY6zSoW7hBDCQQdE8KKdnfBJHlnOg0VWGGy2A8CjeWa6BXO/jBESSbtibsQp61bbDb6EjabwSQriNeD6V0KBPcUbyzXQKf36iMg1HPS0PDleHJ2jz7GO3a1NuMoUUHCtXn9K7Z2bYU3ZNqcSsOKGTprz7Uq/2WsvmLVzbNhpAO20nUn6j01+W6s8y2GkBIJI40Yjk6PL8pZ0uULTvgcjyznQaKpOnuSR5ZzpNFNnJCNJipSRRfWATIWoiAw2NEvsjH4A1HO3nT9q2m1lbZTak3chZAkEHRuE48uOfWiiih2+vwu++RufFrbeDruBvxj81MIlo1KEp+Y2ZwMa7hP90UUtg0KTUtHKh79Kb+zUo27gAD6ck6J40UUVGzSIWj//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">For You (feat. Park Avenue)</div>
+                                    <div class="artist">Rich Edwards</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -463,10 +470,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EACQQAAEDBQACAgMBAAAAAAAAAAEAAhEDBAUSITFxEzIiQWGR/8QAGQEBAAMBAQAAAAAAAAAAAAAAAgABAwQF/8QAGhEBAQEBAQEBAAAAAAAAAAAAAAECEQMSIf/aAAwDAQACEQMRAD8A2LJhaYJlb9rSmOLJsHt+Tsc4mqwt9tDr5Ej0vb1Qk6j8EtgDq8a9uJifaYadoNZjqp31IUwTCzlO4sL9W3awD8gQhTuqkoTgFnF1WOc55iAeNnpKesRcEtDtSGHwXcBXIsXkWDXo/wBTTi8t8VQEnn9S1On56+a6nTuaev1Ews3KXVIA7MkHzB6PSXqeeAaDxUb/ADVOozpGxWUzett+k5+JX9zJeWgAE8A/SErZHLfeHkEeELaRy9czs8iRqQSmKxyZNMmTKEJRNLTMzAjYrxr5idu+uoQoph3uUe4mXIQhHq3/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcGCAQFAgMJ/8QAMxAAAQIFAwIDBQgDAAAAAAAAAQIDAAQFBhESIUETMQcIIhQjUmFxFSQyNFFigZGh4fD/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEA/8QAGxEAAgMAAwAAAAAAAAAAAAAAAAECESEDMUH/2gAMAwEAAhEDEQA/AKvttlxW0TKxbQk6wJmerdQ+z6XLKCFOJRrW4s9koH6xHKY2FKBOcQ8vLbRGaxc76KmC9TpMB/oKGUFzgkc/6gTbrCnHFN6c5ix6HM2+43R7OrbqdAUioKUkLX+4pPHOAYRVepS6XPuM+pTeTpKhg/Qjgx6X9eVRKBYUgM9hgbf0IqH5qKJJyFzSk5JNobROtlasDGpQODjb6QIpxfdilU08oryAcwRs32EpaCjjcQRYjR3UdekK2BwO0WW8A7LpNzWE88zPzcpPzM0UzSmVg4LTmQkpIxhSFJ2II5irsrqbKhuFQzfLldExbXiXLpblXpxqoNql3GWvxfEFAHuRp7ciDJYOL8LrLosoqmGjlp/2PR0wrbAGP+4xCE8wdmUS3vDbSZmaemZR77oqYdGpTjziSpICQBpCUqOAABDjVe1rpR1jWE+1Z/KjV19Xw9LGvPyxFSvMPd710+I6mHZN2SYpjYYQ0/jWScKKlAHY7jbgQVrFqFlNOe40kQRjza/Vp5gihNsn01L29KMgApefaUF+psjqnfKSRxn/AAI2lqXjS7QuKWrjdNkpyYYcUpCD7k6CCn0EDGQO2c51b/IgjDh6SnjzbbsiKi/R5tpvWE60KbWRkZydwRvkduMwjvEK4KTfV3qrFPp7ciXAUzKVJDjjuk4S4cj4eBv2/ggjEkjW8MBNOpLbM5NyxYW4h7Vo0pxoAPbIOx2OBg5zxBBBGnH/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">I Can Be (feat. Crysta)</div>
-                                    <div class="artist">Mike Ault</div>
+                                    <div class="name">Let Me Go (feat. Chad Kroeger)</div>
+                                    <div class="artist">Avril Lavigne</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -477,17 +484,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYCBQcIAQT/xAAvEAABAwMDAQYEBwAAAAAAAAABAAIDBAURBhIhMQcTQVFhcRQjkbEVIjNSYqHh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDBAH/xAAcEQADAAMBAQEAAAAAAAAAAAAAAQIDESESBEH/2gAMAwEAAhEDEQA/AOlPsk7XmuINKtbDBQzXGvczvDDH+VsbP3PfjgcdMElOPVZneJPxDUt1iq42lrA1jOctfHjz8854WHanrRviPb0Z/Wdt+pJXg0tDbKZnXaWPkOPU5H2Tv2ZdrDdUXZlmu1JFS3B7XOhkhJ7uXAyRg8tOOepBVNeNIWeqa5ohdTTuHDh0WdWa11Vj7ULDFB8x/wAdFscw9W7hu/rKvNY8i0uMS8dR38Os8eyF6UKAEXN3MLTnBGODhZcD3VdVteSwsldGd3XAOAfotS91QXDSdurqiaeQzsllJcdkhA3eeElT6LYcih9Eur3VEchhkG3aPDk/4vo7KtN07Z6u+1W2WsbI6ngyP0mgDcR6nP090MpZIMRSE99HmOQE+KaNF2yW3UtU9z/k1MglZGRy04wTn1wPolxtptF/oaccGNCg2RjnYDmkoVTFpk0YQhB0p6yxRVF4bXGQhpaGyx44eR0OfDjj1VpNCJI9mXNH8ThCEaQemTa0NaA3jHCEIQc2f//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAMEBQYHCAL/xAAuEAABAwMDAgQFBQEAAAAAAAABAgMEAAYRBRIhEzEHIkFhFBUjUYEycZGh0bH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQECBgP/xAAfEQACAgIDAAMAAAAAAAAAAAABAgARAyEEEjFBcYH/2gAMAwEAAhEDEQA/ANCCggEqICRySaXiyGXWwttSVp7bknNVW9tW+V6Y6701OJaaU+tAONwBAx/efxUV4cXIvWpawuIuMlxvd3ykkHHfHfg/jFZtb/Jr8ihtGaOFjjFNZUtlgfWcQ3u7blYrn28b1ueDeUxmHKfMZMksssEYUPNgAAVebzk645q8KLD+FjmQD1nnxu2kEDYhOeT60QFKCzOGNR2I3NCcXx7H3oqtWo9KEZ2JNW2tbKQQpsEJ5JHAPIHHb0oozE3ZbjNBqe7wSn6pcbS6gQ1gtlQG/KsBIz6knFQ3hWoqYjoebLbrZW2lOc5SEDn+TR4tSnob8HoqIC2lBQ+4yKZ+Fzi3Nda6hOek4f8AlKQTcFYmo+1trRmvEVidMYQG421JDY8zjxO7eR24++c5qs3XqZ1TUdaXIacdi6eQ5DU2vpqaUvB3Ejk8f5ULdusttXfJkPu7Wg67jcffAxWlWrp8HUbNjmVGacTISd6gMFYBOMkcmiURiZRUJNA7jPw+1pnV2JDjLSmlNNoacSo58wKuc0VLaFbES30SV6Yy+hl9QWreSoZ9iaKOxUooQ/BXSidyVvCzxcr8VTkox2mUqSdqMqOSDxniltItfT7fKpMfqrdQg5ccV6evA49KKKUr7FZc+Tmi7QmVKYWPOtzJ29+Sa360G/hrP0lnASUsDIFFFME+BDOMoI7H2WR2Q18pDfUR1AP071E/4P27UUUVOJAAfuX4nHXEG6k7Nz//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Papaoutai</div>
-                                    <div class="artist">Stromae</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAgDBQcCBAn/xAA0EAABAgQEBAMECwAAAAAAAAABAgMABAURBgcSITFBUWEUIpETUoHRCBUjNEJxoaKxweH/xAAZAQACAwEAAAAAAAAAAAAAAAAEBQEDBgL/xAAiEQACAgIBAwUAAAAAAAAAAAABAgADBBESITFBBRMiYYH/2gAMAwEAAhEDEQA/ALPPTNDElCxW41hepmVlZQBlbRYQsOL4qPmBPb4Rc5b59MVhKGa8wlqZt9qWSdjsCoAnhzsNx3jx/Sdy+mJtg4ppSVLQ0kCdYTyA2DoHbgfXrCvNrfkJxmalyUrbXq1f5BwFbKNCLmFoJ23XxPpJKTDM3LoflnEOsrGpK0m4IiaFuyJzLaTplJla/AOEJUFH7u51A90339YY9KgpIUkgpO4I5wLZWUP1Cce/3l69CO4nUEEEVwiRutoeaW26lK21pKVJULhQPEEdISbOXAK8G4telm2yKVO6npJY3sL7oPdN/S0O7GdZ8YZRiLL6cWhvVOU4eMYItfyjzD8im/xAi2l+LSm5OSxQsu5r6tqLrLmxc2B/jaG2ymxV4ySRTpxwa07MqJ/Z8vTpClU5vw1eZc/Cog9rxq9LnFUqpNvIUPZuWVttpP8AUMmpFlepmb804mWH8HvGpgilw3VFT1OlzM+V5aAoH3hz+PUfOCFJGjozUpYHUMPMu4imWg8w40oApWkpIPMEWtBBETuYHi3I5yUS5PYfmjMexOtMotFl6eaUqB3PQWEdO4Brs/KMKbpqmCbakuLSCBbja/6cYIILTJsURPm+m0ZB+e/ybDhKjOUiksMTT5mH0ICdZFrDkO9uF+NoIIIGY8jsxkla1KEXsJ//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Capsize</div>
-                                    <div class="artist">FRENSHIP &amp; Emily Warren</div>
+                                    <div class="name">Where Are You Now</div>
+                                    <div class="artist">Lost Frequencies &amp; Calum Scott</div>
                                 </div>
                             </div>
                         </div>
@@ -508,7 +508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2025, 20:30:53 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Aug 2025, 21:30:37 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
