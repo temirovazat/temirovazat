@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            17158 Commits
+                            17163 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -449,17 +449,25 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAcIBgQFA//EADAQAAEDAwMCAwgBBQAAAAAAAAECAwQABREGEiEHMRMiQQgUMlFhgZGhcRUjUmLh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMP7SduNx62t2+Of7s1qGznPAWryj9YqktSQGFMi2lAVGRHTG2fNGNuPxU39a3nI/tHsSNwXslW9xAB9AG+P1VG3q5sR764t9YDSCpaj8kpBOf1QSz0jjJ071sXZZiiCpyRbQo/5c7PyUgfeqSsrZbuq2j3IAH85FS9eb8mb1s/r9gZUUm4tSm0OnB8pTu3EdgSD9jTSsfUqNcdTXBu7zIUe1oYc3OYIWHB6Jwfh/JyO9A2YV4KL9IhPNte7ocS0HW1ZIUrOM+hGRjiil5Z9bsXzXyLbaMvwSGy5MDBaGUqBSnB57E9vTFFApdctS7z1zeegNvTHFzmVISgEnYjYCRx8I2nn6U79SCQ1Yr3drufCWIbyUoB+HckgffOKSsW+wHVOOxTLmXIbd0iNJXBcS1kDBwnCgCc4zTYsN8vtytSm7hbFhnYWz4yVO+IntyoDzcfSgnm2Keg6QulxbWW5br6Wd4ODsIO4A14lulISGvey4IjawQlpIKlKAPz9Of8AlUVZtK6dg6K1Rabow6t65FCoy3G9hjbOQErUBtyeT8/WsI1ouwMKbbXKchoUvAfeb8ULwRyMHGMnHHeg1XRe8TZXimfFZTEioSpLvJcKynCE57cJySe/KaK2eh9MwYOm4qYc5E1leXFPsDCXVk+Y8knPGPpjFFBsGdP2th4vRrdFQ7ncSEjv/HavhqNm8qjNGyJYD+/z+KMgox6cd80UUHgyWtWqcw0IYbKOykjO768dq74On3ZURwX6JGWrckt+FwAMDOcf7Z+1FFB3Qrci2NeFDZLTI7Iz5RzngdhRRRQf/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBAUHAQL/xAAwEAABAgUBBQcDBQAAAAAAAAABAgMABAURITEGBxJRcRMUFSJBYaEWMtEzUnJzsf/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgcD/8QAJhEAAQQBAgQHAAAAAAAAAAAAAQACBBEDBSEGEzKxEhUxYXGhwf/aAAwDAQACEQMRAD8A2r41+IlkGDOy6nWSBbiwo2GPcRADjGkaFKkZmRaImeBKnCChoG5GfbSJbTY2OQXeMXStNZmZooZyjV2sV6osNuuNpIWW/u4efL4iqqtpKhwMKObKuoC0Y8ztNLeJ+HIlioNvd1CAPMVcRBVflc2trDnsRs5KVqfqKJ9ZvJMJ4m2lWPEb2ueg0ho7TMAHSkjNZlEi3fQVRwZ9IIjcVBEuRurpo2Ugva1jfrFoVmpMhAliwrRKCeAi/wDEJyfmKegxDdWaQjZ+UlHJHtnnJhBU445YlOB9thjXrD7Q2lznD4UtxKQ1rCff8XONkdkHZKozlRrDakzCXCuVJIHrdTltQeQOmY6Dulle7LrpvcKaTgC374S6rUaoJt3s2XCG21cPlOcH8w6boJepplKzMVZstqcaSEJODgKJ/wBikysAYo/C8uyBKK1Yv7QRErXUZgjPz6rXGjYKyMgDNtIeGN4DzbKWjT2vIkJv2hzYdIII64ZOSPfLNWg5MPDJoZW3S+fr10IAEgkj+9X4j1/eE+ppTfhzQCkkfqHpygggjzKSR1dkM3RoYOzO65+7a3rBBBAKcN2C/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">California Gold (Triplet)</div>
-                                    <div class="artist">Kaaze &amp; KARRA</div>
+                                    <div class="name">Say Something (feat. Chris Stapleton)</div>
+                                    <div class="artist">Justin Timberlake</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EAC8QAAEDAwMDAgUDBQAAAAAAAAECAwQABRESITEGE1EiQRQWYXGhB5HRFUKCwfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUC/8QAIBEAAgICAgMBAQAAAAAAAAAAAQIAAwQREhMhIjEUQf/aAAwDAQACEQMRAD8AzUuQpgtpba7q15wO4lA2GeVEDPtjO5qAzJaZBYXbVoeKSpKFSGsqwQCB6sZ9Q5xXm63Bi2SIMmUpaW0rUn0MpdOSkgelW3+/FZy5SrFdpyXJBmMpbb7aXI8dtGoA+nKAcDAzweePNKuudG0ISmlXXZlzdL8bUW/6hb5LIcyUZWg5Ax4J88eN6T+cYmx+Fkb44I/n9vPtSMIWO33BiVFfceLIDiUTG0pyoKTgJAJ1e/0+/NaH9U7DaoNwbVbQ428tlDj7Rb0JJWArKRvgYIB2wccGpd9v8leirXmSWW6NXaOt5ltaAhWnC8b/AGxRVd0WgIgP493c/gf9yfvRT6SXQEwNwCsQI9e1pSI/ckvxkFSsuMNhwg6TjIPt7miFcVtLAZ6ll9kAeswB6jvsB+3JpqS4GX4y/jlQTqUO6G9ftwR48/Sry3PF2Rq+YGVqCQO58Jjzskaf45rPyj7mPxRtJiepLZdurbnBjRJqp8gLS1GW40GtRURnIA2385p+/wB6vqOqbZEu8ku3mDEKFTMNhCiCcaRjCgBtkjJrcJiLFyMlmZ3HwUlMhtOg5wBkcY8VB1H0Yu/9Ww0R5ceJIZeB7z5wjRpGoE8nOPzQu08wojOv13M7Hmz5yS5c5CH3QcJUhKU4H+IA5oqwulsctE52G+kJdbUQrByPuD7iitnGO6xMfI8WGIkOB1txl0trRn+0KBBGCCCMYp+Pc5bLmvVHUcYGYyABzwAMDmiiu2pRzsicC50GgZMbxIVI7y0tFWQSEo0jb6DauT7s9MkuvOIQkuHJSMkfmiipHGq5b4yv6Lda3FZcpyUGu4E5bToGBjaiiirqorHFfkixLnk32f/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAcEBggF/8QAMBAAAgECBQIEBAYDAAAAAAAAAQIDBBEABQYSIRMxB0FRYQgUgaEVIzJxkbEWIjP/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUAAf/EACARAAICAgIDAQEAAAAAAAAAAAECAAMEEhExEyFBUYH/2gAMAwEAAhEDEQA/AFD4J6apNRVmbfPQJMlPFGQHvxuaxIt52Bt74aFf4daZQzRvSFInVRAyFupckbiwtaw9Bzb3xUPhYzWgyjVmazZtO8dI9KsYj3DY8hkG0kHuRzb0ucaO1DX6bzOny6eiqItszmOI/pLsCC1r4r4d3CBCPUm5dvjJOx+epnPK9Jaen+co8wo2pZlV0inTqEh9/wDqTckEbLE8eeLDPobSSvK9HAxDMirHKW/LsDv54uSbefFjiLHT1k3iPLSAUzU8hkkUNNHuK82sl72t52xf6NKCmyOklqnUCRyDJbddrta/H39OcUMdUccy1h4lGQm4tI/omd/FvJsvyjNqH8Ii6dLPT7weRuO4i9iSRxbz9/bBhmfE9l9Dl+Q6dihkhGYC3Wi2fmhCp2ksOLX3cd+cGIGZqbTrB2VhG1U8gRdeFGYwZfTZ4ZVBldYek97MjKxa6+/Fvrhy/wCcrTR6dFNTLT09HAOihiDdSQgdRmubkG4I7c84zRkdW9PWqikBJSEb+h/eGCzGSEiapQ/JKIobycuN5PHqLcfthnFca8EdSfdUpfZpRqytqajVk1YzMKmSrL3FwQS/YemH5Dqakpsklg6lTJIqNHa4IUq36gRyePt38sJF6VBmDVokUlawR2vz2HP7X8/bFgZjGXgWdCstg7K1xxyefphjCsarYfpjtfHydfxy1DT6h6U8MRWRXiWRj3JEZB7d7m/PoBgxSNYnqQ0VQ0qtJKXDKO67QoFxgwhlMPIeRMy6mRKefJlyLZJTn8St/wBbt33g9r2ttuO3fFlXWGUpRmI5RBNKXDdZ1sVFwSoA4txb64MGOJaR0IJqwe5xGz6mNBNGKKJZXqesH8wN+638WH0xOfU9CZw65dAqAg7FFh53v9v4wYMErvdeoVHK9TjamzeDNZITTUiUwQG4U8EnBgwYWsc2MWMzsWPJn//Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fast Lane</div>
-                                    <div class="artist">Palm Trees, Mdl &amp; Abi F Jones</div>
+                                    <div class="name">Leave (feat. Luma)
+Anstößiger Inhalt</div>
+                                    <div class="artist">Dion Timmer</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAECBQMGB//EAC0QAAEEAAQCCQUBAAAAAAAAAAEAAgMRBAUSITFxBhMiQVFhYoGhFCMyUpGx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAeEQACAgEFAQAAAAAAAAAAAAAAAQIREgQTMVFxkf/aAAwDAQACEQMRAD8A+E5Tl2Qz9FsXicbjjHmbXO0M1gFprsAM4vDjsXCtFb3e1cywXR7DamR4qd7nt+2+N7ZA0+oD/L915m1LQXfiCT5BC02WmaxsrxG8vYD2XEabHLuVAhsbGweSWhODozq+qk1aus20Vw87Rc7RAdsLLHE7VJC2U9wcTXwtB2aQvYWS4CMHxjkc34Br4WVSHc2VhwTdnohqZwjgqrxGgcZh3OAkwofHVaXSuu/EHiOSiafL3sIiy97H/t9QSP4Qs+lIsb2UwG/LpfEWmEd3EXj0uHD370VSEWkcJPJ2LUh7gKs0iKkuhqdfE2hc48XGuaIhbIREQh//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Ferrari</div>
+                                    <div class="artist">James Hype &amp; Miggy Dela Rosa</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -470,25 +478,18 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QAMBAAAQMCBAMGBQUAAAAAAAAAAQIDBAARBQYSIRMxURQiI0FhgQcycZHRFVKCocH/xAAaAQACAgMAAAAAAAAAAAAAAAABBAIFAAMG/8QAIxEAAgIBAwQDAQAAAAAAAAAAAQIAAxEEISISMUFxEzJh8P/aAAwDAQACEQMRAD8A403HG3nWpEZNrnamGS8t4jmjtq4suLFYhpQp52QvSLKNtgBcmwJt0FOUZLluYZE4igH5MplgvAkoZSUFa9Y8iEqb2P7TU+rEbQqewkdIcQ0CLgj61jdcW4ju2sKeRMsyJ2Ntwo6lhDyylt15ooBQLnXbppF7VZQ/h5hrL6kScau9xGUpUiOdKdZURchW3hp1newHtcG3wJvXTMx57CczZjbguqIPSiqjF8sCJGTNTKCo0iSWo5WkhbrYSFaym50jvJFvO/pRQwTCKlP1GRJ6NDlMLsy8tN/Npy19/T1qwyZiGIYRjC5apj7Tr1+IXAVh25udQuCd97ggg7ipSLiKULHccPuB/lP4mLzXCjQlJtskKQDt9aStaw7RzSrSnJTk+p0WNhzmJyJC0NK8dGhTjZKjY/NupRVvy58tq8MYypiGmOmU7JlQo+kJaccKU6BbugXsNtr9KxQcUzLDgiU0220wOSw2SgUYz8VMfegJhvdgKQLFwM2Uf7qvHzFuJAlk9gI5DI/YhzGJjk1nhoEeFHTw2WU94IF7k3tYknoAOQAAAopFMzRMcBSp0H+I/FFPqL8bkRQWaJNgSP73JZplYV4qg1bnq5/b80/wh+G1pV2ppDqVgXkpUoAdQkAg+9FFOdIPec4tjL2MpznGSqKpn9WbUjVwyiyvlv8AMLi1vSpDGXmFrChIZcWrnwAoAfUEAfaiigEUeJNr7DtmKC0txVmCHVHkkbK+3n7XooorCJDqJn//2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Inside the Lines (feat. Casso)</div>
-                                    <div class="artist">Mike Perry</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUGAgQHAQj/xAAvEAABAwMDAwIEBgMAAAAAAAABAgMEAAURBhIhEzFBMlEHIiNhCBQWUnGBkaHR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMFAP/EAB4RAAMAAgIDAQAAAAAAAAAAAAABAgMRBDESISJB/9oADAMBAAIRAxEAPwD53p5ZbUidGU8QFFBUClSikH045A7ZJ/spHmklN9PKusiWm32YuF+QcBCDjPk8+Bxk+OOaL6KT2Pl6cgFsrZjzMFxWA6SFBOxJQeBjBJOfIHAyRyov9rjQYyVtIfbd3IQtDnbdtJVjPOM4AyO3PvijuGitUQ4vWkLi9Toh7oF/DxQklYwg8nByrHvUTJnypTKWn3luISrcASTg8/8AaM++mKtL8NSivcUUyZYwNICVoxd6ZuCVSQFKTDQyScJOFZXnA45xVT+HyM9H1nKmGO0FQ44LnXVsDaFd1DPnFTNg1DNRpl2wNK6bTilOKdcV8rbYGVcd858Vnoa+TbNc581lDsuO82RI+ptWUDnOT5/zU3jyUmtFfPHLT2WnxhVJavduuz8NiGt9zclLMrq9ZH7gnuOO/bvXJXmhGnSGDkKS4Rz7VT/qA6o1tbXZ6XTGS6htLSlb1bB4zjvS3X0ZDOp5TjLa247hC0BffFHHudSxW1X0hPKivNsh5xshpR2hfgn7UUwvVyiSbVb40aOEraB3uKJKjnH+qKqidJb7M9OxWJc9P5sEx2wVKSD6vYVUSZaCxshtMo3bm8YwkD+B9qKK08STWzI5NNXo0NMWtuNqSG+hZWpn621Py+nPOecc1SfE6PEf07bZD6wbglYS6SfUhQJGPuOP6oorL5Eqc6SNTj06xNs5IobeD3ooopM4/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Oh Woman Oh Man</div>
-                                    <div class="artist">London Grammar</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAwEAACAQMDAQYFAwUAAAAAAAABAgMEBREAEiEGBxMUMUFRCCJxgbFhkcEVIzJSkv/EABkBAAMBAQEAAAAAAAAAAAAAAAMEBQEAAv/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMRIQQSMVHRBSIy4f/aAAwDAQACEQMRAD8Ae+1a7RWq8xxyMFaohTH2bH5Oox1tb63qirp6JatKRUPyPIrbD7jcBjOm74ppmp77bnRip8HjP+p35U/uNa1rsVFeqG29QTXOrNJLDHLHRqwWPO0fLtAyefc6WYbzKFH5xiS7+jS9FXzIrISDtZp5zsRT7AZyx+41qdZVcVDeunr9DME8Xtk3IpALqTuGDyOP40/VV3s1zq2Q0DVXdICxlh2gFeOCdTjtqroLva7AaOExJFUOEA9QVzx/zrkOTuGsTC5l6p+oPH00E9Ll45Y1cNj3GjSf2NsanoCjkYgmGV4ftww/OjRwxMmWDpbEzviipBUXWHLAKtEoY5/x+djz9tTboDq+qs8ENh6nWpokVUNHOBtKq3l5gj14OPrqido1TPeOhIEralqi4wCemmc8lsEsu77FRqN9p7SUklqR2D97BE6nPKlP4O7QFcMceZUfjmmsOD29yx11LSyQGWZqGaBx/cqHbvJZV9QMk4P0xpGuc0N86kvFqelVlo6dhTFgQVkCk7lwcDgAevH11kTPQweGuMtXCioVcqXGdw58s86dY7bS0HVluusDhaKek+eQnJ3qQOR7FSvOvJ+u4xXizAPf+Ry7FKdqboU5kDxSTLJ5YCnYMj8c6NJV1o7zFT2i22+5Na6Yd9VVE0a5CIqoqtwfLBPHrjRoiNrcTv4pLkqNTn7Rb3SSVdzrrbUsbfUTyvDt85V3EE/TIOP00qXB4rxdenpqWBh4Z2BMnIY7Ay+fsVx+2jRpfsxldQGqAPgGcVV07b+p2lnssMq3CMlqmFHyZj67QfJs5wBwc/py0p1JX2qC2WyudxF3Cq1O4PyAqAUORngaNGsckjpM3iqqubANn3N7tDvUI7N6uqtiqI3p46VmwdysWAI+mNGjRprijKbkr5Q9N5An/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
                                     <div class="name">#BrooklynBloodPop!
 Anstößiger Inhalt</div>
                                     <div class="artist">SyKo</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAAUGBwMCBAj/xAAzEAABAgUDAQQHCQAAAAAAAAABAgMABAUGERIhQQciMTJREyNhcaHB0RQVFiVScpGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAQIDAP/EACYRAAICAQIEBwEAAAAAAAAAAAECAAMEESEFEjFhFBUiMkFCkeH/2gAMAwEAAhEDEQA/AEMn0huNiWQyqSt14hOCtayVE+efR5hfWOmFx0qUXOzjNsJQjOyUKydsYxpx7d+Y+i63V5GhypenXBrPgaScrWfID5naMSv+9fVrm6kSUrVpYlEHuA3xn/SYihHf1NsI7GFToWOwEg5i0axOtKaSzQWtYB1so0Ec+IDaOTXS2uuoSpL0hhR29ar+fD3RRNzd5sUVVedtB1NCQn0inl6kdjzyTnHt04jQbQr9NumhqepqShxvsuSyj2m1H4EeR5jrnVPbJoxsO88qneZXK9OK06yuRT9y6jkJeWTqJ79lacwRtGuUlylDaxrHiSlOSN+7PEEYmxviE+VUd5HaX5+aXMTbjrzq/E4s5PxicnFUuk9V7XfuhH5G3hxzWjUjOVYKhyArQT7I0lluXZGEgKPvhNeFsS10yCWJhRZeaJUy8kZKCe8Ecg+UFWZBbboJtmY5tpKp1l44zal91t6XeqVeumQnXifRsKcTTZLQnIBUjSnIzyVHJG0YjY0rLU/qZc8hb8yt2itFxttwKzrQHAE788jPI3js3Qb9kqD+HmbnYlqANQLbbhQNJOSDhOog57s4MM7dkZC1qeZSmOl6YcOp+YUnBWeABwBFVQ2bKIqwsO1bQ7jQCVr77Uk12QC7jsp+sETepbyipbwHJyYIIGKv23Mf809A9RqGhPZmVK9zKvmIWz3USSdyGZlaR+xX0ggiiMFOugiE8Su7RI9d0s8SXJxf9VfSPFF0SDaSftC1HyCDk/CCCDPFuBoAJQ8Ru7RNVbmXPgt6y1L/AKE53955ggggpOJ2INAo/P7FdjtY3MxOs//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">In My Mind (feat. Mi Manchi)</div>
+                                    <div class="artist">LVNDSCAPE</div>
                                 </div>
                             </div>
                         </div>
@@ -509,7 +510,7 @@ Anstößiger Inhalt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2025, 23:27:30 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Aug 2025, 00:38:37 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
