@@ -35,15 +35,15 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -449,17 +449,11 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAQDBQYBAv/EAC8QAAEDAwMDAgUDBQAAAAAAAAECAwQABRESITEGE1EiQRQWYXGhB5HRFUKCwfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUC/8QAIBEAAgICAgMBAQAAAAAAAAAAAQIAAwQREhMhIjEUQf/aAAwDAQACEQMRAD8AzUuQpgtpba7q15wO4lA2GeVEDPtjO5qAzJaZBYXbVoeKSpKFSGsqwQCB6sZ9Q5xXm63Bi2SIMmUpaW0rUn0MpdOSkgelW3+/FZy5SrFdpyXJBmMpbb7aXI8dtGoA+nKAcDAzweePNKuudG0ISmlXXZlzdL8bUW/6hb5LIcyUZWg5Ax4J88eN6T+cYmx+Fkb44I/n9vPtSMIWO33BiVFfceLIDiUTG0pyoKTgJAJ1e/0+/NaH9U7DaoNwbVbQ428tlDj7Rb0JJWArKRvgYIB2wccGpd9v8leirXmSWW6NXaOt5ltaAhWnC8b/AGxRVd0WgIgP493c/gf9yfvRT6SXQEwNwCsQI9e1pSI/ckvxkFSsuMNhwg6TjIPt7miFcVtLAZ6ll9kAeswB6jvsB+3JpqS4GX4y/jlQTqUO6G9ftwR48/Sry3PF2Rq+YGVqCQO58Jjzskaf45rPyj7mPxRtJiepLZdurbnBjRJqp8gLS1GW40GtRURnIA2385p+/wB6vqOqbZEu8ku3mDEKFTMNhCiCcaRjCgBtkjJrcJiLFyMlmZ3HwUlMhtOg5wBkcY8VB1H0Yu/9Ww0R5ceJIZeB7z5wjRpGoE8nOPzQu08wojOv13M7Hmz5yS5c5CH3QcJUhKU4H+IA5oqwulsctE52G+kJdbUQrByPuD7iitnGO6xMfI8WGIkOB1txl0trRn+0KBBGCCCMYp+Pc5bLmvVHUcYGYyABzwAMDmiiu2pRzsicC50GgZMbxIVI7y0tFWQSEo0jb6DauT7s9MkuvOIQkuHJSMkfmiipHGq5b4yv6Lda3FZcpyUGu4E5bToGBjaiiirqorHFfkixLnk32f/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAwEAACAQMDAQYFAwUAAAAAAAABAgMEBREAEiEGBxMUMUFRCCJxgbFhkcEVIzJSkv/EABkBAAMBAQEAAAAAAAAAAAAAAAMEBQEAAv/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMRIQQSMVHRBSIy4f/aAAwDAQACEQMRAD8Ae+1a7RWq8xxyMFaohTH2bH5Oox1tb63qirp6JatKRUPyPIrbD7jcBjOm74ppmp77bnRip8HjP+p35U/uNa1rsVFeqG29QTXOrNJLDHLHRqwWPO0fLtAyefc6WYbzKFH5xiS7+jS9FXzIrISDtZp5zsRT7AZyx+41qdZVcVDeunr9DME8Xtk3IpALqTuGDyOP40/VV3s1zq2Q0DVXdICxlh2gFeOCdTjtqroLva7AaOExJFUOEA9QVzx/zrkOTuGsTC5l6p+oPH00E9Ll45Y1cNj3GjSf2NsanoCjkYgmGV4ftww/OjRwxMmWDpbEzviipBUXWHLAKtEoY5/x+djz9tTboDq+qs8ENh6nWpokVUNHOBtKq3l5gj14OPrqido1TPeOhIEralqi4wCemmc8lsEsu77FRqN9p7SUklqR2D97BE6nPKlP4O7QFcMceZUfjmmsOD29yx11LSyQGWZqGaBx/cqHbvJZV9QMk4P0xpGuc0N86kvFqelVlo6dhTFgQVkCk7lwcDgAevH11kTPQweGuMtXCioVcqXGdw58s86dY7bS0HVluusDhaKek+eQnJ3qQOR7FSvOvJ+u4xXizAPf+Ry7FKdqboU5kDxSTLJ5YCnYMj8c6NJV1o7zFT2i22+5Na6Yd9VVE0a5CIqoqtwfLBPHrjRoiNrcTv4pLkqNTn7Rb3SSVdzrrbUsbfUTyvDt85V3EE/TIOP00qXB4rxdenpqWBh4Z2BMnIY7Ay+fsVx+2jRpfsxldQGqAPgGcVV07b+p2lnssMq3CMlqmFHyZj67QfJs5wBwc/py0p1JX2qC2WyudxF3Cq1O4PyAqAUORngaNGsckjpM3iqqubANn3N7tDvUI7N6uqtiqI3p46VmwdysWAI+mNGjRprijKbkr5Q9N5An/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Fast Lane</div>
-                                    <div class="artist">Palm Trees, Mdl &amp; Abi F Jones</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBAUHAQL/xAAwEAABAgUBBQcDBQAAAAAAAAABAgMABAURITEGBxJRcRMUFSJBYaEWMtEzUnJzsf/EABgBAAMBAQAAAAAAAAAAAAAAAAQFBgcD/8QAJhEAAQQBAgQHAAAAAAAAAAAAAQACBBEDBSEGEzKxEhUxYXGhwf/aAAwDAQACEQMRAD8A2r41+IlkGDOy6nWSBbiwo2GPcRADjGkaFKkZmRaImeBKnCChoG5GfbSJbTY2OQXeMXStNZmZooZyjV2sV6osNuuNpIWW/u4efL4iqqtpKhwMKObKuoC0Y8ztNLeJ+HIlioNvd1CAPMVcRBVflc2trDnsRs5KVqfqKJ9ZvJMJ4m2lWPEb2ueg0ho7TMAHSkjNZlEi3fQVRwZ9IIjcVBEuRurpo2Ugva1jfrFoVmpMhAliwrRKCeAi/wDEJyfmKegxDdWaQjZ+UlHJHtnnJhBU445YlOB9thjXrD7Q2lznD4UtxKQ1rCff8XONkdkHZKozlRrDakzCXCuVJIHrdTltQeQOmY6Dulle7LrpvcKaTgC374S6rUaoJt3s2XCG21cPlOcH8w6boJepplKzMVZstqcaSEJODgKJ/wBikysAYo/C8uyBKK1Yv7QRErXUZgjPz6rXGjYKyMgDNtIeGN4DzbKWjT2vIkJv2hzYdIII64ZOSPfLNWg5MPDJoZW3S+fr10IAEgkj+9X4j1/eE+ppTfhzQCkkfqHpygggjzKSR1dkM3RoYOzO65+7a3rBBBAKcN2C/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Say Something (feat. Chris Stapleton)</div>
-                                    <div class="artist">Justin Timberlake</div>
+                                    <div class="name">#BrooklynBloodPop!
+Anstößiger Inhalt</div>
+                                    <div class="artist">SyKo</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -470,10 +464,17 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwcEBggF/8QAMRAAAQMDAwIDBAsAAAAAAAAAAQACAwQFEQYSIRMxIkHRBxRhcRUlM0NRY3OBkaHS/8QAGQEBAAMBAQAAAAAAAAAAAAAAAQIDBAAF/8QAIBEAAgIBBAMBAAAAAAAAAAAAAAEDEQIEBRIhE0FxMf/aAAwDAQACEQMRAD8A5XQlATgOFwpWNAyEg78KVrcjsnNb8E0S4kTQcoUwb3Qmh4mRbKKWsnDIoJZSfKNhcf6Vj6a05RCCQVtul63DgJYXE47HHCsCxt0PZ4aUUV/lZGXYkxFIQ3g89uecL2qzUmgY6qf6wu1RAyJrozE0Avd2c0BzeD55PHC0ePBLtkdNucmnbqJZfSt/oegaAHWmPP6B9Fq2orE0V0gobfUbGgfZwux2+XzVlW+5Ufumnrpd7vOyguFVVwztZEAYmM3dMgjkkkNzkLZIrpoF05MuoLjCOmzDtjn+LLt33Y8tqFHgvZpm3qWbClDivhy/VU01PVOiqIpYXNPLJGkH+CELo+pp/ZpdqJ4ut4uAlMzQSQ7xs8OXgBvHBIx3yMoQ416Z5q1T/cseypbaaaRnidOz4hw9FlzUsTy3pzVGAckPcDuH7BCFW0XoX3Rpga1zYgznaG7xtPmRlxASxU0LGNa+WpP4neP8oQihpGBXGmjOA+qwfzB6IQhSSCj/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EAC0QAAEDAwQABAUFAQAAAAAAAAECAwQABREGEiExB0FhcRMVIiOBFDJDUXKR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwECBAX/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIhERIxQf/aAAwDAQACEQMRAD8AwpZSm1R5GDvW4tB9gBTHsV13WuIy46ENpbG5ZVgY96wi2T8liJPYeX5egq9YbLMvjEm2RSUHYp0rV+0cgAfnNcpPKs6Trgy03i3uxS3GuMVbqR9QLopR6+upmuLbbSQE8bh0atzLEdOxBb7hbpa7k6r7b8dRKVD+hjj/AKKhvGlplqtP6me4gbuQ3nJ/PrV0kiuW0LCXvSv6u/eip7p9TuB5UVqi6AasesDRt4nssw0RlAtqLhUeE4Vjz6rRRXrfoBowrzvYlSfuGQUEowOkggd907moqGI6EIACQkCsD4s2f5jp4OAIWqK6l5KXHNiT5d9A8+fFY9cIffbhhoGvo8hDzsqOpcb4hSy+U8KxS68QtUquj6ktE/BTwkYqTUl5mfDMfEIx8cstrCin1yBisPcHApJ2g5pIw9Ic/DjyAtwKd2q2DgnHAorqNZOlbrx/Oz5/6opoXkKceHvlTo2JGecVzZpYKVIfCXN2Ulvgg+hoorOy0aPPvirpMw72udbLOpcB5IJbjpO1C+jwOs0oblGfIccUwplAONquD7UUUkHRLRUZksjT0+MVEPuPNLSjHYTnPP5ooopYVkpN8P/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Been There Done That (feat. Tove Styrke)</div>
-                                    <div class="artist">NOTD</div>
+                                    <div class="name">Easy Lover</div>
+                                    <div class="artist">Philip Bailey &amp; Phil Collins</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAQFBwgCAwYB/8QAMRAAAgAFAgMFBgcAAAAAAAAAAQIAAwQFERIhBiIxBxNBUWEUFUJigZEjJDJScbHx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgUABAYD/8QAHhEAAgICAwEBAAAAAAAAAAAAAQIAAwQREiExBRP/2gAMAwEAAhEDEQA/AEFG1lmogMuf34UZOgEavH4txCPiG8cP24GQRVpVTAWQypYJRfM5bHmIU26jly0wu7eccBb0a9dpdRKnI3siTOfI20J/hjrdZxUmUvnYotIDexWbZV1NJMuNsqeIZjhGdDMkqiOR02z0/gH0hy4Kv44gpp1PVoFrZH6gPiXz+8TgtZbptjM0SGCoukKqb49PTEV6qzJtHa9JW3L+Xq2GoL84OfD69Ip42W1jkER3nYVa07E7E0YUg6YIc5zjJ23ghoLDMW9IB6imRWWX2ZagVlMiMgmKe9GNOM5+0N1ALa99S6cP3G2zg0sGfL74F3AJHKM5zgt4bxWYKRkjMbZJKsG32hdZWXXjuanGX8XDCXO950vtSruF5QVC7dPtEee6KK48cV10pnkuaX8NUSZrcOcgs++22wEMdN2qWyTwW2lHF1QCUtMwzvjZg/7fTr/cRJI4lvFGa00VdOplrGLT+6OnWd/H6mKeLQ6MWPUafSvSyoIh99lip1K25J0wRBUvtG4lZpXeVyzWRwys8tduUrjAGCN87jrvBDIO0zRwQe5zhkzdBxKfA8dJjS0ibqwUcfQwQQREbMNzJqWby6kYZ81jNqKeFJZHwPlggicRBYdzykp3aoQaGPMPD1gggiahAT//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Torn</div>
+                                    <div class="artist">Natalie Imbruglia</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -484,10 +485,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwEBAAMAAAAAAAAAAAAAAAUGBwMCBAj/xAAzEAABAgUDAQQHCQAAAAAAAAABAgMABAUGERIhQQciMTJREyNhcaHB0RQVFiVScpGSsf/EABkBAAIDAQAAAAAAAAAAAAAAAAQFAQIDAP/EACYRAAICAQIEBwEAAAAAAAAAAAECAAMEESEFEjFhFBUiMkFCkeH/2gAMAwEAAhEDEQA/AEMn0huNiWQyqSt14hOCtayVE+efR5hfWOmFx0qUXOzjNsJQjOyUKydsYxpx7d+Y+i63V5GhypenXBrPgaScrWfID5naMSv+9fVrm6kSUrVpYlEHuA3xn/SYihHf1NsI7GFToWOwEg5i0axOtKaSzQWtYB1so0Ec+IDaOTXS2uuoSpL0hhR29ar+fD3RRNzd5sUVVedtB1NCQn0inl6kdjzyTnHt04jQbQr9NumhqepqShxvsuSyj2m1H4EeR5jrnVPbJoxsO88qneZXK9OK06yuRT9y6jkJeWTqJ79lacwRtGuUlylDaxrHiSlOSN+7PEEYmxviE+VUd5HaX5+aXMTbjrzq/E4s5PxicnFUuk9V7XfuhH5G3hxzWjUjOVYKhyArQT7I0lluXZGEgKPvhNeFsS10yCWJhRZeaJUy8kZKCe8Ecg+UFWZBbboJtmY5tpKp1l44zal91t6XeqVeumQnXifRsKcTTZLQnIBUjSnIzyVHJG0YjY0rLU/qZc8hb8yt2itFxttwKzrQHAE788jPI3js3Qb9kqD+HmbnYlqANQLbbhQNJOSDhOog57s4MM7dkZC1qeZSmOl6YcOp+YUnBWeABwBFVQ2bKIqwsO1bQ7jQCVr77Uk12QC7jsp+sETepbyipbwHJyYIIGKv23Mf809A9RqGhPZmVK9zKvmIWz3USSdyGZlaR+xX0ggiiMFOugiE8Su7RI9d0s8SXJxf9VfSPFF0SDaSftC1HyCDk/CCCDPFuBoAJQ8Ru7RNVbmXPgt6y1L/AKE53955ggggpOJ2INAo/P7FdjtY3MxOs//Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAcIBgQFA//EADAQAAEDAwMCAwgBBQAAAAAAAAECAwQABREGEiEHMRMiQQgUMlFhgZGhcRUjUmLh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMP7SduNx62t2+Of7s1qGznPAWryj9YqktSQGFMi2lAVGRHTG2fNGNuPxU39a3nI/tHsSNwXslW9xAB9AG+P1VG3q5sR764t9YDSCpaj8kpBOf1QSz0jjJ071sXZZiiCpyRbQo/5c7PyUgfeqSsrZbuq2j3IAH85FS9eb8mb1s/r9gZUUm4tSm0OnB8pTu3EdgSD9jTSsfUqNcdTXBu7zIUe1oYc3OYIWHB6Jwfh/JyO9A2YV4KL9IhPNte7ocS0HW1ZIUrOM+hGRjiil5Z9bsXzXyLbaMvwSGy5MDBaGUqBSnB57E9vTFFApdctS7z1zeegNvTHFzmVISgEnYjYCRx8I2nn6U79SCQ1Yr3drufCWIbyUoB+HckgffOKSsW+wHVOOxTLmXIbd0iNJXBcS1kDBwnCgCc4zTYsN8vtytSm7hbFhnYWz4yVO+IntyoDzcfSgnm2Keg6QulxbWW5br6Wd4ODsIO4A14lulISGvey4IjawQlpIKlKAPz9Of8AlUVZtK6dg6K1Rabow6t65FCoy3G9hjbOQErUBtyeT8/WsI1ouwMKbbXKchoUvAfeb8ULwRyMHGMnHHeg1XRe8TZXimfFZTEioSpLvJcKynCE57cJySe/KaK2eh9MwYOm4qYc5E1leXFPsDCXVk+Y8knPGPpjFFBsGdP2th4vRrdFQ7ncSEjv/HavhqNm8qjNGyJYD+/z+KMgox6cd80UUHgyWtWqcw0IYbKOykjO768dq74On3ZURwX6JGWrckt+FwAMDOcf7Z+1FFB3Qrci2NeFDZLTI7Iz5RzngdhRRRQf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">In My Mind (feat. Mi Manchi)</div>
-                                    <div class="artist">LVNDSCAPE</div>
+                                    <div class="name">California Gold (Triplet)</div>
+                                    <div class="artist">Kaaze &amp; KARRA</div>
                                 </div>
                             </div>
                         </div>
@@ -508,7 +509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2025, 05:26:58 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2025, 08:11:38 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
