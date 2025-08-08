@@ -449,26 +449,10 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EAC0QAAEDAwMCBgEEAwAAAAAAAAECAwQABREGEiExURMUIjJBYQczcYGCkaHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgMEAAb/xAAgEQACAgICAgMAAAAAAAAAAAAAAQIREiEDMQQyExRR/9oADAMBAAIRAxEAPwB0eLnGx0IB49ueaqzJLkdpRbWl+RtUpuNkJU7j4Gf37VYkqALSc4UpXFc61za58SxSZkqVGfWqTtjuPKAkJAAJ8MjGOfgZr0Xkc3xK6Ns5YqzYk6+iRp8ZgxXylf65PpWwrsUHk/xTBbLgzcJEjy7iHGto9vP1SjYoFn1VpR+M2oruDiR4z743utvAD1cnIBx8HBpbfsl30xcGPLvreJUA2Wc5Uo5PtPWs75+WFSe0/wABnJb7R2ZPUjtRWZYIs9hnfcpIddcbRlsJ4QsA7sH74+uKK3wlkraoqhe/Jd0nWWFCnwWEuJbcKVrVnCM4xkDvjFJtyteodR320C8vRmUzUK8FxghSUoA3EgA9ee/Ndenw2Z8F+JKQFsPIKFAj4P8A2k3TTceDemdOssyJwtalPebc9PgbkjAHcHJGBgds81k8jiymsumSnG3vohI/HbcItSdN3GTCntD3uK3JcP32/wBj6r1c1BPt14gQrzGUuY60nHlUb0qUVYOPkU8iolCC4lwoSVpGArHIHbNW+ul6Oh4V66JiiiirjFfU51QJ7Q0+hkxNg3lezIVk5689MVuQrfHhOynWEEOyXPFeWo5KldByfgDgDoKKKCjUmwx2y1RRRTEV2nJZnLbcipRGA9LocyVf1xx/miiihbOP/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAAAAECAwcEBggF/8QAMRAAAQMDAwIDBAsAAAAAAAAAAQACAwQFEQYSIRMxIkHRBxRhcRUlM0NRY3OBkaHS/8QAGQEBAAMBAQAAAAAAAAAAAAAAAQIDBAAF/8QAIBEAAgIBBAMBAAAAAAAAAAAAAAEDEQIEBRIhE0FxMf/aAAwDAQACEQMRAD8A5XQlATgOFwpWNAyEg78KVrcjsnNb8E0S4kTQcoUwb3Qmh4mRbKKWsnDIoJZSfKNhcf6Vj6a05RCCQVtul63DgJYXE47HHCsCxt0PZ4aUUV/lZGXYkxFIQ3g89uecL2qzUmgY6qf6wu1RAyJrozE0Avd2c0BzeD55PHC0ePBLtkdNucmnbqJZfSt/oegaAHWmPP6B9Fq2orE0V0gobfUbGgfZwux2+XzVlW+5Ufumnrpd7vOyguFVVwztZEAYmM3dMgjkkkNzkLZIrpoF05MuoLjCOmzDtjn+LLt33Y8tqFHgvZpm3qWbClDivhy/VU01PVOiqIpYXNPLJGkH+CELo+pp/ZpdqJ4ut4uAlMzQSQ7xs8OXgBvHBIx3yMoQ416Z5q1T/cseypbaaaRnidOz4hw9FlzUsTy3pzVGAckPcDuH7BCFW0XoX3Rpga1zYgznaG7xtPmRlxASxU0LGNa+WpP4neP8oQihpGBXGmjOA+qwfzB6IQhSSCj/2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">High
-Anstößiger Inhalt</div>
-                                    <div class="artist">The Chainsmokers</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAYHBQT/xAAwEAACAQMDAQYFAwUAAAAAAAABAgMEBREAEiEGBxMUMUFRCCJxgbFhkcEVIzJSkv/EABkBAAMBAQEAAAAAAAAAAAAAAAMEBQEAAv/EACIRAAICAgEEAwEAAAAAAAAAAAECAAMRIQQSMVHRBSIy4f/aAAwDAQACEQMRAD8Ae+1a7RWq8xxyMFaohTH2bH5Oox1tb63qirp6JatKRUPyPIrbD7jcBjOm74ppmp77bnRip8HjP+p35U/uNa1rsVFeqG29QTXOrNJLDHLHRqwWPO0fLtAyefc6WYbzKFH5xiS7+jS9FXzIrISDtZp5zsRT7AZyx+41qdZVcVDeunr9DME8Xtk3IpALqTuGDyOP40/VV3s1zq2Q0DVXdICxlh2gFeOCdTjtqroLva7AaOExJFUOEA9QVzx/zrkOTuGsTC5l6p+oPH00E9Ll45Y1cNj3GjSf2NsanoCjkYgmGV4ftww/OjRwxMmWDpbEzviipBUXWHLAKtEoY5/x+djz9tTboDq+qs8ENh6nWpokVUNHOBtKq3l5gj14OPrqido1TPeOhIEralqi4wCemmc8lsEsu77FRqN9p7SUklqR2D97BE6nPKlP4O7QFcMceZUfjmmsOD29yx11LSyQGWZqGaBx/cqHbvJZV9QMk4P0xpGuc0N86kvFqelVlo6dhTFgQVkCk7lwcDgAevH11kTPQweGuMtXCioVcqXGdw58s86dY7bS0HVluusDhaKek+eQnJ3qQOR7FSvOvJ+u4xXizAPf+Ry7FKdqboU5kDxSTLJ5YCnYMj8c6NJV1o7zFT2i22+5Na6Yd9VVE0a5CIqoqtwfLBPHrjRoiNrcTv4pLkqNTn7Rb3SSVdzrrbUsbfUTyvDt85V3EE/TIOP00qXB4rxdenpqWBh4Z2BMnIY7Ay+fsVx+2jRpfsxldQGqAPgGcVV07b+p2lnssMq3CMlqmFHyZj67QfJs5wBwc/py0p1JX2qC2WyudxF3Cq1O4PyAqAUORngaNGsckjpM3iqqubANn3N7tDvUI7N6uqtiqI3p46VmwdysWAI+mNGjRprijKbkr5Q9N5An/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">#BrooklynBloodPop!
-Anstößiger Inhalt</div>
-                                    <div class="artist">SyKo</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBCP/EAC8QAAEDAgUDAgQHAQAAAAAAAAECAwQFEQAGEiExBxNBIlEyYXGBFBUWQpGSwaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMABQT/xAAgEQADAAICAQUAAAAAAAAAAAAAAQIDERIhUQQUIjFh/9oADAMBAAIRAxEAPwD0Qoq1qF1cnzhLmDMkChBsTn191w2bZb9S1fa/HzOIvUPv/pucYr62FpVqLiFFJAv7jx/mMRpVGmZ4rjcSAHHVBI1SSr0oFwFLUfG2wHJxzMWJ32e2Ma48mzSnOosuW1IcpFFkvNNK095x4JT999j55O2HOS8ySq5DK5iG2XQSLNOakn6EE3/zDeLlSinLispxA6WWEjvSGzpKXDuTqG2o823AHPjGVv5cm9NMwtvO1BK6dMd7SFK2AFiRqvte/keMXrHx7DDm+kbChxfdQNSviH7j74MK8v1AVGOw9YatYBsbjnBikdoNTp6O5yhrqeX6pEZGp11tQQL2ueRhd0XgNQcgNwoym4lTDy/xpWn1g6zY/wBbWPGFlc6oZQo1Wl0+o1lDMyMspeb7LqtB53ISR598UzMrtPq1FiSqdKdq9OlLUtl3SUuotcH1EDUNlbEA7c8YTDuftAmFkXFM1N/M1Fj1JigRagxFpyUkPSg/6lOE/CFX2JJJKiedvN8c6utxX8kvMzlsvSy4FQ7C6ir3/re54xg/5JHflmK2uUuKpJugAFxSrjbYkAW8k2+WL1RsvuyigS2248RsBCGtWtaU+bnjUbc22HFsWbbWh16f5L8LH01Us0hpS0pSNSBZIsL2F7YMOoPaj9pplIS2lQsPvgw8xpFL7ZkFayxmml5x6iKYyjUatDriktMOsrShC0aSFE+rgBRIBBBIFxi/9JckVKm9MaLFrLb0SYy2sOxlNhSkHuqI4PsQcGDBaT6OZNuXtDuRlp5p4Jjw5DyCAdaW0IF/oTf/AJiXEy/Icbu8JUcg2CC0Dt77HBgxlKQ/uMnklKy2+zKjpDrziVKuVJQNKLb773/gHBgwYJnmvyf/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Searching for You (feat. Karra &amp; Eric Zayne)</div>
-                                    <div class="artist">Unlike Pluto</div>
+                                    <div class="name">Been There Done That (feat. Tove Styrke)</div>
+                                    <div class="artist">NOTD</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -479,11 +463,17 @@ Anstößiger Inhalt</div>
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAUHAgQIAwb/xAAoEAACAQMDAwUBAAMAAAAAAAABAgMABBEFEiETIjEGFEFRcWEjgZH/xAAaAQADAQADAAAAAAAAAAAAAAACBQYEAAED/8QAIxEAAQMDBAIDAAAAAAAAAAAAAQACEQMFIQQSEzEGFkGR4f/aAAwDAQACEQMRAD8A5jfx5OaxOceDQ1dARY9uh4xsHx/K8K9fhjEym1qtZuBcA6Nqix0m0b1HDp0WomSzkaPdeLbOdisoLHpjuO3J8eduaUOArsEbcuTg4xkfdWlkRYZYAwJaQYYqA6liTuz8/nnimmr6clpaTxyRwsxtyyuFB3ArkHxWc65shsdpj62cjk+J6/VBUPIorFfIorepg4XrKuWCscAeM/FXvTXkENq8Nqbt+mGEIwN3bn5IxUGkGSatOn6lbrZWu24iWRY153jIOBWDXh20be1T+OOAFUTBIWrqlrrPuuudJ6MEpV1RZkPBJUY5+z80xSZrqxmDxSxMqtGRJjyBg4IJBH9FaGmerZJfUUdxe2NxIoiksn6ceI9m7KvuPGeAf1fo0zkniVXVX3qAQGIAyPsgcClzBXLgKrfpNLZqXuFTkdgCFCng6bEFgSKKzY7z80VQKFPa+ma10qbR7I77a2uYw/Wcyu7y5bt7AMDA+jSbU7SyibNnd+4y3K9EoAMfZPP/AAUUUAKMnGMJjb+oLmH0ffaGJJQl1cQynu7SiKw2kfuw/wCqQbc8UUUaCSmK2VuLNpfexGUBf8O1txJ8jOMcftFFFcXS/9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAcIBgQFA//EADAQAAEDAwMCAwgBBQAAAAAAAAECAwQABREGEiEHMRMiQQgUMlFhgZGhcRUjUmLh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMP7SduNx62t2+Of7s1qGznPAWryj9YqktSQGFMi2lAVGRHTG2fNGNuPxU39a3nI/tHsSNwXslW9xAB9AG+P1VG3q5sR764t9YDSCpaj8kpBOf1QSz0jjJ071sXZZiiCpyRbQo/5c7PyUgfeqSsrZbuq2j3IAH85FS9eb8mb1s/r9gZUUm4tSm0OnB8pTu3EdgSD9jTSsfUqNcdTXBu7zIUe1oYc3OYIWHB6Jwfh/JyO9A2YV4KL9IhPNte7ocS0HW1ZIUrOM+hGRjiil5Z9bsXzXyLbaMvwSGy5MDBaGUqBSnB57E9vTFFApdctS7z1zeegNvTHFzmVISgEnYjYCRx8I2nn6U79SCQ1Yr3drufCWIbyUoB+HckgffOKSsW+wHVOOxTLmXIbd0iNJXBcS1kDBwnCgCc4zTYsN8vtytSm7hbFhnYWz4yVO+IntyoDzcfSgnm2Keg6QulxbWW5br6Wd4ODsIO4A14lulISGvey4IjawQlpIKlKAPz9Of8AlUVZtK6dg6K1Rabow6t65FCoy3G9hjbOQErUBtyeT8/WsI1ouwMKbbXKchoUvAfeb8ULwRyMHGMnHHeg1XRe8TZXimfFZTEioSpLvJcKynCE57cJySe/KaK2eh9MwYOm4qYc5E1leXFPsDCXVk+Y8knPGPpjFFBsGdP2th4vRrdFQ7ncSEjv/HavhqNm8qjNGyJYD+/z+KMgox6cd80UUHgyWtWqcw0IYbKOykjO768dq74On3ZURwX6JGWrckt+FwAMDOcf7Z+1FFB3Qrci2NeFDZLTI7Iz5RzngdhRRRQf/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">LA LA LAND (feat. Delaney Jane)
-Anstößiger Inhalt</div>
-                                    <div class="artist">DVBBS &amp; Shaun Frank</div>
+                                    <div class="name">California Gold (Triplet)</div>
+                                    <div class="artist">Kaaze &amp; KARRA</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EAC0QAAEDAwQABAUFAQAAAAAAAAECAwQABREGEiExB0FhcRMVIiOBFDJDUXKR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwECBAX/xAAbEQACAgMBAAAAAAAAAAAAAAAAAQIhERIxQf/aAAwDAQACEQMRAD8AwpZSm1R5GDvW4tB9gBTHsV13WuIy46ENpbG5ZVgY96wi2T8liJPYeX5egq9YbLMvjEm2RSUHYp0rV+0cgAfnNcpPKs6Trgy03i3uxS3GuMVbqR9QLopR6+upmuLbbSQE8bh0atzLEdOxBb7hbpa7k6r7b8dRKVD+hjj/AKKhvGlplqtP6me4gbuQ3nJ/PrV0kiuW0LCXvSv6u/eip7p9TuB5UVqi6AasesDRt4nssw0RlAtqLhUeE4Vjz6rRRXrfoBowrzvYlSfuGQUEowOkggd907moqGI6EIACQkCsD4s2f5jp4OAIWqK6l5KXHNiT5d9A8+fFY9cIffbhhoGvo8hDzsqOpcb4hSy+U8KxS68QtUquj6ktE/BTwkYqTUl5mfDMfEIx8cstrCin1yBisPcHApJ2g5pIw9Ic/DjyAtwKd2q2DgnHAorqNZOlbrx/Oz5/6opoXkKceHvlTo2JGecVzZpYKVIfCXN2Ulvgg+hoorOy0aPPvirpMw72udbLOpcB5IJbjpO1C+jwOs0oblGfIccUwplAONquD7UUUkHRLRUZksjT0+MVEPuPNLSjHYTnPP5ooopYVkpN8P/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Easy Lover</div>
+                                    <div class="artist">Philip Bailey &amp; Phil Collins</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -492,6 +482,14 @@ Anstößiger Inhalt</div>
                                     <div class="name">Leave (feat. Luma)
 Anstößiger Inhalt</div>
                                     <div class="artist">Dion Timmer</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYCBAUHA//EAC0QAAEDAwMCBgEEAwAAAAAAAAECAwQABREGEiExURMUIjJBYQczcYGCkaHB/8QAGAEBAQEBAQAAAAAAAAAAAAAAAgMEAAb/xAAgEQACAgICAgMAAAAAAAAAAAAAAQIREiEDMQQyExRR/9oADAMBAAIRAxEAPwB0eLnGx0IB49ueaqzJLkdpRbWl+RtUpuNkJU7j4Gf37VYkqALSc4UpXFc61za58SxSZkqVGfWqTtjuPKAkJAAJ8MjGOfgZr0Xkc3xK6Ns5YqzYk6+iRp8ZgxXylf65PpWwrsUHk/xTBbLgzcJEjy7iHGto9vP1SjYoFn1VpR+M2oruDiR4z743utvAD1cnIBx8HBpbfsl30xcGPLvreJUA2Wc5Uo5PtPWs75+WFSe0/wABnJb7R2ZPUjtRWZYIs9hnfcpIddcbRlsJ4QsA7sH74+uKK3wlkraoqhe/Jd0nWWFCnwWEuJbcKVrVnCM4xkDvjFJtyteodR320C8vRmUzUK8FxghSUoA3EgA9ee/Ndenw2Z8F+JKQFsPIKFAj4P8A2k3TTceDemdOssyJwtalPebc9PgbkjAHcHJGBgds81k8jiymsumSnG3vohI/HbcItSdN3GTCntD3uK3JcP32/wBj6r1c1BPt14gQrzGUuY60nHlUb0qUVYOPkU8iolCC4lwoSVpGArHIHbNW+ul6Oh4V66JiiiirjFfU51QJ7Q0+hkxNg3lezIVk5689MVuQrfHhOynWEEOyXPFeWo5KldByfgDgDoKKKCjUmwx2y1RRRTEV2nJZnLbcipRGA9LocyVf1xx/miiihbOP/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">High
+Anstößiger Inhalt</div>
+                                    <div class="artist">The Chainsmokers</div>
                                 </div>
                             </div>
                         </div>
@@ -512,7 +510,7 @@ Anstößiger Inhalt</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Aug 2025, 10:08:04 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2025, 11:33:36 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
