@@ -449,10 +449,24 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAYHCAME/8QALRAAAQMDAgQFBAMBAAAAAAAAAQIDBAAFEQYhEhMxUQcVQXGBFCJhsSMyQpH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUB/8QAHxEAAgICAwEBAQAAAAAAAAAAAQIAEQMEEiExIlFB/9oADAMBAAIRAxEAPwCpoUhtJUtQSkDJJ2AFcLLqax3OWuNb7tCkvozxNtugnbr7/FQ3xz1kvPk0CU4lttIEppvbmFXoT2x6dzUq0/b7sq4qXbob622yFjCSOEdQd6kSAOzOWSfkXNYp8UdOLdugYeckMW8AuOsp4go8QSrA7An+3TrinJMxt+Oh1hxLjawFJWk5BHuKw9OuH0V3uTcR92JDkAgpb2yknJGPUZ9KcfC/VLsV+Pb7TdpDElauHlSE5ZX2xucH4xU2Zk7qxLIA4AujNVuyNuu9FLel7x5vCWpxTKnmlFDnLVkZHWiqo6sLEmylTRmWdHJ831UqVc3w6oniWVDOVfNWHUut9NWKGlU21ypEgABDrCuWhSuHAA2x0/52PSoloAtfUvLUVbVW7ZYrfd4rjEqMh1C0HZe+D396zNnKFy0/k09TATh5IaMmM+5aZ1DI4m7VcGJDzp5jq5YVsUKCQARgYUUH88J74HWXBhSEBjSmn58S6B1Jaf8Ar+bxIA+7KSAAc/GKUJqHLTc5kNIAUy6QDjJ2O1NWmWrnd0httxUckbupOD8U7I5Qch5A40DkqQS0YfCRtyRqcpemyWm0/a4lDxSSr1O3X9UV7vCyxW9E6U2LwsXCK8RwYASofs0UPIW5fJ6jMWNeP0O5MtMzWYUw87LaFjrjoaqWk76vzkctaVsrb/yoYyPfpRRSNrXRrY+wmrt5EIQeRScZss/Us1x1uet1bhz/ACNkcWfwOmKebM1Et8QBASHPWiis/bJsLNbTUcC39iOzMt1r1q69FdWVHO2ftCjRRRSWxBgCfyGRypIH7P/Z" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAcD/8QAMBAAAQMCBAMGBQUAAAAAAAAAAQIDBAARBQYSIRMxURQiI0FhgQcycZHRFVKCocH/xAAaAQACAgMAAAAAAAAAAAAAAAABBAIFAAMG/8QAIxEAAgIBAwQDAQAAAAAAAAAAAQIAAxEEISISMUFxEzJh8P/aAAwDAQACEQMRAD8A403HG3nWpEZNrnamGS8t4jmjtq4suLFYhpQp52QvSLKNtgBcmwJt0FOUZLluYZE4igH5MplgvAkoZSUFa9Y8iEqb2P7TU+rEbQqewkdIcQ0CLgj61jdcW4ju2sKeRMsyJ2Ntwo6lhDyylt15ooBQLnXbppF7VZQ/h5hrL6kScau9xGUpUiOdKdZURchW3hp1newHtcG3wJvXTMx57CczZjbguqIPSiqjF8sCJGTNTKCo0iSWo5WkhbrYSFaym50jvJFvO/pRQwTCKlP1GRJ6NDlMLsy8tN/Npy19/T1qwyZiGIYRjC5apj7Tr1+IXAVh25udQuCd97ggg7ipSLiKULHccPuB/lP4mLzXCjQlJtskKQDt9aStaw7RzSrSnJTk+p0WNhzmJyJC0NK8dGhTjZKjY/NupRVvy58tq8MYypiGmOmU7JlQo+kJaccKU6BbugXsNtr9KxQcUzLDgiU0220wOSw2SgUYz8VMfegJhvdgKQLFwM2Uf7qvHzFuJAlk9gI5DI/YhzGJjk1nhoEeFHTw2WU94IF7k3tYknoAOQAAAopFMzRMcBSp0H+I/FFPqL8bkRQWaJNgSP73JZplYV4qg1bnq5/b80/wh+G1pV2ppDqVgXkpUoAdQkAg+9FFOdIPec4tjL2MpznGSqKpn9WbUjVwyiyvlv8AMLi1vSpDGXmFrChIZcWrnwAoAfUEAfaiigEUeJNr7DtmKC0txVmCHVHkkbK+3n7XooorCJDqJn//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Good Life</div>
-                                    <div class="artist">FAST BOY</div>
+                                    <div class="name">Inside the Lines (feat. Casso)</div>
+                                    <div class="artist">Mike Perry</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUEBgcBCP/EAC8QAAEDAgUDAgQHAQAAAAAAAAECAwQFEQAGEiExBxNBIlEyYXGBFBUWQpGSwaH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMABQT/xAAgEQADAAICAQUAAAAAAAAAAAAAAQIDERIhUQQUIjFh/9oADAMBAAIRAxEAPwD0Qoq1qF1cnzhLmDMkChBsTn191w2bZb9S1fa/HzOIvUPv/pucYr62FpVqLiFFJAv7jx/mMRpVGmZ4rjcSAHHVBI1SSr0oFwFLUfG2wHJxzMWJ32e2Ma48mzSnOosuW1IcpFFkvNNK095x4JT999j55O2HOS8ySq5DK5iG2XQSLNOakn6EE3/zDeLlSinLispxA6WWEjvSGzpKXDuTqG2o823AHPjGVv5cm9NMwtvO1BK6dMd7SFK2AFiRqvte/keMXrHx7DDm+kbChxfdQNSviH7j74MK8v1AVGOw9YatYBsbjnBikdoNTp6O5yhrqeX6pEZGp11tQQL2ueRhd0XgNQcgNwoym4lTDy/xpWn1g6zY/wBbWPGFlc6oZQo1Wl0+o1lDMyMspeb7LqtB53ISR598UzMrtPq1FiSqdKdq9OlLUtl3SUuotcH1EDUNlbEA7c8YTDuftAmFkXFM1N/M1Fj1JigRagxFpyUkPSg/6lOE/CFX2JJJKiedvN8c6utxX8kvMzlsvSy4FQ7C6ir3/re54xg/5JHflmK2uUuKpJugAFxSrjbYkAW8k2+WL1RsvuyigS2248RsBCGtWtaU+bnjUbc22HFsWbbWh16f5L8LH01Us0hpS0pSNSBZIsL2F7YMOoPaj9pplIS2lQsPvgw8xpFL7ZkFayxmml5x6iKYyjUatDriktMOsrShC0aSFE+rgBRIBBBIFxi/9JckVKm9MaLFrLb0SYy2sOxlNhSkHuqI4PsQcGDBaT6OZNuXtDuRlp5p4Jjw5DyCAdaW0IF/oTf/AJiXEy/Icbu8JUcg2CC0Dt77HBgxlKQ/uMnklKy2+zKjpDrziVKuVJQNKLb773/gHBgwYJnmvyf/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Searching for You (feat. Karra &amp; Eric Zayne)</div>
+                                    <div class="artist">Unlike Pluto</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAj/xAAvEAABAwMEAQMDAQkAAAAAAAABAgMEAAURBhIhMUETUXEHImEUI0KBkZKhsdHh/8QAGQEAAgMBAAAAAAAAAAAAAAAABQYBAgME/8QAJxEAAQQBAwMDBQAAAAAAAAAAAQIDBBEABRIhEzFBFEJxYYGRoeH/2gAMAwEAAhEDEQA/AEq7aOesURqVa7o3PsEk/Y4HASk98EefxThpnXNi01pRcCFaXF3Yg+u6+E7CvnB7zgZ6x71Vkq7NuNlceOlln087iM7PcnA5+cZrif1RaC2U7pBcVncoNjB/v80HW2XSaTwe+PrDbEdgMy3t1cjxf7z0VdLrZb59Kn5X69SJLMdLchDqhvLgx4/J9uOaoMpcDzCjnCEleFAZSonggEdjjuodvUlsStKyHlKAwSpPP+a2x9TW4PJeU7I9VKuApAOQfiqNQvTk9JNXkNuwQgtqcCgT2vGO7xZ6JVuRPjBbTzSFB1xHqKSnnknPf8OB4orBrUEluA8lkslSnNwdcbClAEZBGesg9UVADw44wVO0eOt3dt3X9a+2QjDDdtZkxZu79kCHEEYGPI7qCMnTYe+6E+UecKP+6srVjcCTcZb8f1FGUorUl5zIbB4xn2+eqUk2K2PSggRs8blH7k8e+M12rAjuKQu7GEui5NjtOMBNEe4c5CKe0uTkR5KRnr8f1VpL+nkqGyM+rnyf+04Q9CNXGDIlQLetbLGVLIcOE45IJrjaslpaSQ7BUlXJSoqVkceR0RVPUtKJAJv5zM6bKuilv8fzNj63nkx40P0mw8lPLiggAAcZPvRUpAgrlOqUw5FWuKcIbUSndxx8fBGKK0ajulNoRY+RgbVdTiiSpC5QQU8UUnM7XbHLzdHmbi4lt1SNrYQMpQcjyD7GmWVoGfDfS2y6iWgrRvfRkbFK8HPQwfGaKKVtV1GQiT3uxeNSECJtba4AHbLa+nlvEG2llpajG8NOAE5/eXuHeTVS/VRtKNdShG3s5SCSRjcSnnAPfk5oooLoril6g4pR8ZnEUTLUD5xVuVoZW2i5WuU/FcV9pJxu3ADIUM8gno/zooop2ZeWARfbOh3RYMpXVebBUfOf/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Shivers</div>
+                                    <div class="artist">Ed Sheeran</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -463,17 +477,10 @@
                                 </div>
                             </div>
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcDBAYFCP/EAC8QAAIBAwMCAggHAAAAAAAAAAECAwAEBRESIQYxQWEHExUiI3GBsSQyNlFzkcL/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQFAf/EABsRAAIDAQEBAAAAAAAAAAAAAAABAhEhMRJB/9oADAMBAAIRAxEAPwDCmFVxdvcc73kdDz4ACmPgsruxdpDLKERYxq5bQafOsI0J9i2inuJn+wq9gsJeZyC5xlqSjbGlLsfdHIAH11rKTtaaTzgy1zGPltWjtsjavKo94GUUo+vsqb2V441I28bh2NW7zBHp20GPyGPu3yUraxz25JVvIaHT+xUOY6WvMViTc38iDdyIwdT9fOjVLQbbVCwu96ud33oqfJ+9JoPCiqovBDWj1sOjcxfwQ2aWzBo2MhY8Lo2njWitZsf0BGbLM74Lq5+IbgoSmg/KoIHfvxTuitkht0SMAALp2rA+lnD+0envWARu9rKsyrI5RT4d+wPPjxUfmlo/364YbH9fW9wkst1bs9t6wrDOV4bSl16QuqWyk7LEx9SvCipepMzeGI2/4M22nMMbBivnqABWGv5AynaKZGC6C5/Dj3IeQNLtbYOCdOAaK6kP6Vyn88P+qKfDbFzjw98tINgHjpXNvTAUZJwsgbVTHwQfI0UVMwo4effSt0mbPNvfYzDs9hMoJjt1O1H7HgdqUOSt5/iSNA0Ka6bW4Pyooo4PDrRUhuYR09kLYsRcSTROqfuF115+tFFFOhlgyfD/2Q==" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYBAwUHCAT/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMRAAQFBhIhEzEUQVFhcYEHQhYjof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHREAAgMBAQADAAAAAAAAAAAAAAECAxEhEgQTMf/aAAwDAQACEQMRAD8A5VoqTTBpzTOdyiE3+IsVusMuCXtyAlKhB/YgUJSUVr4FLXiMarE3yWt5tnRI3AFBkp9e0RPHzXgroxVhZs2wxDDtrc3j7/i02bghxl3bO4Oh7plXG70niK01qbSWo8Uy5k81j3Grdx4pL4UhSSsk8SkketTUfJVjx8GTr8ixNFRRVQok96ZNFX1wxmbVptTim95KmwCQpMGQQPKJn2pbpj0UXfF3TdpPj3mSzbiO5UYI9uJ5pVyTg9N1vJI2Jhfx/a394y6nV2Na3J4bWVhQX2CN0RP3SZ+Tbm8Z1Nk8bcr2pafI6aQQhMRwme49D5jmrWdNap67lg3iL5TwBKkpRIgCSZmIj3rCawv7rI5ND2QjxSGkMrM8nYNoJ9+Kjog/sTlJMfZJeecMBRRRXRJS9kW5SrrLdCvLYkEf6autnk290hy2W4NvIURBB+jRRQktWBX6Nv8AL8klklu7eQ7t2laVQqPkUpvuNvuOLuHHeoTIhIM/JJoopFNcYN4hk5OS6Uvptwn+lbqlT+6AOPomiiiqBR//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Easy Lover</div>
-                                    <div class="artist">Philip Bailey &amp; Phil Collins</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAcEBQYCAwj/xAAuEAABAwMCBAQFBQAAAAAAAAABAgMEAAURBiEHEjFREyJBYRQjMjORQnGBocH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwIEBf/EABwRAAMBAQADAQAAAAAAAAAAAAABEQIDBBIhMf/aAAwDAQACEQMRAD8Atta8QHtIa/t9vlsqkWqbFCiltr5jTnORlJ/VkYynrtt13ZlpmRbjDbkw3kPMLGUqT+D+xztjvVLxL4bM6utKJEcoZu8VJMd1SOdKx1La0kgKSf6O9JjhpqS4v3t21KjuMPNsrZfSlQUtKlYBCcnOc5OFE9h7u9ozVz1ummz0cgIcQFIIUlQyCDkEVxcZ2pZcH35ydHwLJNanPyIV2XHQ4SWlGM25ygrCt8JJ+nskCmnZAbpDkzGXWnIxkutseHn7aFcm59TzJV/GKknVQLsl+/KV7iMUVPkxHEk+WijSwtqGqj8paA2rEa74WaY1okuz4nw1wx5ZsU+G6D6ZI67771fW+4gbKO1TROSHUjYoPr2pNpn9OGs6YpJ2grjIvtos07U18nxGB82StSEZbA+ypKU+bIz5lE7+9OC32+NbIUeHb2W2IrCA220gYShI9AKVmp7FI1bxbabj3mfBZtECJNCWV4QHTIV1T0JLaVjf2pryX0R2+oKz0H+0X8Qpv3aSR0yggNkkCiqqZNyMZoqPsXsePqGdafUDsaltyz3oopVNneMsz79rku3y5zkXF5j4pMPwy0rlUjwFLUUnH1JVzbg9z7VoXJylZ3P5ooo1is8MJ2ER2Qo0UUVGllYUP//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">telepatía</div>
-                                    <div class="artist">Kali Uchis</div>
+                                    <div class="name">The Motto</div>
+                                    <div class="artist">Tiësto &amp; Ava Max</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -481,13 +488,6 @@
                                 <div class="infos">
                                     <div class="name">Fast Lane</div>
                                     <div class="artist">Palm Trees, Mdl &amp; Abi F Jones</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYBAwUHCAT/xAAqEAABAwMDAgYCAwAAAAAAAAABAgMRAAQFBhIhEzEUQVFhcYEHQhYjof/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHREAAgMBAQADAAAAAAAAAAAAAAECAxEhEgQTMf/aAAwDAQACEQMRAD8A5VoqTTBpzTOdyiE3+IsVusMuCXtyAlKhB/YgUJSUVr4FLXiMarE3yWt5tnRI3AFBkp9e0RPHzXgroxVhZs2wxDDtrc3j7/i02bnDjLu2dwdD3TKpG70niK01qbSWo8Uy5k81j3Grdx4pL4UhSSsk8SkketTUfJVjx8GTr8ixNFRRVQok96ZNFX1wxmbVptTim95KmwCQpMGQQPKJn2pbpj0UXfF3TdpPj3mSzbiO5UYI9uJ5pVyTg9N1vJI2Jhfx/a396y6nV2Na3J4bWVhQX2CN0RP3SZ+Tbm8Z1Nk8bcr2pafI6aQQhMRwme49D5jmrGdNapL7lg3iL5TwBKkpTIgCSZ7RHvWG1hf3WRyaHshHikNIZWZ5OwbQT78VHRB/ZrkmPskvPFgv0UUV0SUvZFuUq6y3Qry2JBH+mrrZ5NvdIctnHBt5CiIIP0aKKElqwK/Rt/l+SSyS3dvId27StKoVHyKU33G33HF3DjvUJkQkGfkk0UUimuMG/KGTk5LpS+m3Cf6VuqVP7oA4+iaKKKoFH//Z" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">The Motto</div>
-                                    <div class="artist">Tiësto &amp; Ava Max</div>
                                 </div>
                             </div>
                         </div>
@@ -508,7 +508,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2025, 14:31:12 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Aug 2025, 15:25:37 (timezone Asia/Bishkek) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
